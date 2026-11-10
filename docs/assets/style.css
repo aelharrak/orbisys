@@ -249,12 +249,6 @@ dialog.viewer button { background: rgba(20, 26, 40, .9); color: #fff; border: 1p
 }
 #lang-menu .lang-option:hover, #lang-menu .lang-option.is-active { background: var(--card-2); }
 #lang-menu .lang-option[aria-selected="true"] { background: var(--accent-soft); }
-#lang-notice {
-  position: relative; background: color-mix(in srgb, var(--warn) 14%, var(--bg)); color: var(--fg);
-  border-bottom: 1px solid color-mix(in srgb, var(--warn) 45%, transparent);
-  padding: 10px 52px 10px 20px; font-size: 14.5px; text-align: center;
-}
-.lang-notice-close { position: absolute; inset-inline-end: 12px; top: 50%; transform: translateY(-50%); background: transparent; border: 0; color: inherit; font-size: 16px; cursor: pointer; padding: 6px 10px; }
 
 /* ---- Écriture de droite à gauche (arabe) : propriétés logiques et code toujours en LTR ---- */
 [dir="rtl"] .nav { margin-left: 0; margin-right: auto; }

@@ -13,8 +13,7 @@ dans le HTML.
 | `ja.js`, `ko.js`, `zh.js` | 日本語, 한국어, 中文 |
 | `ar.js` | العربية (écriture de droite à gauche : le navigateur gère le sens et la jonction des lettres) |
 
-Format : un objet `clé française → traduction`, plus deux clés spéciales,
-`__notice__` (bandeau « page partiellement traduite ») et `__close__`.
+Format : un objet `clé française → traduction` pour les textes du site.
 
 ## Corriger ou compléter une traduction
 

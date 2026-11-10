@@ -250,8 +250,6 @@ window.UM_T=window.UM_T||{};window.UM_T["en"]={
 "Affiner les règles du scan des comportements anormaux à partir des faux positifs rencontrés.": "Refine the abnormal behaviour scan rules based on the false positives encountered.",
 "Votre Linux,": "Your Linux,",
 "sous contrôle.": "under control.",
-"__notice__": "This page is only partly translated: untranslated parts are shown in English, or in French when no English exists. Translations are welcome.",
-"__close__": "Close",
 "OrbiSys — Votre Linux, sous contrôle": "OrbiSys — Your Linux, under control",
 "Guide utilisateur — OrbiSys": "User guide — OrbiSys",
 "Documentation développeurs — OrbiSys": "Developer documentation — OrbiSys",

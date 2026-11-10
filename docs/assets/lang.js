@@ -133,16 +133,12 @@
 
   function apply(code) {
     var lang = find(code) || find(SOURCE);
-    var stats = { total: 0, own: 0 };
     items.forEach(function (item) {
       var hit = lookup(lang.code, item.key);
-      stats.total++;
-      if (hit.level === lang.code || lang.code === SOURCE) stats.own++;
       if (hit.level === SOURCE) item.restore(); else item.set(hit.text);
     });
     document.documentElement.lang = lang.code;
     document.documentElement.dir = lang.rtl ? "rtl" : "ltr";
-    notice(lang, stats);
     markCurrent(lang.code);
   }
 
@@ -169,28 +165,6 @@
         item.restore = function () { item.el.textContent = text; };
       }
     });
-  }
-
-  // Bandeau « traduction partielle » (langues autres que le français).
-  function notice(lang, stats) {
-    var old = document.getElementById("lang-notice");
-    if (old) old.remove();
-    if (lang.code === SOURCE || stats.own === stats.total) return;
-    var T = window.UM_T || {};
-    var message = (T[lang.code] && T[lang.code]["__notice__"]) || (T.en && T.en["__notice__"]);
-    if (!message) return;
-    var bar = document.createElement("div");
-    bar.id = "lang-notice";
-    bar.setAttribute("role", "note");
-    bar.textContent = message;
-    var close = document.createElement("button");
-    close.type = "button";
-    close.className = "lang-notice-close";
-    close.textContent = "✕";
-    close.setAttribute("aria-label", (T[lang.code] && T[lang.code]["__close__"]) || "Close");
-    close.addEventListener("click", function () { bar.remove(); });
-    bar.appendChild(close);
-    document.body.insertBefore(bar, document.body.firstChild);
   }
 
   var currentCode = SOURCE;

@@ -172,8 +172,6 @@ window.UM_T=window.UM_T||{};window.UM_T["ko"]={
 "Alpine": "Alpine",
 "Votre Linux,": "당신의 Linux,",
 "sous contrôle.": "완벽한 통제 아래.",
-"__notice__": "이 페이지는 일부만 번역되어 있습니다. 번역되지 않은 부분은 영어(없으면 프랑스어)로 표시됩니다. 번역 기여를 환영합니다.",
-"__close__": "닫기",
 "OrbiSys — Votre Linux, sous contrôle": "OrbiSys — 당신의 Linux, 완벽한 통제 아래",
 "Guide utilisateur — OrbiSys": "사용자 가이드 — OrbiSys",
 "Documentation développeurs — OrbiSys": "개발자 문서 — OrbiSys",
