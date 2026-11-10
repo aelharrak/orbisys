@@ -1,0 +1,37 @@
+Source: orbisys
+Section: admin
+Priority: optional
+Maintainer: AMINE EL HARRAK <amine.elharrak@gmail.com>
+Build-Depends: debhelper-compat (= 13),
+               cargo,
+               rustc (>= 1.80),
+               pkg-config,
+               libx11-dev,
+               libxcb1-dev,
+               libxcb-render0-dev,
+               libxcb-shape0-dev,
+               libxcb-xfixes0-dev,
+               libxcb-randr0-dev,
+               libxcb-xinerama0-dev,
+               libxcb-cursor-dev,
+               libxkbcommon-dev,
+               libwayland-dev,
+               libxrandr-dev,
+               libxinerama-dev,
+               libxcursor-dev,
+               libxi-dev,
+               libgl-dev,
+               libegl-dev
+Standards-Version: 4.7.0
+Rules-Requires-Root: no
+Homepage: https://github.com/aelharrak/orbisys
+
+Package: orbisys
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Recommends: polkitd | policykit-1
+Description: Linux system maintenance and administration application
+ OrbiSys provides a graphical interface and a command-line interface for
+ inspecting and maintaining Linux systems. Its features include software
+ inventory, system reports, storage and network tools, security checks, and
+ system administration panels.

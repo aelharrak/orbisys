@@ -1,0 +1,15 @@
+#!/usr/bin/make -f
+
+%:
+	dh $@ --buildsystem=none --without=autoreconf
+
+override_dh_auto_configure:
+	@:
+
+override_dh_auto_build:
+	CARGO_HOME=$(CURDIR)/debian/cargo-home cargo build --release --locked --offline --verbose
+
+override_dh_auto_install:
+	install -D -m 0755 target/release/orbisys debian/orbisys/usr/bin/orbisys
+	install -D -m 0644 packaging/orbisys.desktop debian/orbisys/usr/share/applications/orbisys.desktop
+	install -D -m 0644 packaging/orbisys.svg debian/orbisys/usr/share/icons/hicolor/scalable/apps/orbisys.svg

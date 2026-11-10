@@ -1,24 +1,25 @@
-# Maintainer: OrbiSys <noreply@example.com>
+# Maintainer: AMINE EL HARRAK <amine.elharrak@gmail.com>
 pkgname=orbisys
 pkgver=1.0.0
 pkgrel=1
-pkgdesc="Gestionnaire de système pour Ubuntu"
+pkgdesc="Linux system maintenance and administration application"
 arch=('x86_64' 'aarch64')
 url="https://github.com/aelharrak/orbisys"
-license=('MIT')
+license=('MIT' 'ISC')
 depends=('gcc-libs' 'polkit')
 makedepends=('cargo' 'rust')
-source=("$pkgname-$pkgver.tar.gz::$url/archive/v$pkgver.tar.gz")
-sha256sums=('SKIP')
+source=("$pkgname-$pkgver-vendor.tar.gz::$url/releases/download/v$pkgver/$pkgname-$pkgver-vendor.tar.gz")
+sha256sums=('9de7f763acf9ed2745a7e0f6674ef46b4a97c320eccb0e31ea20b29b1bbd7259')
 
 build() {
-  cd "$srcdir/$pkgname-$pkgver/rust/orbisys"
-  cargo build --release --frozen
+  cd "$srcdir/$pkgname-$pkgver"
+  cargo build --release --locked --offline
 }
 
 package() {
-  cd "$srcdir/$pkgname-$pkgver/rust/orbisys"
+  cd "$srcdir/$pkgname-$pkgver"
   install -Dm0755 target/release/orbisys "$pkgdir/usr/bin/orbisys"
   install -Dm0644 packaging/orbisys.desktop "$pkgdir/usr/share/applications/orbisys.desktop"
   install -Dm0644 packaging/orbisys.svg "$pkgdir/usr/share/icons/hicolor/scalable/apps/orbisys.svg"
+  install -Dm0644 assets/icons/LICENSE "$pkgdir/usr/share/licenses/$pkgname/LICENSE.icons"
 }

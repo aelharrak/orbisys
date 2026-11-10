@@ -99,6 +99,24 @@ cargo build --release
 
 Outils nécessaires : `dpkg-deb` (DEB), `rpmbuild` (RPM), `tar` et `zstd` (Arch), `apk-tools` 3 ou Docker (Alpine). Les paquets sont écrits dans `dist/`. La construction RPM peut récupérer ses outils localement sur certains systèmes Debian/Ubuntu.
 
+### Préparer la publication des paquets
+
+Les paquets de `dist/` conviennent aux tests et aux téléchargements directs. Les recettes Arch, Alpine et RPM téléchargent une archive source versionnée depuis une release GitHub. Créez-la avec :
+
+```sh
+./packaging/create-vendor-source.sh
+```
+
+Le fichier `dist/orbisys-1.0.0-vendor.tar.gz` doit être ajouté à la release GitHub `v1.0.0`. Publiez ensuite la recette dans le dépôt communautaire correspondant (AUR, Alpine aports ou un service RPM comme OBS), en mettant à jour les versions et sommes de contrôle à chaque version.
+
+Pour préparer un envoi vers un PPA Ubuntu :
+
+```sh
+./packaging/create-ubuntu-source.sh
+```
+
+Les fichiers source non signés apparaissent dans `dist/ubuntu-source/`. Signez le fichier `.changes` avec votre clé Launchpad (`debsign`), puis envoyez-le à votre PPA avec `dput`. Launchpad construira les paquets binaires. Les métadonnées actuelles ciblent Ubuntu 26.04 (`resolute`) ; adaptez `debian/changelog` pour une autre version d’Ubuntu.
+
 ## Langues
 
 L'interface est disponible en français, anglais, allemand, espagnol, portugais, italien, néerlandais, japonais, coréen, chinois et arabe. Les traductions française, anglaise et espagnole sont complètes ; les autres peuvent être partielles et les libellés manquants reviennent à l'anglais.

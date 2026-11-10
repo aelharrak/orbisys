@@ -1,0 +1,6 @@
+orbisys (1.0.0-1~ppa1) resolute; urgency=medium
+
+  * Initial Ubuntu PPA source package for OrbiSys 1.0.0.
+  * Build the application offline from the locked and vendored Cargo sources.
+
+ -- AMINE EL HARRAK <amine.elharrak@gmail.com>  Tue, 10 Nov 2026 12:00:00 +0100

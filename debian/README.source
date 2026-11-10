@@ -1,0 +1,11 @@
+This source package is intended for the OrbiSys Ubuntu PPA, not direct upload
+to the Ubuntu or Debian primary archives.
+
+The Cargo dependencies are vendored in the upstream source archive so Launchpad
+builds do not access the network. Each vendored crate retains its upstream
+Cargo.toml and license files. Review the individual crate licenses before
+proposing this package for an official distribution archive.
+
+The PPA changelog currently targets Ubuntu 26.04 LTS (resolute). Change the
+distribution in debian/changelog for another supported Ubuntu series and use a
+unique Ubuntu package version for each series where required.

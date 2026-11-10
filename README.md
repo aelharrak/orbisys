@@ -148,6 +148,24 @@ To attempt all package builds:
 
 Tool requirements vary by format: `dpkg-deb` for DEB, `rpmbuild` for RPM, `tar` and `zstd` for Arch, and `apk-tools` 3 or Docker for Alpine. The scripts write packages to `dist/`. On some Debian/Ubuntu systems, the RPM build script can fetch its tools locally.
 
+### Preparing packages for distribution
+
+The local packages in `dist/` are useful for testing and direct downloads. The Arch, Alpine, and RPM recipes fetch a versioned source archive from the GitHub release, so create and attach that archive before publishing the recipe:
+
+```sh
+./packaging/create-vendor-source.sh
+```
+
+This creates `dist/orbisys-1.0.0-vendor.tar.gz`. Attach it to the GitHub release tagged `v1.0.0`; then publish the corresponding recipe to the relevant community repository (AUR, Alpine aports, or an RPM build service such as OBS). Update version numbers and checksums for each release.
+
+For an Ubuntu PPA source upload, create the source package from the same archive:
+
+```sh
+./packaging/create-ubuntu-source.sh
+```
+
+The script writes the unsigned source upload files to `dist/ubuntu-source/`. Sign the generated `.changes` file with your Launchpad key using `debsign`, then upload it to your PPA with `dput`. Launchpad builds the binary packages for users. The current Debian metadata targets Ubuntu 26.04 (`resolute`); change `debian/changelog` to the intended Ubuntu series before preparing an upload for another release.
+
 ## Languages
 
 The interface is available in French, English, German, Spanish, Portuguese, Italian, Dutch, Japanese, Korean, Chinese, and Arabic. French, English, and Spanish have complete translation tables. Other translations may be partial; missing labels fall back to English.
