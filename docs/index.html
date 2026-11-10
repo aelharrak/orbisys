@@ -1,0 +1,368 @@
+<!DOCTYPE html>
+<html lang="fr" data-theme="dark">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>OrbiSys — Votre Linux, sous contrôle</title>
+<meta name="description" content="OrbiSys : application libre en Rust pour surveiller, entretenir et sécuriser un poste Linux. Logiciels, processus, disques, réseau, sécurité, sauvegardes : 77 écrans, un seul binaire.">
+<meta name="theme-color" content="#0f0b08">
+<!-- Les URL pointent vers https://github.com/aelharrak/orbisys (voir docs/README.md). -->
+<meta property="og:type" content="website">
+<meta property="og:title" content="OrbiSys — Votre Linux, sous contrôle">
+<meta property="og:description" content="Surveillance en direct, scan des comportements anormaux, inventaire des logiciels, sauvegardes, sécurité : une application Linux libre, écrite en Rust.">
+<meta property="og:image" content="https://aelharrak.github.io/orbisys/assets/screens/dashboard.png">
+<link rel="icon" href="assets/logo.svg" type="image/svg+xml">
+<link rel="stylesheet" href="assets/style.css">
+<script src="assets/site.js"></script>
+<script src="assets/lang.js" defer></script>
+</head>
+<body>
+<a class="skip" href="#contenu">Aller au contenu</a>
+
+<header class="site-header">
+  <div class="wrap">
+    <a class="brand" href="index.html" aria-label="OrbiSys, accueil">
+      <img src="assets/logo.svg" alt="" width="30" height="30"> OrbiSys
+    </a>
+    <nav class="nav" aria-label="Navigation principale">
+      <a href="#fonctionnalites">Fonctionnalités</a>
+      <a href="#captures">Captures</a>
+      <a href="#installation">Installation</a>
+      <a href="utilisateurs.html">Guide utilisateur</a>
+      <a href="developpeurs.html">Développeurs</a>
+      <a href="https://github.com/aelharrak/orbisys" rel="noopener">GitHub</a>
+      <button class="icon-btn" id="theme" type="button" aria-label="Changer de thème clair ou sombre" title="Thème clair / sombre">◐</button>
+    </nav>
+  </div>
+</header>
+
+<main id="contenu">
+  <!-- ============ HERO ============ -->
+  <div class="hero">
+    <div class="wrap">
+      <span class="eyebrow">v1.0 · open source · 100% local</span>
+      <h1><span>Votre Linux,</span><br><span class="grad">sous contrôle.</span></h1>
+      <p class="lead">Surveillez, diagnostiquez et entretenez votre système depuis une seule fenêtre. Sans terminal, sans surprise.</p>
+      <div class="cta">
+        <a class="btn btn-primary" href="#installation">Installer gratuitement</a>
+        <a class="btn btn-ghost" href="#captures">Voir l'aperçu →</a>
+      </div>
+      <figure class="shot hero-shot">
+        <button type="button" aria-label="Agrandir la capture du tableau de bord">
+          <img src="assets/screens/dashboard.png" width="1180" height="821" alt="Tableau de bord d'OrbiSys : processeur, mémoire, disque, logiciels, courbes en direct, processus les plus actifs et montages">
+        </button>
+        <figcaption><b>Tableau de bord.</b> L'état de la machine d'un coup d'œil, avec des courbes qui se mettent à jour toutes seules.</figcaption>
+      </figure>
+    </div>
+  </div>
+
+  <!-- ============ POUR QUI ============ -->
+  <section id="pour-qui" class="alt">
+    <div class="wrap">
+      <div class="kicker">Pour qui ?</div>
+      <h2>Un outil pour utiliser, un outil pour contribuer</h2>
+      <p class="section-lead">Le même projet, deux portes d'entrée.</p>
+      <div class="grid g2">
+        <a class="choix" href="utilisateurs.html">
+          <span class="choix-tag">Utiliser</span>
+          <span class="choix-title">Vous voulez simplement un Linux en bon état.</span>
+          <span class="choix-cta">Installer →</span>
+        </a>
+        <a class="choix" href="developpeurs.html">
+          <span class="choix-tag">Contribuer</span>
+          <span class="choix-title">Vous voulez comprendre et améliorer le code.</span>
+          <span class="choix-cta">Voir le dépôt →</span>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ FONCTIONNALITÉS ============ -->
+  <section id="fonctionnalites">
+    <div class="wrap">
+      <div class="kicker">Fonctionnalités</div>
+      <div class="feat-head">
+        <h2><span class="num">77</span> écrans, regroupés par besoin.</h2>
+        <p class="feat-lead">Chaque catégorie répond à une question concrète sur votre machine.</p>
+      </div>
+      <div class="bento">
+        <article class="bento-card bento-lead">
+          <span class="bento-num">01</span>
+          <h3>Surveillance</h3>
+          <p>CPU, mémoire, disques et réseau en temps réel.</p>
+          <figure class="bento-shot">
+            <img src="assets/screens/dashboard.png" width="1180" height="821" loading="lazy" alt="Tableau de bord : anneaux CPU, mémoire, disque et swap, courbe d'usage du processeur">
+          </figure>
+        </article>
+        <article class="bento-card">
+          <span class="bento-num">02</span>
+          <h3>Logiciels</h3>
+          <p>Paquets, mises à jour et dépôts en un clic.</p>
+        </article>
+        <article class="bento-card">
+          <span class="bento-num">03</span>
+          <h3>Démarrage</h3>
+          <p>Services et programmes lancés au boot.</p>
+        </article>
+        <article class="bento-card">
+          <span class="bento-num">04</span>
+          <h3>Réseau</h3>
+          <p>Interfaces, connexions et ports ouverts.</p>
+        </article>
+        <article class="bento-card">
+          <span class="bento-num">05</span>
+          <h3>Sécurité</h3>
+          <p>Pare-feu, utilisateurs et permissions.</p>
+        </article>
+        <article class="bento-card">
+          <span class="bento-num">06</span>
+          <h3>Matériel</h3>
+          <p>Capteurs, pilotes et périphériques.</p>
+        </article>
+        <article class="bento-card">
+          <span class="bento-num">07</span>
+          <h3>Sauvegarde</h3>
+          <p>Instantanés et restauration simples.</p>
+        </article>
+        <article class="bento-card">
+          <span class="bento-num">08</span>
+          <h3>Système</h3>
+          <p>Journaux, noyau et diagnostics.</p>
+        </article>
+        <article class="bento-card">
+          <span class="bento-num">09</span>
+          <h3>Confort</h3>
+          <p>Thèmes, raccourcis et préférences.</p>
+        </article>
+      </div>
+      <div class="stats-band">
+        <div><b class="stat-num">77</b><span>Écrans</span></div>
+        <div><b class="stat-num">0</b><span>Télémétrie</span></div>
+        <div><b class="stat-num">1</b><span>Commande d'install</span></div>
+        <div><b class="stat-num">100%</b><span>Open source</span></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ CAPTURES ============ -->
+  <section id="captures" class="alt">
+    <div class="wrap">
+      <div class="kicker">En images</div>
+      <h2>À quoi ça ressemble</h2>
+      <p class="section-lead">Captures réelles de l'application. Cliquez sur une image pour l'agrandir.</p>
+
+      <div class="split" style="margin-bottom:64px">
+        <div>
+          <h3>Voir ce qui se passe, en direct</h3>
+          <p class="muted">La surveillance trace le processeur, la mémoire et le débit réseau sur les dernières minutes. Les alertes préviennent par une notification quand un seuil est dépassé.</p>
+          <ul>
+            <li><b>Courbes</b> avec infobulle au survol</li>
+            <li><b>Seuils</b> réglables pour le processeur, la mémoire, le disque et la température</li>
+            <li><b>Historique</b> conservé pour suivre les tendances</li>
+          </ul>
+        </div>
+        <figure class="shot">
+          <button type="button" aria-label="Agrandir la capture de la surveillance"><img src="assets/screens/monitor.png" loading="lazy" width="1180" height="821" alt="Surveillance en direct : courbes du processeur, de la mémoire et du débit réseau, tableaux par interface et par disque"></button>
+          <figcaption><b>Surveillance en direct</b></figcaption>
+        </figure>
+      </div>
+
+      <div class="split rev" style="margin-bottom:64px">
+        <div>
+          <h3>Savoir quel logiciel pose problème</h3>
+          <p class="muted">L'écran Processus classe les programmes les plus gourmands, trace l'historique de celui que vous sélectionnez et permet de le suspendre, le terminer ou changer sa priorité.</p>
+          <ul>
+            <li><b>Graphiques</b> système et classements processeur et mémoire</li>
+            <li><b>Actions protégées</b> : jamais le processus système, jamais l'application elle-même</li>
+            <li><b>Origine</b> de chaque processus (service, session, paquet)</li>
+          </ul>
+        </div>
+        <figure class="shot">
+          <button type="button" aria-label="Agrandir la capture des processus"><img src="assets/screens/processes.png" loading="lazy" width="1180" height="821" alt="Écran Processus avec graphiques du système, classements des processus les plus gourmands et liste détaillée"></button>
+          <figcaption><b>Processus</b></figcaption>
+        </figure>
+      </div>
+
+      <div class="split">
+        <div>
+          <h3>Repérer ce qui sort de l'ordinaire</h3>
+          <p class="muted">Le scan des comportements anormaux examine les logiciels en cours d'exécution et ce qui les relance. Il explique chaque constat et propose une réponse : suspendre, terminer, mettre en quarantaine.</p>
+          <ul>
+            <li>Programmes lancés depuis <code>/tmp</code>, exécutables supprimés, noms de mineurs</li>
+            <li>Scripts de démarrage douteux (<code>curl | sh</code>, shell inversé…)</li>
+            <li>Fichiers <code>setuid</code>, comptes anormaux, outils à double usage</li>
+          </ul>
+          <div class="note warn-box"><b>Ce n'est pas un antivirus.</b> L'analyse est heuristique, sans base de signatures : un constat est un indice à vérifier, pas une preuve. ClamAV peut être lancé en option.</div>
+        </div>
+        <figure class="shot">
+          <button type="button" aria-label="Agrandir la capture du scan"><img src="assets/screens/scan.png" loading="lazy" width="1180" height="821" alt="Scan des comportements anormaux : verdict, constats classés par gravité et couverture du scan"></button>
+          <figcaption><b>Scan des comportements anormaux</b></figcaption>
+        </figure>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- ============ CONFIANCE ============ -->
+  <section id="confiance">
+    <div class="wrap">
+      <div class="kicker">Confiance</div>
+      <h2>Une application d'administration doit être prévisible</h2>
+      <p class="section-lead">Elle touche à des choses sensibles. Voici ce qu'elle s'interdit.</p>
+      <div class="grid g2">
+        <div class="card"><h3>Jamais de shell</h3><p>Les commandes sont lancées avec une liste d'arguments, jamais par concaténation de texte. Noms de paquets, d'unités, chemins et adresses sont validés avant tout appel.</p></div>
+        <div class="card"><h3>Confirmation et Polkit</h3><p>Toute action destructrice demande une confirmation. Les opérations privilégiées passent par <code>pkexec</code> : le système demande votre mot de passe administrateur.</p></div>
+        <div class="card"><h3>Lecture seule par défaut</h3><p>Les écrans d'analyse (audit, matériel, scan, stockage) ne modifient rien. La quarantaine déplace un fichier sans le supprimer, et retire ses droits d'exécution.</p></div>
+        <div class="card"><h3>Audité et testé</h3><p>Un audit de sécurité du code a été mené et ses corrections appliquées (fichiers temporaires privés, secrets hors des arguments, contrôle des archives). 347 tests automatiques vérifient parseurs, validations et protections.</p></div>
+      </div>
+      <p class="muted" style="margin-top:22px">Le détail des règles est dans la <a href="developpeurs.html#securite">documentation développeurs</a>.</p>
+    </div>
+  </section>
+
+  <!-- ============ INSTALLATION ============ -->
+  <section id="installation" class="alt">
+    <div class="wrap">
+      <div class="kicker">Installer</div>
+      <h2>Une commande, <span class="grad">c'est tout.</span></h2>
+
+      <div class="tabs">
+        <div role="tablist" aria-label="Méthode d'installation">
+          <button role="tab" id="t-deb" aria-selected="true" aria-controls="p-deb" type="button">Ubuntu / Debian</button>
+          <button role="tab" id="t-rpm" aria-selected="false" aria-controls="p-rpm" tabindex="-1" type="button" data-no-i18n>Fedora / openSUSE</button>
+          <button role="tab" id="t-arch" aria-selected="false" aria-controls="p-arch" tabindex="-1" type="button" data-no-i18n>Arch Linux</button>
+          <button role="tab" id="t-apk" aria-selected="false" aria-controls="p-apk" tabindex="-1" type="button" data-no-i18n>Alpine Linux</button>
+          <button role="tab" id="t-src" aria-selected="false" aria-controls="p-src" tabindex="-1" type="button">Depuis les sources</button>
+        </div>
+
+        <div role="tabpanel" id="p-deb" aria-labelledby="t-deb">
+          <p class="muted">Téléchargez le paquet pour votre distribution, puis :</p>
+          <p class="inst-dl"><a class="btn btn-ghost" href="downloads/orbisys_1.0.0_amd64.deb" download data-no-i18n>orbisys_1.0.0_amd64.deb · 3,6 Mo</a></p>
+          <figure class="term">
+            <div class="term-bar" data-no-i18n>~/terminal</div>
+            <div class="term-body">
+              <p data-no-i18n class="term-line cmd">sudo apt install ./orbisys_1.0.0_amd64.deb</p>
+              <p class="term-line out">Téléchargement du paquet…</p>
+              <p class="term-line done">OrbiSys installé</p>
+              <p data-no-i18n class="term-line cmd last">orbisys</p>
+            </div>
+          </figure>
+        </div>
+
+        <div role="tabpanel" id="p-rpm" aria-labelledby="t-rpm" hidden>
+          <p class="muted">Téléchargez le paquet pour votre distribution, puis :</p>
+          <p class="inst-dl"><a class="btn btn-ghost" href="downloads/orbisys-1.0.0-1.x86_64.rpm" download data-no-i18n>orbisys-1.0.0-1.x86_64.rpm · 4,5 Mo</a></p>
+          <figure class="term">
+            <div class="term-bar" data-no-i18n>~/terminal</div>
+            <div class="term-body">
+              <p data-no-i18n class="term-line cmd">sudo dnf install ./orbisys-1.0.0-1.x86_64.rpm</p>
+              <p data-no-i18n class="term-line cmd">sudo zypper install ./orbisys-1.0.0-1.x86_64.rpm</p>
+              <p class="term-line out">Téléchargement du paquet…</p>
+              <p class="term-line done">OrbiSys installé</p>
+              <p data-no-i18n class="term-line cmd last">orbisys</p>
+            </div>
+          </figure>
+        </div>
+
+        <div role="tabpanel" id="p-arch" aria-labelledby="t-arch" hidden>
+          <p class="muted">Téléchargez le paquet pour votre distribution, puis :</p>
+          <p class="inst-dl"><a class="btn btn-ghost" href="downloads/orbisys-1.0.0-1-x86_64.pkg.tar.zst" download data-no-i18n>orbisys-1.0.0-1-x86_64.pkg.tar.zst · 3,6 Mo</a></p>
+          <figure class="term">
+            <div class="term-bar" data-no-i18n>~/terminal</div>
+            <div class="term-body">
+              <p data-no-i18n class="term-line cmd">sudo pacman -U ./orbisys-1.0.0-1-x86_64.pkg.tar.zst</p>
+              <p class="term-line out">Téléchargement du paquet…</p>
+              <p class="term-line done">OrbiSys installé</p>
+              <p data-no-i18n class="term-line cmd last">orbisys</p>
+            </div>
+          </figure>
+        </div>
+
+        <div role="tabpanel" id="p-apk" aria-labelledby="t-apk" hidden>
+          <p class="muted">Téléchargez le paquet pour votre distribution, puis :</p>
+          <p class="inst-dl"><a class="btn btn-ghost" href="downloads/orbisys-1.0.0-r0.apk" download data-no-i18n>orbisys-1.0.0-r0.apk · 4,6 Mo</a></p>
+          <figure class="term">
+            <div class="term-bar" data-no-i18n>~/terminal</div>
+            <div class="term-body">
+              <p data-no-i18n class="term-line cmd">sudo apk add --allow-untrusted ./orbisys-1.0.0-r0.apk</p>
+              <p class="term-line out">Téléchargement du paquet…</p>
+              <p class="term-line done">OrbiSys installé</p>
+              <p data-no-i18n class="term-line cmd last">orbisys</p>
+            </div>
+          </figure>
+        </div>
+
+        <div role="tabpanel" id="p-src" aria-labelledby="t-src" hidden>
+          <p class="muted">Il faut Rust 1.80 ou plus récent (<a href="https://rustup.rs" rel="noopener">rustup.rs</a>).</p>
+          <figure class="term">
+            <div class="term-bar" data-no-i18n>~/src</div>
+            <div class="term-body">
+              <p data-no-i18n class="term-line cmd">git clone https://github.com/aelharrak/orbisys.git</p>
+              <p data-no-i18n class="term-line cmd">cd orbisys</p>
+              <p data-no-i18n class="term-line cmd">cargo build --release</p>
+              <p data-no-i18n class="term-line cmd last">./target/release/orbisys</p>
+            </div>
+          </figure>
+          <p class="muted">À l'exécution, l'interface utilise Wayland ou X11. Aucune bibliothèque Qt n'est nécessaire.</p>
+        </div>
+
+      </div>
+
+      <div class="table-wrap table-plain">
+        <table class="dist">
+          <thead><tr><th>Distribution</th><th>Paquets</th><th>Statut</th></tr></thead>
+          <tbody>
+            <tr><td data-no-i18n>Ubuntu 22.04 / 24.04</td><td data-no-i18n>APT</td><td><span class="statut">Testé</span></td></tr>
+            <tr><td data-no-i18n>Debian 12</td><td data-no-i18n>APT</td><td><span class="statut">Testé</span></td></tr>
+            <tr><td data-no-i18n>Linux Mint 21</td><td data-no-i18n>APT</td><td><span class="statut">Testé</span></td></tr>
+            <tr><td data-no-i18n>Fedora 40</td><td data-no-i18n>DNF</td><td><span class="statut">Compatible</span></td></tr>
+            <tr><td data-no-i18n>Arch Linux</td><td data-no-i18n>pacman</td><td><span class="statut">Communauté</span></td></tr>
+            <tr><td data-no-i18n>Alpine 3.23</td><td data-no-i18n>apk</td><td><span class="statut">Compatible</span></td></tr>
+          </tbody>
+        </table>
+      </div>
+      <p class="muted inst-note">Certaines rubriques sont propres à Debian et Ubuntu (dépôts APT, verrouillage de version, historique dpkg, installation des profils) ; ailleurs elles affichent un message clair.</p>
+    </div>
+  </section>
+
+  <!-- ============ FAQ ============ -->
+  <section id="faq">
+    <div class="narrow">
+      <div class="kicker">Questions fréquentes</div>
+      <h2>Avant de l'installer</h2>
+      <details><summary>Est-ce gratuit ?</summary><p>Oui, open source sous licence libre.</p></details>
+      <details><summary>L'application peut-elle casser mon système ?</summary><p>Toute action sensible demande confirmation et affiche la commande exécutée.</p></details>
+      <details><summary>Mes données sont-elles envoyées ?</summary><p>Non. Aucune connexion sortante hors mises à jour.</p></details>
+      <details><summary>Comment désinstaller ?</summary><p>Une seule commande, sans résidu.</p></details>
+    </div>
+  </section>
+  <!-- ============ APPEL À L'ACTION ============ -->
+  <section id="commencer">
+    <div class="wrap">
+      <div class="cta-card">
+        <h2>Reprenez la main <span class="grad">sur votre Linux.</span></h2>
+        <p class="cta-sub">Gratuit, open source, et prêt en moins d'une minute.</p>
+        <a class="btn btn-primary" href="#installation">Installer maintenant</a>
+      </div>
+    </div>
+  </section>
+
+</main>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <div>OrbiSys · licence MIT</div>
+    <div>
+      <a href="utilisateurs.html">Guide utilisateur</a><span aria-hidden="true"> · </span>
+      <a href="developpeurs.html">Développeurs</a><span aria-hidden="true"> · </span>
+      <a href="https://github.com/aelharrak/orbisys" rel="noopener">Code source</a>
+    </div>
+  </div>
+</footer>
+
+<dialog class="viewer" id="viewer" aria-label="Capture agrandie">
+  <form method="dialog"><button type="submit">Fermer ✕</button></form>
+  <img src="" alt="">
+  <p></p>
+</dialog>
+</body>
+</html>

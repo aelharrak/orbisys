@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="fr" data-theme="dark">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Guide utilisateur — OrbiSys</title>
+<meta name="description" content="Guide utilisateur d'OrbiSys : prise en main, tour des écrans, tâches courantes (désinstaller, mettre à jour, libérer de l'espace, repérer un comportement anormal) et dépannage.">
+<meta name="theme-color" content="#0f0b08">
+<link rel="icon" href="assets/logo.svg" type="image/svg+xml">
+<link rel="stylesheet" href="assets/style.css">
+<script src="assets/site.js"></script>
+<script src="assets/lang.js" defer></script>
+</head>
+<body>
+<a class="skip" href="#contenu">Aller au contenu</a>
+
+<header class="site-header">
+  <div class="wrap">
+    <a class="brand" href="index.html" aria-label="OrbiSys, accueil">
+      <img src="assets/logo.svg" alt="" width="30" height="30"> OrbiSys
+    </a>
+    <nav class="nav" aria-label="Navigation principale">
+      <a href="index.html#fonctionnalites">Fonctionnalités</a>
+      <a href="index.html#installation">Installation</a>
+      <a href="utilisateurs.html" aria-current="page">Guide utilisateur</a>
+      <a href="developpeurs.html">Développeurs</a>
+      <a href="https://github.com/aelharrak/orbisys" rel="noopener">GitHub</a>
+      <button class="icon-btn" id="theme" type="button" aria-label="Changer de thème clair ou sombre" title="Thème clair / sombre">◐</button>
+    </nav>
+  </div>
+</header>
+
+<main id="contenu" class="wrap">
+  <div class="doc">
+    <aside class="toc" aria-label="Sur cette page">
+      <b>Sur cette page</b>
+      <a href="#prise-en-main">Prise en main</a>
+      <a href="#couleurs">Lire les indicateurs</a>
+      <a href="#tour">Tour des écrans</a>
+      <a href="#taches">Tâches courantes</a>
+      <a href="#scan">Le scan anormal</a>
+      <a href="#droits">Droits et sécurité</a>
+      <a href="#donnees">Vos données</a>
+      <a href="#depannage">Dépannage</a>
+    </aside>
+
+    <article>
+      <h1>Guide utilisateur</h1>
+      <p class="lead" style="margin:0 0 8px;text-align:left">Tout ce qu'il faut pour utiliser OrbiSys au quotidien, sans lire le code.</p>
+
+      <h2 id="prise-en-main">Prise en main</h2>
+      <p>Installez l'application (voir la <a href="index.html#installation">page d'installation</a>), puis lancez-la depuis le menu des applications ou en tapant <code>orbisys</code>.</p>
+      <ul>
+        <li><b>Menu de gauche</b> : les écrans, regroupés par thème (surveillance, logiciels, stockage, réseau, sécurité…). La liste défile.</li>
+        <li><b>Rechercher…</b> (ou <code>Ctrl+K</code>) : trouve un écran, un logiciel, un processus ou un service par son nom.</li>
+        <li><b>Rafraîchir</b> : relit l'écran affiché.</li>
+        <li><b>Thème</b> : bascule entre clair et sombre. La <b>langue</b> (français, anglais, espagnol) et la <b>couleur d'accent</b> se choisissent dans l'écran <b>À propos</b>.</li>
+      </ul>
+      <div class="note"><b>À savoir :</b> ne lancez pas l'application avec <code>sudo</code>. Elle demande elle-même les droits administrateur, au moment précis où une action en a besoin.</div>
+
+      <h2 id="couleurs">Lire les indicateurs</h2>
+      <p>Les valeurs sont colorées pour que l'essentiel saute aux yeux :</p>
+      <div class="table-wrap"><table>
+        <thead><tr><th>Couleur</th><th>Signification</th></tr></thead>
+        <tbody>
+          <tr><td class="ok">Vert</td><td>Tout va bien (par exemple « Aucun comportement anormal détecté »).</td></tr>
+          <tr><td class="warn">Orange</td><td>À surveiller (un seuil approche, quelques points suspects).</td></tr>
+          <tr><td class="bad">Rouge</td><td>À traiter en priorité (disque presque plein, constat de gravité élevée).</td></tr>
+          <tr><td>Bleu / neutre</td><td>Information, sans jugement.</td></tr>
+        </tbody>
+      </table></div>
+      <p style="margin-top:14px">Dans les graphiques, un <b>trait</b> sur une barre marque un seuil (par exemple 90 % d'occupation) ; la barre devient rouge quand elle le dépasse. Survolez une courbe pour lire les valeurs.</p>
+
+      <h2 id="tour">Tour des écrans</h2>
+
+      <h3>Tableau de bord</h3>
+      <p>L'écran d'accueil : processeur, mémoire, disque, nombre de logiciels, mises à jour en attente, score de sécurité, puis les courbes du processeur et de la mémoire, les processus les plus actifs et l'occupation des disques.</p>
+      <figure class="shot">
+        <button type="button" aria-label="Agrandir la capture du tableau de bord"><img src="assets/screens/dashboard.png" loading="lazy" width="1180" height="821" alt="Tableau de bord avec indicateurs, courbes, processus actifs et montages"></button>
+        <figcaption><b>Tableau de bord.</b></figcaption>
+      </figure>
+
+      <h3>Processus</h3>
+      <p>Les programmes qui tournent, triés par consommation. Les graphiques montrent le système et les six processus les plus gourmands (processeur et mémoire). <b>Cliquez sur le nom d'un processus</b> pour le sélectionner : son historique s'affiche, et vous pouvez le <b>terminer</b>, le <b>forcer</b> à s'arrêter, le <b>suspendre</b>, le <b>reprendre</b> ou changer sa <b>priorité</b>.</p>
+      <figure class="shot">
+        <button type="button" aria-label="Agrandir la capture des processus"><img src="assets/screens/processes.png" loading="lazy" width="1180" height="821" alt="Écran Processus avec graphiques et liste"></button>
+        <figcaption><b>Processus.</b> Les graphiques se replient avec la flèche « Graphiques ».</figcaption>
+      </figure>
+      <div class="note warn-box"><b>Prudence :</b> l'application refuse d'agir sur le processus système (PID 1), sur elle-même et sur les threads du noyau, et vérifie que le processus est toujours celui que vous avez sélectionné avant d'agir. « Forcer » ne laisse pas au programme le temps d'enregistrer son travail.</div>
+
+      <h3>Surveillance en direct et alertes</h3>
+      <p>La surveillance dessine, toutes les trois secondes, le processeur, la mémoire et le débit réseau des dernières minutes. L'écran <b>Alertes</b> compare les valeurs actuelles à vos seuils (processeur 90 %, mémoire 92 %, disque 90 %, température 80 °C par défaut, modifiables). Tant que l'application est ouverte, elle vérifie toutes les minutes et envoie une <b>notification de bureau</b> quand un seuil est dépassé, au plus une fois toutes les dix minutes par indicateur.</p>
+      <figure class="shot">
+        <button type="button" aria-label="Agrandir la capture de la surveillance"><img src="assets/screens/monitor.png" loading="lazy" width="1180" height="821" alt="Surveillance en direct avec courbes processeur, mémoire et réseau"></button>
+        <figcaption><b>Surveillance en direct.</b></figcaption>
+      </figure>
+      <figure class="shot">
+        <button type="button" aria-label="Agrandir la capture des alertes"><img src="assets/screens/alerts.png" loading="lazy" width="1180" height="821" alt="Alertes : barres de valeur actuelle avec trait de seuil"></button>
+        <figcaption><b>Alertes.</b> Le trait marque le seuil.</figcaption>
+      </figure>
+      <p>Chaque contrôle d'alerte enregistre aussi une mesure : c'est ce qui alimente l'écran <b>Historique &amp; tendances</b>, exportable en CSV.</p>
+
+      <h3>Santé du système</h3>
+      <p>Un score sur 100 calculé à partir de cinq contrôles (espace disque, mémoire, services en échec, pare-feu, redémarrage requis). Les barres montrent combien de points chaque contrôle fait perdre. Le rapport s'exporte en texte.</p>
+      <figure class="shot">
+        <button type="button" aria-label="Agrandir la capture de la santé du système"><img src="assets/screens/health.png" loading="lazy" width="1180" height="821" alt="Santé du système avec score et contrôles"></button>
+        <figcaption><b>Santé du système.</b></figcaption>
+      </figure>
+
+      <h3>Inventaire et désinstallation</h3>
+      <p>Tous les logiciels installés au même endroit : paquets natifs, Snap, Flatpak, et ceux installés à la main hors des dépôts (AppImage, <code>/opt</code>, <code>~/.local/bin</code>). Filtrez par nom ou par source, cochez ce que vous voulez retirer.</p>
+      <figure class="shot">
+        <button type="button" aria-label="Agrandir la capture de l'inventaire"><img src="assets/screens/software.png" loading="lazy" width="1180" height="821" alt="Inventaire des logiciels"></button>
+        <figcaption><b>Inventaire des logiciels.</b></figcaption>
+      </figure>
+
+      <h3>Stockage</h3>
+      <p><b>Espace disque</b> et <b>Montages</b> montrent l'occupation de chaque système de fichiers ; <b>Doublons</b>, <b>Nettoyage</b> et <b>Nettoyage avancé</b> libèrent de la place ; <b>Partitions &amp; volumes</b>, <b>Btrfs</b> et <b>Quotas</b> servent aux configurations plus avancées.</p>
+      <figure class="shot">
+        <button type="button" aria-label="Agrandir la capture des montages"><img src="assets/screens/mounts.png" loading="lazy" width="1180" height="821" alt="Montages avec barres d'occupation"></button>
+        <figcaption><b>Montages.</b> Le trait à 90 % signale un disque presque plein.</figcaption>
+      </figure>
+
+      <h3>Sécurité et matériel</h3>
+      <p>L'<b>audit CIS</b> note le durcissement du système et propose des remédiations ; <b>Intégrité</b> vérifie que les fichiers des paquets n'ont pas changé ; <b>Clés SSH &amp; GPG</b>, <b>Certificats</b>, <b>Secure Boot</b>, <b>AppArmor</b> et <b>ACL</b> sont en lecture ou en gestion contrôlée. L'écran <b>Matériel</b> résume processeur, cartes graphiques, batterie et capteurs.</p>
+      <figure class="shot">
+        <button type="button" aria-label="Agrandir la capture de l'audit CIS"><img src="assets/screens/cis.png" loading="lazy" width="1180" height="821" alt="Audit de sécurité CIS avec score et contrôles"></button>
+        <figcaption><b>Audit CIS.</b></figcaption>
+      </figure>
+      <figure class="shot">
+        <button type="button" aria-label="Agrandir la capture du matériel"><img src="assets/screens/hardware.png" loading="lazy" width="1180" height="821" alt="Écran Matériel"></button>
+        <figcaption><b>Matériel.</b> Lecture seule.</figcaption>
+      </figure>
+
+      <h2 id="taches">Tâches courantes</h2>
+
+      <h3>Désinstaller un logiciel proprement</h3>
+      <ol>
+        <li>Ouvrez <b>Inventaire &amp; désinstallation</b> et cochez le logiciel.</li>
+        <li>Cliquez sur <b>Aperçu de la suppression</b> : l'application simule l'opération et liste tout ce qui partirait avec lui (dépendances comprises).</li>
+        <li>Si l'aperçu vous convient, cliquez sur <b>Désinstaller…</b>, confirmez, puis saisissez votre mot de passe quand le système le demande.</li>
+      </ol>
+
+      <h3>Mettre à jour</h3>
+      <p>Ouvrez <b>Mises à jour</b> : l'application liste les mises à jour du gestionnaire de paquets natif, ainsi que celles de Snap et de Flatpak. Cliquez sur <b>Tout mettre à jour…</b>, confirmez, puis authentifiez-vous. Une fois terminé, la liste est relue.</p>
+
+      <h3>Libérer de l'espace</h3>
+      <ul>
+        <li><b>Nettoyage</b> : cache APT, journaux, corbeille, anciens noyaux — chaque cible indique sa taille avant d'agir.</li>
+        <li><b>Nettoyage avancé</b> : caches des navigateurs et applications, runtimes Flatpak inutilisés, données Docker, anciennes révisions Snap.</li>
+        <li><b>Doublons</b> : analysez un dossier ; pour chaque groupe, « Supprimer les copies… » <b>garde le premier fichier</b> et supprime les autres, après confirmation. Un lien symbolique n'est jamais supprimé, et un fichier modifié depuis l'analyse est conservé.</li>
+      </ul>
+
+      <h3>Sauvegarder l'essentiel</h3>
+      <ul>
+        <li><b>Sauvegarde &amp; récupération</b> : exporte la liste de vos logiciels dans un fichier JSON (et la réinstalle ailleurs), lance un <code>rsync</code> avec <b>simulation</b> d'abord, copie vos fichiers de configuration.</li>
+        <li><b>Dotfiles</b> : sauvegarde et <b>restauration</b> de <code>.bashrc</code>, <code>.gitconfig</code>, etc. À la restauration, vos fichiers actuels sont conservés sous le nom <code>.um-bak-&lt;date&gt;</code>.</li>
+        <li><b>Rapports planifiés</b> : génère automatiquement un rapport (TXT, CSV, JSON, PDF) chaque jour, semaine ou mois, grâce à une minuterie systemd de votre session.</li>
+      </ul>
+
+      <h2 id="scan">Le scan des comportements anormaux</h2>
+      <p>Dans le groupe <b>Sécurité</b>, l'écran <b>Scan des comportements anormaux</b> examine en deux secondes environ les logiciels qui tournent et ce qui les relance. Il ne modifie rien tant que vous ne cliquez pas sur une action.</p>
+      <figure class="shot">
+        <button type="button" aria-label="Agrandir la capture du scan"><img src="assets/screens/scan.png" loading="lazy" width="1180" height="821" alt="Scan des comportements anormaux"></button>
+        <figcaption><b>Le scan.</b> Verdict, constats triés par gravité, et ce qui a été (ou non) examiné.</figcaption>
+      </figure>
+      <h4>Ce qu'il cherche</h4>
+      <ul>
+        <li><b>Processus</b> lancés depuis <code>/tmp</code>, <code>/var/tmp</code> ou <code>/dev/shm</code> ; dont l'exécutable a été supprimé ; exécutés depuis la mémoire ; portant un nom de mineur de cryptomonnaie ; se faisant passer pour un thread du noyau ou un service système.</li>
+        <li><b>Réseau</b> : connexions vers des ports typiques de pools de minage.</li>
+        <li><b>Démarrage</b> : <code>.bashrc</code>, cron, autostart et unités utilisateur contenant par exemple <code>curl … | sh</code>, un shell inversé, du code base64 exécuté ou <code>LD_PRELOAD</code>.</li>
+        <li><b>Fichiers</b> exécutables dans les dossiers temporaires, fichiers <code>setuid</code> hors des dossiers système.</li>
+        <li><b>Comptes</b> avec l'UID 0 autres que root, ou sans mot de passe ; <b>outils à double usage</b> installés (nmap, tcpdump…), à titre d'information.</li>
+      </ul>
+      <h4>Comment réagir</h4>
+      <ol>
+        <li>Lisez la colonne <b>Pourquoi</b> : elle explique chaque constat. Survolez-la pour voir le texte complet.</li>
+        <li>Demandez-vous si c'est vous : un outil de développement lancé depuis un dossier de projet, une mise à jour d'application, un script que vous avez écrit sont des cas normaux.</li>
+        <li>En cas de doute, <b>Suspendre</b> d'abord (réversible), puis <b>Terminer</b> si nécessaire.</li>
+        <li><b>Mettre en quarantaine</b> déplace le fichier sans le supprimer et retire ses droits d'exécution ; il est copié dans <code>~/.local/share/orbisys/quarantine/</code> avec une note sur son origine.</li>
+      </ol>
+      <div class="note warn-box"><b>Ce n'est pas un antivirus.</b> Il n'y a pas de base de signatures : un logiciel malveillant discret peut passer, et un logiciel légitime peut être signalé. Un constat est un indice, pas une preuve. Si vous installez <b>ClamAV</b>, un bouton lance une analyse par signatures de Téléchargements et <code>/tmp</code>. Sans droits administrateur, les processus des autres utilisateurs ne sont jugés que sur leur nom et leur ligne de commande, et le parcours des fichiers est borné (l'écran indique quand il est partiel).</div>
+
+      <h2 id="droits">Droits administrateur et sécurité</h2>
+      <ul>
+        <li>Les actions qui modifient le système (désinstaller, mettre à jour, démarrer un service, monter un disque…) passent par <b>Polkit</b> : le système affiche sa propre fenêtre de mot de passe. L'application ne voit jamais ce mot de passe.</li>
+        <li>Toute action destructrice affiche d'abord <b>ce qui va se passer</b> et attend votre confirmation.</li>
+        <li>Les commandes ne passent jamais par un shell, et ce que vous saisissez (noms, chemins, adresses) est validé avant usage.</li>
+        <li>Écrire une image sur une <b>clé USB</b> n'est proposé que pour les disques amovibles hors système, et demande de retaper le nom du périphérique ; l'application revérifie le disque juste avant d'écrire.</li>
+        <li>Aucune donnée n'est envoyée sur Internet. Seule la <b>livraison de rapports</b> (webhook ou e-mail), que vous configurez, contacte une destination ; l'adresse du webhook est un secret et n'apparaît pas dans la liste des processus.</li>
+      </ul>
+
+      <h2 id="donnees">Vos données</h2>
+      <div class="table-wrap"><table>
+        <thead><tr><th>Quoi</th><th>Où</th></tr></thead>
+        <tbody>
+          <tr><td>Préférences (thème, langue, accent)</td><td><code>~/.config/orbisys/prefs.json</code></td></tr>
+          <tr><td>Seuils d'alerte, historique des mesures, livraison des rapports</td><td><code>~/.local/share/orbisys/</code> (<code>alerts.json</code>, <code>history.jsonl</code>, <code>delivery.json</code>)</td></tr>
+          <tr><td>Quarantaine</td><td><code>~/.local/share/orbisys/quarantine/</code></td></tr>
+          <tr><td>Journal des actions</td><td><code>~/.local/state/orbisys/journal.jsonl</code> (consultable et exportable dans l'écran « Journal des actions »)</td></tr>
+        </tbody>
+      </table></div>
+      <p style="margin-top:14px">Supprimer ces dossiers remet l'application à zéro ; rien d'autre n'est écrit sur votre machine hors des actions que vous lancez.</p>
+
+      <h2 id="depannage">Dépannage</h2>
+      <details><summary>Un écran affiche « … absent : installez le paquet … »</summary><p>La rubrique s'appuie sur un outil que votre système n'a pas (par exemple <code>nmcli</code> pour le Wi-Fi, <code>fwupdmgr</code> pour le firmware, <code>rclone</code> pour le cloud). Installez le paquet indiqué, puis cliquez sur Actualiser.</p></details>
+      <details><summary>Rien ne se passe quand je confirme une action privilégiée</summary><p>Le système doit pouvoir afficher la fenêtre d'authentification Polkit. Sur un bureau léger, installez un agent Polkit (par exemple <code>policykit-1-gnome</code> ou <code>polkit-kde-agent</code>). Depuis une session SSH sans écran, ces actions ne fonctionnent pas.</p></details>
+      <details><summary>Certains écrans sont vides ou limités sur ma distribution</summary><p>Quelques rubriques sont propres à Debian et Ubuntu : dépôts APT, verrouillage de version, historique dpkg, installation des profils. Ailleurs elles l'indiquent clairement. L'intégrité des paquets fonctionne avec <code>dpkg</code> et <code>rpm</code> ; elle n'est pas disponible sur Arch et Alpine.</p></details>
+      <details><summary>Les processus d'autres utilisateurs ou les règles du pare-feu manquent</summary><p>Ces lectures demandent les droits administrateur. L'application n'élève pas ses droits toute seule pour lire : ce qui est illisible est indiqué comme tel.</p></details>
+      <details><summary>Le scan signale une application que je connais</summary><p>C'est un faux positif : les règles sont volontairement prudentes. Ignorez le constat, ou signalez le cas dans le dépôt pour que la règle soit affinée.</p></details>
+      <details><summary>L'interface est floue ou trop petite sur mon écran</summary><p>L'interface suit l'échelle de votre bureau. Définissez la variable d'environnement <code>WINIT_X11_SCALE_FACTOR</code> (sous X11) ou ajustez l'échelle du système.</p></details>
+      <p style="margin-top:26px">Un souci que cette page ne couvre pas ? <a href="https://github.com/aelharrak/orbisys/issues" rel="noopener">Ouvrez un ticket</a> en indiquant votre distribution et l'écran concerné.</p>
+    </article>
+  </div>
+</main>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <div>OrbiSys · licence MIT</div>
+    <div>
+      <a href="index.html">Accueil</a><span aria-hidden="true"> · </span>
+      <a href="developpeurs.html">Développeurs</a><span aria-hidden="true"> · </span>
+      <a href="https://github.com/aelharrak/orbisys" rel="noopener">Code source</a>
+    </div>
+  </div>
+</footer>
+
+<dialog class="viewer" id="viewer" aria-label="Capture agrandie">
+  <form method="dialog"><button type="submit">Fermer ✕</button></form>
+  <img src="" alt="">
+  <p></p>
+</dialog>
+</body>
+</html>

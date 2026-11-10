@@ -1,0 +1,298 @@
+<!DOCTYPE html>
+<html lang="fr" data-theme="dark">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Documentation développeurs — OrbiSys</title>
+<meta name="description" content="Architecture d'OrbiSys (Rust, egui), modèle d'écran générique, ajout d'une rubrique, règles de sécurité, tests multi-distributions et conventions de contribution.">
+<meta name="theme-color" content="#0f0b08">
+<link rel="icon" href="assets/logo.svg" type="image/svg+xml">
+<link rel="stylesheet" href="assets/style.css">
+<script src="assets/site.js"></script>
+<script src="assets/lang.js" defer></script>
+<style>
+  .layers { display: grid; gap: 10px; margin: 22px 0 30px; }
+  .layer { border: 1px solid var(--border); background: var(--card); border-radius: 12px; padding: 14px 18px; }
+  .layer b { display: block; margin-bottom: 2px; }
+  .layer span { color: var(--muted); font-size: 15px; }
+  .layer.top { border-color: var(--accent); background: var(--accent-soft); }
+  .arrow { text-align: center; color: var(--muted); line-height: 1; font-size: 18px; }
+  .twocol { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+  @media (max-width: 640px) { .twocol { grid-template-columns: 1fr; } }
+</style>
+</head>
+<body>
+<a class="skip" href="#contenu">Aller au contenu</a>
+
+<header class="site-header">
+  <div class="wrap">
+    <a class="brand" href="index.html" aria-label="OrbiSys, accueil">
+      <img src="assets/logo.svg" alt="" width="30" height="30"> OrbiSys
+    </a>
+    <nav class="nav" aria-label="Navigation principale">
+      <a href="index.html#fonctionnalites">Fonctionnalités</a>
+      <a href="index.html#installation">Installation</a>
+      <a href="utilisateurs.html">Guide utilisateur</a>
+      <a href="developpeurs.html" aria-current="page">Développeurs</a>
+      <a href="https://github.com/aelharrak/orbisys" rel="noopener">GitHub</a>
+      <button class="icon-btn" id="theme" type="button" aria-label="Changer de thème clair ou sombre" title="Thème clair / sombre">◐</button>
+    </nav>
+  </div>
+</header>
+
+<main id="contenu" class="wrap">
+  <div class="doc">
+    <aside class="toc" aria-label="Sur cette page">
+      <b>Sur cette page</b>
+      <a href="#demarrer">Démarrer</a>
+      <a href="#architecture">Architecture</a>
+      <a href="#modele">Le modèle d'écran</a>
+      <a href="#ajouter">Ajouter une rubrique</a>
+      <a href="#securite">Règles de sécurité</a>
+      <a href="#tests">Tests</a>
+      <a href="#i18n">Traductions</a>
+      <a href="#captures">Captures d'écran</a>
+      <a href="#paquets">Paquets</a>
+      <a href="#pieges">Pièges connus</a>
+      <a href="#contribuer">Contribuer</a>
+    </aside>
+
+    <article>
+      <h1>Documentation développeurs</h1>
+      <p class="lead" style="margin:0 0 8px;text-align:left">Comprendre le code, ajouter un écran, et ne rien casser.</p>
+
+      <h2 id="demarrer">Démarrer</h2>
+      <div class="code"><pre><code>$ git clone https://github.com/aelharrak/orbisys.git
+$ cd orbisys
+$ cargo run --release          <span class="c"># interface graphique</span>
+$ cargo test                   <span class="c"># 347 tests</span>
+$ ./target/release/orbisys help</code></pre></div>
+      <p>Prérequis : Rust 1.80 ou plus récent. Dépendances : <code>eframe</code>/<code>egui</code> 0.29, <code>serde</code>, <code>serde_json</code>, <code>chrono</code>, <code>dirs</code>. Pas de runtime asynchrone, pas de bibliothèque système autre que l'affichage (Wayland ou X11).</p>
+      <p>La version Python (<code>main.py</code>, PySide6) reste dans le dépôt comme référence ; la comparaison mesurée est dans <a href="https://github.com/aelharrak/orbisys/blob/main/docs/parite-rust-python.md" rel="noopener"><code>docs/parite-rust-python.md</code></a>.</p>
+
+      <h3>Ligne de commande</h3>
+      <div class="code"><pre><code>orbisys inventory [--txt F] [--csv F] [--json F]
+orbisys updates
+orbisys clean [--apply]
+orbisys report [DOSSIER]    <span class="c"># TXT, CSV, JSON et PDF</span>
+orbisys panel [NOM]         <span class="c"># une rubrique en texte ; sans NOM : la liste</span></code></pre></div>
+      <p><code>panel</code> est l'outil de débogage le plus utile : il exécute la collecte d'une rubrique sans interface et affiche le résultat en texte.</p>
+
+      <h2 id="architecture">Architecture</h2>
+      <p>Trois couches, du système vers l'écran. Les modules métier ne connaissent pas l'interface ; l'interface ne lance jamais de commande elle-même.</p>
+      <div class="layers">
+        <div class="layer top"><b>Interface (<code>gui.rs</code>, <code>gui/panel_view.rs</code>)</b><span>egui : 39 écrans dédiés, plus un rendu unique pour les 39 rubriques génériques (tableaux, graphiques, formulaires, actions).</span></div>
+        <div class="arrow" aria-hidden="true">▲ messages (canal <code>mpsc</code>)</div>
+        <div class="layer"><b>Modules métier</b><span>Collecte et analyse : <code>pkg</code>, <code>disk</code>, <code>processes</code>, <code>services</code>, <code>security</code>, <code>storage</code>, <code>network</code>… et les rubriques génériques <code>p_*.rs</code> qui produisent un <code>Panel</code>. Les analyseurs sont des fonctions pures sur du texte, donc testables sans la machine.</span></div>
+        <div class="arrow" aria-hidden="true">▲</div>
+        <div class="layer"><b>Exécution sûre (<code>exec.rs</code>, <code>util.rs</code>, <code>panel.rs</code>)</b><span>Lancement de commandes sans shell, délais, élévation via <code>pkexec</code>, validations (noms, chemins, URL), fichiers temporaires privés.</span></div>
+      </div>
+      <p><b>Flux d'une action.</b> L'interface ne bloque jamais : <code>App::spawn</code> lance un thread, qui renvoie un <code>Msg</code> par un canal ; <code>App::poll</code> les applique au début de chaque image. Une action risquée est d'abord stockée dans une <code>Confirmation</code> ; elle ne devient un <code>Pending</code> exécuté qu'après le clic sur « Confirmer ».</p>
+
+      <h3>Organisation du dépôt</h3>
+      <div class="table-wrap"><table>
+        <thead><tr><th>Chemin</th><th>Rôle</th></tr></thead>
+        <tbody>
+          <tr><td><code>src/</code></td><td>Tout le code Rust ; les tests sont dans chaque module (<code>#[cfg(test)]</code>).</td></tr>
+          <tr><td><code>…/src/panel.rs</code>, <code>panels.rs</code></td><td>Modèle d'écran générique et catalogue <code>PanelId</code>.</td></tr>
+          <tr><td><code>…/src/p_*.rs</code></td><td>Rubriques génériques regroupées par thème (supervision, logiciels, système, stockage, réseau, sécurité, matériel, sauvegarde, scan).</td></tr>
+          <tr><td><code>…/src/i18n.rs</code>, <code>i18n_ui.rs</code></td><td>Traductions : clés de navigation et de titres ; libellés statiques des rubriques génériques.</td></tr>
+          <tr><td><code>…/packaging/</code></td><td><code>build-deb.sh</code>, <code>PKGBUILD</code>, <code>orbisys.spec</code>, <code>APKBUILD</code>, entrée de menu et icône.</td></tr>
+          <tr><td><code>…/parity.sh</code>, <code>distro-test.sh</code></td><td>Comparaison avec la version Python ; test sur plusieurs distributions.</td></tr>
+          <tr><td><code>docs/</code></td><td>Ce site et le rapport de parité.</td></tr>
+          <tr><td><code>main.py</code>, <code>tests/</code>, <code>packaging/</code> (racine)</td><td>Version Python de référence.</td></tr>
+        </tbody>
+      </table></div>
+
+      <h2 id="modele">Le modèle d'écran générique</h2>
+      <p>Une rubrique est une fonction <code>fn() -&gt; Panel</code>. Elle décrit <i>quoi</i> afficher ; un seul rendu (<code>gui/panel_view.rs</code>) s'occupe du <i>comment</i>. C'est ce qui permet d'ajouter un écran sans toucher à <code>gui.rs</code>.</p>
+      <div class="table-wrap"><table>
+        <thead><tr><th>Type</th><th>Contenu</th></tr></thead>
+        <tbody>
+          <tr><td><code>Panel</code></td><td>Indicateurs (<code>metrics</code>), sections, erreurs.</td></tr>
+          <tr><td><code>Section</code></td><td>Titre, colonnes et lignes, texte brut, note, actions globales, formulaire, graphiques.</td></tr>
+          <tr><td><code>Row</code></td><td>Cellules, drapeau « à signaler » (<code>bad</code>), actions propres à la ligne.</td></tr>
+          <tr><td><code>Cmd</code></td><td>Une action : programme et arguments, <code>privileged</code>, texte de <code>confirm</code>, ou une fonction interne (<code>Cmd::local</code>).</td></tr>
+          <tr><td><code>Form</code></td><td>Champs de saisie et fonction <code>build</code> qui valide les valeurs et renvoie une <code>Cmd</code> ou un message d'erreur.</td></tr>
+          <tr><td><code>Chart</code></td><td>Courbes (<code>Lines</code>) ou barres (<code>Bars</code>), unité, maximum d'axe, repères.</td></tr>
+        </tbody>
+      </table></div>
+
+      <h3>Exemple complet</h3>
+      <p>Une rubrique qui liste les unités systemd en échec et propose de les redémarrer :</p>
+      <div class="code"><pre><code><span class="k">use</span> orbisys::panel::*;
+
+<span class="c">/// Analyse `systemctl --failed --plain --no-legend` : noms d'unités.</span>
+<span class="k">pub fn</span> parse_failed(text: &amp;<span class="k">str</span>) -&gt; Vec&lt;String&gt; {
+    text.lines()
+        .filter_map(|line| line.split_whitespace().next())
+        .filter(|name| name.contains(<span class="s">'.'</span>))
+        .map(str::to_string)
+        .collect()
+}
+
+<span class="k">pub fn</span> failed_units_from(text: &amp;<span class="k">str</span>) -&gt; Panel {
+    <span class="k">let mut</span> panel = Panel::default();
+    <span class="k">let</span> units = parse_failed(text);
+    panel.metric(<span class="s">"En échec"</span>, units.len().to_string(),
+        <span class="k">if</span> units.is_empty() { Level::Ok } <span class="k">else</span> { Level::Bad });
+
+    <span class="k">let</span> rows = units.iter()
+        .filter(|unit| orbisys::util::valid_unit_name(unit))   <span class="c">// validation</span>
+        .map(|unit| {
+            Row::new(&amp;[unit.as_str()]).bad(<span class="k">true</span>).action(
+                Cmd::new(<span class="s">"Redémarrer"</span>, <span class="s">"systemctl"</span>, &amp;[<span class="s">"restart"</span>, unit])
+                    .privileged()                                      <span class="c">// via pkexec</span>
+                    .confirm(&amp;format!(<span class="s">"Redémarrer {unit} ?"</span>)),            <span class="c">// fenêtre de confirmation</span>
+            )
+        })
+        .collect();
+    panel.section(Section::new(<span class="s">"Unités en échec"</span>).columns(&amp;[<span class="s">"Unité"</span>]).rows(rows));
+    panel
+}
+
+<span class="k">pub fn</span> failed_units() -&gt; Panel {
+    failed_units_from(&amp;run_lossy(<span class="s">"systemctl"</span>, &amp;[<span class="s">"--failed"</span>, <span class="s">"--plain"</span>, <span class="s">"--no-legend"</span>]))
+}</code></pre></div>
+      <p>Séparer l'analyse (<code>failed_units_from</code>, qui prend du texte) de la collecte (<code>failed_units</code>, qui lance la commande) rend la rubrique testable sans la machine. Cet exemple est compilé et exécuté par <code>tests/doc_example.rs</code>, qui vérifie aussi qu'un nom comme <code>--rm.service</code> est écarté.</p>
+      <p>Les valeurs dynamiques (ici les noms d'unités) passent <b>toujours</b> par une validation avant d'entrer dans une <code>Cmd</code> : c'est la règle qui compte le plus (voir <a href="#securite">sécurité</a>).</p>
+
+      <h2 id="ajouter">Ajouter une rubrique en cinq étapes</h2>
+      <ol>
+        <li><b>Écrire la fonction</b> dans le module <code>p_*.rs</code> du bon thème (ou un nouveau module déclaré dans <code>lib.rs</code>) : analyseurs purs d'abord, collecte ensuite, avec leurs tests.</li>
+        <li><b>Déclarer l'identifiant</b> dans <code>panels.rs</code> : une variante de <code>PanelId</code>, son entrée dans <code>ALL</code>, <code>key()</code> (<code>"page.monnom"</code>), <code>hint_key()</code> (<code>"hint.monnom"</code>) et <code>collect()</code> (qui appelle votre fonction).</li>
+        <li><b>Titre et conseil</b> : deux lignes dans <code>i18n.rs</code> (<code>page.monnom</code>, <code>hint.monnom</code>) avec les trois langues. Le test <code>keys_are_unique_and_translated</code> échoue s'il en manque.</li>
+        <li><b>Navigation</b> : ajouter <code>Page::Panel(PanelId::MonNom)</code> au bon groupe de la constante <code>NAV</code> dans <code>gui.rs</code>.</li>
+        <li><b>Traduire les libellés</b> visibles (titres de section, colonnes, boutons, notes) dans <code>i18n_ui.rs</code> : la table associe le texte français à sa version anglaise et espagnole ; un texte absent reste en français.</li>
+      </ol>
+      <p>Vérifiez ensuite sans interface avec <code>orbisys panel monnom</code>, puis ouvrez-la directement avec <code>ORBISYS_PAGE=monnom cargo run</code>. Les rubriques sont chargées à la demande, dans un thread ; <code>PanelId::auto_refresh</code> permet un rafraîchissement automatique (la surveillance en direct l'utilise).</p>
+
+      <h3>Graphiques</h3>
+      <p>Pas de dépendance : les courbes et barres sont dessinées avec le <code>Painter</code> d'egui (<code>draw_chart</code> dans <code>panel_view.rs</code>). Pour ajouter un graphique à une section :</p>
+      <div class="code"><pre><code>section.chart(
+    Chart::bars(<span class="s">"Occupation (trait : 90 %)"</span>, <span class="s">"%"</span>,
+        mounts.iter().map(|m| m.target.clone()).collect(),
+        mounts.iter().map(|m| m.percent).collect())
+    .max_y(<span class="n">100.0</span>)
+    .marks(<span class="k">vec!</span>[<span class="n">90.0</span>; mounts.len()]),
+)</code></pre></div>
+      <p>Pour une courbe qui s'étend dans le temps, conservez l'historique dans une structure bornée (voir <code>LIVE</code> dans <code>p_monitor.rs</code>, un anneau protégé par un <code>Mutex</code>) et reconstruisez le <code>Chart</code> à chaque collecte.</p>
+
+      <h2 id="securite">Règles de sécurité</h2>
+      <p>Une application d'administration exécute du code avec des droits élevés à partir de données qui ne sont pas toutes de confiance (noms de fichiers, sorties de commandes, fichiers de sauvegarde). Ces règles sont vérifiées par des tests ; elles sont à respecter dans toute contribution.</p>
+      <ol>
+        <li><b>Jamais de shell.</b> <code>std::process::Command</code> avec une liste d'arguments, jamais <code>sh -c</code> ni concaténation. Un argument qui pourrait commencer par <code>-</code> est précédé de <code>--</code>.</li>
+        <li><b>Valider avant d'utiliser.</b> <code>util::valid_package_name</code>, <code>valid_unit_name</code>, <code>panel::safe_abs_path</code> (absolu, sans <code>..</code> ni caractère de contrôle), <code>valid_http_url</code>, <code>valid_username</code>… Un nom venant d'un fichier ou d'une sortie de commande est aussi une entrée non fiable.</li>
+        <li><b>Élévation par Polkit seulement.</b> <code>exec::run_privileged</code> ou <code>Cmd::privileged()</code> ; jamais de <code>sudo</code> ni de mot de passe manipulé par le code.</li>
+        <li><b>Confirmer ce qui détruit.</b> Toute action destructrice porte un <code>confirm(…)</code> qui dit ce qui va se passer.</li>
+        <li><b>Revérifier au moment d'agir.</b> L'état affiché peut être périmé : un numéro de ligne ou de règle (<code>sed -i Nd</code>, <code>ufw delete N</code>), un PID réattribué, un disque remplacé. Les actions correspondantes relisent l'état et refusent si rien ne correspond (<code>processes::check_target</code>, <code>edit_source_line</code>, <code>write_image</code>).</li>
+        <li><b>Fichiers temporaires privés.</b> Ce qu'une commande privilégiée copiera ensuite passe par <code>util::write_private_temp</code> : dossier en <code>0700</code>, création exclusive en <code>0600</code>, nom unique. Jamais un nom prévisible dans <code>/tmp</code>.</li>
+        <li><b>Secrets hors des arguments.</b> Les arguments sont lisibles par tous via <code>/proc/&lt;pid&gt;/cmdline</code> : une URL à jeton ou un mot de passe passe par l'entrée standard (ex. <code>curl -K -</code>), et le fichier qui la stocke est en <code>0600</code> (<code>panel::save_json</code>).</li>
+        <li><b>Ne jamais suivre un lien symbolique</b> dans une suppression ou une restauration : <code>symlink_metadata</code>, pas <code>metadata</code> ; <code>remove_dir_all</code> sur un lien supprime le lien.</li>
+        <li><b>Neutraliser le texte affiché</b> : <code>panel::strip_controls</code> remplace les séquences d'échappement de terminal dans le rendu en ligne de commande.</li>
+        <li><b>Lecture seule par défaut.</b> Un écran d'analyse ne modifie rien ; une réponse (quarantaine, arrêt) est toujours une action explicite.</li>
+      </ol>
+      <div class="note"><b>Précision utile :</b> <code>util::path_within</code> compare des chemins <i>lexicalement</i> et ne résout pas les liens symboliques. Pour une garantie sur le disque, utilisez <code>canonicalize</code> (comme <code>manual::remove</code> pour <code>/opt</code>) ou testez chaque composant.</div>
+      <p>Un audit de sécurité du code a été mené ; ses constats (fichiers temporaires prévisibles, URL de webhook dans les arguments, archives, états périmés) sont corrigés et couverts par des tests.</p>
+
+      <h2 id="tests">Tests</h2>
+      <div class="table-wrap"><table>
+        <thead><tr><th>Commande</th><th>Ce qu'elle vérifie</th></tr></thead>
+        <tbody>
+          <tr><td><code>cargo test</code></td><td>347 tests : analyseurs sur des sorties d'exemple, validations (y compris les entrées hostiles), actions réelles sur des processus et fichiers de test (signaux, quarantaine, extraction), traductions.</td></tr>
+          <tr><td><code>cargo clippy --all-targets</code></td><td>Aucun nouvel avertissement dans le code modifié.</td></tr>
+          <tr><td><code>./parity.sh</code></td><td>Les compteurs (paquets, snap, flatpak…) sont identiques à la version Python et à la vérité terrain.</td></tr>
+          <tr><td><code>./distro-test.sh [image…]</code></td><td>Le binaire statique (musl) tourne sans plantage dans des conteneurs : Debian, Ubuntu, Arch, Fedora, openSUSE, Alpine.</td></tr>
+        </tbody>
+      </table></div>
+      <h3>Conventions de test</h3>
+      <ul>
+        <li>Chaque analyseur a un test sur une sortie <i>réelle</i> ou fidèle de l'outil, y compris ses cas limites (ligne vide, champ manquant, échappements).</li>
+        <li>Chaque validation a un test qui lui envoie des entrées hostiles (<code>../</code>, <code>;</code>, retour à la ligne, <code>-option</code>).</li>
+        <li>Pour une action qui modifie le disque ou un processus, un test l'exécute pour de vrai sur un fichier ou un processus de test créé dans <code>std::env::temp_dir()</code>.</li>
+        <li>Les parseurs ne dépendent pas de la langue du système : pas de mot d'en-tête anglais pour reconnaître une sortie (voir <a href="#pieges">pièges</a>).</li>
+      </ul>
+      <h3>Variables d'environnement utiles</h3>
+      <div class="table-wrap"><table>
+        <thead><tr><th>Variable</th><th>Effet</th></tr></thead>
+        <tbody>
+          <tr><td><code>ORBISYS_PAGE=nom</code></td><td>Ouvre directement un écran (rubrique générique ou page dédiée : <code>dashboard</code>, <code>processes</code>, <code>software</code>…).</td></tr>
+          <tr><td><code>ORBISYS_THEME=dark|light</code></td><td>Force le thème sans toucher aux préférences.</td></tr>
+          <tr><td><code>ORBISYS_LANG=fr|en|es</code></td><td>Force la langue sans toucher aux préférences.</td></tr>
+        </tbody>
+      </table></div>
+
+      <h2 id="i18n">Traductions</h2>
+      <p>L'interface comme le site existent en <b>11 langues</b> : anglais, français, allemand, espagnol, portugais, italien, néerlandais, japonais, coréen, chinois et arabe. La langue source est le <b>français</b>. Le site est traduit à 100 %. Dans l'application, les libellés des rubriques génériques et des écrans dédiés sont traduits dans les huit langues à fichier ; <b>les valeurs dynamiques produites par le système (sorties de commandes, messages d'erreur détaillés) ne sont pas toutes traduites</b> : elles s'affichent telles que le système les fournit.</p>
+      <h3>L'application</h3>
+      <ul>
+        <li><code>i18n.rs</code> : table <code>(clé, fr, en, es)</code> pour la navigation, les titres de page et les conseils. Les autres langues sont des fichiers <code>src/lang/&lt;code&gt;.tsv</code> (<code>clé</code>, tabulation, <code>texte</code>) : <b>navigation, titres des 77 écrans, conseils (<code>hint.*</code>) et textes de l'interface</b> y sont traduits. Le test <code>file_languages_cover_every_key</code> vérifie qu'aucune clé de la table ne manque dans une langue.</li>
+        <li><code>i18n_ui.rs</code> : table <code>(français, anglais, espagnol)</code> appliquée à l'<i>affichage</i> des libellés des rubriques génériques. La correspondance est exacte : les textes qui contiennent une valeur variable restent en français ; les langues sans table propre utilisent l'anglais.</li>
+        <li><b>Polices.</b> La police d'egui ne couvre ni le CJK ni l'arabe : <code>gui/ui_fonts.rs</code> cherche une police <b>déjà installée</b> (Noto Sans CJK, DejaVu Sans, Noto Naskh…) et l'ajoute en secours ; l'écran « À propos » indique quoi installer si elle manque (<code>fonts-noto-cjk</code>, <code>fonts-dejavu</code>).</li>
+        <li><b>Arabe.</b> egui ne relie pas les lettres et n'inverse pas le sens d'écriture : <code>arabic.rs</code> met le texte en forme visuelle (formes contextuelles, ligatures lam-alif, ordre inversé, segments latins conservés) une fois, au chargement. <b>La disposition de l'interface n'est pas inversée</b> (menu à gauche).</li>
+      </ul>
+      <h3>Le site</h3>
+      <p>Un dictionnaire par langue dans <code>docs/assets/i18n/</code>, appliqué par <code>assets/lang.js</code> (voir le <code>README.md</code> de ce dossier). <code>python3 docs/tools/check-i18n.py</code> mesure la couverture et signale les clés devenues obsolètes.</p>
+      <p>Ajouter une langue : un fichier <code>.tsv</code> et une variante de <code>Lang</code> pour l'application ; un dictionnaire et une entrée de <code>LANGS</code> pour le site.</p>
+
+      <h2 id="captures">Captures d'écran</h2>
+      <p>Les captures de ce site sont de vraies captures, produites par script (<code>tools/screenshots.py</code>). L'application est lancée sous X11 (<code>WINIT_UNIX_BACKEND=x11</code>) avec <code>ORBISYS_PAGE</code>, <code>…_THEME</code> et <code>…_LANG</code>, puis la fenêtre est capturée avec ImageMagick.</p>
+      <div class="code"><pre><code>$ cargo build --release
+$ python3 tools/screenshots.py dashboard processes scan   <span class="c"># sans argument : toutes</span></code></pre></div>
+      <div class="note warn-box"><b>Avant de publier une capture</b>, relisez-la : elle montre les processus, chemins, noms d'utilisateur et paquets <i>de la machine qui l'a produite</i>.</div>
+
+      <h2 id="paquets">Paquets</h2>
+      <div class="table-wrap"><table>
+        <thead><tr><th>Format</th><th>Fichier</th><th>État</th></tr></thead>
+        <tbody>
+          <tr><td>.deb</td><td><code>packaging/build-deb.sh</code></td><td class="ok">Construit et installé sur Ubuntu</td></tr>
+          <tr><td>Arch</td><td><code>packaging/PKGBUILD</code></td><td class="warn">Écrit, jamais construit</td></tr>
+          <tr><td>RPM</td><td><code>packaging/orbisys.spec</code></td><td class="warn">Écrit, jamais construit</td></tr>
+          <tr><td>Alpine</td><td><code>packaging/APKBUILD</code></td><td class="warn">Écrit, jamais construit</td></tr>
+        </tbody>
+      </table></div>
+      <p style="margin-top:14px">Construire et tester ces trois recettes dans leurs conteneurs est une contribution très utile.</p>
+
+      <h2 id="pieges">Pièges connus</h2>
+      <p>Des erreurs déjà rencontrées, pour ne pas les refaire.</p>
+      <ul>
+        <li><b>Parsing dépendant de la langue.</b> <code>disk::mounts</code> reconnaissait l'en-tête de <code>df</code> par le mot « Filesystem » ; sur un système en français l'en-tête est « Sys. de fichiers », la lecture retombait sur un repli qui listait 75 montages au lieu de 3. Ne reconnaissez pas une sortie par un mot localisé.</li>
+        <li><b>Paquets en état <code>rc</code>.</b> <code>dpkg-query -W</code> liste aussi les paquets désinstallés dont la configuration subsiste : filtrez sur l'état <code>ii</code> (305 faux logiciels sur la machine de test).</li>
+        <li><b>PID réattribué.</b> Entre l'affichage d'une liste et un clic, un PID peut désigner un autre processus. Comparez le nom avant d'agir ; dans un test, attendez la fin du <code>exec</code> du processus créé (nom et ligne de commande sont vides un instant).</li>
+        <li><b>Glyphes absents.</b> La police par défaut d'egui n'a pas les caractères de blocs Unicode (<code>▁▂▃</code>) : ils s'affichent en carrés. Dessinez avec le <code>Painter</code>.</li>
+        <li><b><code>add_sized</code> centre le contenu</b> et <code>allocate_ui_with_layout</code> ne réserve que la place utilisée : pour une colonne alignée à gauche de largeur fixe, utilisez <code>left_cell</code> (réserve la cellule puis y place le widget).</li>
+        <li><b>Lectures réservées.</b> Sans droits administrateur, <code>/proc/&lt;pid&gt;/exe</code> des autres utilisateurs, <code>ufw status</code>, <code>/sys/kernel/security/apparmor</code> sont illisibles : traitez « illisible » comme un état, pas comme « absent ».</li>
+        <li><b>Un conteneur n'est pas une machine.</b> Il n'a ni <code>ss</code>, ni systemd, ni écran : <code>distro-test.sh</code> prouve l'absence de plantage, pas l'exactitude des résultats.</li>
+      </ul>
+
+      <h2 id="contribuer">Contribuer</h2>
+      <ol>
+        <li>Ouvrez un ticket (ou commentez-en un) pour dire ce que vous voulez faire.</li>
+        <li>Créez une branche, écrivez les <b>tests avec le code</b>, puis vérifiez <code>cargo test</code>, <code>cargo clippy --all-targets</code> et, si vous touchez aux paquets, <code>./parity.sh</code>.</li>
+        <li>Si votre changement agit sur le système, suivez les <a href="#securite">règles de sécurité</a> et décrivez dans la demande ce que vous avez validé.</li>
+        <li>Décrivez la distribution sur laquelle vous avez essayé ; <code>./distro-test.sh</code> pour les autres.</li>
+      </ol>
+      <h3>Pistes ouvertes</h3>
+      <ul>
+        <li>Interface graphique : seule Ubuntu a été essayée ; des retours Fedora, Arch, openSUSE, Alpine sont les bienvenus.</li>
+        <li>Intégrité des paquets pour Arch (<code>pacman -Qkk</code>) et Alpine (<code>apk verify</code>).</li>
+        <li>Construire et tester les recettes RPM, Arch et Alpine.</li>
+        <li>Traduire le contenu variable des écrans (aujourd'hui seuls les libellés statiques le sont).</li>
+        <li>Affiner les règles du scan des comportements anormaux à partir des faux positifs rencontrés.</li>
+      </ul>
+    </article>
+  </div>
+</main>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <div>OrbiSys · licence MIT</div>
+    <div>
+      <a href="index.html">Accueil</a><span aria-hidden="true"> · </span>
+      <a href="utilisateurs.html">Guide utilisateur</a><span aria-hidden="true"> · </span>
+      <a href="https://github.com/aelharrak/orbisys" rel="noopener">Code source</a>
+    </div>
+  </div>
+</footer>
+</body>
+</html>
