@@ -37,6 +37,20 @@
 
 بعد التثبيت، شغّل `orbisys` في الطرفية أو افتح **OrbiSys** من قائمة التطبيقات.
 
+## إزالة التثبيت
+
+استخدم مدير الحزم في توزيعتك لإزالة OrbiSys:
+
+| التوزيعة | الأمر |
+| --- | --- |
+| Fedora وRHEL | `sudo dnf remove orbisys` |
+| openSUSE | `sudo zypper remove orbisys` |
+| Debian وUbuntu | `sudo apt remove orbisys` |
+| Arch Linux | `sudo pacman -R orbisys` |
+| Alpine Linux | `sudo apk del orbisys` |
+
+إذا ثبّت OrbiSys من مستودع PPA، فأزل المستودع بشكل منفصل باستخدام `sudo add-apt-repository --remove ppa:amine-elharrak/ppa`. إذا أنشأت التطبيق من المصدر، فأغلقه ثم احذف مجلد المستودع المستنسخ.
+
 ### البناء من المصدر
 
 المتطلبات: Rust وCargo بإصدار 1.80 أو أحدث. من جذر المشروع نفّذ:

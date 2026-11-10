@@ -37,6 +37,20 @@ Het meegeleverde Alpine-pakket is een lokaal bestand dat niet door een geconfigu
 
 Start na de installatie `orbisys` in een terminal of open **OrbiSys** via het toepassingenmenu.
 
+## Verwijderen
+
+Verwijder OrbiSys met de pakketbeheerder van uw distributie:
+
+| Distributie | Opdracht |
+| --- | --- |
+| Fedora en RHEL | `sudo dnf remove orbisys` |
+| openSUSE | `sudo zypper remove orbisys` |
+| Debian en Ubuntu | `sudo apt remove orbisys` |
+| Arch Linux | `sudo pacman -R orbisys` |
+| Alpine Linux | `sudo apk del orbisys` |
+
+Als u OrbiSys via de PPA hebt geïnstalleerd, verwijder dan ook de pakketbron met `sudo add-apt-repository --remove ppa:amine-elharrak/ppa`. Sluit de toepassing en verwijder de gekloonde repositorymap als u de broncode hebt gebouwd.
+
 ### Bouwen vanuit broncode
 
 Vereist: Rust en Cargo 1.80 of hoger. Voer in de projectmap uit:

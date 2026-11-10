@@ -37,6 +37,20 @@ OrbiSys 汇集了系统检查和维护工具：
 
 安装后，可在终端运行 `orbisys`，或从应用程序菜单启动 **OrbiSys**。
 
+## 卸载
+
+使用发行版的软件包管理器卸载 OrbiSys：
+
+| 发行版 | 命令 |
+| --- | --- |
+| Fedora、RHEL | `sudo dnf remove orbisys` |
+| openSUSE | `sudo zypper remove orbisys` |
+| Debian、Ubuntu | `sudo apt remove orbisys` |
+| Arch Linux | `sudo pacman -R orbisys` |
+| Alpine Linux | `sudo apk del orbisys` |
+
+如果通过 PPA 安装，还可以使用 `sudo add-apt-repository --remove ppa:amine-elharrak/ppa` 单独移除该软件源。如果从源代码构建，请先关闭应用，再删除克隆的仓库目录。
+
 ### 从源代码构建
 
 要求：Rust 和 Cargo 1.80 或更高版本。在项目根目录运行：

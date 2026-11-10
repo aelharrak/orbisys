@@ -55,6 +55,20 @@ The included Alpine package is a local file that is not signed by a configured r
 
 After installation, run `orbisys` in a terminal or launch **OrbiSys** from your applications menu.
 
+## Uninstall
+
+Use your distribution's package manager to remove OrbiSys:
+
+| Distribution | Command |
+| --- | --- |
+| Fedora and RHEL | `sudo dnf remove orbisys` |
+| openSUSE | `sudo zypper remove orbisys` |
+| Debian and Ubuntu | `sudo apt remove orbisys` |
+| Arch Linux | `sudo pacman -R orbisys` |
+| Alpine Linux | `sudo apk del orbisys` |
+
+If you installed OrbiSys from the PPA, you can remove the PPA separately with `sudo add-apt-repository --remove ppa:amine-elharrak/ppa`. If you built it from source, close the app and delete the cloned repository folder.
+
 ### Build from source
 
 Requirements: Rust and Cargo 1.80 or later. From the project root, build the release binary:

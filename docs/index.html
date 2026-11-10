@@ -307,6 +307,26 @@
 
       </div>
 
+      <div class="uninstall-guide" style="margin-top:32px">
+        <h3>Désinstaller OrbiSys</h3>
+        <p class="muted">Supprimez OrbiSys avec la commande correspondant à votre distribution :</p>
+        <div class="table-wrap table-plain">
+          <table class="dist">
+            <thead><tr><th>Distribution</th><th>Commande</th></tr></thead>
+            <tbody>
+              <tr><td data-no-i18n>Ubuntu / Debian</td><td><code data-no-i18n>sudo apt remove orbisys</code></td></tr>
+              <tr><td data-no-i18n>Fedora / RHEL</td><td><code data-no-i18n>sudo dnf remove orbisys</code></td></tr>
+              <tr><td data-no-i18n>openSUSE</td><td><code data-no-i18n>sudo zypper remove orbisys</code></td></tr>
+              <tr><td data-no-i18n>Arch Linux</td><td><code data-no-i18n>sudo pacman -R orbisys</code></td></tr>
+              <tr><td data-no-i18n>Alpine Linux</td><td><code data-no-i18n>sudo apk del orbisys</code></td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p class="muted">Si vous avez compilé depuis les sources, fermez OrbiSys puis supprimez le dossier du dépôt.</p>
+        <p class="muted">Si vous aviez ajouté le PPA, retirez-le séparément :</p>
+        <p><code data-no-i18n>sudo add-apt-repository --remove ppa:amine-elharrak/ppa</code></p>
+      </div>
+
       <div class="table-wrap table-plain">
         <table class="dist">
           <thead><tr><th>Distribution</th><th>Paquets</th><th>Statut</th></tr></thead>

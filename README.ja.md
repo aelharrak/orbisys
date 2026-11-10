@@ -37,6 +37,20 @@ OrbiSys はシステムの確認と保守のためのツールをまとめてい
 
 インストール後、端末で `orbisys` を実行するか、アプリケーションメニューから **OrbiSys** を起動してください。
 
+## アンインストール
+
+ディストリビューションのパッケージマネージャーで OrbiSys を削除します。
+
+| ディストリビューション | コマンド |
+| --- | --- |
+| Fedora / RHEL | `sudo dnf remove orbisys` |
+| openSUSE | `sudo zypper remove orbisys` |
+| Debian / Ubuntu | `sudo apt remove orbisys` |
+| Arch Linux | `sudo pacman -R orbisys` |
+| Alpine Linux | `sudo apk del orbisys` |
+
+PPA からインストールした場合は、`sudo add-apt-repository --remove ppa:amine-elharrak/ppa` で PPA も削除できます。ソースからビルドした場合は、アプリを終了してクローンしたリポジトリのフォルダーを削除してください。
+
 ### ソースからビルド
 
 必要条件: Rust と Cargo 1.80 以降。プロジェクトのルートで実行します。

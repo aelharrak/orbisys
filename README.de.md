@@ -37,6 +37,20 @@ Das Alpine-Paket ist eine lokale Datei, die nicht von einem konfigurierten Repos
 
 Starten Sie nach der Installation `orbisys` im Terminal oder öffnen Sie **OrbiSys** über das Anwendungsmenü.
 
+## Deinstallation
+
+Entfernen Sie OrbiSys mit dem Paketmanager Ihrer Distribution:
+
+| Distribution | Befehl |
+| --- | --- |
+| Fedora und RHEL | `sudo dnf remove orbisys` |
+| openSUSE | `sudo zypper remove orbisys` |
+| Debian und Ubuntu | `sudo apt remove orbisys` |
+| Arch Linux | `sudo pacman -R orbisys` |
+| Alpine Linux | `sudo apk del orbisys` |
+
+Wenn Sie OrbiSys über das PPA installiert haben, entfernen Sie das PPA separat mit `sudo add-apt-repository --remove ppa:amine-elharrak/ppa`. Bei einer Installation aus dem Quellcode schließen Sie die Anwendung und löschen den geklonten Repository-Ordner.
+
 ### Aus dem Quellcode erstellen
 
 Voraussetzung: Rust und Cargo 1.80 oder neuer. Im Projektverzeichnis:
