@@ -7,39 +7,28 @@
     set: function (k, v) { try { localStorage.setItem(k, v); } catch (e) { /* stockage indisponible */ } }
   };
 
-  // Thème : choix mémorisé, sinon préférence du système, sinon sombre.
-  function applyTheme(theme) { root.setAttribute("data-theme", theme); }
+  // Thème : choix mémorisé, sinon clair par défaut.
+  function applyTheme(theme) {
+    var dark = theme === "dark";
+    root.setAttribute("data-theme", dark ? "dark" : "light");
+    var button = document.getElementById("theme");
+    if (button) {
+      button.setAttribute("aria-pressed", dark ? "true" : "false");
+      var icon = button.querySelector(".theme-icon");
+      if (icon) icon.textContent = dark ? "☾" : "☀";
+    }
+  }
   var saved = store.get("um-theme");
-  applyTheme(saved || (window.matchMedia && window.matchMedia("(prefers-color-scheme: light)").matches ? "light" : "dark"));
+  applyTheme(saved || "light");
   document.addEventListener("DOMContentLoaded", function () {
     var button = document.getElementById("theme");
     if (button) {
+      applyTheme(root.getAttribute("data-theme"));
       button.addEventListener("click", function () {
         var next = root.getAttribute("data-theme") === "dark" ? "light" : "dark";
         applyTheme(next);
         store.set("um-theme", next);
       });
-    }
-
-    // Bandeau défilant de commandes (décoratif, injecté ici pour ne pas entrer dans les textes à traduire).
-    var hero = document.querySelector(".hero");
-    if (hero && !window.matchMedia("(prefers-reduced-motion: reduce)").matches) {
-      var cmds = ["systemctl", "journalctl", "apt", "ufw", "df -h", "htop", "lsblk", "ip addr", "crontab", "dmesg", "lspci", "timeshift"];
-      var band = document.createElement("div");
-      band.className = "marquee";
-      band.setAttribute("aria-hidden", "true");
-      band.setAttribute("data-no-i18n", "");
-      var track = document.createElement("div");
-      cmds.concat(cmds).forEach(function (c) {
-        var item = document.createElement("span");
-        var mark = document.createElement("b");
-        mark.textContent = "\u203A";
-        item.appendChild(mark);
-        item.appendChild(document.createTextNode(c));
-        track.appendChild(item);
-      });
-      band.appendChild(track);
-      hero.insertAdjacentElement("afterend", band);
     }
 
     // Menu compact sur téléphone (bouton ajouté ici : sans texte à traduire).

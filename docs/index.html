@@ -1,11 +1,11 @@
 <!DOCTYPE html>
-<html lang="fr" data-theme="dark">
+<html lang="fr" data-theme="light">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>OrbiSys — Votre Linux, sous contrôle</title>
 <meta name="description" content="OrbiSys : application libre en Rust pour surveiller, entretenir et sécuriser un poste Linux. Logiciels, processus, disques, réseau, sécurité, sauvegardes : 77 écrans, un seul binaire.">
-<meta name="theme-color" content="#0f0b08">
+<meta name="theme-color" content="#fbfaf7">
 <!-- Les URL pointent vers https://github.com/aelharrak/orbisys (voir docs/README.md). -->
 <meta property="og:type" content="website">
 <meta property="og:title" content="OrbiSys — Votre Linux, sous contrôle">
@@ -32,8 +32,8 @@
       <a href="utilisateurs.html">Guide utilisateur</a>
       <a href="developpeurs.html">Développeurs</a>
       <a href="https://github.com/aelharrak/orbisys" rel="noopener">GitHub</a>
-      <button class="icon-btn" id="theme" type="button" aria-label="Changer de thème clair ou sombre" title="Thème clair / sombre">◐</button>
     </nav>
+    <button class="theme-switch" id="theme" type="button" aria-label="Changer de thème clair ou sombre" title="Thème clair / sombre" aria-pressed="false"><span class="theme-icon" aria-hidden="true" data-no-i18n>☀</span></button>
   </div>
 </header>
 
@@ -41,12 +41,14 @@
   <!-- ============ HERO ============ -->
   <div class="hero">
     <div class="wrap">
-      <span class="eyebrow">v1.0 · open source · 100% local</span>
-      <h1><span>Votre Linux,</span><br><span class="grad">sous contrôle.</span></h1>
-      <p class="lead">Surveillez, diagnostiquez et entretenez votre système depuis une seule fenêtre. Sans terminal, sans surprise.</p>
-      <div class="cta">
-        <a class="btn btn-primary" href="#installation">Installer gratuitement</a>
-        <a class="btn btn-ghost" href="#captures">Voir l'aperçu →</a>
+      <div class="hero-copy">
+        <span class="eyebrow">v1.0 · open source · 100% local</span>
+        <h1><span>Votre Linux,</span><br><span class="grad">sous contrôle.</span></h1>
+        <p class="lead">Surveillez, diagnostiquez et entretenez votre système depuis une seule fenêtre. Sans terminal, sans surprise.</p>
+        <div class="cta">
+          <a class="btn btn-primary" href="#installation">Installer gratuitement</a>
+          <a class="btn btn-ghost" href="#captures">Voir l'aperçu →</a>
+        </div>
       </div>
       <figure class="shot hero-shot">
         <button type="button" aria-label="Agrandir la capture du tableau de bord">
@@ -54,6 +56,17 @@
         </button>
         <figcaption><b>Tableau de bord.</b> L'état de la machine d'un coup d'œil, avec des courbes qui se mettent à jour toutes seules.</figcaption>
       </figure>
+    </div>
+  </div>
+
+  <div class="hero-proof">
+    <div class="wrap">
+      <div class="stats-band">
+        <div><b class="stat-num">77</b><span>Écrans</span></div>
+        <div><b class="stat-num">0</b><span>Télémétrie</span></div>
+        <div><b class="stat-num">1</b><span>Commande d'install</span></div>
+        <div><b class="stat-num">100%</b><span>Open source</span></div>
+      </div>
     </div>
   </div>
 
@@ -135,12 +148,6 @@
           <h3>Confort</h3>
           <p>Thèmes, raccourcis et préférences.</p>
         </article>
-      </div>
-      <div class="stats-band">
-        <div><b class="stat-num">77</b><span>Écrans</span></div>
-        <div><b class="stat-num">0</b><span>Télémétrie</span></div>
-        <div><b class="stat-num">1</b><span>Commande d'install</span></div>
-        <div><b class="stat-num">100%</b><span>Open source</span></div>
       </div>
     </div>
   </section>
@@ -353,7 +360,7 @@
       <details><summary>Est-ce gratuit ?</summary><p>Oui, open source sous licence libre.</p></details>
       <details><summary>L'application peut-elle casser mon système ?</summary><p>Toute action sensible demande confirmation et affiche la commande exécutée.</p></details>
       <details><summary>Mes données sont-elles envoyées ?</summary><p>Non. Aucune connexion sortante hors mises à jour.</p></details>
-      <details><summary>Comment désinstaller ?</summary><p>Une seule commande, sans résidu.</p></details>
+      <details><summary>Comment désinstaller ?</summary><p><a class="faq-action" href="#desinstallation">Désinstaller OrbiSys</a></p></details>
     </div>
   </section>
   <!-- ============ APPEL À L'ACTION ============ -->

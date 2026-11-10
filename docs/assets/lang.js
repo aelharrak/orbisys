@@ -204,6 +204,8 @@
     if (!langButton) return;
     var flag = langButton.querySelector(".lang-flag");
     if (flag) flag.textContent = lang.flag;
+    var codeLabel = langButton.querySelector(".lang-code");
+    if (codeLabel) codeLabel.textContent = lang.code.toUpperCase();
     langButton.setAttribute("aria-label", lang.name);
     langButton.title = lang.name;
     langOptions.forEach(function (option) {
@@ -231,6 +233,15 @@
     flag.className = "lang-flag";
     flag.setAttribute("aria-hidden", "true");
     button.appendChild(flag);
+    var codeLabel = document.createElement("span");
+    codeLabel.className = "lang-code";
+    codeLabel.setAttribute("aria-hidden", "true");
+    button.appendChild(codeLabel);
+    var caret = document.createElement("span");
+    caret.className = "lang-caret";
+    caret.setAttribute("aria-hidden", "true");
+    caret.textContent = "⌄";
+    button.appendChild(caret);
 
     var menu = document.createElement("div");
     menu.id = "lang-menu";
@@ -335,7 +346,8 @@
     langButton = button;
     wrap.appendChild(button);
     var theme = document.getElementById("theme");
-    nav.insertBefore(wrap, theme);
+    if (theme && theme.parentNode === nav) nav.insertBefore(wrap, theme);
+    else nav.appendChild(wrap);
     document.body.appendChild(menu);
     markCurrent(current);
   }
