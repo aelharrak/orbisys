@@ -172,8 +172,6 @@ window.UM_T=window.UM_T||{};window.UM_T["it"]={
 "Alpine": "Alpine",
 "Votre Linux,": "Il tuo Linux,",
 "sous contrôle.": "sotto controllo.",
-"__notice__": "Questa pagina è tradotta solo in parte: le parti mancanti compaiono in inglese o, se non esiste, in francese. Le traduzioni sono benvenute.",
-"__close__": "Chiudi",
 "OrbiSys — Votre Linux, sous contrôle": "OrbiSys — Il tuo Linux, sotto controllo",
 "Guide utilisateur — OrbiSys": "Guida utente — OrbiSys",
 "Documentation développeurs — OrbiSys": "Documentazione per sviluppatori — OrbiSys",

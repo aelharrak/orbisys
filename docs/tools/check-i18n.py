@@ -21,9 +21,6 @@ PAGES = ["index.html", "utilisateurs.html", "developpeurs.html", "404.html"]
 LANGS = ["en", "de", "es", "pt", "it", "nl", "ja", "ko", "zh", "ar"]
 INLINE = {"b", "i", "em", "strong", "code", "a", "span", "br", "kbd", "small"}
 SKIP = {"script", "style", "pre", "svg", "code", "textarea", "option", "select", "noscript"}
-SPECIAL = {"__notice__", "__close__"}
-
-
 VOID = {"br", "img", "meta", "link", "input", "hr"}
 
 
@@ -129,7 +126,7 @@ def main(argv):
     for code in LANGS:
         have = dictionary(code)
         done = sum(1 for key in wanted if key in have)
-        stale = [key for key in have if key not in wanted and key not in SPECIAL]
+        stale = [key for key in have if key not in wanted]
         stale_total += len(stale)
         print(f"{code:8}{done:>10}{done * 100 // len(wanted):>11}%{len(stale):>11}")
         for key in stale[:3]:
