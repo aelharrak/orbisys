@@ -3,6 +3,7 @@ window.UM_T=window.UM_T||{};window.UM_T["ar"]={
 "Fonctionnalités": "الميزات",
 "Captures": "لقطات الشاشة",
 "Installation": "التثبيت",
+ "Désinstallation": "إزالة التثبيت",
  "Désinstaller OrbiSys": "إزالة تثبيت OrbiSys",
  "Supprimez OrbiSys avec la commande correspondant à votre distribution :": "أزل OrbiSys باستخدام الأمر المناسب لتوزيعتك:",
  "Commande": "الأمر",

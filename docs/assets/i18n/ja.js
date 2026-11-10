@@ -3,6 +3,7 @@ window.UM_T=window.UM_T||{};window.UM_T["ja"]={
 "Fonctionnalités": "機能",
 "Captures": "スクリーンショット",
 "Installation": "インストール",
+ "Désinstallation": "アンインストール",
  "Désinstaller OrbiSys": "OrbiSys のアンインストール",
  "Supprimez OrbiSys avec la commande correspondant à votre distribution :": "お使いのディストリビューションに対応するコマンドで OrbiSys を削除します：",
  "Commande": "コマンド",

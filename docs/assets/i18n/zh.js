@@ -3,6 +3,7 @@ window.UM_T=window.UM_T||{};window.UM_T["zh"]={
 "Fonctionnalités": "功能",
 "Captures": "截图",
 "Installation": "安装",
+ "Désinstallation": "卸载",
  "Désinstaller OrbiSys": "卸载 OrbiSys",
  "Supprimez OrbiSys avec la commande correspondant à votre distribution :": "使用适用于你所用发行版的命令卸载 OrbiSys：",
  "Commande": "命令",

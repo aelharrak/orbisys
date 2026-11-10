@@ -3,6 +3,7 @@ window.UM_T=window.UM_T||{};window.UM_T["pt"]={
 "Fonctionnalités": "Funcionalidades",
 "Captures": "Capturas de ecrã",
 "Installation": "Instalação",
+ "Désinstallation": "Desinstalação",
  "Désinstaller OrbiSys": "Desinstalar o OrbiSys",
  "Supprimez OrbiSys avec la commande correspondant à votre distribution :": "Remova o OrbiSys com o comando correspondente à sua distribuição:",
  "Commande": "Comando",

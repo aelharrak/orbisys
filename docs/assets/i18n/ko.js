@@ -3,6 +3,7 @@ window.UM_T=window.UM_T||{};window.UM_T["ko"]={
 "Fonctionnalités": "기능",
 "Captures": "스크린샷",
 "Installation": "설치",
+ "Désinstallation": "제거",
  "Désinstaller OrbiSys": "OrbiSys 제거",
  "Supprimez OrbiSys avec la commande correspondant à votre distribution :": "배포판에 맞는 명령으로 OrbiSys를 제거하세요:",
  "Commande": "명령",
