@@ -1,0 +1,208 @@
+# Traductions de l'interface (clé<TAB>texte). Les clés absentes se replient sur l'anglais.
+nav.monitoring	모니터링
+nav.software	소프트웨어
+nav.storage	저장소
+nav.kernel	시스템 및 커널
+nav.volumes	볼륨 및 암호화
+nav.peripherals	주변 장치
+nav.desktop	데스크톱
+nav.automation	자동화
+nav.system	시스템
+nav.network	네트워크
+nav.security	보안
+nav.locale	글꼴 및 로캘
+nav.optimize	최적화
+nav.snapshots	스냅샷 및 아카이브
+nav.app	애플리케이션
+app.search	검색…
+app.refresh	새로 고침
+app.theme	테마
+app.search_hint	전체 검색: Ctrl+K
+app.busy	읽는 중
+app.version	버전
+about.distribution	배포판
+about.kernel	커널
+about.manager	패키지 관리자
+about.native	네이티브 패키지
+about.accent	강조 색상
+about.language	언어
+about.missing	없는 선택 도구
+about.all_present	모든 선택 도구가 있습니다.
+about.policy	권한이 필요한 작업은 Polkit을 거치며, 셸을 통해 실행되는 명령은 없습니다.
+about.active	활성
+about.available	사용 가능
+about.missing_short	없음
+ui.loading	읽는 중…
+ui.filter	필터
+ui.reload	다시 불러오기
+ui.empty	표시할 항목이 없습니다.
+ui.nomatch	이 필터에 해당하는 결과가 없습니다.
+ui.close	닫기
+ui.charts	차트
+ui.select_process_hint	목록에서 프로세스를 선택하면 CPU와 메모리를 추적합니다.
+page.dashboard	대시보드
+page.software	목록 및 제거
+page.updates	업데이트
+page.disk	디스크 사용량
+page.storage	저장소 및 파티션
+page.duplicates	중복 파일
+page.cleanup	정리
+page.backup	백업 및 복구
+page.kernel	시스템 및 커널
+page.volumes	볼륨 및 암호화
+page.peripherals	프린터 및 오디오
+page.printers	프린터 고급
+page.fonts	글꼴 상세
+page.quotas	디스크 할당량
+page.btrfs	Btrfs 스냅샷
+page.cis	CIS 감사
+page.orphans	고아 패키지
+page.perf	성능 프로필
+page.klogs	커널 로그
+page.sessions	세션 및 사용자
+page.netmounts	네트워크 마운트
+page.timers	systemd 백업
+page.desktop	GNOME 데스크톱
+page.automation	자동화
+page.processes	프로세스
+page.services	서비스
+page.logs	로그
+page.logadvanced	고급 로그
+page.customunits	사용자 서비스
+page.hardware	하드웨어
+page.network	네트워크 및 공유
+page.netadvanced	고급 네트워크
+page.firewall	방화벽 및 VPN
+page.security	보안 감사
+page.reports	보고서
+page.locale	글꼴 및 로캘
+page.optimize	최적화
+page.snapshots	스냅샷 및 아카이브
+page.about	정보
+page.monitor	실시간 모니터링
+page.alerts	경고
+page.health	시스템 상태
+page.history	기록 및 추세
+page.delivery	보고서 전송
+page.benchmark	벤치마크
+page.aptrepos	APT 저장소
+page.advpackages	고급 패키지
+page.runtimes	런타임 및 언어
+page.containers	컨테이너
+page.containersadv	고급 컨테이너
+page.startup	시작
+page.actionlog	작업 로그
+page.maintenance	유지 관리
+page.troubleshoot	문제 해결
+page.profiles	프로필
+page.users	사용자
+page.advcleanup	고급 정리
+page.mounts	마운트
+page.usbboot	부팅 USB
+page.archives	아카이브
+page.traffic	네트워크 트래픽
+page.lan	로컬 네트워크
+page.sshgpg	SSH 및 GPG 키
+page.certs	인증서 및 CA
+page.secureboot	보안 부팅
+page.apparmor	AppArmor / SELinux
+page.integrity	무결성
+page.acl	ACL 및 권한
+page.bluetooth	블루투스 및 USB
+page.power	전원 및 배터리
+page.fans	팬 및 센서
+page.cloudbackup	클라우드 백업
+page.schedule	예약 보고서
+page.wifivpn	Wi-Fi 및 VPN
+page.firmware	펌웨어
+page.btrfsmaint	Btrfs 유지 관리
+page.dotfiles	닷파일
+page.scan	비정상 동작 검사
+about.font_missing	이 언어에 맞는 글꼴을 찾을 수 없습니다. 'fonts-noto-cjk'(일본어·한국어·중국어) 또는 'fonts-dejavu'(아랍어)를 설치하세요.
+hint.printers	대기열, 멈춘 작업, 드라이버, CUPS 공유.
+hint.fonts	설치된 글꼴 계열, fontconfig 대체, 캐시, 설치.
+hint.quotas	사용자 및 그룹 할당량, 임계값, 활성화.
+hint.btrfs	서브볼륨, 스냅샷 생성 및 삭제.
+hint.cis	보안 강화 점검, 범주별 점수, 조치 방법.
+hint.orphans	불필요한 의존성과 정리할 잔여 설정.
+hint.perf	CPU 거버너, 스왑, THP, 지연 시간 설정.
+hint.klogs	분류된 dmesg: 하드웨어 오류, OOM, 저장소, 부팅.
+hint.sessions	활성 세션, 최근 로그인, 계정 잠금.
+hint.netmounts	NFS 및 CIFS: fstab, 상태, 마운트, 서버 점검.
+hint.timers	타이머, 백업 유닛, 최근 실행과 실패.
+hint.dashboard	컴퓨터 개요, 자동으로 새로 고쳐집니다.
+hint.software	모든 소스에서 설치된 모든 것.
+hint.updates	기본 패키지 관리자로 받을 수 있는 업데이트.
+hint.disk	마운트된 파일 시스템 사용량.
+hint.storage	장치, 마운트, Btrfs 및 Timeshift 스냅샷.
+hint.duplicates	체크섬으로 비교한 동일한 파일.
+hint.cleanup	삭제 전에 크기를 측정한 정리 대상.
+hint.backup	소프트웨어 목록, rsync 복사, 닷파일, GRUB.
+hint.kernel	커널 설정, 스왑, 설치된 커널, 드라이버.
+hint.volumes	LVM 그룹과 볼륨, LUKS 장치, 마운트.
+hint.peripherals	CUPS 인쇄 대기열, 오디오 출력 및 입력.
+hint.desktop	테마, 아이콘, 글꼴, 확장 기능, 단축키.
+hint.automation	cron 작업과 systemd 타이머.
+hint.processes	CPU 사용량순으로 정렬한 프로세스.
+hint.services	systemd 유닛과 확인을 거친 작업.
+hint.logs	유닛과 수준으로 필터링한 systemd 저널.
+hint.logadvanced	여러 유닛 검색, 날짜 범위, 반복되는 오류.
+hint.customunits	나만의 systemd 유닛을 작성, 설치, 제어합니다.
+hint.hardware	CPU, 메모리, 카드, 배터리, 센서.
+hint.network	인터페이스, Wi-Fi, DNS, SSH, 공유.
+hint.netadvanced	라우트, DNS, VPN, Samba, 연결 진단.
+hint.firewall	UFW 규칙과 VPN 터널.
+hint.security	읽기 전용 점검이며 아무것도 변경하지 않습니다.
+hint.reports	TXT, CSV, JSON, PDF로 내보내기.
+hint.locale	시스템 언어, 시간대, 글꼴.
+hint.optimize	TRIM, CPU 거버너, 메모리, 부팅.
+hint.snapshots	Timeshift, 원격 백업, 아카이브 검증.
+hint.about	버전, 감지된 도구, 라이선스.
+hint.monitor	CPU, 메모리, 네트워크, 디스크를 지속적으로 새로 고칩니다.
+hint.alerts	CPU, 메모리, 디스크, 온도의 임계값과 알림.
+hint.health	검사로 계산한 종합 점수와 보고서 내보내기.
+hint.history	시간에 따른 측정값, 그래프, CSV 내보내기.
+hint.delivery	상태 보고서를 웹훅이나 이메일로 전송합니다.
+hint.benchmark	간단한 측정: CPU, 메모리, 디스크.
+hint.aptrepos	패키지 소스: 활성화, 비활성화, 제거, 인덱스 새로 고침.
+hint.advpackages	버전 고정, 다운그레이드, dpkg 기록.
+hint.runtimes	설치된 언어 버전과 시스템 대체 항목.
+hint.containers	Docker, Podman, LXD 인스턴스: 시작, 중지, 제거.
+hint.containersadv	이미지, 볼륨, 네트워크와 대상별 정리.
+hint.startup	세션 앱, 전원 프로필, 부팅 분석.
+hint.actionlog	시각이 기록된 작업 기록, CSV 내보내기, 삭제.
+hint.maintenance	사용 가능한 도구와 권한이 필요한 유지 관리 작업.
+hint.troubleshoot	자동 진단과 조언.
+hint.profiles	일괄 설치가 가능한 작업 환경 프로필.
+hint.users	로컬 계정, sudo 그룹, 잠금.
+hint.advcleanup	앱 캐시, Flatpak, 컨테이너, 오래된 Snap 리비전.
+hint.mounts	활성 마운트 지점, /etc/fstab, SSD TRIM.
+hint.usbboot	ISO 이미지를 이동식 장치에 씁니다.
+hint.archives	아카이브 목록 보기, 만들기, 풀기.
+hint.traffic	프로세스별 연결과 인터페이스별 카운터.
+hint.lan	네트워크의 호스트 탐색(nmap 또는 ARP 테이블).
+hint.sshgpg	사용자 키, SSH 키 생성, 공개 키 복사.
+hint.certs	로컬 인증 기관: 추가, 제거, 만료일.
+hint.secureboot	보안 부팅 상태와 등록된 MOK 키.
+hint.apparmor	로드된 프로필, complain/enforce 전환, SELinux 모드.
+hint.integrity	변경된 패키지 파일 확인(dpkg -V, debsums).
+hint.acl	권한을 확인하고 접근 제어 목록(ACL)을 관리합니다.
+hint.bluetooth	페어링된 기기, 연결, USB 장치.
+hint.power	배터리, 충전 주기, 전원 프로필.
+hint.fans	팬 속도와 온도(읽기 전용).
+hint.cloudbackup	폴더를 rclone 리모트와 동기화합니다(시뮬레이션 포함).
+hint.schedule	사용자 systemd 타이머: 일간, 주간 또는 월간 보고서.
+hint.wifivpn	Wi-Fi 무선, 감지된 네트워크, VPN 연결, 설정 가져오기.
+hint.firmware	fwupd를 통한 펌웨어 업데이트.
+hint.btrfsmaint	Btrfs 파일 시스템의 스크럽, 사용량, 밸런스.
+hint.dotfiles	개인 설정 파일을 백업하고 복원합니다.
+hint.scan	프로세스, 네트워크, 시작 항목, 파일을 휴리스틱으로 분석해 평소와 다른 것을 찾아냅니다.
+group.processes	프로세스 및 모니터링
+group.reports	보고서 및 기록
+group.disks	디스크
+group.backups	백업
+group.audit	감사 및 무결성
+group.keys	키 및 인증서
+group.protections	시스템 보호
+group.packages	패키지 및 업데이트
+group.peripherals	주변 장치

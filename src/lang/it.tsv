@@ -1,0 +1,208 @@
+# Traductions de l'interface (clé<TAB>texte). Les clés absentes se replient sur l'anglais.
+nav.monitoring	Monitoraggio
+nav.software	Software
+nav.storage	Archiviazione
+nav.kernel	Sistema e kernel
+nav.volumes	Volumi e cifratura
+nav.peripherals	Periferiche
+nav.desktop	Desktop
+nav.automation	Automazione
+nav.system	Sistema
+nav.network	Rete
+nav.security	Sicurezza
+nav.locale	Font e lingua
+nav.optimize	Ottimizzazione
+nav.snapshots	Snapshot e archivi
+nav.app	Applicazione
+app.search	Cerca…
+app.refresh	Aggiorna
+app.theme	Tema
+app.search_hint	Ricerca globale: Ctrl+K
+app.busy	lettura in corso
+app.version	Versione
+about.distribution	Distribuzione
+about.kernel	Kernel
+about.manager	Gestore pacchetti
+about.native	Pacchetti nativi
+about.accent	Colore d'accento
+about.language	Lingua
+about.missing	Strumenti opzionali mancanti
+about.all_present	Tutti gli strumenti opzionali sono presenti.
+about.policy	Le azioni privilegiate passano da Polkit; nessun comando viene eseguito tramite shell.
+about.active	attivo
+about.available	disponibile
+about.missing_short	mancante
+ui.loading	Lettura in corso…
+ui.filter	filtra
+ui.reload	Ricarica
+ui.empty	Niente da mostrare.
+ui.nomatch	Nessun risultato per questo filtro.
+ui.close	Chiudi
+ui.charts	Grafici
+ui.select_process_hint	Seleziona un processo nell'elenco per seguirne CPU e memoria.
+page.dashboard	Pannello
+page.software	Inventario e rimozione
+page.updates	Aggiornamenti
+page.disk	Uso del disco
+page.storage	Archiviazione e partizioni
+page.duplicates	File duplicati
+page.cleanup	Pulizia
+page.backup	Backup e ripristino
+page.kernel	Sistema e kernel
+page.volumes	Volumi e cifratura
+page.peripherals	Stampanti e audio
+page.printers	Stampanti avanzate
+page.fonts	Font in dettaglio
+page.quotas	Quote disco
+page.btrfs	Snapshot Btrfs
+page.cis	Audit CIS
+page.orphans	Pacchetti orfani
+page.perf	Profili di prestazioni
+page.klogs	Log del kernel
+page.sessions	Sessioni e utenti
+page.netmounts	Mount di rete
+page.timers	Backup systemd
+page.desktop	Desktop GNOME
+page.automation	Automazione
+page.processes	Processi
+page.services	Servizi
+page.logs	Log
+page.logadvanced	Log avanzati
+page.customunits	Servizi personalizzati
+page.hardware	Hardware
+page.network	Rete e condivisione
+page.netadvanced	Rete avanzata
+page.firewall	Firewall e VPN
+page.security	Audit di sicurezza
+page.reports	Report
+page.locale	Font e lingua
+page.optimize	Ottimizzazione
+page.snapshots	Snapshot e archivi
+page.about	Informazioni
+page.monitor	Monitoraggio in tempo reale
+page.alerts	Avvisi
+page.health	Stato del sistema
+page.history	Storico e tendenze
+page.delivery	Invio dei report
+page.benchmark	Benchmark
+page.aptrepos	Repository APT
+page.advpackages	Pacchetti avanzati
+page.runtimes	Runtime e linguaggi
+page.containers	Container
+page.containersadv	Container avanzati
+page.startup	Avvio
+page.actionlog	Registro delle azioni
+page.maintenance	Manutenzione
+page.troubleshoot	Risoluzione dei problemi
+page.profiles	Profili
+page.users	Utenti
+page.advcleanup	Pulizia avanzata
+page.mounts	Punti di mount
+page.usbboot	USB avviabile
+page.archives	Archivi
+page.traffic	Traffico di rete
+page.lan	Rete locale
+page.sshgpg	Chiavi SSH e GPG
+page.certs	Certificati e CA
+page.secureboot	Secure Boot
+page.apparmor	AppArmor / SELinux
+page.integrity	Integrità
+page.acl	ACL e permessi
+page.bluetooth	Bluetooth e USB
+page.power	Energia e batteria
+page.fans	Ventole e sensori
+page.cloudbackup	Backup nel cloud
+page.schedule	Report pianificati
+page.wifivpn	Wi-Fi e VPN
+page.firmware	Firmware
+page.btrfsmaint	Manutenzione Btrfs
+page.dotfiles	Dotfiles
+page.scan	Scansione dei comportamenti anomali
+about.font_missing	Nessun font compatibile trovato per questa lingua: installa «fonts-noto-cjk» (giapponese, coreano, cinese) o «fonts-dejavu» (arabo).
+hint.printers	Code, lavori bloccati, driver e condivisione CUPS.
+hint.fonts	Famiglie installate, sostituzione fontconfig, cache e installazione.
+hint.quotas	Quote di utenti e gruppi, soglie e attivazione.
+hint.btrfs	Sottovolumi, creazione ed eliminazione di snapshot.
+hint.cis	Controlli di hardening, punteggio per categoria e rimedi.
+hint.orphans	Dipendenze non più necessarie e configurazioni residue da eliminare.
+hint.perf	Governor della CPU, swap, THP e impostazioni di latenza.
+hint.klogs	dmesg classificato: errori hardware, OOM, archiviazione e avvii.
+hint.sessions	Sessioni attive, accessi recenti e blocco degli account.
+hint.netmounts	NFS e CIFS: fstab, stato, mount e verifica del server.
+hint.timers	Timer, unità di backup, esecuzioni recenti e fallimenti.
+hint.dashboard	Panoramica del computer, aggiornata automaticamente.
+hint.software	Tutto ciò che è installato, da tutte le fonti.
+hint.updates	Aggiornamenti disponibili tramite il gestore pacchetti nativo.
+hint.disk	Occupazione dei filesystem montati.
+hint.storage	Dispositivi, mount, snapshot Btrfs e Timeshift.
+hint.duplicates	File identici confrontati tramite checksum.
+hint.cleanup	Obiettivi di pulizia misurati prima di ogni rimozione.
+hint.backup	Elenco del software, copia rsync, dotfile e GRUB.
+hint.kernel	Impostazioni del kernel, swap, kernel installati e driver.
+hint.volumes	Gruppi e volumi LVM, dispositivi LUKS, mount.
+hint.peripherals	Code di stampa CUPS, uscite e ingressi audio.
+hint.desktop	Tema, icone, font, estensioni e scorciatoie.
+hint.automation	Attività cron e timer systemd.
+hint.processes	Processi ordinati per uso della CPU.
+hint.services	Unità systemd e azioni confermate.
+hint.logs	Journal di systemd filtrato per unità e livello.
+hint.logadvanced	Ricerca su più unità, intervallo di date ed errori ricorrenti.
+hint.customunits	Scrivi, installa e controlla le tue unità systemd.
+hint.hardware	CPU, memoria, schede, batteria e sensori.
+hint.network	Interfacce, Wi-Fi, DNS, SSH e condivisioni.
+hint.netadvanced	Route, DNS, VPN, Samba e diagnostica della connettività.
+hint.firewall	Regole UFW e tunnel VPN.
+hint.security	Controlli di sola lettura, nulla viene modificato.
+hint.reports	Esportazioni in TXT, CSV, JSON e PDF.
+hint.locale	Lingua di sistema, fuso orario e font.
+hint.optimize	TRIM, governor della CPU, memoria e avvio.
+hint.snapshots	Timeshift, backup remoto e verifica degli archivi.
+hint.about	Versione, strumenti rilevati, licenza.
+hint.monitor	CPU, memoria, rete e dischi, aggiornati continuamente.
+hint.alerts	Soglie di CPU, memoria, disco e temperatura con notifica.
+hint.health	Punteggio complessivo calcolato dai controlli, con esportazione del report.
+hint.history	Misurazioni nel tempo, curve ed esportazione CSV.
+hint.delivery	Inviare il report di stato tramite webhook o e-mail.
+hint.benchmark	Misurazioni semplici: CPU, memoria e disco.
+hint.aptrepos	Fonti dei pacchetti: attivare, disattivare, rimuovere, aggiornare gli indici.
+hint.advpackages	Blocchi di versione, downgrade e cronologia dpkg.
+hint.runtimes	Versioni dei linguaggi installate e alternative di sistema.
+hint.containers	Istanze Docker, Podman e LXD: avviare, fermare, rimuovere.
+hint.containersadv	Immagini, volumi e reti con pulizia mirata.
+hint.startup	App di sessione, profilo energetico e analisi dell'avvio.
+hint.actionlog	Cronologia delle operazioni con data e ora, esportazione CSV ed eliminazione.
+hint.maintenance	Strumenti disponibili e attività di manutenzione privilegiate.
+hint.troubleshoot	Diagnosi automatica e consigli.
+hint.profiles	Profili di postazione pronti all'uso con installazione multipla.
+hint.users	Account locali, gruppo sudo e blocco.
+hint.advcleanup	Cache delle app, Flatpak, container e vecchie revisioni Snap.
+hint.mounts	Punti di mount attivi, /etc/fstab e TRIM degli SSD.
+hint.usbboot	Scrivere un'immagine ISO su un dispositivo rimovibile.
+hint.archives	Elencare, creare ed estrarre archivi.
+hint.traffic	Connessioni per processo e contatori per interfaccia.
+hint.lan	Rilevamento degli host in rete (nmap o tabella ARP).
+hint.sshgpg	Chiavi dell'utente, generazione SSH e copia della chiave pubblica.
+hint.certs	Autorità locali: aggiungere, rimuovere e date di scadenza.
+hint.secureboot	Stato di Secure Boot e chiavi MOK registrate.
+hint.apparmor	Profili caricati, passaggio complain/enforce e modalità SELinux.
+hint.integrity	Verificare i file dei pacchetti modificati (dpkg -V, debsums).
+hint.acl	Ispezionare i permessi e gestire le liste di controllo degli accessi.
+hint.bluetooth	Dispositivi associati, connessione e dispositivi USB.
+hint.power	Batteria, cicli di carica e profilo energetico.
+hint.fans	Velocità delle ventole e temperature (sola lettura).
+hint.cloudbackup	Sincronizzare cartelle con un remote rclone, con simulazione.
+hint.schedule	Timer systemd utente: report giornaliero, settimanale o mensile.
+hint.wifivpn	Radio Wi-Fi, reti rilevate, connessioni VPN e importazione della configurazione.
+hint.firmware	Aggiornamenti del firmware tramite fwupd.
+hint.btrfsmaint	Scrub, utilizzo e bilanciamento dei filesystem Btrfs.
+hint.dotfiles	Salvare e ripristinare i file di configurazione personali.
+hint.scan	Analisi euristica di processi, rete, elementi di avvio e file per individuare ciò che appare insolito.
+group.processes	Processi e monitoraggio
+group.reports	Rapporti e cronologia
+group.disks	Dischi
+group.backups	Backup
+group.audit	Audit e integrità
+group.keys	Chiavi e certificati
+group.protections	Protezioni di sistema
+group.packages	Pacchetti e aggiornamenti
+group.peripherals	Periferiche

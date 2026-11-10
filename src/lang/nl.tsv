@@ -1,0 +1,208 @@
+# Traductions de l'interface (clé<TAB>texte). Les clés absentes se replient sur l'anglais.
+nav.monitoring	Bewaking
+nav.software	Software
+nav.storage	Opslag
+nav.kernel	Systeem & kernels
+nav.volumes	Volumes & versleuteling
+nav.peripherals	Randapparatuur
+nav.desktop	Bureaublad
+nav.automation	Automatisering
+nav.system	Systeem
+nav.network	Netwerk
+nav.security	Beveiliging
+nav.locale	Lettertypen & taal
+nav.optimize	Optimalisatie
+nav.snapshots	Snapshots & archieven
+nav.app	Toepassing
+app.search	Zoeken…
+app.refresh	Vernieuwen
+app.theme	Thema
+app.search_hint	Globaal zoeken: Ctrl+K
+app.busy	bezig met lezen
+app.version	Versie
+about.distribution	Distributie
+about.kernel	Kernel
+about.manager	Pakketbeheer
+about.native	Native pakketten
+about.accent	Accentkleur
+about.language	Taal
+about.missing	Ontbrekende optionele hulpmiddelen
+about.all_present	Alle optionele hulpmiddelen zijn aanwezig.
+about.policy	Geprivilegieerde acties lopen via Polkit; geen enkele opdracht wordt via een shell uitgevoerd.
+about.active	actief
+about.available	beschikbaar
+about.missing_short	ontbreekt
+ui.loading	Bezig met lezen…
+ui.filter	filteren
+ui.reload	Opnieuw laden
+ui.empty	Niets om te tonen.
+ui.nomatch	Geen resultaten voor dit filter.
+ui.close	Sluiten
+ui.charts	Grafieken
+ui.select_process_hint	Kies een proces in de lijst om processor en geheugen te volgen.
+page.dashboard	Dashboard
+page.software	Inventaris & verwijderen
+page.updates	Updates
+page.disk	Schijfgebruik
+page.storage	Opslag & partities
+page.duplicates	Dubbele bestanden
+page.cleanup	Opschonen
+page.backup	Back-up & herstel
+page.kernel	Systeem & kernels
+page.volumes	Volumes & versleuteling
+page.peripherals	Printers & audio
+page.printers	Geavanceerde printers
+page.fonts	Lettertypen in detail
+page.quotas	Schijfquota
+page.btrfs	Btrfs-snapshots
+page.cis	CIS-audit
+page.orphans	Verweesde pakketten
+page.perf	Prestatieprofielen
+page.klogs	Kernellogs
+page.sessions	Sessies & gebruikers
+page.netmounts	Netwerkkoppelingen
+page.timers	systemd-back-ups
+page.desktop	GNOME-bureaublad
+page.automation	Automatisering
+page.processes	Processen
+page.services	Services
+page.logs	Logboeken
+page.logadvanced	Geavanceerde logboeken
+page.customunits	Eigen services
+page.hardware	Hardware
+page.network	Netwerk & delen
+page.netadvanced	Geavanceerd netwerk
+page.firewall	Firewall & VPN
+page.security	Beveiligingsaudit
+page.reports	Rapporten
+page.locale	Lettertypen & taal
+page.optimize	Optimalisatie
+page.snapshots	Snapshots & archieven
+page.about	Over
+page.monitor	Live bewaking
+page.alerts	Waarschuwingen
+page.health	Systeemstatus
+page.history	Geschiedenis & trends
+page.delivery	Rapporten versturen
+page.benchmark	Benchmark
+page.aptrepos	APT-repositories
+page.advpackages	Geavanceerde pakketten
+page.runtimes	Runtimes & talen
+page.containers	Containers
+page.containersadv	Geavanceerde containers
+page.startup	Opstarten
+page.actionlog	Actielogboek
+page.maintenance	Onderhoud
+page.troubleshoot	Probleemoplossing
+page.profiles	Profielen
+page.users	Gebruikers
+page.advcleanup	Geavanceerd opschonen
+page.mounts	Koppelingen
+page.usbboot	Opstartbare USB
+page.archives	Archieven
+page.traffic	Netwerkverkeer
+page.lan	Lokaal netwerk
+page.sshgpg	SSH- & GPG-sleutels
+page.certs	Certificaten & CA's
+page.secureboot	Secure Boot
+page.apparmor	AppArmor / SELinux
+page.integrity	Integriteit
+page.acl	ACL's & rechten
+page.bluetooth	Bluetooth & USB
+page.power	Energie & accu
+page.fans	Ventilatoren & sensoren
+page.cloudbackup	Cloudback-up
+page.schedule	Geplande rapporten
+page.wifivpn	Wifi & VPN
+page.firmware	Firmware
+page.btrfsmaint	Btrfs-onderhoud
+page.dotfiles	Dotfiles
+page.scan	Scan op afwijkend gedrag
+about.font_missing	Geen geschikt lettertype gevonden voor deze taal: installeer ‘fonts-noto-cjk’ (Japans, Koreaans, Chinees) of ‘fonts-dejavu’ (Arabisch).
+hint.printers	Wachtrijen, vastgelopen opdrachten, stuurprogramma's en CUPS-delen.
+hint.fonts	Geïnstalleerde families, fontconfig-vervanging, cache en installatie.
+hint.quotas	Gebruikers- en groepsquota, drempels en activering.
+hint.btrfs	Subvolumes, aanmaken en verwijderen van snapshots.
+hint.cis	Hardeningcontroles, score per categorie en oplossingen.
+hint.orphans	Overbodige afhankelijkheden en restconfiguraties om op te ruimen.
+hint.perf	CPU-governor, swap, THP en latentie-instellingen.
+hint.klogs	Geclassificeerde dmesg: hardwarefouten, OOM, opslag en opstarten.
+hint.sessions	Actieve sessies, recente aanmeldingen en accountvergrendeling.
+hint.netmounts	NFS en CIFS: fstab, status, koppelen en servertest.
+hint.timers	Timers, back-upunits, recente uitvoeringen en fouten.
+hint.dashboard	Overzicht van de machine, automatisch vernieuwd.
+hint.software	Alles wat geïnstalleerd is, uit alle bronnen.
+hint.updates	Updates beschikbaar via het native pakketbeheer.
+hint.disk	Bezetting van de gekoppelde bestandssystemen.
+hint.storage	Apparaten, koppelingen, Btrfs- en Timeshift-snapshots.
+hint.duplicates	Identieke bestanden vergeleken via controlesom.
+hint.cleanup	Opruimdoelen, gemeten vóór elke verwijdering.
+hint.backup	Softwarelijst, rsync-kopie, dotfiles en GRUB.
+hint.kernel	Kernelinstellingen, swap, geïnstalleerde kernels en stuurprogramma's.
+hint.volumes	LVM-groepen en -volumes, LUKS-apparaten, koppelen.
+hint.peripherals	CUPS-printerwachtrijen, audio-uitgangen en -ingangen.
+hint.desktop	Thema, pictogrammen, lettertype, extensies en sneltoetsen.
+hint.automation	Cron-taken en systemd-timers.
+hint.processes	Processen gesorteerd op CPU-gebruik.
+hint.services	systemd-units en bevestigde acties.
+hint.logs	systemd-journal gefilterd op unit en niveau.
+hint.logadvanced	Zoeken in meerdere units, datumbereik en terugkerende fouten.
+hint.customunits	Schrijf, installeer en beheer uw eigen systemd-units.
+hint.hardware	CPU, geheugen, kaarten, accu en sensoren.
+hint.network	Interfaces, wifi, DNS, SSH en shares.
+hint.netadvanced	Routes, DNS, VPN, Samba en connectiviteitsdiagnose.
+hint.firewall	UFW-regels en VPN-tunnels.
+hint.security	Alleen-lezen controles, er wordt niets gewijzigd.
+hint.reports	Exports als TXT, CSV, JSON en PDF.
+hint.locale	Systeemtaal, tijdzone en lettertypen.
+hint.optimize	TRIM, CPU-governor, geheugen en opstarten.
+hint.snapshots	Timeshift, back-up op afstand en archiefcontrole.
+hint.about	Versie, gedetecteerde hulpmiddelen, licentie.
+hint.monitor	CPU, geheugen, netwerk en schijven, continu vernieuwd.
+hint.alerts	Drempels voor CPU, geheugen, schijf en temperatuur met melding.
+hint.health	Totaalscore berekend uit controles, met rapportexport.
+hint.history	Metingen in de tijd, curven en CSV-export.
+hint.delivery	Het statusrapport versturen via webhook of e-mail.
+hint.benchmark	Eenvoudige metingen: CPU, geheugen en schijf.
+hint.aptrepos	Pakketbronnen: inschakelen, uitschakelen, verwijderen, indexen vernieuwen.
+hint.advpackages	Versievergrendeling, downgrades en dpkg-geschiedenis.
+hint.runtimes	Geïnstalleerde taalversies en systeemalternatieven.
+hint.containers	Docker-, Podman- en LXD-instanties: starten, stoppen, verwijderen.
+hint.containersadv	Images, volumes en netwerken met gerichte opruiming.
+hint.startup	Sessie-apps, energieprofiel en opstartanalyse.
+hint.actionlog	Tijdgestempelde geschiedenis van acties, CSV-export en wissen.
+hint.maintenance	Beschikbare hulpmiddelen en geprivilegieerde onderhoudstaken.
+hint.troubleshoot	Automatische diagnose en advies.
+hint.profiles	Kant-en-klare werkplekprofielen met bulkinstallatie.
+hint.users	Lokale accounts, sudo-groep en vergrendeling.
+hint.advcleanup	App-caches, Flatpak, containers en oude Snap-revisies.
+hint.mounts	Actieve koppelpunten, /etc/fstab en SSD-TRIM.
+hint.usbboot	Een ISO-image naar een verwisselbaar medium schrijven.
+hint.archives	Archieven weergeven, maken en uitpakken.
+hint.traffic	Verbindingen per proces en tellers per interface.
+hint.lan	Hosts in het netwerk opsporen (nmap of ARP-tabel).
+hint.sshgpg	Gebruikerssleutels, SSH-generatie en kopiëren van de publieke sleutel.
+hint.certs	Lokale autoriteiten: toevoegen, verwijderen en vervaldata.
+hint.secureboot	Secure Boot-status en geregistreerde MOK-sleutels.
+hint.apparmor	Geladen profielen, wisselen tussen complain/enforce en SELinux-modus.
+hint.integrity	Gewijzigde pakketbestanden controleren (dpkg -V, debsums).
+hint.acl	Rechten inspecteren en toegangscontrolelijsten beheren.
+hint.bluetooth	Gekoppelde apparaten, verbinding en USB-apparaten.
+hint.power	Accu, laadcycli en energieprofiel.
+hint.fans	Ventilatorsnelheden en temperaturen (alleen-lezen).
+hint.cloudbackup	Mappen synchroniseren met een rclone-remote, met proefrun.
+hint.schedule	systemd-gebruikerstimer: dagelijks, wekelijks of maandelijks rapport.
+hint.wifivpn	Wifi-radio, gedetecteerde netwerken, VPN-verbindingen en configuratie-import.
+hint.firmware	Firmware-updates via fwupd.
+hint.btrfsmaint	Scrub, gebruik en balans van Btrfs-bestandssystemen.
+hint.dotfiles	Persoonlijke configuratiebestanden back-uppen en herstellen.
+hint.scan	Heuristische analyse van processen, netwerk, opstartitems en bestanden om af te wijken te herkennen.
+group.processes	Processen & bewaking
+group.reports	Rapporten & geschiedenis
+group.disks	Schijven
+group.backups	Back-ups
+group.audit	Audit & integriteit
+group.keys	Sleutels & certificaten
+group.protections	Systeembeveiliging
+group.packages	Pakketten & updates
+group.peripherals	Randapparatuur

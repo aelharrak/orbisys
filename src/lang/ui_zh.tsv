@@ -1,0 +1,1317 @@
+# Libellés des rubriques génériques (texte français<TAB>traduction). Les absents se replient sur l'anglais.
+ACL modifiée	ACL 已修改
+ACL retirées	ACL 已移除
+Action	操作
+Activer	启用
+Activer le Wi-Fi	打开 Wi-Fi
+Actives	活动
+Administrateurs	管理员
+Adresse	地址
+Adresse IP	IP 地址
+Adresse MAC	MAC 地址
+Afficher les ACL	显示 ACL
+Ajouter	添加
+Ajouter à sudo	加入 sudo
+Alertes actives	活动警报
+Algo	算法
+Allumé depuis	已运行
+Alternatives système (update-alternatives)	系统备选项（update-alternatives）
+Anciennes révisions Snap	旧的 Snap 版本
+Anomalie	异常
+Appareil	设备
+Appareils	设备
+Appareils Bluetooth	蓝牙设备
+Appareils reconnus	已识别的设备
+Applications au démarrage	启动应用
+Appliquer	应用
+Archive	归档
+Archives trouvées	找到的归档
+Arrêter	停止
+Autorités de certification locales	本地证书颁发机构
+Autre dossier	其他文件夹
+Autres nettoyages	其他清理
+Batterie	电池
+Batteries	电池
+Bluetooth (appairés)	蓝牙（已配对）
+CA locales	本地 CA
+Cache	缓存
+Caches applicatifs	应用缓存
+Caches récupérables	可回收的缓存
+Certificat	证书
+Certificat ajouté	证书已添加
+Charge	负载
+Chaîne critique	关键链
+Chemin	路径
+Chemin distant	远端路径
+Choix actuel	当前选择
+Cible	目标
+Clé générée	密钥已生成
+Clés GPG	GPG 密钥
+Clés SSH	SSH 密钥
+Clés SSH (~/.ssh)	SSH 密钥（~/.ssh）
+Commande	命令
+Commentaire	备注
+Compte	账户
+Comptes	账户
+Comptes locaux	本地账户
+Configuration actuelle	当前配置
+Confirmation	确认
+Connecter	连接
+Connexions	连接
+Connexions VPN	VPN 连接
+Connexions établies	已建立的连接
+Connexions établies par processus	按进程的已建立连接
+Conseil	建议
+Conteneurs	容器
+Contenu	内容
+Contrôle	检查
+Contrôles	检查项
+Copier la clé publique	复制公钥
+Création	创建时间
+Création de l'archive	正在创建归档
+Créer	创建
+Créer une archive	创建归档
+Cycles	循环次数
+Date	日期
+Dernières mesures	最近的测量
+Destination	目的地
+Diagnostic automatique	自动诊断
+Disque	磁盘
+Disque (écriture)	磁盘（写入）
+Disque moyen	磁盘平均
+Disques	磁盘
+Disques amovibles détectés	检测到的可移动磁盘
+Distant	远程
+Dossier	文件夹
+Dossier local	本地文件夹
+Droits	权限
+Durée	耗时
+Déconnecter	断开
+Définir une ACL utilisateur	设置用户 ACL
+Démarrage	启动
+Démarrer	启动
+Démonter	卸载
+Dépôt	软件源
+Désactiver	停用
+Désactiver le Wi-Fi	关闭 Wi-Fi
+Détail	详情
+Détail des connexions	连接详情
+Déverrouiller	解锁
+Effacer l'historique	清除历史
+Empreinte	指纹
+En cours	运行中
+En enforce	强制模式
+Enregistrer	保存
+Enregistrer le graphe (SVG)	保存图表（SVG）
+Enregistrer les seuils	保存阈值
+Enregistrer une mesure	记录一次测量
+Entrées	条目
+Envoyer un test	发送测试
+Expiration	到期
+Exporter en CSV	导出为 CSV
+Exporter le rapport	导出报告
+Extraction	解压
+Extraire	解压
+Fabricant	厂商
+Fichier	文件
+Fichiers détectés	检测到的文件
+Fichiers modifiés	被修改的文件
+Fréquence	频率
+Générer	生成
+Historique des actions	操作历史
+Hors configuration	非配置文件
+Hôtes	主机
+Hôtes du réseau local	局域网主机
+Identifiant	标识符
+Identité	身份
+Illisibles (droits)	无法读取（权限）
+Image	镜像
+Image ISO	ISO 镜像
+Images	镜像
+Import VPN	VPN 导入
+Importer	导入
+Indicateur	指标
+Installés	已安装
+Instances LXD	LXD 实例
+Interface	接口
+Lancer	运行
+Lancer maintenant	立即运行
+Lancer un scrub	开始校验
+Langage	语言
+Langages	语言
+Lecture	读取
+Lecture seule.	只读。
+Livraison	发送
+Local	本地
+Mesures	测量
+Mise à jour possible	可更新
+Mises à jour	更新
+Mises à jour disponibles	可用更新
+Mode	模式
+Mode de démarrage	启动模式
+Modèle	型号
+Montage	挂载点
+Montages actifs	活动挂载
+Montages btrfs	btrfs 挂载
+Moteur	引擎
+Mémoire	内存
+Mémoire (écriture)	内存（写入）
+Mémoire moyenne	内存平均
+Méthode	方法
+Nature	类别
+Nettoyage complet	完全清理
+Nettoyer	清理
+Nettoyer les données conteneurs	清理容器数据
+Nom	名称
+Nom du fichier	文件名
+Notifier maintenant	立即通知
+Occupation	占用
+Options	选项
+Origine	来源
+Outil	工具
+Outils	工具
+Paquet	软件包
+Paquets verrouillés	已锁定的软件包
+Passer en enforcing	切换到 enforcing
+Passer en permissive	切换到 permissive
+Pilote	驱动
+Planification	计划
+Planifier	设置计划
+Points de montage actifs	活动挂载点
+Ports en écoute	监听端口
+Problèmes	问题
+Processeur	处理器
+Processus	进程
+Prochaine exécution	下次运行
+Profil	配置文件
+Profil d'alimentation	电源配置
+Profil d'énergie	电源配置
+Profils AppArmor	AppArmor 配置文件
+Profils chargés	已加载的配置文件
+Profils de poste	工作站配置
+Protocole	协议
+Puce	芯片
+Purger le journal	清空日志
+Purger les images orphelines	清理悬空镜像
+Purger les volumes inutilisés	清理未使用的卷
+Périphérique	设备
+Périphériques USB	USB 设备
+Périphériques amovibles	可移动设备
+Radio Wi-Fi	Wi-Fi 无线
+Rafraîchir les métadonnées	刷新元数据
+Rapport périodique	定期报告
+Redémarrer	重启
+Remotes	远端
+Remotes rclone	rclone 远端
+Restauration	恢复
+Restaurer	恢复
+Restaurer ce dossier	恢复此文件夹
+Retirer de sudo	从 sudo 移除
+Retirer les ACL	移除 ACL
+Reçu	已接收
+Runtimes détectés	检测到的运行时
+Réception	接收
+Réseau	网络
+Réseaux	网络
+Réseaux détectés	检测到的网络
+Résultat	结果
+Rétrogradation	降级
+Rétrograder	降级
+Rétrograder un paquet	降级软件包
+Révision	修订版
+Rôle	角色
+Santé batterie	电池健康
+Sauvegarder maintenant	立即备份
+Sauvegardes trouvées (Documents/dotfiles*)	找到的备份（Documents/dotfiles*）
+Score global	总评分
+Secteur	市电
+Seuil	阈值
+Seuils	阈值
+Signal	信号
+Sonde	探头
+Sondes de température	温度探头
+Source	来源
+Sources	来源
+Sources APT	APT 软件源
+Sources de paquets	软件包来源
+Suite / composants	套件 / 组件
+Sujet	主体
+Supprimer	删除
+Supprimer la planification	删除计划
+Supprimer les ACL	删除 ACL
+Supprimer les paquets orphelins	删除孤立软件包
+Synchroniser un dossier	同步文件夹
+Systèmes btrfs	btrfs 文件系统
+Sécurité	安全
+TRIM des SSD (fstrim)	SSD TRIM（fstrim）
+Taille	大小
+Technologie	技术
+Température	温度
+Températures	温度
+Tendances (40 dernières mesures)	趋势（最近 40 次测量）
+Tester la notification	测试通知
+Total reçu	总接收量
+Total émis	总发送量
+Trousseau GPG	GPG 密钥环
+Type	类型
+Tâches privilégiées	特权任务
+Unité	单元
+Unités les plus lentes	最慢的单元
+Utilisateur	用户
+VPN configurés	已配置的 VPN
+Valeur	值
+Ventilateur	风扇
+Ventilateurs	风扇
+Verrouillage	锁定
+Verrouiller	锁定
+Version actuelle	当前版本
+Version proposée	建议版本
+Vider le cache APT	清空 APT 缓存
+Vitesse	速度
+Écarts	差异
+Échange	交换分区
+Échecs	失败
+Écrire sur la clé	写入 U 盘
+Écrire une image	写入镜像
+Écriture	写入
+Écriture de l'image	正在写入镜像
+Émis	已发送
+Émission	发送
+Énergie	电源
+Équilibrer (50 %)	平衡（50 %）
+État	状态
+État du scrub	校验状态
+URL ou adresse	URL 或地址
+adresse ou machine	地址或机器
+nom exact	准确名称
+nom	名称
+nom du remote	远端名称
+retapez le périphérique	重新输入设备
+simulation ou reel	simulation 或 reel
+Aucun élément.	没有可显示的内容。
+Courbes en direct	实时图表
+Courbes	图表
+Débit réseau	网络吞吐量
+Processeur et mémoire	处理器和内存
+Processeur, mémoire et disque	处理器、内存和磁盘
+Débits mesurés (Mio/s)	实测吞吐量（MiB/s）
+Résultats	结果
+Constats	发现
+Constats par gravité	按严重程度的发现
+Gravité	严重程度
+Catégorie	类别
+Élément	项目
+Pourquoi	原因
+Couverture du scan	扫描覆盖范围
+Analyse antivirus (signatures)	杀毒扫描（特征码）
+Quarantaine	隔离
+Verdict	结论
+Élevées	高
+Moyennes	中
+Faibles	低
+Infos	信息
+Élevée	高
+Moyenne	中
+Faible	低
+Info	信息
+Persistance	持久化
+Fichiers	文件
+Logiciels	软件
+Aucun comportement anormal détecté	未检测到异常行为
+Quelques points suspects	有几处可疑
+À examiner en priorité	需优先处理
+Suspendre	暂停
+Terminer	终止
+Mettre l'exécutable en quarantaine	隔离可执行文件
+Mettre en quarantaine	隔离
+Désactiver au démarrage	禁止开机启动
+Processus sélectionné	所选进程
+Analyser un fichier ou dossier	查看文件或文件夹
+Clés MOK enregistrées (lecture seule)	已登记的 MOK 密钥（只读）
+Historique dpkg (60 derniers événements)	dpkg 历史（最近 60 个事件）
+Installer les mises à jour	安装更新
+Mettre à jour le magasin	更新证书库
+Mettre à jour les index	刷新索引
+Ni Docker ni Podman n'est installé.	未安装 Docker 或 Podman。
+Réduire les journaux (500 Mo)	压缩日志（500 MB）
+Réduire les journaux (7 jours)	压缩日志（7 天）
+Supprimer les runtimes Flatpak inutilisés	删除未使用的 Flatpak 运行时
+Verrouillage de version (apt-mark hold)	版本锁定（apt-mark hold）
+Lecture seule : aucune donnée du système n'est modifiée.	只读：不会修改系统中的任何内容。
+Applications lancées à l'ouverture de session	登录时启动的应用
+Archives (dossier personnel et Téléchargements)	归档（主文件夹与下载）
+Aucun capteur renvoyé par lm-sensors : lancez « sensors-detect » pour les détecter.	lm-sensors 未返回任何传感器：请运行“sensors-detect”进行检测。
+Aucun réseau privé IPv4 détecté : seule la table ARP est affichée.	未检测到私有 IPv4 网络：仅显示 ARP 表。
+Chaque action est confirmée ; celles qui touchent au système passent par Polkit.	每项操作都需确认；涉及系统的操作会通过 Polkit。
+Chaque tâche demande une confirmation puis l'authentification administrateur (Polkit).	每项任务都会先请求确认，再要求管理员身份验证（Polkit）。
+Compteurs par interface (depuis le démarrage)	按接口的计数（自启动以来）
+Couper la radio Wi-Fi ? La connexion sans fil sera perdue.	关闭 Wi-Fi 无线？无线连接将会中断。
+Crée une minuterie systemd utilisateur qui lance « orbisys report <dossier> » (TXT, CSV, JSON et PDF).	创建一个运行“orbisys report <文件夹>”（TXT、CSV、JSON 和 PDF）的用户级 systemd 定时器。
+Désactiver et supprimer la minuterie de rapport ?	停用并删除报告定时器？
+Envoyer le rapport d'état à la destination configurée ?	将状态报告发送到已配置的目的地？
+Formats : .tar, .tar.gz, .tar.xz, .tar.bz2. L'archive ne doit pas exister.	格式：.tar、.tar.gz、.tar.xz、.tar.bz2。归档文件不得已存在。
+Installer les mises à jour de firmware ? Un redémarrage peut être nécessaire et l'alimentation ne doit pas être coupée.	安装固件更新？可能需要重启，且不得断电。
+L'installation passe par apt-get et Polkit, après confirmation.	确认后，安装通过 apt-get 和 Polkit 进行。
+La clé est créée sans phrase secrète ; ajoutez-en une avec « ssh-keygen -p -f <fichier> ».	密钥创建时不带密码短语；可用“ssh-keygen -p -f <文件>”添加。
+Lancer fstrim -av sur les systèmes de fichiers compatibles ?	对兼容的文件系统运行 fstrim -av？
+Le compte root n'est pas modifiable depuis cette page.	无法在此页面修改 root 账户。
+Le résultat s'affiche dans la zone de sortie en bas de l'écran.	结果显示在屏幕底部的输出区域。
+Le scan est limité au réseau privé local (préfixe /24 ou plus étroit) ; actualisez l'écran pour le relancer.	扫描仅限本地私有网络（/24 或更小）；重新加载界面即可再次运行。
+Les disques contenant le système (/, /boot, /home) ne sont jamais proposés.	包含系统（/、/boot、/home）的磁盘不会被列出。
+Les fichiers de configuration modifiés sont normaux ; un programme modifié mérite une vérification.	配置文件被修改属正常；被修改的程序则值得检查。
+Les instantanés et sous-volumes se gèrent dans l'écran « Btrfs ». Les résultats s'affichent dans la zone de sortie.	快照和子卷在“Btrfs”界面中管理，结果显示在输出区域。
+Les processus d'autres utilisateurs n'apparaissent qu'avec les droits administrateur.	只有具备管理员权限时才会显示其他用户的进程。
+Les seuils sont conservés dans ~/.local/share/orbisys/alerts.json.	阈值保存在 ~/.local/share/orbisys/alerts.json。
+Mode « simulation » par défaut (rclone --dry-run) : rien n'est modifié. Le mode « reel » demande confirmation.	默认使用“simulation”模式（rclone --dry-run），不会修改任何内容；“reel”模式会要求确认。
+Opération destructrice : le périphérique cible est entièrement écrasé. Retapez son nom pour confirmer.	破坏性操作：目标设备将被完全覆盖。请重新输入其名称以确认。
+Passer SELinux en mode enforcing (immédiat) ?	将 SELinux 切换为 enforcing 模式（立即生效）？
+Passer SELinux en mode permissive (immédiat) ?	将 SELinux 切换为 permissive 模式（立即生效）？
+Profils AppArmor illisibles : les droits administrateur sont requis (ou AppArmor est inactif).	无法读取 AppArmor 配置文件：需要管理员权限（或 AppArmor 未启用）。
+Supprimer conteneurs arrêtés, réseaux et images orphelines ?	删除已停止的容器、网络和悬空镜像？
+Supprimer les journaux systemd de plus de 7 jours ?	删除 7 天前的 systemd 日志？
+Supprimer les runtimes Flatpak inutilisés ?	删除未使用的 Flatpak 运行时？
+Supprimer les volumes non utilisés (données perdues) ?	删除未使用的卷（数据将丢失）？
+Supprimer toutes les mesures enregistrées ?	删除所有已记录的测量数据？
+Type « webhook » (HTTP POST, JSON) ou « email » (commande mail). Le rapport contient santé, mémoire, disque et charge.	填写“webhook”（HTTP POST，JSON）或“email”（mail 命令）。报告包含健康状况、内存、磁盘和负载。
+Utilisez `apt-cache policy <paquet>` pour connaître les versions disponibles.	用 `apt-cache policy <软件包>` 查看可用版本。
+aa-complain / aa-enforce proviennent du paquet apparmor-utils.	aa-complain / aa-enforce 来自 apparmor-utils 软件包。
+apt-get absent : cette rubrique concerne les systèmes Debian/Ubuntu.	未找到 apt-get：此栏目适用于 Debian/Ubuntu 系统。
+bluetoothctl absent : installez le paquet « bluez » pour gérer le Bluetooth.	未找到 bluetoothctl：请安装“bluez”软件包以管理蓝牙。
+btrfs-progs absent : installez le paquet « btrfs-progs ».	未找到 btrfs-progs：请安装“btrfs-progs”软件包。
+dpkg absent : cette vérification concerne Debian/Ubuntu.	未找到 dpkg：此检查适用于 Debian/Ubuntu。
+fwupdmgr absent : installez le paquet « fwupd » pour gérer les mises à jour de firmware.	未找到 fwupdmgr：请安装“fwupd”软件包以管理固件更新。
+lm-sensors absent : lecture directe de /sys/class/hwmon.	未找到 lm-sensors：直接读取 /sys/class/hwmon。
+mokutil absent : installez le paquet « mokutil » pour lire l'état de Secure Boot.	未找到 mokutil：请安装“mokutil”软件包以读取安全启动状态。
+nmap absent : seule la table ARP du noyau est affichée.	未找到 nmap：仅显示内核的 ARP 表。
+nmcli absent : NetworkManager est requis pour gérer le Wi-Fi et les VPN.	未找到 nmcli：管理 Wi-Fi 和 VPN 需要 NetworkManager。
+rclone absent : installez le paquet « rclone » puis configurez un remote avec « rclone config ».	未找到 rclone：请安装“rclone”软件包，再用“rclone config”配置远端。
+Valeur actuelle et seuil (trait)	当前值与阈值（线）
+Points perdus par contrôle (sur 100)	每项检查扣分（满分 100）
+Occupation des systèmes de fichiers (trait : 90 %)	文件系统占用（线：90 %）
+Volume échangé par interface (reçu + émis)	按接口的流量（接收 + 发送）
+Les 6 dernières minutes environ, actualisées toutes les 3 secondes.	最近约 6 分钟，每 3 秒刷新一次。
+Lancer ClamAV (Téléchargements et /tmp)	运行 ClamAV（下载与 /tmp）
+Analyse heuristique en lecture seule, sans base de signatures : ce n'est pas un antivirus. Un constat est un indice à vérifier, pas une preuve.	只读的启发式分析，没有特征库：这不是杀毒软件。发现的结果只是需要核实的线索，而非证据。
+ClamAV est installé : l'analyse parcourt Téléchargements et /tmp et peut durer plusieurs minutes. Seuls les fichiers infectés sont listés.	已安装 ClamAV：扫描范围为下载文件夹和 /tmp，可能需要几分钟，仅列出被感染的文件。
+Pour une détection par signatures, installez ClamAV (paquet « clamav ») : ce scan pourra alors le lancer.	如需基于特征码的检测，请安装 ClamAV（软件包“clamav”），之后此扫描即可调用它。
+Lancer une analyse ClamAV de Téléchargements et /tmp ? Cela peut prendre plusieurs minutes.	对下载文件夹和 /tmp 运行 ClamAV 扫描？可能需要几分钟。
+Processus les plus gourmands (processeur)	最耗资源的进程（CPU）
+Processus les plus gourmands (mémoire)	最耗资源的进程（内存）
+Mémoire (% de la RAM)	内存（占 RAM 的 %）
+ (limite atteinte)	（已达上限）
+ · santé {} %	 · 健康度 {} %
+APPAREILS	设备
+APPARENCE	外观
+APPLIQUER UN QUOTA	应用配额
+Actif	活动
+Activer au démarrage	开机时启用
+Activer les quotas sur {}	在 {} 上启用配额
+Actualiser	刷新
+Analyse des paquets…	正在分析软件包…
+Analyser	分析
+Analyser les erreurs (24 h)	分析错误（24 小时）
+Annuler	取消
+Aperçu de la suppression	删除预览
+Appareils, montages, Btrfs et instantanés	设备、挂载、Btrfs 与快照
+Apparence et extensions GNOME	GNOME 外观与扩展
+Appliquer THP	应用 THP
+Appliquer des paramètres noyau	应用内核参数
+Appliquer et persister…	应用并持久化…
+Appliquer la priorité	应用优先级
+Appliquer le profil {}	应用配置文件 {}
+Appliquer les mises à jour	应用更新
+Appliquer…	应用…
+Arrêter {}	停止 {}
+Arrêter…	停止…
+Aucun espace d'échange actif.	没有活动的交换区。
+Aucun fichier de configuration détecté.	未检测到配置文件。
+Aucun gestionnaire natif détecté	未检测到原生包管理器
+Aucun groupe de volumes LVM.	没有 LVM 卷组。
+Aucun instantané lisible (support non monté ou Timeshift non configuré).	没有可读取的快照（介质未挂载或 Timeshift 未配置）。
+Aucun minuteur systemd détecté.	未检测到 systemd 定时器。
+Aucun montage NFS/CIFS déclaré ni actif.	没有已声明或活动的 NFS/CIFS 挂载。
+Aucun montage ne déclare usrquota/grpquota/prjquota dans /etc/fstab.	/etc/fstab 中没有声明 usrquota/grpquota/prjquota 的挂载。
+Aucun paquet en état `rc`.	没有处于 `rc` 状态的软件包。
+Aucun partage Samba ou NFS configuré.	未配置 Samba 或 NFS 共享。
+Aucun partage déclaré dans /etc/samba/smb.conf.	/etc/samba/smb.conf 中没有声明共享。
+Aucun raccourci personnalisé.	没有自定义快捷键。
+Aucun système de fichiers Btrfs monté sur cette machine.	此机器上没有已挂载的 Btrfs 文件系统。
+Aucun timer systemd.	没有 systemd 定时器。
+Aucun travail en attente.	没有待处理的作业。
+Aucun volume chiffré ouvert. Les partitions LUKS fermées n'apparaissent pas ici.	没有已打开的加密卷。已关闭的 LUKS 分区不会显示在此处。
+Aucun volume logique.	没有逻辑卷。
+Aucune action enregistrée pour l'instant.	暂无已记录的操作。
+Aucune action enregistrée. Le fichier est créé au premier nettoyage ou à la première suppression.	没有已记录的操作。首次清理或删除时会创建该文件。
+Aucune analyse lancée.	尚未开始分析。
+Aucune analyse à exporter	没有可导出的分析
+Aucune connexion VPN déclarée (NetworkManager/WireGuard).	没有已声明的 VPN 连接（NetworkManager/WireGuard）。
+Aucune dépendance à supprimer.	没有可移除的依赖。
+Aucune entrée : filtre “Erreurs” sur un système calme ?	没有条目：在平静的系统上使用了“错误”过滤器？
+Aucune entrée de quota (quotas non activés ou outil absent).	没有配额条目（配额未启用或缺少工具）。
+Aucune extension détectée.	未检测到扩展。
+Aucune famille ne correspond (fontconfig absent ?).	没有匹配的字体族（缺少 fontconfig？）。
+Aucune imprimante CUPS détectée (lpstat indisponible ou liste vide).	未检测到 CUPS 打印机（lpstat 不可用或列表为空）。
+Aucune imprimante configurée.	未配置打印机。
+Aucune mise à jour en attente.	没有待处理的更新。
+Aucune police détectée (fontconfig absent ?).	未检测到字体（缺少 fontconfig？）。
+Aucune recommandation (ubuntu-drivers absent ou matériel entièrement libre).	没有推荐项（缺少 ubuntu-drivers 或硬件完全为自由驱动）。
+Aucune règle détaillée disponible (pare-feu inactif ou privilèges insuffisants).	没有可用的详细规则（防火墙未启用或权限不足）。
+Aucune session active lisible.	没有可读取的活动会话。
+Aucune tâche planifiée.	没有计划任务。
+Aucune unité contenant {}.	没有包含 {} 的单元。
+Aucune zone d'échange active.	没有活动的交换区。
+Audit de durcissement	加固审计
+Audit en cours…	审计进行中…
+Autoriser	允许
+Avertissements	警告
+Bleu	蓝色
+Boutons de fenêtre : {} · {} thème(s) · {} jeu(x) d'icônes · {} police(s)	窗口按钮：{} · {} 个主题 · {} 个图标集 · {} 个字体
+COMPTES	账户
+CONFIGURATIONS RÉSIDUELLES	残留配置
+CONNEXIONS ({})	连接 ({})
+CONSOMMATION	用量
+COPIE RSYNC	RSYNC 复制
+CRONTAB UTILISATEUR	用户 CRONTAB
+CRÉER UN INSTANTANÉ	创建快照
+CUPS n'est pas installé : aucun pilote d'impression actif.	未安装 CUPS：没有活动的打印驱动。
+Cache : {} fichier(s), {} — {}	缓存：{} 个文件，{} — {}
+Capteurs	传感器
+Cartes graphiques	显卡
+Ces valeurs seront écrites dans /etc/sysctl.d/99-orbisys.conf et appliquées immédiatement (Polkit) :\n{}	这些值将写入 /etc/sysctl.d/99-orbisys.conf 并立即生效（Polkit）：\n{}
+Changer la locale du système	更改系统区域设置
+Changer le fuseau horaire	更改时区
+Changer le gouverneur CPU	更改 CPU 调速器
+Chaque cible est mesurée avant action ; les cibles système demandent Polkit.	每个目标在操作前都会先测量；系统目标需要 Polkit。
+Charger	加载
+Chemins absolus, sans `..` ; la destination ne doit pas exister.	使用绝对路径，不含 `..`；目标不得已存在。
+Châssis	机箱
+Clavier (console)	键盘（控制台）
+Cliquez sur le nom d'un processus pour le sélectionner.	点击进程名称即可选中。
+Comparaison par taille puis empreinte des 64 premiers Kio. Dossiers techniques ignorés (.git, node_modules, target, .cache, snap).	先按大小比较，再比较前 64 KiB 的指纹。忽略技术目录（.git、node_modules、target、.cache、snap）。
+Composants et capteurs, en lecture seule	组件与传感器（只读）
+Confirmer	确认
+Confirmer la suppression	确认删除
+Connexion sans mot de passe interactif (BatchMode) : une clé SSH doit être en place.	无需交互式密码的连接（BatchMode）：必须已配置 SSH 密钥。
+Conservation	保留
+Contrôles en lecture seule : rien n'est modifié par cet écran.	只读检查：此界面不会修改任何内容。
+Copie en mode miroir	镜像模式复制
+Copier…	复制…
+Créer un instantané	创建快照
+Créer un volume logique	创建逻辑卷
+Créer…	创建…
+Cœurs	核心
+DERNIÈRES CONNEXIONS	最近登录
+DIAGNOSTIC	诊断
+DISQUES ET TRIM	磁盘与 TRIM
+Depuis	从
+Dernières actions	最近操作
+Diagnostic complet	完整诊断
+Disque /	磁盘 /
+Document PDF	PDF 文档
+Données JSON	JSON 数据
+Dossier cible	目标文件夹
+Dure	硬限制
+DÉMARRAGES	启动
+DÉPENDANCES INUTILES (AUTOREMOVE)	无用依赖 (AUTOREMOVE)
+Délai d'attente	超时
+Démonter un périphérique	卸载设备
+Démonter {}	卸载 {}
+Démonter…	卸载…
+Désactiver un minuteur	禁用定时器
+Désactiver une imprimante	禁用打印机
+Désactiver {}	禁用 {}
+Désactiver…	禁用…
+Désinstaller…	卸载…
+Déverrouiller…	解锁…
+ENTRÉES AUDIO	音频输入
+ERREURS RÉCURRENTES	重复出现的错误
+EXTENSIONS	扩展
+Emplacement	位置
+Entrée par défaut	默认条目
+Erreurs	错误
+Export au format JSON (nom, version, source) puis réinstallation via APT, Snap et Flatpak.	以 JSON 格式（名称、版本、来源）导出，然后通过 APT、Snap 和 Flatpak 重新安装。
+Exporter	导出
+Exporter un instantané complet de la machine	导出本机的完整快照
+Exporter…	导出…
+Exporté : {}	已导出：{}
+Fermer	关闭
+Fermer la session {}	关闭会话 {}
+Fermer un volume chiffré	关闭加密卷
+Fermer…	关闭…
+Fichiers usuels uniquement : ~/.ssh est volontairement exclu.	仅包含常用文件：~/.ssh 被特意排除。
+Filtrer les services…	筛选服务…
+Filtrer par nom, description ou section…	按名称、描述或分区筛选…
+Fond d'écran : {}	壁纸：{}
+Forcer l'arrêt de	强制停止
+Forcer…	强制…
+Format : minute heure jour mois jour-semaine, ou @daily / @weekly / @reboot. La commande est exécutée par le shell de cron.	格式：分 时 日 月 星期，或 @daily / @weekly / @reboot。命令由 cron 的 shell 执行。
+Formats acceptés : {} · destination : {}	支持的格式：{} · 目标：{}
+Fuseau	时区
+Fuseau horaire	时区
+GROUPES DE VOLUMES	卷组
+GRUB régénéré	GRUB 已重新生成
+Garder {} et supprimer {} copie(s) identique(s) ({} libérés) ?	保留 {} 并删除 {} 个相同副本？（释放 {}）
+Gouvernance : {} · pilote : {}	调度：{} · 驱动：{}
+Gouverneur	调速器
+Gouverneur {}, vm.swappiness={}, THP={} (polkit).	调速器 {}，vm.swappiness={}，THP={}（polkit）。
+Horloge synchronisée	时钟已同步
+IMPRIMANTES	打印机
+IMPRIMANTES (CUPS)	打印机 (CUPS)
+INSTALLER UNE POLICE	安装字体
+INSTANTANÉS TIMESHIFT	TIMESHIFT 快照
+INTERFACES	接口
+Imprimantes et audio	打印机与音频
+Imprimantes et files CUPS	打印机与 CUPS 队列
+Inactif	未启用
+Installer un pilote	安装驱动
+Installer une police	安装字体
+Installer {}	安装 {}
+Installer…	安装…
+Installés hors dépôts	仓库之外安装
+Instantanés et archives	快照与归档
+Interfaces, DNS, SSH, partages et connexions	接口、DNS、SSH、共享与连接
+Journal des actions	操作日志
+Journal exporté : {}	日志已导出：{}
+Journaux du noyau	内核日志
+Jusqu'à	至
+L'imprimante restera configurée mais n'acceptera plus de travaux.	打印机将保持已配置状态，但不再接受作业。
+L'imprimante sera retirée de CUPS (lpadmin -x). Cette action est irréversible.	该打印机将从 CUPS 中移除（lpadmin -x）。此操作不可撤销。
+L'unité sera arrêtée, désactivée puis effacée du disque. Cette action est irréversible.	该单元将被停止、禁用，然后从磁盘上删除。此操作不可撤销。
+LANGUE ET FUSEAU DU SYSTÈME	系统语言与时区
+LISTE DES LOGICIELS	软件列表
+LVM et chiffrement LUKS	LVM 与 LUKS 加密
+LVM n'est pas installé : la page reste informative.	未安装 LVM：本页仅供参考。
+La règle sera retirée immédiatement.	该规则将立即被移除。
+La session de {} sur {} sera terminée immédiatement (loginctl, polkit).	{} 在 {} 上的会话将被立即终止（loginctl、polkit）。
+La simulation n'a rien renvoyé : la suppression peut être sans dépendance ou indisponible.	模拟没有返回任何结果：该删除可能没有依赖项，或不可用。
+La simulation utilise --dry-run : rien n'est écrit, rsync affiche ce qu'il ferait.	模拟使用 --dry-run：不会写入任何内容，rsync 仅显示将要执行的操作。
+Lancer un TRIM	运行 TRIM
+Lancer un TRIM maintenant…	立即运行 TRIM…
+Langue de la session	会话语言
+Langue du système	系统语言
+Langue, heure et polices	语言、时间与字体
+Le fichier sera copié dans {} puis le cache fontconfig sera reconstruit (polkit).	文件将被复制到 {}，随后重建 fontconfig 缓存（polkit）。
+Le fichier sera écrit dans {}/{} puis systemd sera rechargé (polkit).	文件将写入 {}/{}，随后重新加载 systemd（polkit）。
+Le pilote {} sera installé pour {}. Un redémarrage peut être nécessaire.	将为 {} 安装驱动 {}。可能需要重启。
+Le rapport contient la distribution, les compteurs de logiciels, le stockage, la mémoire, le score de sécurité et les dernières actions.	报告包含发行版、软件数量、存储、内存、安全评分和最近的操作。
+Le service ne démarrera plus automatiquement au prochain démarrage.	该服务在下次开机时将不再自动启动。
+Le service sera arrêté immédiatement.	该服务将被立即停止。
+Le service sera arrêté immédiatement. Les services qui en dépendent peuvent s'arrêter aussi.	该服务将被立即停止。依赖它的服务也可能随之停止。
+Le sous-volume sera définitivement supprimé (btrfs subvolume delete). Les données qu'il contient seront perdues.	该子卷将被永久删除（btrfs subvolume delete），其中的数据将丢失。
+Le timer ne déclenchera plus son unité jusqu'au prochain démarrage ou réactivation.	在下次开机或重新启用之前，该定时器将不再触发其单元。
+Le trafic correspondant sera bloqué.	匹配的流量将被阻止。
+Lecture de l'état…	正在读取状态…
+Lecture des instantanés…	正在读取快照…
+Lecture des locales…	正在读取区域设置…
+Lecture des montages…	正在读取挂载…
+Lecture des périphériques…	正在读取设备…
+Lecture des quotas…	正在读取配额…
+Lecture des réglages…	正在读取设置…
+Lecture des sessions…	正在读取会话…
+Lecture des sous-volumes…	正在读取子卷…
+Lecture des timers…	正在读取定时器…
+Lecture des tâches…	正在读取任务…
+Lecture du journal noyau…	正在读取内核日志…
+Lecture du réseau…	正在读取网络…
+Lecture en cours…	正在读取…
+Les fichiers absents de la source seront supprimés de la destination.	源中不存在的文件将从目标中删除。
+Les logiciels listés dans {} seront installés (Polkit).\nVérifiez le fichier avant de continuer.	将安装 {} 中列出的软件（Polkit）。\n继续之前请检查该文件。
+Les programmes utilisant ce montage risquent de bloquer. Le système peut attendre la fin des accès avant de rendre la main.	使用此挂载的程序可能会卡住。系统可能会等待访问结束后才返回。
+Ligne de commande	命令行
+Lignes	行数
+Lire	读取
+Liste des logiciels, copie, dotfiles et GRUB	软件列表、复制、dotfiles 与 GRUB
+Locale	区域设置
+MINUTEURS SYSTEMD	SYSTEMD 定时器
+MONTAGES	挂载
+Mesure indisponible (systemd-analyze absent).	无法测量（缺少 systemd-analyze）。
+Minuteur fstrim.timer : {}	fstrim.timer 定时器：{}
+Montages	挂载
+Montages réseau	网络挂载
+Monter	挂载
+Monter {}	挂载 {}
+Monter…	挂载…
+Motif	匹配模式
+Muet	静音
+MÉMOIRE	内存
+NOM	名称
+NOYAUX INSTALLÉS	已安装的内核
+Nettoyer…	清理…
+Notice	通知
+Nouveau modèle	新模板
+Nouveau volume	新建卷
+Nouvelle tâche	新建任务
+Noyau en cours : {}	当前内核：{}
+Noyau, swap et paramètres système	内核、交换区与系统参数
+Noyaux	内核
+ORIGINE	来源
+Orange	橙色
+PARAMÈTRES NOYAU (PERSISTANTS)	内核参数（持久）
+PARTAGE	共享
+PARTAGES	共享
+PARTAGES SAMBA	SAMBA 共享
+PILOTES RECOMMANDÉS	推荐驱动
+POLICES	字体
+PROCESSEUR	处理器
+PROFILS	配置文件
+Page, logiciel, service, processus…	页面、软件、服务、进程…
+Pages sales	脏页
+Paquets orphelins	孤立软件包
+Paquets à purger :\n{}\nLe noyau en cours et le plus récent sont toujours conservés.	将清除的软件包：\n{}\n当前内核和最新内核始终保留。
+Par défaut	默认
+Pare-feu UFW et tunnels VPN	UFW 防火墙与 VPN 隧道
+Passerelle	网关
+Police	字体
+Polices installées	已安装字体
+Port 631 : {} · Browsing : {} · écoute globale : {}	端口 631：{} · Browsing：{} · 全局监听：{}
+Port à autoriser ou refuser	要允许或拒绝的端口
+Priorité	优先级
+Processus les plus actifs	最活跃的进程
+Processus {} (PID {}) : {}.\nLes données non enregistrées de ce programme peuvent être perdues.	进程 {}（PID {}）：{}。\n该程序中未保存的数据可能会丢失。
+Profils de performance	性能配置文件
+Purger les configurations résiduelles	清除残留配置
+Purger {} configuration(s)…	清除 {} 项配置…
+PÉRIPHÉRIQUES CHIFFRÉS (LUKS)	加密设备 (LUKS)
+Quota pour {}	{} 的配额
+Quotas de disque	磁盘配额
+RACCOURCIS CLAVIER	键盘快捷键
+RAM disponible	可用 RAM
+RAM totale	RAM 总量
+Rapport texte	文本报告
+Rapport écrit : {}	报告已写入：{}
+Recherche : {}	搜索：{}
+Recherche : {} · {} entrée(s) /etc/hosts	搜索：{} · /etc/hosts 中有 {} 条记录
+Recherche dans le journal systemd	搜索 systemd 日志
+Recherche globale	全局搜索
+Rechercher	搜索
+Reconstruire le cache	重建缓存
+Refuser…	拒绝…
+Relancer l'audit	重新运行审计
+Relire	重新读取
+Remesurer	重新测量
+Reprendre	恢复
+Rien à supprimer : seuls le noyau en cours et le plus récent sont conservés.	没有可删除的内容：仅保留当前内核和最新内核。
+Rose	粉色
+RÈGLES	规则
+RÉGLAGES INDIVIDUELS	单项设置
+RÉSEAUX WI-FI	WI-FI 网络
+Régénérer GRUB	重新生成 GRUB
+Régénérer la configuration…	重新生成配置…
+Réinstaller des logiciels	重新安装软件
+Réinstaller…	重新安装…
+Réseau étendu	高级网络
+Résoudre	解析
+Rétablir le son	恢复声音
+SAUVEGARDE DISTANTE (RSYNC/SSH)	远程备份 (RSYNC/SSH)
+SERVEUR SSH	SSH 服务器
+SERVICES LES PLUS LENTS AU DÉMARRAGE	启动最慢的服务
+SESSIONS ACTIVES	活动会话
+SORTIES AUDIO	音频输出
+SOUS-VOLUMES	子卷
+SUBSTITUTION FONTCONFIG	FONTCONFIG 替换
+Sans-serif : {} · monospace : {}	无衬线：{} · 等宽：{}
+Sauvegarde distante	远程备份
+Sauvegarder	备份
+Sauvegarder…	备份…
+Sauvegardes	备份
+Schéma clair/sombre	浅色/深色方案
+Score {}/100	评分 {}/100
+Serveurs : {}	服务器：{}
+Service NTP	NTP 服务
+Sessions et comptes	会话与账户
+Seules les polices de {} peuvent être supprimées ; les polices des paquets sont protégées.	只能删除 {} 中的字体；软件包提供的字体受到保护。
+Simuler	模拟
+Snap / Flatpak	Snap / Flatpak
+Souple	软限制
+Sous-volumes et instantanés Btrfs	Btrfs 子卷与快照
+Statut	状态
+Supprimer des noyaux	删除内核
+Supprimer les copies	删除副本
+Supprimer les copies…	删除副本…
+Supprimer les dépendances inutiles	移除无用依赖
+Supprimer un volume logique	删除逻辑卷
+Supprimer une imprimante	删除打印机
+Supprimer une police	删除字体
+Supprimer une tâche cron	删除 cron 任务
+Supprimer {}	删除 {}
+Supprimer {} ancien(s) noyau(x)…	删除 {} 个旧内核…
+Supprimer {} dépendance(s)…	移除 {} 个依赖…
+Supprimer…	删除…
+Swap utilisé	已用交换区
+Sélection : {} ({})	已选：{}（{}）
+TRAVAUX	作业
+TRIM non exposé	未暴露 TRIM
+TRIM pris en charge	支持 TRIM
+TRIM, processeur et mémoire	TRIM、处理器与内存
+Tableau CSV	CSV 表格
+Tester	测试
+Tester la connexion	测试连接
+Thème GTK	GTK 主题
+Thème d'icônes	图标主题
+Timers et unités de sauvegarde	定时器与备份单元
+Total mesuré : {}	测量总计：{}
+Tous les travaux de cette imprimante seront annulés.	该打印机的所有作业都将被取消。
+Tous les travaux en attente pour cette imprimante seront annulés.	该打印机所有待处理的作业都将被取消。
+Tout	全部
+Tout décocher	全部取消勾选
+Tout mettre à jour…	全部更新…
+Toutes les règles seront ignorées et les ports seront exposés.	所有规则都将被忽略，端口将被暴露。
+Toutes sources	所有来源
+Tâches planifiées	计划任务
+UNITÉS DE SAUVEGARDE	备份单元
+UTILISATEUR	用户
+Unités	单元
+Unités systemd personnalisées	自定义 systemd 单元
+VOLUMES LOGIQUES	逻辑卷
+Valeurs écrites dans /etc/sysctl.d/99-orbisys.conf puis appliquées par sysctl -p.	数值将写入 /etc/sysctl.d/99-orbisys.conf，然后通过 sysctl -p 应用。
+Verrouiller…	锁定…
+Vert	绿色
+Vider la file	清空队列
+Vider la file de {}	清空 {} 的队列
+Violet	紫色
+VÉRIFICATION D'ARCHIVE	归档验证
+Vérifier	验证
+absent	缺失
+actif	活动
+actif au démarrage	开机启用
+activée	已启用
+analyse : {}	分析：{}
+annulation : {}	取消：{}
+apt-get autoremove --purge supprimera {} paquet(s) : {}	apt-get autoremove --purge 将移除 {} 个软件包：{}
+apt-get purge supprimera les fichiers de configuration de {} paquet(s) déjà désinstallés.	apt-get purge 将删除 {} 个已卸载软件包的配置文件。
+arrêté	已停止
+aucun montage /	无 / 挂载
+aucune adresse IPv4	无 IPv4 地址
+aucune batterie	无电池
+audio : {}	音频：{}
+bloqué	已阻止
+btrfs subvolume snapshot -r {} {} (lecture seule, polkit).	btrfs subvolume snapshot -r {} {}（只读，polkit）。
+cache : {}	缓存：{}
+charge instantanée	瞬时负载
+compte : {}	账户：{}
+connecté	已连接
+cpupower absent : application du gouverneur impossible	缺少 cpupower：无法应用调速器
+cpupower absent : la gouvernance peut être lue mais pas modifiée.	缺少 cpupower：可读取调速器，但无法更改。
+cpupower frequency-set -g {} (polkit).	cpupower frequency-set -g {}（polkit）。
+crontab n'est pas installé.	未安装 crontab。
+cryptsetup close {} : le volume sera verrouillé et devra être réouvert avec sa phrase secrète.	cryptsetup close {}：该卷将被锁定，需用其密码短语重新打开。
+cupsdisable {} : les impressions en attente resteront bloquées.	cupsdisable {}：待处理的打印作业将保持阻止状态。
+disponible	可用
+disque rotatif	机械硬盘
+dotfiles : {}	dotfiles：{}
+doublons : {}	重复文件：{}
+dépassé	已超出
+désactivée	已禁用
+en attente	待处理
+en cours	当前
+export : {}	导出：{}
+export impossible : {}	无法导出：{}
+extension : {}	扩展：{}
+facultatif	可选
+fait	完成
+file : {}	队列：{}
+filtrer	筛选
+filtrer un contrôle	筛选检查项
+filtrer un message	筛选消息
+filtrer un point de montage	筛选挂载点
+filtrer un utilisateur	筛选用户
+filtrer une famille	筛选字体族
+format : 22, 22/tcp ou 8080/udp	格式：22、22/tcp 或 8080/udp
+fstrim -av parcourt tous les systèmes de fichiers montés et signale aux SSD les blocs libres. L'opération peut durer plusieurs minutes et n'efface aucune donnée.	fstrim -av 会遍历所有已挂载的文件系统，并向 SSD 通告空闲块。该操作可能需要几分钟，且不会擦除任何数据。
+fuseau : {}	时区：{}
+gouverneur : {}	调速器：{}
+groupe	组
+gsettings est absent : GNOME n'est pas le bureau actif.	缺少 gsettings：GNOME 不是当前桌面。
+hôte ou adresse	主机或地址
+illimité	不限
+imprimante : {}	打印机：{}
+inactif	未启用
+inconnu	未知
+installation : {}	安装：{}
+instantané	快照
+instantané : {}	快照：{}
+interfaces : {} · wireguard : {} · connexions actives : {}	接口：{} · wireguard：{} · 活动连接：{}
+inventaire non chargé	清单未加载
+journaux : {}	日志：{}
+lecture seule	只读
+lecture/écriture	读/写
+liste exportée : {} ({} logiciels)	列表已导出：{}（{} 个软件）
+locale : {}	区域设置：{}
+localectl set-locale LANG={} (Polkit).\nLa session en cours n'est pas modifiée ; la locale s'applique aux nouvelles sessions.	localectl set-locale LANG={}（Polkit）。\n当前会话不会改变；区域设置将应用于新会话。
+logiciel introuvable dans l'inventaire	在清单中未找到该软件
+lpadmin -x {} : la file et ses réglages seront supprimés.	lpadmin -x {}：该队列及其设置将被删除。
+lvremove -f {}/{} : toutes les données de ce volume seront perdues.	lvremove -f {}/{}：该卷上的所有数据都将丢失。
+manuel	手动
+minuteur : {}	定时器：{}
+mode miroir (--delete)	镜像模式 (--delete)
+montage : {}	挂载：{}
+monté	已挂载
+mount {} ({}:{}, polkit). Le serveur doit être joignable.	mount {}（{}:{}，polkit）。服务器必须可访问。
+nom de famille demandé	要查询的字体族名称
+non	否
+non activé au démarrage	未设为开机启用
+non détectées	未检测到
+non installé	未安装
+non listé	未列出
+notables seulement	仅显示重要项
+noyaux : {}	内核：{}
+ou en terminal : sudo {}	或在终端中运行：sudo {}
+oui	是
+pactl est absent : serveur audio non détecté.	缺少 pactl：未检测到音频服务器。
+par défaut	默认
+partage exposé sur le réseau	共享已暴露到网络
+partage non exposé	共享未暴露
+pilote : {}	驱动：{}
+ping : {}	ping：{}
+polices : {}	字体：{}
+processus : {}	进程：{}
+profil : {}	配置文件：{}
+présent	存在
+purge : {}	清除：{}
+quota : {}	配额：{}
+quotaon activera les quotas déjà configurés sur ce montage.	quotaon 将启用此挂载上已配置的配额。
+rsync -a {} → {}\nLes fichiers absents de la source ne sont pas supprimés sur la cible.	rsync -a {} → {}\n源中不存在的文件不会从目标中删除。
+rsync : {}	rsync：{}
+rsync distant : {}	远程 rsync：{}
+résolution : {}	解析：{}
+score {} %	评分 {} %
+session : {}	会话：{}
+substitution : {}	替换：{}
+suppression : {}	删除：{}
+suppression via le gestionnaire natif, confirmée par Polkit	通过原生包管理器删除，由 Polkit 确认
+swappiness : valeur entre 0 et 100 attendue	swappiness：需要 0 到 100 之间的值
+systemctl disable --now {} : les tâches planifiées de ce minuteur ne seront plus exécutées.	systemctl disable --now {}：此定时器的计划任务将不再执行。
+taille minimale (Kio)	最小大小 (KiB)
+test serveur : {}	服务器测试：{}
+timedatectl set-timezone {} (Polkit). Les horodatages des journaux existants restent inchangés.	timedatectl set-timezone {}（Polkit）。现有日志的时间戳保持不变。
+timeout, refusé…	超时、被拒绝…
+timer : {}	定时器：{}
+timer {}	定时器 {}
+udisksctl unmount -b {} : arrêter les applications qui l'utilisent.	udisksctl unmount -b {}：请先停止使用它的应用程序。
+unité (ex. nginx.service)	单元（例如 nginx.service）
+unités : {}	单元：{}
+update-grub réécrit /boot/grub/grub.cfg. Une entrée manquante peut empêcher le démarrage : vérifiez les noyaux listés ci-dessus.	update-grub 会重写 /boot/grub/grub.cfg。缺少条目可能导致无法启动：请检查上面列出的内核。
+usermod -L empêche toute connexion par mot de passe de ce compte.	usermod -L 会阻止此账户使用密码登录。
+usermod -U rétablit la connexion par mot de passe.	usermod -U 会恢复密码登录。
+via {}	通过 {}
+{} ({}) — {} utilisés sur {}	{}（{}）— 已用 {}，共 {}
+{} / {} · priorité {}	{} / {} · 优先级 {}
+{} appareil(s) · {} montage(s) · {} instantané(s)	{} 台设备 · {} 个挂载 · {} 个快照
+{} conformes · {} partiels · {} non conformes · {} inconnus	合规 {} · 部分 {} · 不合规 {} · 未知 {}
+{} copie(s) supprimée(s), {} libérés	已删除 {} 个副本，释放 {}
+{} cœur(s) · gouverneur {} · swap {}	{} 个核心 · 调速器 {} · 交换区 {}
+{} entrée(s) · {} montage(s) avec quotas · outil {}	{} 条记录 · {} 个启用配额的挂载 · 工具 {}
+{} entrée(s) · {} montée(s) · showmount {}	{} 条记录 · {} 个已挂载 · showmount {}
+{} famille(s) de polices · {} locale(s) disponible(s)	{} 个字体族 · {} 个可用区域设置
+{} famille(s) installée(s)	已安装 {} 个字体族
+{} fichiers analysés · {} groupe(s) · {} récupérables{}	已分析 {} 个文件 · {} 组 · 可回收 {}{}
+{} groupe(s) · {} volume(s) · {} périphérique(s) chiffré(s)	{} 个卷组 · {} 个卷 · {} 个加密设备
+{} hors dépôts	{} 个来自仓库之外
+{} imprimante(s) · {} sortie(s) · {} entrée(s)	{} 台打印机 · {} 个输出 · {} 个输入
+{} imprimante(s) · {} travail(x) en file	{} 台打印机 · 队列中有 {} 个作业
+{} instantané(s)	{} 个快照
+{} instantané(s) · Timeshift {}	{} 个快照 · Timeshift {}
+{} libres sur /	/ 上剩余 {}
+{} ligne(s) affichée(s)	显示 {} 行
+{} ligne(s) · {} message(s) récurrent(s)	{} 行 · {} 条重复消息
+{} mise(s) à jour disponible(s)	有 {} 个可用更新
+{} mise(s) à jour seront installées ({}). Une authentification administrateur est demandée.	将安装 {} 个更新（{}）。需要管理员身份验证。
+{} montage(s) · {} sous-volume(s) · {} instantané(s) · outil {}	{} 个挂载 · {} 个子卷 · {} 个快照 · 工具 {}
+{} paquet(s) seraient installés	将安装 {} 个软件包
+{} paquet(s) seraient retirés	将移除 {} 个软件包
+{} paquets · {} snap · {} flatpak · {} hors dépôts	{} 个软件包 · {} 个 snap · {} 个 flatpak · {} 个仓库外
+{} personnalisée(s) · {} service(s)	{} 个自定义 · {} 个服务
+{} point(s) à surveiller	{} 项需要关注
+{} processus	{} 个进程
+{} périphériques USB · {} PCI	{} 个 USB 设备 · {} 个 PCI
+{} résultat(s)	{} 条结果
+{} session(s) · {} connexion(s) · {} compte(s) vérifié(s)	{} 个会话 · {} 次登录 · 已检查 {} 个账户
+{} souple / {} dure sur {} (setquota, polkit).	在 {} 上设置软限制 {} / 硬限制 {}（setquota，polkit）。
+{} style(s)	{} 种样式
+{} supprimable(s) · {} configuration(s) résiduelle(s) · {}	{} 个可删除 · {} 项残留配置 · {}
+{} système(s) de fichiers	{} 个文件系统
+{} sélectionné(s)	已选择 {} 项
+{} timer(s) · {} unité(s) de sauvegarde · {} en échec	{} 个定时器 · {} 个备份单元 · {} 个失败
+{} tâche(s) cron · {} minuteur(s)	{} 个 cron 任务 · {} 个定时器
+{} unités	{} 个单元
+{} utilisés · {} libres sur {}	已用 {} · 剩余 {}（共 {}）
+{} {}\nLa tâche sera retirée du crontab utilisateur.	{} {}\n该任务将从用户 crontab 中移除。
+{} · libre {} · {} PV / {} LV · {} % utilisé	{} · 剩余 {} · {} PV / {} LV · 已用 {} %
+{} élément(s) de configuration · {} noyau(x)	{} 项配置 · {} 个内核
+{}rsync distant\n{}	{}远程 rsync\n{}
+{}rsync terminé\n{}	{}rsync 已完成\n{}
+« {} » absente → remplacée par « {} »	“{}”不存在 → 已替换为“{}”
+« {} » installée	已安装“{}”
+ÉCHANGE (SWAP)	交换区 (SWAP)
+ÉDITEUR D'UNITÉ	单元编辑器
+ÉTAT	状态
+État des comptes indisponible (passwd restreint).	无法获取账户状态（passwd 受限）。
+à traiter	待处理
+… et {} autre(s) famille(s)	… 以及另外 {} 个字体族
+… {} entrée(s) masquée(s), affinez le filtre.	… 已隐藏 {} 条记录，请缩小筛选范围。
+… {} familles supplémentaires masquées, affinez le filtre.	… 已隐藏另外 {} 个字体族，请缩小筛选范围。
+Description	描述
+Version {} · licence MIT · Rust + egui	版本 {} · MIT 许可证 · Rust + egui
+Alerte : {}	警报：{}
+simulation : 	模拟：
+score d'audit	审计评分
+ · muet	 · 静音
+ (libre)	（自由）
+{} disque(s) · gouvernance {} · TRIM {}	{} 块磁盘 · 调度 {} · TRIM {}
+{} style(s) : {}	{} 种样式：{}
+{} extension(s) · {} raccourci(s)	{} 个扩展 · {} 个快捷键
+route {} via {} · {} interface(s)	路由 {}（经 {}）· {} 个接口
+{} interface(s) · {} connexion(s)	{} 个接口 · {} 个连接
+{} · port {} · PermitRootLogin {} · PasswordAuthentication {}	{} · 端口 {} · PermitRootLogin {} · PasswordAuthentication {}
+entrant {} · sortant {}	入站 {} · 出站 {}
+{} physiques · {} logiques · {}	{} 物理 · {} 逻辑 · {}
+{} processus · CPU {} % · charge {} / {} / {}	{} 个进程 · CPU {} % · 负载 {} / {} / {}
+{} ligne(s)	{} 行
+{} · {} erreur(s) · {} avertissement(s)	{} · {} 个错误 · {} 个警告
+disponibles : {}	可用：{}
+non défini	未设置
+Manuel	手动
+Entrée .desktop	.desktop 条目
+erreur	错误
+avertissement	警告
+information	信息
+mémoire	内存
+matériel	硬件
+stockage	存储
+thermique	温度
+réseau	网络
+graphique	图形
+divers	其他
+Informations	信息
+conforme	合规
+partiel	部分
+non conforme	不合规
+Attention	注意
+Critique	严重
+terminer (SIGTERM)	终止 (SIGTERM)
+forcer l'arrêt (SIGKILL)	强制停止 (SIGKILL)
+suspendre (SIGSTOP)	暂停 (SIGSTOP)
+reprendre (SIGCONT)	恢复 (SIGCONT)
+priorité {}	优先级 {}
+Activer le pare-feu	启用防火墙
+Désactiver le pare-feu	禁用防火墙
+Autoriser {}	允许 {}
+Refuser {}	拒绝 {}
+Supprimer la règle n°{}	删除第 {} 条规则
+Cache des paquets téléchargés	已下载软件包缓存
+Journal systemd	systemd 日志
+Corbeille	回收站
+Cache utilisateur	用户缓存
+Vignettes	缩略图
+Noyaux obsolètes	过时的内核
+Archives .deb déjà installées, dans /var/cache/apt/archives.	已安装的 .deb 归档，位于 /var/cache/apt/archives。
+Anciennes entrées du journal, réduites à 200 Mio.	旧的日志条目，缩减至 200 MiB。
+Fichiers placés dans la corbeille.	已放入回收站的文件。
+Caches applicatifs de ~/.cache (vignettes incluses).	~/.cache 中的应用缓存（含缩略图）。
+Aperçus d'images et de vidéos régénérés automatiquement.	会自动重新生成的图片和视频预览。
+{} noyau(x) plus ancien(s) que celui en cours : {}.	比当前内核旧的内核有 {} 个：{}。
+{} révision(s) désactivée(s) conservées par snap.	snap 保留的 {} 个已禁用修订版。
+impression en cours	正在打印
+prête	就绪
+inconnue	未知
+user@hôte:/srv/sauvegarde	user@host:/srv/backup
+/usr/local/bin/sauvegarde.sh	/usr/local/bin/backup.sh
+/usr/bin/mon-script	/usr/bin/my-script
+/home/amine/sauvegarde.tar.gz	/home/user/backup.tar.gz
+/home/amine/Téléchargements/ma-police.ttf	/home/user/Downloads/my-font.ttf
+mon-service.service	my-service.service
+PermitRootLogin non défini (défaut dépendant de la version)	未设置 PermitRootLogin（默认值取决于版本）
+Connexion root en SSH interdite	禁止通过 SSH 以 root 登录
+SSH	SSH
+Définir « PermitRootLogin no » dans /etc/ssh/sshd_config.	在 /etc/ssh/sshd_config 中设置“PermitRootLogin no”。
+authentification par mot de passe non définie	未设置密码认证
+Authentification SSH par clé uniquement	SSH 仅允许密钥认证
+Désactiver PasswordAuthentication après avoir déployé des clés.	部署密钥后请禁用 PasswordAuthentication。
+pare-feu actif, refus par défaut en entrée	防火墙已启用，入站默认拒绝
+pare-feu actif mais politique d'entrée non restrictive	防火墙已启用，但入站策略不够严格
+pare-feu inactif	防火墙未启用
+Pare-feu actif avec refus par défaut	防火墙已启用且默认拒绝
+Activer ufw puis « ufw default deny incoming ».	启用 ufw，然后执行“ufw default deny incoming”。
+AppArmor actif	AppArmor 已启用
+Noyau	内核
+service apparmor actif	apparmor 服务已启用
+service apparmor inactif ou absent	apparmor 服务未启用或不存在
+Installer apparmor et activer le service.	安装 apparmor 并启用该服务。
+Mises à jour de sécurité automatiques	自动安全更新
+unattended-upgrades activé	unattended-upgrades 已启用
+unattended-upgrades non activé	unattended-upgrades 未启用
+Activer unattended-upgrades (apt-daily-upgrade.timer).	启用 unattended-upgrades（apt-daily-upgrade.timer）。
+ASLR complet	完整 ASLR
+Régler kernel.randomize_va_space=2.	设置 kernel.randomize_va_space=2。
+Core dumps des binaires SUID désactivés	已禁用 SUID 程序的核心转储
+Régler fs.suid_dumpable=0.	设置 fs.suid_dumpable=0。
+Routage IPv4 désactivé	已禁用 IPv4 路由
+Régler net.ipv4.ip_forward=0 sauf si la machine est un routeur.	除非本机是路由器，否则请设置 net.ipv4.ip_forward=0。
+PASS_MAX_DAYS {} (supérieur à 365)	PASS_MAX_DAYS {}（大于 365）
+PASS_MAX_DAYS illisible	无法读取 PASS_MAX_DAYS
+Expiration des mots de passe	密码过期
+Accès	访问
+Régler PASS_MAX_DAYS à 365 ou moins dans /etc/login.defs.	在 /etc/login.defs 中将 PASS_MAX_DAYS 设为 365 或更小。
+/tmp monté avec nodev et nosuid	/tmp 以 nodev 和 nosuid 挂载
+Système de fichiers	文件系统
+Monter /tmp avec nodev,nosuid (ou via tmpfs).	使用 nodev,nosuid 挂载 /tmp（或使用 tmpfs）。
+Journalisation d'audit active	审计日志已启用
+Audit	审计
+service auditd actif	auditd 服务已启用
+auditd inactif ou non installé	auditd 未启用或未安装
+Installer auditd et activer le service.	安装 auditd 并启用该服务。
+ufw absent : contrôle pare-feu partiel	缺少 ufw：防火墙检查不完整
+systemctl absent : services non vérifiés	缺少 systemctl：未检查服务
+Équilibre bureau : fréquence à la demande, swap modéré.	桌面均衡：按需调频，适度使用交换区。
+Fréquence maximale, swap minimal, pages géantes systématiques.	最高频率，最小交换，始终使用大页。
+Batterie et silence : fréquence basse, swap agressif.	省电静音：低频率，积极使用交换区。
+cpufreq indisponible : gouvernance non exposée	cpufreq 不可用：未暴露调速器
+gouverneur refusé : {} (disponibles : {})	调速器被拒绝：{}（可用：{}）
+gouverneur appliqué : {}	已应用调速器：{}
+mode THP refusé : {}	THP 模式被拒绝：{}
+transparent_hugepage non exposé par ce noyau	此内核未暴露 transparent_hugepage
+gouverneur : échec ({})	调速器：失败（{}）
+swappiness : échec ({})	swappiness：失败（{}）
+compte verrouillé	账户已锁定
+mot de passe actif	已设密码
+aucun mot de passe	无密码
+état {}	状态 {}
+utilisateur refusé : {}	用户被拒绝：{}
+compte déverrouillé	账户已解锁
+session refusée : {}	会话被拒绝：{}
+session {} fermée	会话 {} 已关闭
+Réactif	响应优先
+Performance	性能
+Économie	节能
+planification invalide : cinq champs (min heure jour mois jour-semaine) ou @daily	计划无效：需要五个字段（分 时 日 月 星期）或 @daily
+commande invalide	命令无效
+crontab n'est pas installé	未安装 crontab
+tâche ajoutée : {} {}	已添加任务：{} {}
+tâche invalide	任务无效
+tâche supprimée : {} {}	已移除任务：{} {}
+minuteur invalide : nom attendu au format nom.timer	定时器无效：名称应为 name.timer 格式
+APT : {} paquet(s) installé(s)	APT：已安装 {} 个软件包
+APT : échec — {}	APT：失败 — {}
+Snap : {} logiciel(s) installé(s)	Snap：已安装 {} 个软件
+Snap : échec — {}	Snap：失败 — {}
+Flatpak : {} application(s) installée(s)	Flatpak：已安装 {} 个应用
+Flatpak : échec — {}	Flatpak：失败 — {}
+aucun logiciel à réinstaller dans ce fichier	此文件中没有可重新安装的软件
+source introuvable : {}	找不到源：{}
+refus de copier la racine du système	拒绝复制系统根目录
+destination refusée : racine du système	目标被拒绝：系统根目录
+source et destination identiques	源和目标相同
+la destination ne peut pas être à l'intérieur de la source	目标不能位于源内部
+rsync n'est pas installé	未安装 rsync
+aucun fichier de configuration détecté	未检测到配置文件
+{} élément(s) sauvegardé(s) dans {}	已将 {} 项保存到 {}
+ni update-grub ni grub-mkconfig ne sont disponibles	update-grub 和 grub-mkconfig 均不可用
+la sauvegarde doit être un dossier	备份必须是文件夹
+aucun fichier de configuration reconnu dans ce dossier	此文件夹中没有可识别的配置文件
+{} élément(s) restauré(s) (les originaux sont conservés en .um-bak-{})	已还原 {} 项（原文件保留为 .um-bak-{}）
+dossier personnel introuvable	找不到主目录
+chemins refusés : attendu des chemins absolus sans `..`	路径被拒绝：需要不含 `..` 的绝对路径
+la source et la destination sont identiques	源和目标相同
+la destination existe déjà : {}	目标已存在：{}
+dossier parent absent : {}	缺少上级文件夹：{}
+instantané créé : {}	已创建快照：{}
+chemin refusé : {}	路径被拒绝：{}
+sous-volume supprimé : {}	已删除子卷：{}
+btrfs-progs absent : sous-volumes illisibles	缺少 btrfs-progs：无法读取子卷
+{} élément(s) retiré(s) de la corbeille	已从回收站移除 {} 项
+dossier de cache introuvable	找不到缓存文件夹
+{} entrée(s) de cache supprimée(s)	已删除 {} 个缓存条目
+{} vignette(s) supprimée(s)	已删除 {} 个缩略图
+aucune révision désactivée	没有已禁用的修订版
+{} r{} supprimée	已移除 {} r{}
+travail refusé : {}	作业被拒绝：{}
+travail annulé : {}	作业已取消：{}
+imprimante refusée : {}	打印机被拒绝：{}
+file vidée : {}	已清空队列：{}
+imprimante supprimée : {}	已删除打印机：{}
+schéma ou clé invalide	架构或键无效
+valeur refusée	值被拒绝
+identifiant d'extension invalide	扩展标识符无效
+gnome-extensions n'est pas disponible	gnome-extensions 不可用
+ufw n'est pas installé : pare-feu non gérable depuis l'application.	未安装 ufw：无法在应用中管理防火墙。
+pare-feu inactif : aucune règle n'est appliquée.	防火墙未启用：未应用任何规则。
+ufw n'est pas installé	未安装 ufw
+port refusé : {}	端口被拒绝：{}
+numéro de règle invalide	规则编号无效
+les règles ont changé depuis l'affichage : actualisez et recommencez	规则在显示后已更改：请刷新后重试
+extension absente : attendu ttf, otf, ttc, woff ou woff2	缺少扩展名：需要 ttf、otf、ttc、woff 或 woff2
+extension refusée : .{}	扩展名被拒绝：.{}
+fichier introuvable : {}	找不到文件：{}
+nom de famille invalide	字体族名称无效
+famille refusée : {}	字体族被拒绝：{}
+nom de fichier invalide	文件名无效
+nom de fichier caché refusé	隐藏文件名被拒绝
+police installée : {}	已安装字体：{}
+suppression limitée à {} : {}	仅限删除 {}：{}
+police supprimée : {}	已删除字体：{}
+aucune valeur à appliquer	没有可应用的值
+clé refusée : {}	键被拒绝：{}
+valeur refusée pour {}	{} 的值被拒绝
+{} réglage(s) appliqué(s) et persistés dans {}	已应用 {} 项设置并持久化到 {}
+aucun noyau à supprimer	没有可删除的内核
+paquet refusé : {}	软件包被拒绝：{}
+refus de supprimer le noyau en cours : {}	拒绝删除当前内核：{}
+{} noyau(x) supprimé(s)	已删除 {} 个内核
+pilote refusé : {}	驱动被拒绝：{}
+ubuntu-drivers n'est pas disponible	ubuntu-drivers 不可用
+pilote {} installé	已安装驱动 {}
+locale invalide : format attendu fr_FR.UTF-8	区域设置无效：应为 fr_FR.UTF-8 格式
+localectl n'est pas disponible	localectl 不可用
+locale système : {}	系统区域设置：{}
+fuseau invalide : format attendu Europe/Paris	时区无效：应为 Europe/Paris 格式
+timedatectl n'est pas disponible	timedatectl 不可用
+nom de groupe ou de volume invalide	卷组或卷名称无效
+taille invalide : attendu un nombre suivi de K, M, G ou T	大小无效：应为数字后跟 K、M、G 或 T
+volume {}/{} créé ({})	已创建卷 {}/{}（{}）
+référence attendue : groupe/volume	应为引用：卷组/卷
+référence de volume invalide	卷引用无效
+volume {}/{} supprimé	已删除卷 {}/{}
+nom de périphérique invalide	设备名称无效
+{} fermé	{} 已关闭
+périphérique invalide	设备无效
+hôte refusé : {}	主机被拒绝：{}
+résolution impossible : {}	无法解析：{}
+aucune route par défaut	没有默认路由
+point de montage refusé : {}	挂载点被拒绝：{}
+serveur refusé : {}	服务器被拒绝：{}
+fstrim n'est pas disponible (paquet util-linux)	fstrim 不可用（util-linux 软件包）
+TRIM terminé	TRIM 已完成
+gouvernance refusée : {}	调速器被拒绝：{}
+cpupower est requis pour changer la gouvernance (paquet linux-tools)	更改调速器需要 cpupower（linux-tools 软件包）
+dépendances inutiles supprimées	已移除无用依赖
+aucun paquet à purger	没有可清除的软件包
+trop de paquets en une fois (200 maximum)	一次包含的软件包过多（最多 200 个）
+nom de paquet refusé : {}	软件包名称被拒绝：{}
+{} configuration(s) purgée(s)	已清除 {} 项配置
+nom d'imprimante invalide	打印机名称无效
+imprimante par défaut : {}	默认打印机：{}
+imprimante {} supprimée	已删除打印机 {}
+nom de sortie audio invalide	音频输出名称无效
+sortie par défaut : {}	默认输出：{}
+sourdine basculée pour {}	已切换 {} 的静音
+ajustement attendu entre -100 et +100	调整值应在 -100 到 +100 之间
+volume de {} ajusté de {}	已将 {} 的音量调整 {}
+la limite souple dépasse la limite dure	软限制超过了硬限制
+quota appliqué : {} sur {} ({} / {})	已应用配额：{} 于 {}（{} / {}）
+quotas activés : {}	已启用配额：{}
+repquota absent : paquet quota non installé	缺少 repquota：未安装 quota 软件包
+systemd non disponible sur ce système	此系统上没有 systemd
+unité refusée : {}	单元被拒绝：{}
+cible invalide : format attendu user@hôte:/chemin	目标无效：应为 user@host:/路径 格式
+hôte introuvable dans la cible	目标中找不到主机
+connexion à {} établie	已连接到 {}
+connexion à {} impossible : {}	无法连接到 {}：{}
+chemin refusé	路径被拒绝
+format non pris en charge : attendu .tar[.gz|.xz|.bz2], .tgz, .txz, .zip	不支持的格式：应为 .tar[.gz, .xz, .bz2]、.tgz、.txz、.zip
+archive invalide : {}	归档无效：{}
+archive valide : {} entrée(s) · {}	归档有效：{} 个条目 · {}
+action refusée : {}	操作被拒绝：{}
+le nom doit se terminer par .service	名称必须以 .service 结尾
+nom d'unité refusé : {}	单元名称被拒绝：{}
+fichier d'unité trop volumineux (64 Kio maximum)	单元文件过大（最大 64 KiB）
+ExecStart= manquant ou vide	ExecStart= 缺失或为空
+unité introuvable : {}	找不到单元：{}
+unité installée : {}	已安装单元：{}
+pas une unité personnalisée : {}	不是自定义单元：{}
+unité supprimée : {}	已删除单元：{}
+date de début invalide : AAAA-MM-JJ ou AAAA-MM-JJ HH:MM	开始日期无效：YYYY-MM-DD 或 YYYY-MM-DD HH:MM
+date de fin invalide : AAAA-MM-JJ ou AAAA-MM-JJ HH:MM	结束日期无效：YYYY-MM-DD 或 YYYY-MM-DD HH:MM
+rien à exporter : lancez d'abord une recherche	没有可导出的内容：请先执行搜索
+{} × {} ({} récupérables)	{} × {}（可回收 {}）
+original introuvable : {}	找不到原文件：{}
+l'original a changé depuis l'analyse : relancez l'analyse	分析后原文件已更改：请重新分析
+refus d'agir sur le processus système (PID ≤ 1)	拒绝操作系统进程（PID ≤ 1）
+refus d'agir sur l'application elle-même	拒绝操作应用程序自身
+le processus {} n'existe plus	进程 {} 已不存在
+le PID {} désigne maintenant « {} » et non « {} » : actualisez la liste	PID {} 现在指向“{}”而不是“{}”：请刷新列表
+refus d'agir sur un thread du noyau	拒绝操作内核线程
+priorité hors limites (-20 à 19) : {}	优先级超出范围（-20 到 19）：{}
+aucun paquet sélectionné	未选择软件包
+{} : à jour	{}：已是最新
+{} : échec — {}	{}：失败 — {}
+Snap : à jour	Snap：已是最新
+Flatpak : à jour	Flatpak：已是最新
+aucune mise à jour à appliquer	没有可应用的更新
+chemin introuvable : {}	找不到路径：{}
+chemin refusé (hors de /opt)	路径被拒绝（位于 /opt 之外）
+entrée de bureau hors des dossiers autorisés	桌面条目不在允许的文件夹内
+entrée supprimée : {}	已删除条目：{}
+chemin hors du dossier personnel	路径不在主目录内
+supprimé : {}	已删除：{}
+Connexion SSH de root	SSH root 登录
+Authentification par mot de passe SSH	SSH 密码认证
+Serveur SSH absent	缺少 SSH 服务器
+Aucun /etc/ssh/sshd_config : rien à vérifier.	没有 /etc/ssh/sshd_config：无需检查。
+Le pare-feu système est démarré.	系统防火墙已启动。
+Aucune règle de filtrage n'est appliquée au démarrage.	启动时不应用任何过滤规则。
+Pare-feu non détecté	未检测到防火墙
+Ni ufw ni firewalld ne sont installés.	未安装 ufw 或 firewalld。
+Mises à jour automatiques	自动更新
+unattended-upgrades est installé.	已安装 unattended-upgrades。
+unattended-upgrades absent : les correctifs de sécurité attendent une action manuelle.	缺少 unattended-upgrades：安全补丁需手动处理。
+{} binaires avec le bit setuid dans /usr/bin et /usr/sbin.	/usr/bin 和 /usr/sbin 中有 {} 个设置了 setuid 位的程序。
+{} sockets TCP/UDP en écoute.	有 {} 个 TCP/UDP 套接字在监听。
+Activé.	已启用。
+Désactivé.	已禁用。
+Non applicable (démarrage BIOS ou variables EFI illisibles).	不适用（BIOS 启动或 EFI 变量无法读取）。
+Module non monté.	模块未挂载。
+Normal	正常
+Utilisée	已用
+Disponible	可用
+Total	总计
+Maintenant	现在
+il y a {} s	{} 秒前
+il y a {} min	{} 分钟前
+Utilisation du processeur	处理器使用率
+Utilisation de la mémoire	内存使用率
+Processus principaux	主要进程
+Système sain	系统正常
+Tous les services sont actifs	所有服务正在运行
+Attention requise	需要注意
+Seuils dépassés	已超过阈值
+{} services en échec	{} 个服务失败
+{} cœurs	{} 核
+consomme {} % du processeur	占用 {} % 的处理器
+outil légitime souvent détourné : vérifiez que vous l'avez bien installé vous-même	常被滥用的正规工具：请确认是您自己安装的
+Processus examinés : {} (exécutable lisible pour {} ; les processus d'autres utilisateurs ne sont jugés que sur leur nom et leur ligne de commande)	已检查进程：{}（可读取可执行文件的 {}；其他用户的进程仅按名称和命令行判断）
+Connexions réseau : {}	网络连接：{}
+Scripts de démarrage et planifications : {}	启动脚本和计划任务：{}
+Entrées de fichiers parcourues : {} (dossiers temporaires et dossier personnel, profondeur limitée){}	已遍历的文件条目：{}（临时文件夹和主目录，深度有限）{}
+Vérifié : processus, réseau, persistance, fichiers exécutables/setuid, comptes, outils à double usage.	已检查：进程、网络、持久化、可执行/setuid 文件、账户、双用途工具。
+Non vérifié : contenu des fichiers (hors scripts de démarrage), mémoire, noyau, firmware.	未检查：文件内容（启动脚本除外）、内存、内核、固件。
+Activer zram	启用 zram
+Activer zram…	启用 zram…
+Désactiver zram	停用 zram
+Désactiver zram…	停用 zram…
+Échange compressé (zram)	压缩交换区 (zram)
+Le module zram est chargé et systemd-zram-setup@zram0.service démarré : une zone d'échange compressée en RAM sera créée.	将加载 zram 模块并启动 systemd-zram-setup@zram0.service：将在内存中创建压缩交换区。
+Le périphérique /dev/zram0 sera retiré et le module déchargé. La mémoire compressée qu'il contient est perdue.	将移除 /dev/zram0 设备并卸载模块，其中保存的压缩数据会丢失。
+Résolveurs proposés	建议的解析器
+Serveur DNS	DNS 服务器
+Appliquer le DNS…	应用 DNS…
+Hôtes (/etc/hosts)	主机 (/etc/hosts)
+Nom d'hôte	主机名
+Retirer un hôte	移除主机
+l'entrée sera retirée de /etc/hosts	该条目将从 /etc/hosts 移除
+RÈGLES DE SEUIL	阈值规则
+Aucune règle de seuil.	没有阈值规则。
+Ajouter la règle	添加规则
+Notification de bureau	桌面通知
+Les règles sont vérifiées toutes les 30 secondes tant que l'application est ouverte. Une même règle ne notifie qu'une fois par dix minutes.	应用打开时每 30 秒检查一次规则。同一规则最多每十分钟通知一次。
+MONTER UN PARTAGE À LA DEMANDE	按需挂载共享
+Monter un partage réseau	挂载网络共享
+Partage	共享
+Point de montage	挂载点
+via Polkit	通过 Polkit
+Le point de montage est créé si nécessaire. Le montage n'est pas ajouté à /etc/fstab.	需要时会创建挂载点，但不会添加到 /etc/fstab。
+Alternative	替代项
+Chemin du binaire	可执行文件路径
+Définir l'alternative	设置替代项
+{}–{} sur {}	{}–{}，共 {} 项
+Précédent	上一页
+Suivant	下一页

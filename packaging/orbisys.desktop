@@ -1,0 +1,15 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=OrbiSys
+GenericName=System Manager
+Comment=Gérer paquets, disques, réseau et sécurité
+Comment[en]=Manage packages, disks, network and security
+Comment[es]=Gestionar paquetes, discos, red y seguridad
+Exec=orbisys
+Icon=orbisys
+Terminal=false
+StartupNotify=true
+Categories=System;PackageManager;
+Keywords=ubuntu;paquets;nettoyage;sécurité;disque;réseau;
+Keywords[en]=ubuntu;packages;cleanup;security;disk;network;

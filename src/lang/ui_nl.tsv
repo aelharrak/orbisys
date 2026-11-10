@@ -1,0 +1,1317 @@
+# Libellés des rubriques génériques (texte français<TAB>traduction). Les absents se replient sur l'anglais.
+ACL modifiée	ACL gewijzigd
+ACL retirées	ACL's verwijderd
+Action	Actie
+Activer	Inschakelen
+Activer le Wi-Fi	Wifi inschakelen
+Actives	Actief
+Administrateurs	Beheerders
+Adresse	Adres
+Adresse IP	IP-adres
+Adresse MAC	MAC-adres
+Afficher les ACL	ACL's tonen
+Ajouter	Toevoegen
+Ajouter à sudo	Aan sudo toevoegen
+Alertes actives	Actieve waarschuwingen
+Algo	Algoritme
+Allumé depuis	Aan sinds
+Alternatives système (update-alternatives)	Systeemalternatieven (update-alternatives)
+Anciennes révisions Snap	Oude Snap-revisies
+Anomalie	Afwijking
+Appareil	Apparaat
+Appareils	Apparaten
+Appareils Bluetooth	Bluetooth-apparaten
+Appareils reconnus	Herkende apparaten
+Applications au démarrage	Opstarttoepassingen
+Appliquer	Toepassen
+Archive	Archief
+Archives trouvées	Gevonden archieven
+Arrêter	Stoppen
+Autorités de certification locales	Lokale certificeringsinstanties
+Autre dossier	Andere map
+Autres nettoyages	Overige opruimacties
+Batterie	Accu
+Batteries	Accu's
+Bluetooth (appairés)	Bluetooth (gekoppeld)
+CA locales	Lokale CA's
+Cache	Cache
+Caches applicatifs	Toepassingscaches
+Caches récupérables	Terug te winnen caches
+Certificat	Certificaat
+Certificat ajouté	Certificaat toegevoegd
+Charge	Belasting
+Chaîne critique	Kritieke keten
+Chemin	Pad
+Chemin distant	Extern pad
+Choix actuel	Huidige keuze
+Cible	Doel
+Clé générée	Sleutel aangemaakt
+Clés GPG	GPG-sleutels
+Clés SSH	SSH-sleutels
+Clés SSH (~/.ssh)	SSH-sleutels (~/.ssh)
+Commande	Opdracht
+Commentaire	Opmerking
+Compte	Account
+Comptes	Accounts
+Comptes locaux	Lokale accounts
+Configuration actuelle	Huidige configuratie
+Confirmation	Bevestiging
+Connecter	Verbinden
+Connexions	Verbindingen
+Connexions VPN	VPN-verbindingen
+Connexions établies	Tot stand gebrachte verbindingen
+Connexions établies par processus	Tot stand gebrachte verbindingen per proces
+Conseil	Advies
+Conteneurs	Containers
+Contenu	Inhoud
+Contrôle	Controle
+Contrôles	Controles
+Copier la clé publique	Publieke sleutel kopiëren
+Création	Aangemaakt
+Création de l'archive	Archief maken
+Créer	Aanmaken
+Créer une archive	Een archief maken
+Cycles	Cycli
+Date	Datum
+Dernières mesures	Laatste metingen
+Destination	Bestemming
+Diagnostic automatique	Automatische diagnose
+Disque	Schijf
+Disque (écriture)	Schijf (schrijven)
+Disque moyen	Gemiddelde schijf
+Disques	Schijven
+Disques amovibles détectés	Gedetecteerde verwisselbare schijven
+Distant	Extern
+Dossier	Map
+Dossier local	Lokale map
+Droits	Rechten
+Durée	Duur
+Déconnecter	Verbinding verbreken
+Définir une ACL utilisateur	Een gebruikers-ACL instellen
+Démarrage	Opstarten
+Démarrer	Starten
+Démonter	Ontkoppelen
+Dépôt	Repository
+Désactiver	Uitschakelen
+Désactiver le Wi-Fi	Wifi uitschakelen
+Détail	Detail
+Détail des connexions	Verbindingsdetails
+Déverrouiller	Ontgrendelen
+Effacer l'historique	Geschiedenis wissen
+Empreinte	Vingerafdruk
+En cours	Actief
+En enforce	Enforcing
+Enregistrer	Opslaan
+Enregistrer le graphe (SVG)	Grafiek opslaan (SVG)
+Enregistrer les seuils	Drempels opslaan
+Enregistrer une mesure	Een meting vastleggen
+Entrées	Items
+Envoyer un test	Test versturen
+Expiration	Verloopt
+Exporter en CSV	Exporteren als CSV
+Exporter le rapport	Rapport exporteren
+Extraction	Uitpakken
+Extraire	Uitpakken
+Fabricant	Fabrikant
+Fichier	Bestand
+Fichiers détectés	Gedetecteerde bestanden
+Fichiers modifiés	Gewijzigde bestanden
+Fréquence	Frequentie
+Générer	Genereren
+Historique des actions	Actiegeschiedenis
+Hors configuration	Geen configuratie
+Hôtes	Hosts
+Hôtes du réseau local	Hosts in het lokale netwerk
+Identifiant	Identificatie
+Identité	Identiteit
+Illisibles (droits)	Onleesbaar (rechten)
+Image	Image
+Image ISO	ISO-image
+Images	Images
+Import VPN	VPN-import
+Importer	Importeren
+Indicateur	Indicator
+Installés	Geïnstalleerd
+Instances LXD	LXD-instanties
+Interface	Interface
+Lancer	Uitvoeren
+Lancer maintenant	Nu uitvoeren
+Lancer un scrub	Een scrub starten
+Langage	Taal
+Langages	Talen
+Lecture	Lezen
+Lecture seule.	Alleen-lezen.
+Livraison	Bezorging
+Local	Lokaal
+Mesures	Metingen
+Mise à jour possible	Update beschikbaar
+Mises à jour	Updates
+Mises à jour disponibles	Beschikbare updates
+Mode	Modus
+Mode de démarrage	Opstartmodus
+Modèle	Model
+Montage	Koppelpunt
+Montages actifs	Actieve koppelpunten
+Montages btrfs	btrfs-koppelpunten
+Moteur	Engine
+Mémoire	Geheugen
+Mémoire (écriture)	Geheugen (schrijven)
+Mémoire moyenne	Gemiddeld geheugen
+Méthode	Methode
+Nature	Soort
+Nettoyage complet	Volledig opschonen
+Nettoyer	Opschonen
+Nettoyer les données conteneurs	Containergegevens opschonen
+Nom	Naam
+Nom du fichier	Bestandsnaam
+Notifier maintenant	Nu melden
+Occupation	Gebruik
+Options	Opties
+Origine	Herkomst
+Outil	Hulpmiddel
+Outils	Hulpmiddelen
+Paquet	Pakket
+Paquets verrouillés	Vergrendelde pakketten
+Passer en enforcing	Overschakelen naar enforcing
+Passer en permissive	Overschakelen naar permissive
+Pilote	Stuurprogramma
+Planification	Planning
+Planifier	Plannen
+Points de montage actifs	Actieve koppelpunten
+Ports en écoute	Luisterende poorten
+Problèmes	Problemen
+Processeur	Processor
+Processus	Proces
+Prochaine exécution	Volgende uitvoering
+Profil	Profiel
+Profil d'alimentation	Energieprofiel
+Profil d'énergie	Energieprofiel
+Profils AppArmor	AppArmor-profielen
+Profils chargés	Geladen profielen
+Profils de poste	Werkplekprofielen
+Protocole	Protocol
+Puce	Chip
+Purger le journal	Logboek wissen
+Purger les images orphelines	Zwevende images opruimen
+Purger les volumes inutilisés	Ongebruikte volumes opruimen
+Périphérique	Apparaat
+Périphériques USB	USB-apparaten
+Périphériques amovibles	Verwisselbare apparaten
+Radio Wi-Fi	Wifi-radio
+Rafraîchir les métadonnées	Metadata vernieuwen
+Rapport périodique	Periodiek rapport
+Redémarrer	Herstarten
+Remotes	Remotes
+Remotes rclone	rclone-remotes
+Restauration	Herstel
+Restaurer	Herstellen
+Restaurer ce dossier	Deze map herstellen
+Retirer de sudo	Uit sudo verwijderen
+Retirer les ACL	ACL's verwijderen
+Reçu	Ontvangen
+Runtimes détectés	Gedetecteerde runtimes
+Réception	Ontvangst
+Réseau	Netwerk
+Réseaux	Netwerken
+Réseaux détectés	Gedetecteerde netwerken
+Résultat	Resultaat
+Rétrogradation	Downgrade
+Rétrograder	Downgraden
+Rétrograder un paquet	Een pakket downgraden
+Révision	Revisie
+Rôle	Rol
+Santé batterie	Accugezondheid
+Sauvegarder maintenant	Nu back-uppen
+Sauvegardes trouvées (Documents/dotfiles*)	Gevonden back-ups (Documents/dotfiles*)
+Score global	Totaalscore
+Secteur	Netstroom
+Seuil	Drempel
+Seuils	Drempels
+Signal	Signaal
+Sonde	Sonde
+Sondes de température	Temperatuursondes
+Source	Bron
+Sources	Bronnen
+Sources APT	APT-bronnen
+Sources de paquets	Pakketbronnen
+Suite / composants	Suite / componenten
+Sujet	Onderwerp
+Supprimer	Verwijderen
+Supprimer la planification	Planning verwijderen
+Supprimer les ACL	ACL's verwijderen
+Supprimer les paquets orphelins	Verweesde pakketten verwijderen
+Synchroniser un dossier	Een map synchroniseren
+Systèmes btrfs	btrfs-bestandssystemen
+Sécurité	Beveiliging
+TRIM des SSD (fstrim)	SSD-TRIM (fstrim)
+Taille	Grootte
+Technologie	Technologie
+Température	Temperatuur
+Températures	Temperaturen
+Tendances (40 dernières mesures)	Trends (laatste 40 metingen)
+Tester la notification	Melding testen
+Total reçu	Totaal ontvangen
+Total émis	Totaal verzonden
+Trousseau GPG	GPG-sleutelhanger
+Type	Type
+Tâches privilégiées	Geprivilegieerde taken
+Unité	Unit
+Unités les plus lentes	Traagste units
+Utilisateur	Gebruiker
+VPN configurés	Geconfigureerde VPN's
+Valeur	Waarde
+Ventilateur	Ventilator
+Ventilateurs	Ventilatoren
+Verrouillage	Vergrendeling
+Verrouiller	Vergrendelen
+Version actuelle	Huidige versie
+Version proposée	Voorgestelde versie
+Vider le cache APT	APT-cache legen
+Vitesse	Snelheid
+Écarts	Verschillen
+Échange	Swap
+Échecs	Fouten
+Écrire sur la clé	Naar de stick schrijven
+Écrire une image	Een image schrijven
+Écriture	Schrijven
+Écriture de l'image	Image schrijven
+Émis	Verzonden
+Émission	Verzenden
+Énergie	Energie
+Équilibrer (50 %)	Balanceren (50 %)
+État	Status
+État du scrub	Scrubstatus
+URL ou adresse	URL of adres
+adresse ou machine	adres of machine
+nom exact	exacte naam
+nom	naam
+nom du remote	naam van de remote
+retapez le périphérique	voer het apparaat opnieuw in
+simulation ou reel	simulation of reel
+Aucun élément.	Niets om te tonen.
+Courbes en direct	Live grafieken
+Courbes	Grafieken
+Débit réseau	Netwerkdoorvoer
+Processeur et mémoire	Processor en geheugen
+Processeur, mémoire et disque	Processor, geheugen en schijf
+Débits mesurés (Mio/s)	Gemeten doorvoer (MiB/s)
+Résultats	Resultaten
+Constats	Bevindingen
+Constats par gravité	Bevindingen per ernst
+Gravité	Ernst
+Catégorie	Categorie
+Élément	Item
+Pourquoi	Waarom
+Couverture du scan	Dekking van de scan
+Analyse antivirus (signatures)	Antivirusscan (handtekeningen)
+Quarantaine	Quarantaine
+Verdict	Oordeel
+Élevées	Hoog
+Moyennes	Gemiddeld
+Faibles	Laag
+Infos	Info
+Élevée	Hoog
+Moyenne	Gemiddeld
+Faible	Laag
+Info	Info
+Persistance	Persistentie
+Fichiers	Bestanden
+Logiciels	Software
+Aucun comportement anormal détecté	Geen afwijkend gedrag gedetecteerd
+Quelques points suspects	Enkele verdachte punten
+À examiner en priorité	Eerst aandacht nodig
+Suspendre	Onderbreken
+Terminer	Beëindigen
+Mettre l'exécutable en quarantaine	Uitvoerbaar bestand in quarantaine
+Mettre en quarantaine	Quarantaine
+Désactiver au démarrage	Bij opstarten uitschakelen
+Processus sélectionné	Geselecteerd proces
+Analyser un fichier ou dossier	Een bestand of map inspecteren
+Clés MOK enregistrées (lecture seule)	Geregistreerde MOK-sleutels (alleen-lezen)
+Historique dpkg (60 derniers événements)	dpkg-geschiedenis (laatste 60 gebeurtenissen)
+Installer les mises à jour	Updates installeren
+Mettre à jour le magasin	De opslag bijwerken
+Mettre à jour les index	Indexen vernieuwen
+Ni Docker ni Podman n'est installé.	Noch Docker noch Podman is geïnstalleerd.
+Réduire les journaux (500 Mo)	Logboeken verkleinen (500 MB)
+Réduire les journaux (7 jours)	Logboeken verkleinen (7 dagen)
+Supprimer les runtimes Flatpak inutilisés	Ongebruikte Flatpak-runtimes verwijderen
+Verrouillage de version (apt-mark hold)	Versievergrendeling (apt-mark hold)
+Lecture seule : aucune donnée du système n'est modifiée.	Alleen-lezen: er wordt niets op het systeem gewijzigd.
+Applications lancées à l'ouverture de session	Toepassingen die bij het aanmelden starten
+Archives (dossier personnel et Téléchargements)	Archieven (persoonlijke map en Downloads)
+Aucun capteur renvoyé par lm-sensors : lancez « sensors-detect » pour les détecter.	lm-sensors gaf geen enkele sensor terug: voer ‘sensors-detect’ uit om ze te detecteren.
+Aucun réseau privé IPv4 détecté : seule la table ARP est affichée.	Geen privé-IPv4-netwerk gedetecteerd: alleen de ARP-tabel wordt getoond.
+Chaque action est confirmée ; celles qui touchent au système passent par Polkit.	Elke actie wordt bevestigd; acties die het systeem raken lopen via Polkit.
+Chaque tâche demande une confirmation puis l'authentification administrateur (Polkit).	Elke taak vraagt om bevestiging en daarna om beheerdersauthenticatie (Polkit).
+Compteurs par interface (depuis le démarrage)	Tellers per interface (sinds het opstarten)
+Couper la radio Wi-Fi ? La connexion sans fil sera perdue.	De wifi-radio uitschakelen? De draadloze verbinding gaat verloren.
+Crée une minuterie systemd utilisateur qui lance « orbisys report <dossier> » (TXT, CSV, JSON et PDF).	Maakt een systemd-gebruikerstimer die ‘orbisys report <map>’ uitvoert (TXT, CSV, JSON en PDF).
+Désactiver et supprimer la minuterie de rapport ?	De rapporttimer uitschakelen en verwijderen?
+Envoyer le rapport d'état à la destination configurée ?	Het statusrapport naar de geconfigureerde bestemming sturen?
+Formats : .tar, .tar.gz, .tar.xz, .tar.bz2. L'archive ne doit pas exister.	Formaten: .tar, .tar.gz, .tar.xz, .tar.bz2. Het archief mag nog niet bestaan.
+Installer les mises à jour de firmware ? Un redémarrage peut être nécessaire et l'alimentation ne doit pas être coupée.	De firmware-updates installeren? Een herstart kan nodig zijn en de stroom mag niet worden onderbroken.
+L'installation passe par apt-get et Polkit, après confirmation.	De installatie loopt na bevestiging via apt-get en Polkit.
+La clé est créée sans phrase secrète ; ajoutez-en une avec « ssh-keygen -p -f <fichier> ».	De sleutel wordt zonder wachtwoordzin aangemaakt; voeg er een toe met ‘ssh-keygen -p -f <bestand>’.
+Lancer fstrim -av sur les systèmes de fichiers compatibles ?	fstrim -av uitvoeren op compatibele bestandssystemen?
+Le compte root n'est pas modifiable depuis cette page.	Het root-account kan op deze pagina niet worden gewijzigd.
+Le résultat s'affiche dans la zone de sortie en bas de l'écran.	Het resultaat verschijnt in het uitvoergebied onderaan het scherm.
+Le scan est limité au réseau privé local (préfixe /24 ou plus étroit) ; actualisez l'écran pour le relancer.	De scan is beperkt tot het lokale privénetwerk (/24 of smaller); laad het scherm opnieuw om hem opnieuw uit te voeren.
+Les disques contenant le système (/, /boot, /home) ne sont jamais proposés.	Schijven met het systeem (/, /boot, /home) worden nooit aangeboden.
+Les fichiers de configuration modifiés sont normaux ; un programme modifié mérite une vérification.	Gewijzigde configuratiebestanden zijn normaal; een gewijzigd programma verdient controle.
+Les instantanés et sous-volumes se gèrent dans l'écran « Btrfs ». Les résultats s'affichent dans la zone de sortie.	Snapshots en subvolumes beheert u in het scherm ‘Btrfs’. Resultaten verschijnen in het uitvoergebied.
+Les processus d'autres utilisateurs n'apparaissent qu'avec les droits administrateur.	Processen van andere gebruikers verschijnen alleen met beheerdersrechten.
+Les seuils sont conservés dans ~/.local/share/orbisys/alerts.json.	De drempels worden opgeslagen in ~/.local/share/orbisys/alerts.json.
+Mode « simulation » par défaut (rclone --dry-run) : rien n'est modifié. Le mode « reel » demande confirmation.	Standaard modus ‘simulation’ (rclone --dry-run): er wordt niets gewijzigd. Modus ‘reel’ vraagt om bevestiging.
+Opération destructrice : le périphérique cible est entièrement écrasé. Retapez son nom pour confirmer.	Destructieve bewerking: het doelapparaat wordt volledig overschreven. Voer de naam opnieuw in om te bevestigen.
+Passer SELinux en mode enforcing (immédiat) ?	SELinux naar enforcing-modus schakelen (direct)?
+Passer SELinux en mode permissive (immédiat) ?	SELinux naar permissive-modus schakelen (direct)?
+Profils AppArmor illisibles : les droits administrateur sont requis (ou AppArmor est inactif).	AppArmor-profielen onleesbaar: beheerdersrechten zijn vereist (of AppArmor is inactief).
+Supprimer conteneurs arrêtés, réseaux et images orphelines ?	Gestopte containers, netwerken en zwevende images verwijderen?
+Supprimer les journaux systemd de plus de 7 jours ?	systemd-logboeken ouder dan 7 dagen verwijderen?
+Supprimer les runtimes Flatpak inutilisés ?	Ongebruikte Flatpak-runtimes verwijderen?
+Supprimer les volumes non utilisés (données perdues) ?	Ongebruikte volumes verwijderen (gegevens gaan verloren)?
+Supprimer toutes les mesures enregistrées ?	Alle vastgelegde metingen verwijderen?
+Type « webhook » (HTTP POST, JSON) ou « email » (commande mail). Le rapport contient santé, mémoire, disque et charge.	Geef ‘webhook’ (HTTP POST, JSON) of ‘email’ (opdracht mail) op. Het rapport bevat status, geheugen, schijf en belasting.
+Utilisez `apt-cache policy <paquet>` pour connaître les versions disponibles.	Gebruik `apt-cache policy <pakket>` om de beschikbare versies te zien.
+aa-complain / aa-enforce proviennent du paquet apparmor-utils.	aa-complain / aa-enforce komen uit het pakket apparmor-utils.
+apt-get absent : cette rubrique concerne les systèmes Debian/Ubuntu.	apt-get niet gevonden: dit onderdeel geldt voor Debian/Ubuntu-systemen.
+bluetoothctl absent : installez le paquet « bluez » pour gérer le Bluetooth.	bluetoothctl niet gevonden: installeer het pakket ‘bluez’ om Bluetooth te beheren.
+btrfs-progs absent : installez le paquet « btrfs-progs ».	btrfs-progs niet gevonden: installeer het pakket ‘btrfs-progs’.
+dpkg absent : cette vérification concerne Debian/Ubuntu.	dpkg niet gevonden: deze controle geldt voor Debian/Ubuntu.
+fwupdmgr absent : installez le paquet « fwupd » pour gérer les mises à jour de firmware.	fwupdmgr niet gevonden: installeer het pakket ‘fwupd’ om firmware-updates te beheren.
+lm-sensors absent : lecture directe de /sys/class/hwmon.	lm-sensors niet gevonden: /sys/class/hwmon wordt rechtstreeks gelezen.
+mokutil absent : installez le paquet « mokutil » pour lire l'état de Secure Boot.	mokutil niet gevonden: installeer het pakket ‘mokutil’ om de Secure Boot-status te lezen.
+nmap absent : seule la table ARP du noyau est affichée.	nmap niet gevonden: alleen de ARP-tabel van de kernel wordt getoond.
+nmcli absent : NetworkManager est requis pour gérer le Wi-Fi et les VPN.	nmcli niet gevonden: NetworkManager is vereist om wifi en VPN's te beheren.
+rclone absent : installez le paquet « rclone » puis configurez un remote avec « rclone config ».	rclone niet gevonden: installeer het pakket ‘rclone’ en stel daarna een remote in met ‘rclone config’.
+Valeur actuelle et seuil (trait)	Huidige waarde en drempel (lijn)
+Points perdus par contrôle (sur 100)	Verloren punten per controle (op 100)
+Occupation des systèmes de fichiers (trait : 90 %)	Gebruik van de bestandssystemen (lijn: 90 %)
+Volume échangé par interface (reçu + émis)	Verkeer per interface (ontvangen + verzonden)
+Les 6 dernières minutes environ, actualisées toutes les 3 secondes.	Ongeveer de laatste 6 minuten, elke 3 seconden vernieuwd.
+Lancer ClamAV (Téléchargements et /tmp)	ClamAV uitvoeren (Downloads en /tmp)
+Analyse heuristique en lecture seule, sans base de signatures : ce n'est pas un antivirus. Un constat est un indice à vérifier, pas une preuve.	Heuristische analyse, alleen-lezen, zonder handtekeningendatabase: dit is geen antivirus. Een bevinding is een aanwijzing om te controleren, geen bewijs.
+ClamAV est installé : l'analyse parcourt Téléchargements et /tmp et peut durer plusieurs minutes. Seuls les fichiers infectés sont listés.	ClamAV is geïnstalleerd: de scan omvat Downloads en /tmp en kan enkele minuten duren. Alleen geïnfecteerde bestanden worden getoond.
+Pour une détection par signatures, installez ClamAV (paquet « clamav ») : ce scan pourra alors le lancer.	Installeer voor detectie op basis van handtekeningen ClamAV (pakket ‘clamav’): deze scan kan het dan uitvoeren.
+Lancer une analyse ClamAV de Téléchargements et /tmp ? Cela peut prendre plusieurs minutes.	Een ClamAV-scan van Downloads en /tmp uitvoeren? Dit kan enkele minuten duren.
+Processus les plus gourmands (processeur)	Zwaarste processen (CPU)
+Processus les plus gourmands (mémoire)	Zwaarste processen (geheugen)
+Mémoire (% de la RAM)	Geheugen (% van het RAM)
+ (limite atteinte)	 (limiet bereikt)
+ · santé {} %	 · gezondheid {} %
+APPAREILS	APPARATEN
+APPARENCE	UITERLIJK
+APPLIQUER UN QUOTA	QUOTA TOEPASSEN
+Actif	Actief
+Activer au démarrage	Bij opstarten inschakelen
+Activer les quotas sur {}	Quota's inschakelen op {}
+Actualiser	Vernieuwen
+Analyse des paquets…	Pakketten analyseren…
+Analyser	Analyseren
+Analyser les erreurs (24 h)	Fouten analyseren (24 u)
+Annuler	Annuleren
+Aperçu de la suppression	Voorbeeld van verwijdering
+Appareils, montages, Btrfs et instantanés	Apparaten, koppelingen, Btrfs en snapshots
+Apparence et extensions GNOME	GNOME-uiterlijk en extensies
+Appliquer THP	THP toepassen
+Appliquer des paramètres noyau	Kernelparameters toepassen
+Appliquer et persister…	Toepassen en bewaren…
+Appliquer la priorité	Prioriteit toepassen
+Appliquer le profil {}	Profiel {} toepassen
+Appliquer les mises à jour	Updates toepassen
+Appliquer…	Toepassen…
+Arrêter {}	{} stoppen
+Arrêter…	Stoppen…
+Aucun espace d'échange actif.	Geen actief wisselgeheugen.
+Aucun fichier de configuration détecté.	Geen configuratiebestand gevonden.
+Aucun gestionnaire natif détecté	Geen eigen pakketbeheerder gevonden
+Aucun groupe de volumes LVM.	Geen LVM-volumegroep.
+Aucun instantané lisible (support non monté ou Timeshift non configuré).	Geen leesbare snapshot (medium niet gekoppeld of Timeshift niet ingesteld).
+Aucun minuteur systemd détecté.	Geen systemd-timer gevonden.
+Aucun montage NFS/CIFS déclaré ni actif.	Geen NFS/CIFS-koppeling opgegeven of actief.
+Aucun montage ne déclare usrquota/grpquota/prjquota dans /etc/fstab.	Geen koppeling declareert usrquota/grpquota/prjquota in /etc/fstab.
+Aucun paquet en état `rc`.	Geen pakket in de status `rc`.
+Aucun partage Samba ou NFS configuré.	Geen Samba- of NFS-share ingesteld.
+Aucun partage déclaré dans /etc/samba/smb.conf.	Geen share opgegeven in /etc/samba/smb.conf.
+Aucun raccourci personnalisé.	Geen aangepaste sneltoets.
+Aucun système de fichiers Btrfs monté sur cette machine.	Geen Btrfs-bestandssysteem gekoppeld op deze machine.
+Aucun timer systemd.	Geen systemd-timer.
+Aucun travail en attente.	Geen wachtende opdracht.
+Aucun volume chiffré ouvert. Les partitions LUKS fermées n'apparaissent pas ici.	Geen versleuteld volume geopend. Gesloten LUKS-partities verschijnen hier niet.
+Aucun volume logique.	Geen logisch volume.
+Aucune action enregistrée pour l'instant.	Nog geen actie vastgelegd.
+Aucune action enregistrée. Le fichier est créé au premier nettoyage ou à la première suppression.	Geen actie vastgelegd. Het bestand wordt aangemaakt bij de eerste opschoning of verwijdering.
+Aucune analyse lancée.	Geen analyse gestart.
+Aucune analyse à exporter	Geen analyse om te exporteren
+Aucune connexion VPN déclarée (NetworkManager/WireGuard).	Geen VPN-verbinding opgegeven (NetworkManager/WireGuard).
+Aucune dépendance à supprimer.	Geen afhankelijkheid om te verwijderen.
+Aucune entrée : filtre “Erreurs” sur un système calme ?	Geen item: filter “Fouten” op een rustig systeem?
+Aucune entrée de quota (quotas non activés ou outil absent).	Geen quotavermelding (quota's niet ingeschakeld of hulpprogramma ontbreekt).
+Aucune extension détectée.	Geen extensie gevonden.
+Aucune famille ne correspond (fontconfig absent ?).	Geen familie komt overeen (fontconfig ontbreekt?).
+Aucune imprimante CUPS détectée (lpstat indisponible ou liste vide).	Geen CUPS-printer gevonden (lpstat niet beschikbaar of lege lijst).
+Aucune imprimante configurée.	Geen printer ingesteld.
+Aucune mise à jour en attente.	Geen openstaande update.
+Aucune police détectée (fontconfig absent ?).	Geen lettertype gevonden (fontconfig ontbreekt?).
+Aucune recommandation (ubuntu-drivers absent ou matériel entièrement libre).	Geen aanbeveling (ubuntu-drivers ontbreekt of hardware volledig vrij).
+Aucune règle détaillée disponible (pare-feu inactif ou privilèges insuffisants).	Geen gedetailleerde regel beschikbaar (firewall inactief of onvoldoende rechten).
+Aucune session active lisible.	Geen leesbare actieve sessie.
+Aucune tâche planifiée.	Geen geplande taak.
+Aucune unité contenant {}.	Geen unit met {}.
+Aucune zone d'échange active.	Geen actief wisselgeheugen.
+Audit de durcissement	Hardeningaudit
+Audit en cours…	Audit bezig…
+Autoriser	Toestaan
+Avertissements	Waarschuwingen
+Bleu	Blauw
+Boutons de fenêtre : {} · {} thème(s) · {} jeu(x) d'icônes · {} police(s)	Venstertoetsen: {} · {} thema's · {} pictogramsets · {} lettertypen
+COMPTES	ACCOUNTS
+CONFIGURATIONS RÉSIDUELLES	RESTCONFIGURATIES
+CONNEXIONS ({})	VERBINDINGEN ({})
+CONSOMMATION	VERBRUIK
+COPIE RSYNC	RSYNC-KOPIE
+CRONTAB UTILISATEUR	GEBRUIKERS-CRONTAB
+CRÉER UN INSTANTANÉ	SNAPSHOT MAKEN
+CUPS n'est pas installé : aucun pilote d'impression actif.	CUPS is niet geïnstalleerd: geen actieve printerdriver.
+Cache : {} fichier(s), {} — {}	Cache: {} bestand(en), {} — {}
+Capteurs	Sensoren
+Cartes graphiques	Videokaarten
+Ces valeurs seront écrites dans /etc/sysctl.d/99-orbisys.conf et appliquées immédiatement (Polkit) :\n{}	Deze waarden worden naar /etc/sysctl.d/99-orbisys.conf geschreven en direct toegepast (Polkit):\n{}
+Changer la locale du système	Systeemtaalregio wijzigen
+Changer le fuseau horaire	Tijdzone wijzigen
+Changer le gouverneur CPU	CPU-governor wijzigen
+Chaque cible est mesurée avant action ; les cibles système demandent Polkit.	Elk doel wordt vóór de actie gemeten; systeemdoelen vragen om Polkit.
+Charger	Laden
+Chemins absolus, sans `..` ; la destination ne doit pas exister.	Absolute paden, zonder `..`; de bestemming mag niet bestaan.
+Châssis	Behuizing
+Clavier (console)	Toetsenbord (console)
+Cliquez sur le nom d'un processus pour le sélectionner.	Klik op de naam van een proces om het te selecteren.
+Comparaison par taille puis empreinte des 64 premiers Kio. Dossiers techniques ignorés (.git, node_modules, target, .cache, snap).	Vergelijking op grootte en daarna vingerafdruk van de eerste 64 KiB. Technische mappen worden genegeerd (.git, node_modules, target, .cache, snap).
+Composants et capteurs, en lecture seule	Onderdelen en sensoren, alleen-lezen
+Confirmer	Bevestigen
+Confirmer la suppression	Verwijdering bevestigen
+Connexion sans mot de passe interactif (BatchMode) : une clé SSH doit être en place.	Verbinding zonder interactief wachtwoord (BatchMode): een SSH-sleutel moet aanwezig zijn.
+Conservation	Bewaartermijn
+Contrôles en lecture seule : rien n'est modifié par cet écran.	Alleen-lezen controles: dit scherm wijzigt niets.
+Copie en mode miroir	Kopie in spiegelmodus
+Copier…	Kopiëren…
+Créer un instantané	Snapshot maken
+Créer un volume logique	Logisch volume maken
+Créer…	Maken…
+Cœurs	Kernen
+DERNIÈRES CONNEXIONS	LAATSTE AANMELDINGEN
+DIAGNOSTIC	DIAGNOSE
+DISQUES ET TRIM	SCHIJVEN EN TRIM
+Depuis	Van
+Dernières actions	Laatste acties
+Diagnostic complet	Volledige diagnose
+Disque /	Schijf /
+Document PDF	PDF-document
+Données JSON	JSON-gegevens
+Dossier cible	Doelmap
+Dure	Hard
+DÉMARRAGES	OPSTARTEN
+DÉPENDANCES INUTILES (AUTOREMOVE)	OVERBODIGE AFHANKELIJKHEDEN (AUTOREMOVE)
+Délai d'attente	Time-out
+Démonter un périphérique	Apparaat ontkoppelen
+Démonter {}	{} ontkoppelen
+Démonter…	Ontkoppelen…
+Désactiver un minuteur	Timer uitschakelen
+Désactiver une imprimante	Printer uitschakelen
+Désactiver {}	{} uitschakelen
+Désactiver…	Uitschakelen…
+Désinstaller…	Verwijderen…
+Déverrouiller…	Ontgrendelen…
+ENTRÉES AUDIO	AUDIO-INGANGEN
+ERREURS RÉCURRENTES	TERUGKERENDE FOUTEN
+EXTENSIONS	EXTENSIES
+Emplacement	Locatie
+Entrée par défaut	Standaard-item
+Erreurs	Fouten
+Export au format JSON (nom, version, source) puis réinstallation via APT, Snap et Flatpak.	Export in JSON-formaat (naam, versie, bron) en daarna herinstallatie via APT, Snap en Flatpak.
+Exporter	Exporteren
+Exporter un instantané complet de la machine	Een volledige momentopname van de machine exporteren
+Exporter…	Exporteren…
+Exporté : {}	Geëxporteerd: {}
+Fermer	Sluiten
+Fermer la session {}	Sessie {} afsluiten
+Fermer un volume chiffré	Versleuteld volume sluiten
+Fermer…	Sluiten…
+Fichiers usuels uniquement : ~/.ssh est volontairement exclu.	Alleen gebruikelijke bestanden: ~/.ssh wordt bewust uitgesloten.
+Filtrer les services…	Services filteren…
+Filtrer par nom, description ou section…	Filteren op naam, beschrijving of sectie…
+Fond d'écran : {}	Achtergrond: {}
+Forcer l'arrêt de	Stoppen forceren van
+Forcer…	Forceren…
+Format : minute heure jour mois jour-semaine, ou @daily / @weekly / @reboot. La commande est exécutée par le shell de cron.	Formaat: minuut uur dag maand weekdag, of @daily / @weekly / @reboot. De opdracht wordt door de cron-shell uitgevoerd.
+Formats acceptés : {} · destination : {}	Geaccepteerde formaten: {} · bestemming: {}
+Fuseau	Zone
+Fuseau horaire	Tijdzone
+GROUPES DE VOLUMES	VOLUMEGROEPEN
+GRUB régénéré	GRUB opnieuw gegenereerd
+Garder {} et supprimer {} copie(s) identique(s) ({} libérés) ?	{} bewaren en {} identieke kopie(ën) verwijderen ({} vrij)?
+Gouvernance : {} · pilote : {}	Governance: {} · stuurprogramma: {}
+Gouverneur	Governor
+Gouverneur {}, vm.swappiness={}, THP={} (polkit).	Governor {}, vm.swappiness={}, THP={} (polkit).
+Horloge synchronisée	Klok gesynchroniseerd
+IMPRIMANTES	PRINTERS
+IMPRIMANTES (CUPS)	PRINTERS (CUPS)
+INSTALLER UNE POLICE	LETTERTYPE INSTALLEREN
+INSTANTANÉS TIMESHIFT	TIMESHIFT-SNAPSHOTS
+INTERFACES	INTERFACES
+Imprimantes et audio	Printers en audio
+Imprimantes et files CUPS	Printers en CUPS-wachtrijen
+Inactif	Inactief
+Installer un pilote	Stuurprogramma installeren
+Installer une police	Lettertype installeren
+Installer {}	{} installeren
+Installer…	Installeren…
+Installés hors dépôts	Buiten repositories geïnstalleerd
+Instantanés et archives	Snapshots en archieven
+Interfaces, DNS, SSH, partages et connexions	Interfaces, DNS, SSH, shares en verbindingen
+Journal des actions	Actielogboek
+Journal exporté : {}	Logboek geëxporteerd: {}
+Journaux du noyau	Kernellogboeken
+Jusqu'à	Tot
+L'imprimante restera configurée mais n'acceptera plus de travaux.	De printer blijft ingesteld maar accepteert geen opdrachten meer.
+L'imprimante sera retirée de CUPS (lpadmin -x). Cette action est irréversible.	De printer wordt uit CUPS verwijderd (lpadmin -x). Deze actie is onomkeerbaar.
+L'unité sera arrêtée, désactivée puis effacée du disque. Cette action est irréversible.	De unit wordt gestopt, uitgeschakeld en daarna van schijf gewist. Deze actie is onomkeerbaar.
+LANGUE ET FUSEAU DU SYSTÈME	SYSTEEMTAAL EN TIJDZONE
+LISTE DES LOGICIELS	SOFTWARELIJST
+LVM et chiffrement LUKS	LVM en LUKS-versleuteling
+LVM n'est pas installé : la page reste informative.	LVM is niet geïnstalleerd: de pagina blijft informatief.
+La règle sera retirée immédiatement.	De regel wordt direct verwijderd.
+La session de {} sur {} sera terminée immédiatement (loginctl, polkit).	De sessie van {} op {} wordt direct beëindigd (loginctl, polkit).
+La simulation n'a rien renvoyé : la suppression peut être sans dépendance ou indisponible.	De simulatie gaf niets terug: de verwijdering heeft mogelijk geen afhankelijkheden of is niet beschikbaar.
+La simulation utilise --dry-run : rien n'est écrit, rsync affiche ce qu'il ferait.	De simulatie gebruikt --dry-run: er wordt niets geschreven, rsync toont wat het zou doen.
+Lancer un TRIM	TRIM uitvoeren
+Lancer un TRIM maintenant…	Nu TRIM uitvoeren…
+Langue de la session	Sessietaal
+Langue du système	Systeemtaal
+Langue, heure et polices	Taal, tijd en lettertypen
+Le fichier sera copié dans {} puis le cache fontconfig sera reconstruit (polkit).	Het bestand wordt naar {} gekopieerd, daarna wordt de fontconfig-cache opnieuw opgebouwd (polkit).
+Le fichier sera écrit dans {}/{} puis systemd sera rechargé (polkit).	Het bestand wordt naar {}/{} geschreven, daarna wordt systemd opnieuw geladen (polkit).
+Le pilote {} sera installé pour {}. Un redémarrage peut être nécessaire.	Het stuurprogramma {} wordt geïnstalleerd voor {}. Mogelijk is een herstart nodig.
+Le rapport contient la distribution, les compteurs de logiciels, le stockage, la mémoire, le score de sécurité et les dernières actions.	Het rapport bevat de distributie, softwaretellers, opslag, geheugen, beveiligingsscore en laatste acties.
+Le service ne démarrera plus automatiquement au prochain démarrage.	De service start bij de volgende opstart niet meer automatisch.
+Le service sera arrêté immédiatement.	De service wordt direct gestopt.
+Le service sera arrêté immédiatement. Les services qui en dépendent peuvent s'arrêter aussi.	De service wordt direct gestopt. Services die ervan afhangen kunnen ook stoppen.
+Le sous-volume sera définitivement supprimé (btrfs subvolume delete). Les données qu'il contient seront perdues.	Het subvolume wordt definitief verwijderd (btrfs subvolume delete). De gegevens erin gaan verloren.
+Le timer ne déclenchera plus son unité jusqu'au prochain démarrage ou réactivation.	De timer activeert zijn unit niet meer tot de volgende opstart of heractivering.
+Le trafic correspondant sera bloqué.	Het overeenkomstige verkeer wordt geblokkeerd.
+Lecture de l'état…	Status lezen…
+Lecture des instantanés…	Snapshots lezen…
+Lecture des locales…	Taalregio's lezen…
+Lecture des montages…	Koppelingen lezen…
+Lecture des périphériques…	Apparaten lezen…
+Lecture des quotas…	Quota's lezen…
+Lecture des réglages…	Instellingen lezen…
+Lecture des sessions…	Sessies lezen…
+Lecture des sous-volumes…	Subvolumes lezen…
+Lecture des timers…	Timers lezen…
+Lecture des tâches…	Taken lezen…
+Lecture du journal noyau…	Kernellogboek lezen…
+Lecture du réseau…	Netwerk lezen…
+Lecture en cours…	Bezig met lezen…
+Les fichiers absents de la source seront supprimés de la destination.	Bestanden die in de bron ontbreken worden uit de bestemming verwijderd.
+Les logiciels listés dans {} seront installés (Polkit).\nVérifiez le fichier avant de continuer.	De in {} vermelde software wordt geïnstalleerd (Polkit).\nControleer het bestand voordat u doorgaat.
+Les programmes utilisant ce montage risquent de bloquer. Le système peut attendre la fin des accès avant de rendre la main.	Programma's die deze koppeling gebruiken kunnen vastlopen. Het systeem wacht mogelijk tot de toegang klaar is voordat het terugkeert.
+Ligne de commande	Opdrachtregel
+Lignes	Regels
+Lire	Lezen
+Liste des logiciels, copie, dotfiles et GRUB	Softwarelijst, kopie, dotfiles en GRUB
+Locale	Taalregio
+MINUTEURS SYSTEMD	SYSTEMD-TIMERS
+MONTAGES	KOPPELINGEN
+Mesure indisponible (systemd-analyze absent).	Meting niet beschikbaar (systemd-analyze ontbreekt).
+Minuteur fstrim.timer : {}	Timer fstrim.timer: {}
+Montages	Koppelingen
+Montages réseau	Netwerkkoppelingen
+Monter	Koppelen
+Monter {}	{} koppelen
+Monter…	Koppelen…
+Motif	Patroon
+Muet	Gedempt
+MÉMOIRE	GEHEUGEN
+NOM	NAAM
+NOYAUX INSTALLÉS	GEÏNSTALLEERDE KERNELS
+Nettoyer…	Opschonen…
+Notice	Mededeling
+Nouveau modèle	Nieuw sjabloon
+Nouveau volume	Nieuw volume
+Nouvelle tâche	Nieuwe taak
+Noyau en cours : {}	Actieve kernel: {}
+Noyau, swap et paramètres système	Kernel, swap en systeemparameters
+Noyaux	Kernels
+ORIGINE	HERKOMST
+Orange	Oranje
+PARAMÈTRES NOYAU (PERSISTANTS)	KERNELPARAMETERS (BLIJVEND)
+PARTAGE	SHARE
+PARTAGES	SHARES
+PARTAGES SAMBA	SAMBA-SHARES
+PILOTES RECOMMANDÉS	AANBEVOLEN STUURPROGRAMMA'S
+POLICES	LETTERTYPEN
+PROCESSEUR	PROCESSOR
+PROFILS	PROFIELEN
+Page, logiciel, service, processus…	Pagina, software, service, proces…
+Pages sales	Vuile pagina's
+Paquets orphelins	Wees-pakketten
+Paquets à purger :\n{}\nLe noyau en cours et le plus récent sont toujours conservés.	Te verwijderen pakketten:\n{}\nDe actieve kernel en de nieuwste blijven altijd behouden.
+Par défaut	Standaard
+Pare-feu UFW et tunnels VPN	UFW-firewall en VPN-tunnels
+Passerelle	Gateway
+Police	Lettertype
+Polices installées	Geïnstalleerde lettertypen
+Port 631 : {} · Browsing : {} · écoute globale : {}	Poort 631: {} · Browsing: {} · globaal luisteren: {}
+Port à autoriser ou refuser	Poort toestaan of weigeren
+Priorité	Prioriteit
+Processus les plus actifs	Actiefste processen
+Processus {} (PID {}) : {}.\nLes données non enregistrées de ce programme peuvent être perdues.	Proces {} (PID {}): {}.\nNiet-opgeslagen gegevens van dit programma kunnen verloren gaan.
+Profils de performance	Prestatieprofielen
+Purger les configurations résiduelles	Restconfiguraties verwijderen
+Purger {} configuration(s)…	{} configuratie(s) verwijderen…
+PÉRIPHÉRIQUES CHIFFRÉS (LUKS)	VERSLEUTELDE APPARATEN (LUKS)
+Quota pour {}	Quota voor {}
+Quotas de disque	Schijfquota
+RACCOURCIS CLAVIER	SNELTOETSEN
+RAM disponible	Beschikbaar RAM
+RAM totale	Totaal RAM
+Rapport texte	Tekstrapport
+Rapport écrit : {}	Rapport geschreven: {}
+Recherche : {}	Zoeken: {}
+Recherche : {} · {} entrée(s) /etc/hosts	Zoeken: {} · {} item(s) in /etc/hosts
+Recherche dans le journal systemd	Zoeken in het systemd-journal
+Recherche globale	Globaal zoeken
+Rechercher	Zoeken
+Reconstruire le cache	Cache opnieuw opbouwen
+Refuser…	Weigeren…
+Relancer l'audit	Audit opnieuw uitvoeren
+Relire	Opnieuw lezen
+Remesurer	Opnieuw meten
+Reprendre	Hervatten
+Rien à supprimer : seuls le noyau en cours et le plus récent sont conservés.	Niets te verwijderen: alleen de actieve en de nieuwste kernel blijven behouden.
+Rose	Roze
+RÈGLES	REGELS
+RÉGLAGES INDIVIDUELS	AFZONDERLIJKE INSTELLINGEN
+RÉSEAUX WI-FI	WI-FI-NETWERKEN
+Régénérer GRUB	GRUB opnieuw genereren
+Régénérer la configuration…	Configuratie opnieuw genereren…
+Réinstaller des logiciels	Software opnieuw installeren
+Réinstaller…	Opnieuw installeren…
+Réseau étendu	Uitgebreid netwerk
+Résoudre	Omzetten
+Rétablir le son	Geluid herstellen
+SAUVEGARDE DISTANTE (RSYNC/SSH)	BACKUP OP AFSTAND (RSYNC/SSH)
+SERVEUR SSH	SSH-SERVER
+SERVICES LES PLUS LENTS AU DÉMARRAGE	TRAAGSTE SERVICES BIJ OPSTARTEN
+SESSIONS ACTIVES	ACTIEVE SESSIES
+SORTIES AUDIO	AUDIO-UITGANGEN
+SOUS-VOLUMES	SUBVOLUMES
+SUBSTITUTION FONTCONFIG	FONTCONFIG-VERVANGING
+Sans-serif : {} · monospace : {}	Schreefloos: {} · monospace: {}
+Sauvegarde distante	Back-up op afstand
+Sauvegarder	Back-up maken
+Sauvegarder…	Back-up maken…
+Sauvegardes	Back-ups
+Schéma clair/sombre	Licht/donker-schema
+Score {}/100	Score {}/100
+Serveurs : {}	Servers: {}
+Service NTP	NTP-service
+Sessions et comptes	Sessies en accounts
+Seules les polices de {} peuvent être supprimées ; les polices des paquets sont protégées.	Alleen lettertypen in {} kunnen worden verwijderd; pakketlettertypen zijn beschermd.
+Simuler	Simuleren
+Snap / Flatpak	Snap / Flatpak
+Souple	Zacht
+Sous-volumes et instantanés Btrfs	Btrfs-subvolumes en snapshots
+Statut	Status
+Supprimer des noyaux	Kernels verwijderen
+Supprimer les copies	Kopieën verwijderen
+Supprimer les copies…	Kopieën verwijderen…
+Supprimer les dépendances inutiles	Overbodige afhankelijkheden verwijderen
+Supprimer un volume logique	Logisch volume verwijderen
+Supprimer une imprimante	Printer verwijderen
+Supprimer une police	Lettertype verwijderen
+Supprimer une tâche cron	Cron-taak verwijderen
+Supprimer {}	{} verwijderen
+Supprimer {} ancien(s) noyau(x)…	{} oude kernel(s) verwijderen…
+Supprimer {} dépendance(s)…	{} afhankelijkheid/afhankelijkheden verwijderen…
+Supprimer…	Verwijderen…
+Swap utilisé	Swap gebruikt
+Sélection : {} ({})	Selectie: {} ({})
+TRAVAUX	OPDRACHTEN
+TRIM non exposé	TRIM niet beschikbaar
+TRIM pris en charge	TRIM ondersteund
+TRIM, processeur et mémoire	TRIM, processor en geheugen
+Tableau CSV	CSV-tabel
+Tester	Testen
+Tester la connexion	Verbinding testen
+Thème GTK	GTK-thema
+Thème d'icônes	Pictogramthema
+Timers et unités de sauvegarde	Timers en back-upunits
+Total mesuré : {}	Totaal gemeten: {}
+Tous les travaux de cette imprimante seront annulés.	Alle opdrachten van deze printer worden geannuleerd.
+Tous les travaux en attente pour cette imprimante seront annulés.	Alle wachtende opdrachten voor deze printer worden geannuleerd.
+Tout	Alles
+Tout décocher	Alles uitvinken
+Tout mettre à jour…	Alles bijwerken…
+Toutes les règles seront ignorées et les ports seront exposés.	Alle regels worden genegeerd en de poorten worden blootgesteld.
+Toutes sources	Alle bronnen
+Tâches planifiées	Geplande taken
+UNITÉS DE SAUVEGARDE	BACK-UPUNITS
+UTILISATEUR	GEBRUIKER
+Unités	Units
+Unités systemd personnalisées	Aangepaste systemd-units
+VOLUMES LOGIQUES	LOGISCHE VOLUMES
+Valeurs écrites dans /etc/sysctl.d/99-orbisys.conf puis appliquées par sysctl -p.	Waarden worden naar /etc/sysctl.d/99-orbisys.conf geschreven en met sysctl -p toegepast.
+Verrouiller…	Vergrendelen…
+Vert	Groen
+Vider la file	Wachtrij legen
+Vider la file de {}	Wachtrij van {} legen
+Violet	Violet
+VÉRIFICATION D'ARCHIVE	ARCHIEFCONTROLE
+Vérifier	Controleren
+absent	ontbreekt
+actif	actief
+actif au démarrage	actief bij opstarten
+activée	ingeschakeld
+analyse : {}	analyse: {}
+annulation : {}	annulering: {}
+apt-get autoremove --purge supprimera {} paquet(s) : {}	apt-get autoremove --purge verwijdert {} pakket(ten): {}
+apt-get purge supprimera les fichiers de configuration de {} paquet(s) déjà désinstallés.	apt-get purge verwijdert de configuratiebestanden van {} reeds verwijderde pakket(ten).
+arrêté	gestopt
+aucun montage /	geen koppeling /
+aucune adresse IPv4	geen IPv4-adres
+aucune batterie	geen batterij
+audio : {}	audio: {}
+bloqué	geblokkeerd
+btrfs subvolume snapshot -r {} {} (lecture seule, polkit).	btrfs subvolume snapshot -r {} {} (alleen-lezen, polkit).
+cache : {}	cache: {}
+charge instantanée	momentele belasting
+compte : {}	account: {}
+connecté	verbonden
+cpupower absent : application du gouverneur impossible	cpupower ontbreekt: governor kan niet worden toegepast
+cpupower absent : la gouvernance peut être lue mais pas modifiée.	cpupower ontbreekt: de governor kan worden gelezen maar niet gewijzigd.
+cpupower frequency-set -g {} (polkit).	cpupower frequency-set -g {} (polkit).
+crontab n'est pas installé.	crontab is niet geïnstalleerd.
+cryptsetup close {} : le volume sera verrouillé et devra être réouvert avec sa phrase secrète.	cryptsetup close {}: het volume wordt vergrendeld en moet met zijn wachtzin opnieuw worden geopend.
+cupsdisable {} : les impressions en attente resteront bloquées.	cupsdisable {}: wachtende afdrukopdrachten blijven geblokkeerd.
+disponible	beschikbaar
+disque rotatif	draaiende schijf
+dotfiles : {}	dotfiles: {}
+doublons : {}	dubbele bestanden: {}
+dépassé	overschreden
+désactivée	uitgeschakeld
+en attente	in afwachting
+en cours	actief
+export : {}	export: {}
+export impossible : {}	export mislukt: {}
+extension : {}	extensie: {}
+facultatif	optioneel
+fait	klaar
+file : {}	wachtrij: {}
+filtrer	filteren
+filtrer un contrôle	controle filteren
+filtrer un message	bericht filteren
+filtrer un point de montage	koppelpunt filteren
+filtrer un utilisateur	gebruiker filteren
+filtrer une famille	familie filteren
+format : 22, 22/tcp ou 8080/udp	formaat: 22, 22/tcp of 8080/udp
+fstrim -av parcourt tous les systèmes de fichiers montés et signale aux SSD les blocs libres. L'opération peut durer plusieurs minutes et n'efface aucune donnée.	fstrim -av doorloopt alle gekoppelde bestandssystemen en meldt de vrije blokken aan SSD's. De bewerking kan enkele minuten duren en wist geen gegevens.
+fuseau : {}	tijdzone: {}
+gouverneur : {}	governor: {}
+groupe	groep
+gsettings est absent : GNOME n'est pas le bureau actif.	gsettings ontbreekt: GNOME is niet de actieve desktop.
+hôte ou adresse	host of adres
+illimité	onbeperkt
+imprimante : {}	printer: {}
+inactif	inactief
+inconnu	onbekend
+installation : {}	installatie: {}
+instantané	snapshot
+instantané : {}	snapshot: {}
+interfaces : {} · wireguard : {} · connexions actives : {}	interfaces: {} · wireguard: {} · actieve verbindingen: {}
+inventaire non chargé	inventaris niet geladen
+journaux : {}	logboeken: {}
+lecture seule	alleen-lezen
+lecture/écriture	lezen/schrijven
+liste exportée : {} ({} logiciels)	lijst geëxporteerd: {} ({} programma's)
+locale : {}	taalregio: {}
+localectl set-locale LANG={} (Polkit).\nLa session en cours n'est pas modifiée ; la locale s'applique aux nouvelles sessions.	localectl set-locale LANG={} (Polkit).\nDe huidige sessie wordt niet gewijzigd; de taalregio geldt voor nieuwe sessies.
+logiciel introuvable dans l'inventaire	software niet gevonden in de inventaris
+lpadmin -x {} : la file et ses réglages seront supprimés.	lpadmin -x {}: de wachtrij en de instellingen ervan worden verwijderd.
+lvremove -f {}/{} : toutes les données de ce volume seront perdues.	lvremove -f {}/{}: alle gegevens op dit volume gaan verloren.
+manuel	handmatig
+minuteur : {}	timer: {}
+mode miroir (--delete)	spiegelmodus (--delete)
+montage : {}	koppeling: {}
+monté	gekoppeld
+mount {} ({}:{}, polkit). Le serveur doit être joignable.	mount {} ({}:{}, polkit). De server moet bereikbaar zijn.
+nom de famille demandé	gevraagde familienaam
+non	nee
+non activé au démarrage	niet ingeschakeld bij opstarten
+non détectées	niet gedetecteerd
+non installé	niet geïnstalleerd
+non listé	niet vermeld
+notables seulement	alleen opvallend
+noyaux : {}	kernels: {}
+ou en terminal : sudo {}	of in een terminal: sudo {}
+oui	ja
+pactl est absent : serveur audio non détecté.	pactl ontbreekt: audioserver niet gedetecteerd.
+par défaut	standaard
+partage exposé sur le réseau	share zichtbaar op het netwerk
+partage non exposé	share niet zichtbaar
+pilote : {}	stuurprogramma: {}
+ping : {}	ping: {}
+polices : {}	lettertypen: {}
+processus : {}	proces: {}
+profil : {}	profiel: {}
+présent	aanwezig
+purge : {}	verwijderen: {}
+quota : {}	quota: {}
+quotaon activera les quotas déjà configurés sur ce montage.	quotaon schakelt de reeds voor deze koppeling ingestelde quota's in.
+rsync -a {} → {}\nLes fichiers absents de la source ne sont pas supprimés sur la cible.	rsync -a {} → {}\nBestanden die in de bron ontbreken worden niet uit de bestemming verwijderd.
+rsync : {}	rsync: {}
+rsync distant : {}	rsync op afstand: {}
+résolution : {}	omzetting: {}
+score {} %	score {} %
+session : {}	sessie: {}
+substitution : {}	vervanging: {}
+suppression : {}	verwijdering: {}
+suppression via le gestionnaire natif, confirmée par Polkit	verwijdering via de eigen beheerder, bevestigd door Polkit
+swappiness : valeur entre 0 et 100 attendue	swappiness: een waarde tussen 0 en 100 wordt verwacht
+systemctl disable --now {} : les tâches planifiées de ce minuteur ne seront plus exécutées.	systemctl disable --now {}: de geplande taken van deze timer worden niet meer uitgevoerd.
+taille minimale (Kio)	minimale grootte (KiB)
+test serveur : {}	servertest: {}
+timedatectl set-timezone {} (Polkit). Les horodatages des journaux existants restent inchangés.	timedatectl set-timezone {} (Polkit). Tijdstempels van bestaande logboeken blijven ongewijzigd.
+timeout, refusé…	timeout, geweigerd…
+timer : {}	timer: {}
+timer {}	timer {}
+udisksctl unmount -b {} : arrêter les applications qui l'utilisent.	udisksctl unmount -b {}: stop de toepassingen die het gebruiken.
+unité (ex. nginx.service)	unit (bijv. nginx.service)
+unités : {}	units: {}
+update-grub réécrit /boot/grub/grub.cfg. Une entrée manquante peut empêcher le démarrage : vérifiez les noyaux listés ci-dessus.	update-grub herschrijft /boot/grub/grub.cfg. Een ontbrekend item kan het opstarten verhinderen: controleer de hierboven vermelde kernels.
+usermod -L empêche toute connexion par mot de passe de ce compte.	usermod -L voorkomt elke aanmelding met wachtwoord voor dit account.
+usermod -U rétablit la connexion par mot de passe.	usermod -U herstelt de aanmelding met wachtwoord.
+via {}	via {}
+{} ({}) — {} utilisés sur {}	{} ({}) — {} gebruikt van {}
+{} / {} · priorité {}	{} / {} · prioriteit {}
+{} appareil(s) · {} montage(s) · {} instantané(s)	{} apparaat/apparaten · {} koppeling(en) · {} snapshot(s)
+{} conformes · {} partiels · {} non conformes · {} inconnus	{} conform · {} gedeeltelijk · {} niet conform · {} onbekend
+{} copie(s) supprimée(s), {} libérés	{} kopie(ën) verwijderd, {} vrijgemaakt
+{} cœur(s) · gouverneur {} · swap {}	{} kern(en) · governor {} · swap {}
+{} entrée(s) · {} montage(s) avec quotas · outil {}	{} item(s) · {} koppeling(en) met quota · hulpprogramma {}
+{} entrée(s) · {} montée(s) · showmount {}	{} item(s) · {} gekoppeld · showmount {}
+{} famille(s) de polices · {} locale(s) disponible(s)	{} lettertypefamilie(s) · {} taalregio('s) beschikbaar
+{} famille(s) installée(s)	{} familie(s) geïnstalleerd
+{} fichiers analysés · {} groupe(s) · {} récupérables{}	{} bestanden geanalyseerd · {} groep(en) · {} terug te winnen{}
+{} groupe(s) · {} volume(s) · {} périphérique(s) chiffré(s)	{} groep(en) · {} volume(s) · {} versleuteld(e) apparaat/apparaten
+{} hors dépôts	{} buiten repositories
+{} imprimante(s) · {} sortie(s) · {} entrée(s)	{} printer(s) · {} uitgang(en) · {} ingang(en)
+{} imprimante(s) · {} travail(x) en file	{} printer(s) · {} opdracht(en) in de wachtrij
+{} instantané(s)	{} snapshot(s)
+{} instantané(s) · Timeshift {}	{} snapshot(s) · Timeshift {}
+{} libres sur /	{} vrij op /
+{} ligne(s) affichée(s)	{} regel(s) weergegeven
+{} ligne(s) · {} message(s) récurrent(s)	{} regel(s) · {} terugkerend(e) bericht(en)
+{} mise(s) à jour disponible(s)	{} update(s) beschikbaar
+{} mise(s) à jour seront installées ({}). Une authentification administrateur est demandée.	{} update(s) worden geïnstalleerd ({}). Beheerdersauthenticatie wordt gevraagd.
+{} montage(s) · {} sous-volume(s) · {} instantané(s) · outil {}	{} koppeling(en) · {} subvolume(s) · {} snapshot(s) · hulpprogramma {}
+{} paquet(s) seraient installés	{} pakket(ten) zouden worden geïnstalleerd
+{} paquet(s) seraient retirés	{} pakket(ten) zouden worden verwijderd
+{} paquets · {} snap · {} flatpak · {} hors dépôts	{} pakketten · {} snap · {} flatpak · {} buiten repositories
+{} personnalisée(s) · {} service(s)	{} aangepast · {} service(s)
+{} point(s) à surveiller	{} aandachtspunt(en)
+{} processus	{} processen
+{} périphériques USB · {} PCI	{} USB-apparaten · {} PCI
+{} résultat(s)	{} resultaat/resultaten
+{} session(s) · {} connexion(s) · {} compte(s) vérifié(s)	{} sessie(s) · {} aanmelding(en) · {} account(s) gecontroleerd
+{} souple / {} dure sur {} (setquota, polkit).	{} zacht / {} hard op {} (setquota, polkit).
+{} style(s)	{} stijl(en)
+{} supprimable(s) · {} configuration(s) résiduelle(s) · {}	{} verwijderbaar · {} restconfiguratie(s) · {}
+{} système(s) de fichiers	{} bestandssysteem(en)
+{} sélectionné(s)	{} geselecteerd
+{} timer(s) · {} unité(s) de sauvegarde · {} en échec	{} timer(s) · {} back-upunit(s) · {} mislukt
+{} tâche(s) cron · {} minuteur(s)	{} cron-taak/taken · {} timer(s)
+{} unités	{} units
+{} utilisés · {} libres sur {}	{} gebruikt · {} vrij van {}
+{} {}\nLa tâche sera retirée du crontab utilisateur.	{} {}\nDe taak wordt uit de gebruikers-crontab verwijderd.
+{} · libre {} · {} PV / {} LV · {} % utilisé	{} · vrij {} · {} PV / {} LV · {} % gebruikt
+{} élément(s) de configuration · {} noyau(x)	{} configuratie-item(s) · {} kernel(s)
+{}rsync distant\n{}	{}rsync op afstand\n{}
+{}rsync terminé\n{}	{}rsync voltooid\n{}
+« {} » absente → remplacée par « {} »	“{}” ontbreekt → vervangen door “{}”
+« {} » installée	“{}” is geïnstalleerd
+ÉCHANGE (SWAP)	WISSELGEHEUGEN (SWAP)
+ÉDITEUR D'UNITÉ	UNIT-EDITOR
+ÉTAT	STATUS
+État des comptes indisponible (passwd restreint).	Accountstatus niet beschikbaar (passwd beperkt).
+à traiter	af te handelen
+… et {} autre(s) famille(s)	… en {} andere familie(s)
+… {} entrée(s) masquée(s), affinez le filtre.	… {} item(s) verborgen, verfijn het filter.
+… {} familles supplémentaires masquées, affinez le filtre.	… {} extra families verborgen, verfijn het filter.
+Description	Beschrijving
+Version {} · licence MIT · Rust + egui	Versie {} · MIT-licentie · Rust + egui
+Alerte : {}	Waarschuwing: {}
+simulation : 	simulatie: 
+score d'audit	auditscore
+ · muet	 · gedempt
+ (libre)	 (vrij)
+{} disque(s) · gouvernance {} · TRIM {}	{} schijf/schijven · governance {} · TRIM {}
+{} style(s) : {}	{} stijl(en): {}
+{} extension(s) · {} raccourci(s)	{} extensie(s) · {} sneltoets(en)
+route {} via {} · {} interface(s)	route {} via {} · {} interface(s)
+{} interface(s) · {} connexion(s)	{} interface(s) · {} verbinding(en)
+{} · port {} · PermitRootLogin {} · PasswordAuthentication {}	{} · poort {} · PermitRootLogin {} · PasswordAuthentication {}
+entrant {} · sortant {}	inkomend {} · uitgaand {}
+{} physiques · {} logiques · {}	{} fysiek · {} logisch · {}
+{} processus · CPU {} % · charge {} / {} / {}	{} processen · CPU {} % · belasting {} / {} / {}
+{} ligne(s)	{} regel(s)
+{} · {} erreur(s) · {} avertissement(s)	{} · {} fout(en) · {} waarschuwing(en)
+disponibles : {}	beschikbaar: {}
+non défini	niet ingesteld
+Manuel	Handmatig
+Entrée .desktop	.desktop-item
+erreur	fout
+avertissement	waarschuwing
+information	informatie
+mémoire	geheugen
+matériel	hardware
+stockage	opslag
+thermique	thermisch
+réseau	netwerk
+graphique	beeldscherm
+divers	overig
+Informations	Informatie
+conforme	conform
+partiel	gedeeltelijk
+non conforme	niet conform
+Attention	Let op
+Critique	Kritiek
+terminer (SIGTERM)	beëindigen (SIGTERM)
+forcer l'arrêt (SIGKILL)	stoppen forceren (SIGKILL)
+suspendre (SIGSTOP)	onderbreken (SIGSTOP)
+reprendre (SIGCONT)	hervatten (SIGCONT)
+priorité {}	prioriteit {}
+Activer le pare-feu	Firewall inschakelen
+Désactiver le pare-feu	Firewall uitschakelen
+Autoriser {}	{} toestaan
+Refuser {}	{} weigeren
+Supprimer la règle n°{}	Regel nr. {} verwijderen
+Cache des paquets téléchargés	Cache van gedownloade pakketten
+Journal systemd	systemd-journal
+Corbeille	Prullenbak
+Cache utilisateur	Gebruikerscache
+Vignettes	Miniaturen
+Noyaux obsolètes	Verouderde kernels
+Archives .deb déjà installées, dans /var/cache/apt/archives.	Reeds geïnstalleerde .deb-archieven in /var/cache/apt/archives.
+Anciennes entrées du journal, réduites à 200 Mio.	Oude journaalregels, teruggebracht tot 200 MiB.
+Fichiers placés dans la corbeille.	Bestanden in de prullenbak.
+Caches applicatifs de ~/.cache (vignettes incluses).	Toepassingscaches in ~/.cache (inclusief miniaturen).
+Aperçus d'images et de vidéos régénérés automatiquement.	Automatisch opnieuw gemaakte voorbeelden van afbeeldingen en video's.
+{} noyau(x) plus ancien(s) que celui en cours : {}.	{} kernel(s) ouder dan de actieve: {}.
+{} révision(s) désactivée(s) conservées par snap.	{} uitgeschakelde revisie(s) bewaard door snap.
+impression en cours	bezig met afdrukken
+prête	gereed
+inconnue	onbekend
+user@hôte:/srv/sauvegarde	user@host:/srv/backup
+/usr/local/bin/sauvegarde.sh	/usr/local/bin/backup.sh
+/usr/bin/mon-script	/usr/bin/my-script
+/home/amine/sauvegarde.tar.gz	/home/user/backup.tar.gz
+/home/amine/Téléchargements/ma-police.ttf	/home/user/Downloads/my-font.ttf
+mon-service.service	my-service.service
+PermitRootLogin non défini (défaut dépendant de la version)	PermitRootLogin niet ingesteld (standaard hangt van de versie af)
+Connexion root en SSH interdite	Root-aanmelding via SSH verboden
+SSH	SSH
+Définir « PermitRootLogin no » dans /etc/ssh/sshd_config.	Stel “PermitRootLogin no” in /etc/ssh/sshd_config in.
+authentification par mot de passe non définie	wachtwoordauthenticatie niet ingesteld
+Authentification SSH par clé uniquement	SSH-authenticatie alleen met sleutel
+Désactiver PasswordAuthentication après avoir déployé des clés.	Schakel PasswordAuthentication uit nadat de sleutels zijn uitgerold.
+pare-feu actif, refus par défaut en entrée	firewall actief, inkomend standaard geweigerd
+pare-feu actif mais politique d'entrée non restrictive	firewall actief, maar het inkomende beleid is niet restrictief
+pare-feu inactif	firewall inactief
+Pare-feu actif avec refus par défaut	Firewall actief met standaard weigeren
+Activer ufw puis « ufw default deny incoming ».	Schakel ufw in en daarna “ufw default deny incoming”.
+AppArmor actif	AppArmor actief
+Noyau	Kernel
+service apparmor actif	apparmor-service actief
+service apparmor inactif ou absent	apparmor-service inactief of ontbreekt
+Installer apparmor et activer le service.	Installeer apparmor en schakel de service in.
+Mises à jour de sécurité automatiques	Automatische beveiligingsupdates
+unattended-upgrades activé	unattended-upgrades ingeschakeld
+unattended-upgrades non activé	unattended-upgrades niet ingeschakeld
+Activer unattended-upgrades (apt-daily-upgrade.timer).	Schakel unattended-upgrades in (apt-daily-upgrade.timer).
+ASLR complet	Volledige ASLR
+Régler kernel.randomize_va_space=2.	Stel kernel.randomize_va_space=2 in.
+Core dumps des binaires SUID désactivés	Core dumps van SUID-programma's uitgeschakeld
+Régler fs.suid_dumpable=0.	Stel fs.suid_dumpable=0 in.
+Routage IPv4 désactivé	IPv4-routering uitgeschakeld
+Régler net.ipv4.ip_forward=0 sauf si la machine est un routeur.	Stel net.ipv4.ip_forward=0 in, tenzij de machine een router is.
+PASS_MAX_DAYS {} (supérieur à 365)	PASS_MAX_DAYS {} (groter dan 365)
+PASS_MAX_DAYS illisible	PASS_MAX_DAYS onleesbaar
+Expiration des mots de passe	Verloop van wachtwoorden
+Accès	Toegang
+Régler PASS_MAX_DAYS à 365 ou moins dans /etc/login.defs.	Stel PASS_MAX_DAYS in /etc/login.defs in op 365 of minder.
+/tmp monté avec nodev et nosuid	/tmp gekoppeld met nodev en nosuid
+Système de fichiers	Bestandssysteem
+Monter /tmp avec nodev,nosuid (ou via tmpfs).	Koppel /tmp met nodev,nosuid (of via tmpfs).
+Journalisation d'audit active	Auditregistratie actief
+Audit	Audit
+service auditd actif	auditd-service actief
+auditd inactif ou non installé	auditd inactief of niet geïnstalleerd
+Installer auditd et activer le service.	Installeer auditd en schakel de service in.
+ufw absent : contrôle pare-feu partiel	ufw ontbreekt: firewallcontrole gedeeltelijk
+systemctl absent : services non vérifiés	systemctl ontbreekt: services niet gecontroleerd
+Équilibre bureau : fréquence à la demande, swap modéré.	Desktopbalans: frequentie op aanvraag, matige swap.
+Fréquence maximale, swap minimal, pages géantes systématiques.	Maximale frequentie, minimale swap, systematisch grote pagina's.
+Batterie et silence : fréquence basse, swap agressif.	Batterij en stilte: lage frequentie, agressieve swap.
+cpufreq indisponible : gouvernance non exposée	cpufreq niet beschikbaar: governor niet beschikbaar
+gouverneur refusé : {} (disponibles : {})	governor geweigerd: {} (beschikbaar: {})
+gouverneur appliqué : {}	governor toegepast: {}
+mode THP refusé : {}	THP-modus geweigerd: {}
+transparent_hugepage non exposé par ce noyau	transparent_hugepage wordt door deze kernel niet aangeboden
+gouverneur : échec ({})	governor: mislukt ({})
+swappiness : échec ({})	swappiness: mislukt ({})
+compte verrouillé	account vergrendeld
+mot de passe actif	wachtwoord ingesteld
+aucun mot de passe	geen wachtwoord
+état {}	status {}
+utilisateur refusé : {}	gebruiker geweigerd: {}
+compte déverrouillé	account ontgrendeld
+session refusée : {}	sessie geweigerd: {}
+session {} fermée	sessie {} gesloten
+Réactif	Responsief
+Performance	Prestaties
+Économie	Zuinig
+planification invalide : cinq champs (min heure jour mois jour-semaine) ou @daily	ongeldige planning: vijf velden (min uur dag maand weekdag) of @daily
+commande invalide	ongeldige opdracht
+crontab n'est pas installé	crontab is niet geïnstalleerd
+tâche ajoutée : {} {}	taak toegevoegd: {} {}
+tâche invalide	ongeldige taak
+tâche supprimée : {} {}	taak verwijderd: {} {}
+minuteur invalide : nom attendu au format nom.timer	ongeldige timer: naam in de vorm naam.timer verwacht
+APT : {} paquet(s) installé(s)	APT: {} pakket(ten) geïnstalleerd
+APT : échec — {}	APT: mislukt — {}
+Snap : {} logiciel(s) installé(s)	Snap: {} programma('s) geïnstalleerd
+Snap : échec — {}	Snap: mislukt — {}
+Flatpak : {} application(s) installée(s)	Flatpak: {} toepassing(en) geïnstalleerd
+Flatpak : échec — {}	Flatpak: mislukt — {}
+aucun logiciel à réinstaller dans ce fichier	geen software om opnieuw te installeren in dit bestand
+source introuvable : {}	bron niet gevonden: {}
+refus de copier la racine du système	kopiëren van de systeemroot geweigerd
+destination refusée : racine du système	bestemming geweigerd: systeemroot
+source et destination identiques	bron en bestemming zijn identiek
+la destination ne peut pas être à l'intérieur de la source	de bestemming mag niet binnen de bron liggen
+rsync n'est pas installé	rsync is niet geïnstalleerd
+aucun fichier de configuration détecté	geen configuratiebestand gevonden
+{} élément(s) sauvegardé(s) dans {}	{} item(s) opgeslagen in {}
+ni update-grub ni grub-mkconfig ne sont disponibles	noch update-grub noch grub-mkconfig is beschikbaar
+la sauvegarde doit être un dossier	de back-up moet een map zijn
+aucun fichier de configuration reconnu dans ce dossier	geen herkend configuratiebestand in deze map
+{} élément(s) restauré(s) (les originaux sont conservés en .um-bak-{})	{} item(s) hersteld (originelen blijven bewaard als .um-bak-{})
+dossier personnel introuvable	persoonlijke map niet gevonden
+chemins refusés : attendu des chemins absolus sans `..`	paden geweigerd: absolute paden zonder `..` verwacht
+la source et la destination sont identiques	de bron en de bestemming zijn identiek
+la destination existe déjà : {}	de bestemming bestaat al: {}
+dossier parent absent : {}	bovenliggende map ontbreekt: {}
+instantané créé : {}	snapshot gemaakt: {}
+chemin refusé : {}	pad geweigerd: {}
+sous-volume supprimé : {}	subvolume verwijderd: {}
+btrfs-progs absent : sous-volumes illisibles	btrfs-progs ontbreekt: subvolumes onleesbaar
+{} élément(s) retiré(s) de la corbeille	{} item(s) uit de prullenbak verwijderd
+dossier de cache introuvable	cachemap niet gevonden
+{} entrée(s) de cache supprimée(s)	{} cache-item(s) verwijderd
+{} vignette(s) supprimée(s)	{} miniatuur/miniaturen verwijderd
+aucune révision désactivée	geen uitgeschakelde revisie
+{} r{} supprimée	{} r{} verwijderd
+travail refusé : {}	opdracht geweigerd: {}
+travail annulé : {}	opdracht geannuleerd: {}
+imprimante refusée : {}	printer geweigerd: {}
+file vidée : {}	wachtrij geleegd: {}
+imprimante supprimée : {}	printer verwijderd: {}
+schéma ou clé invalide	ongeldig schema of ongeldige sleutel
+valeur refusée	waarde geweigerd
+identifiant d'extension invalide	ongeldige extensie-id
+gnome-extensions n'est pas disponible	gnome-extensions is niet beschikbaar
+ufw n'est pas installé : pare-feu non gérable depuis l'application.	ufw is niet geïnstalleerd: de firewall kan niet vanuit de toepassing worden beheerd.
+pare-feu inactif : aucune règle n'est appliquée.	firewall inactief: er wordt geen regel toegepast.
+ufw n'est pas installé	ufw is niet geïnstalleerd
+port refusé : {}	poort geweigerd: {}
+numéro de règle invalide	ongeldig regelnummer
+les règles ont changé depuis l'affichage : actualisez et recommencez	de regels zijn gewijzigd sinds ze werden getoond: vernieuw en probeer opnieuw
+extension absente : attendu ttf, otf, ttc, woff ou woff2	extensie ontbreekt: ttf, otf, ttc, woff of woff2 verwacht
+extension refusée : .{}	extensie geweigerd: .{}
+fichier introuvable : {}	bestand niet gevonden: {}
+nom de famille invalide	ongeldige familienaam
+famille refusée : {}	familie geweigerd: {}
+nom de fichier invalide	ongeldige bestandsnaam
+nom de fichier caché refusé	verborgen bestandsnaam geweigerd
+police installée : {}	lettertype geïnstalleerd: {}
+suppression limitée à {} : {}	verwijdering beperkt tot {}: {}
+police supprimée : {}	lettertype verwijderd: {}
+aucune valeur à appliquer	geen waarde om toe te passen
+clé refusée : {}	sleutel geweigerd: {}
+valeur refusée pour {}	waarde geweigerd voor {}
+{} réglage(s) appliqué(s) et persistés dans {}	{} instelling(en) toegepast en bewaard in {}
+aucun noyau à supprimer	geen kernel om te verwijderen
+paquet refusé : {}	pakket geweigerd: {}
+refus de supprimer le noyau en cours : {}	verwijderen van de actieve kernel geweigerd: {}
+{} noyau(x) supprimé(s)	{} kernel(s) verwijderd
+pilote refusé : {}	stuurprogramma geweigerd: {}
+ubuntu-drivers n'est pas disponible	ubuntu-drivers is niet beschikbaar
+pilote {} installé	stuurprogramma {} geïnstalleerd
+locale invalide : format attendu fr_FR.UTF-8	ongeldige taalregio: verwacht formaat fr_FR.UTF-8
+localectl n'est pas disponible	localectl is niet beschikbaar
+locale système : {}	systeemtaalregio: {}
+fuseau invalide : format attendu Europe/Paris	ongeldige tijdzone: verwacht formaat Europe/Paris
+timedatectl n'est pas disponible	timedatectl is niet beschikbaar
+nom de groupe ou de volume invalide	ongeldige groeps- of volumenaam
+taille invalide : attendu un nombre suivi de K, M, G ou T	ongeldige grootte: een getal gevolgd door K, M, G of T verwacht
+volume {}/{} créé ({})	volume {}/{} gemaakt ({})
+référence attendue : groupe/volume	verwijzing verwacht: groep/volume
+référence de volume invalide	ongeldige volumeverwijzing
+volume {}/{} supprimé	volume {}/{} verwijderd
+nom de périphérique invalide	ongeldige apparaatnaam
+{} fermé	{} gesloten
+périphérique invalide	ongeldig apparaat
+hôte refusé : {}	host geweigerd: {}
+résolution impossible : {}	omzetten niet mogelijk: {}
+aucune route par défaut	geen standaardroute
+point de montage refusé : {}	koppelpunt geweigerd: {}
+serveur refusé : {}	server geweigerd: {}
+fstrim n'est pas disponible (paquet util-linux)	fstrim is niet beschikbaar (pakket util-linux)
+TRIM terminé	TRIM voltooid
+gouvernance refusée : {}	governor geweigerd: {}
+cpupower est requis pour changer la gouvernance (paquet linux-tools)	cpupower is nodig om de governor te wijzigen (pakket linux-tools)
+dépendances inutiles supprimées	overbodige afhankelijkheden verwijderd
+aucun paquet à purger	geen pakket om te verwijderen
+trop de paquets en une fois (200 maximum)	te veel pakketten tegelijk (maximaal 200)
+nom de paquet refusé : {}	pakketnaam geweigerd: {}
+{} configuration(s) purgée(s)	{} configuratie(s) verwijderd
+nom d'imprimante invalide	ongeldige printernaam
+imprimante par défaut : {}	standaardprinter: {}
+imprimante {} supprimée	printer {} verwijderd
+nom de sortie audio invalide	ongeldige naam van audio-uitgang
+sortie par défaut : {}	standaarduitgang: {}
+sourdine basculée pour {}	dempen omgeschakeld voor {}
+ajustement attendu entre -100 et +100	aanpassing tussen -100 en +100 verwacht
+volume de {} ajusté de {}	volume van {} aangepast met {}
+la limite souple dépasse la limite dure	de zachte limiet overschrijdt de harde limiet
+quota appliqué : {} sur {} ({} / {})	quota toegepast: {} op {} ({} / {})
+quotas activés : {}	quota's ingeschakeld: {}
+repquota absent : paquet quota non installé	repquota ontbreekt: pakket quota niet geïnstalleerd
+systemd non disponible sur ce système	systemd is niet beschikbaar op dit systeem
+unité refusée : {}	unit geweigerd: {}
+cible invalide : format attendu user@hôte:/chemin	ongeldige bestemming: verwacht formaat user@host:/pad
+hôte introuvable dans la cible	host niet gevonden in de bestemming
+connexion à {} établie	verbinding met {} tot stand gebracht
+connexion à {} impossible : {}	verbinding met {} niet mogelijk: {}
+chemin refusé	pad geweigerd
+format non pris en charge : attendu .tar[.gz|.xz|.bz2], .tgz, .txz, .zip	niet-ondersteund formaat: .tar[.gz, .xz, .bz2], .tgz, .txz, .zip verwacht
+archive invalide : {}	ongeldig archief: {}
+archive valide : {} entrée(s) · {}	geldig archief: {} item(s) · {}
+action refusée : {}	actie geweigerd: {}
+le nom doit se terminer par .service	de naam moet eindigen op .service
+nom d'unité refusé : {}	unitnaam geweigerd: {}
+fichier d'unité trop volumineux (64 Kio maximum)	unitbestand te groot (maximaal 64 KiB)
+ExecStart= manquant ou vide	ExecStart= ontbreekt of is leeg
+unité introuvable : {}	unit niet gevonden: {}
+unité installée : {}	unit geïnstalleerd: {}
+pas une unité personnalisée : {}	geen aangepaste unit: {}
+unité supprimée : {}	unit verwijderd: {}
+date de début invalide : AAAA-MM-JJ ou AAAA-MM-JJ HH:MM	ongeldige begindatum: JJJJ-MM-DD of JJJJ-MM-DD UU:MM
+date de fin invalide : AAAA-MM-JJ ou AAAA-MM-JJ HH:MM	ongeldige einddatum: JJJJ-MM-DD of JJJJ-MM-DD UU:MM
+rien à exporter : lancez d'abord une recherche	niets om te exporteren: voer eerst een zoekopdracht uit
+{} × {} ({} récupérables)	{} × {} ({} terug te winnen)
+original introuvable : {}	origineel niet gevonden: {}
+l'original a changé depuis l'analyse : relancez l'analyse	het origineel is gewijzigd sinds de analyse: voer de analyse opnieuw uit
+refus d'agir sur le processus système (PID ≤ 1)	handeling op het systeemproces (PID ≤ 1) geweigerd
+refus d'agir sur l'application elle-même	handeling op de toepassing zelf geweigerd
+le processus {} n'existe plus	proces {} bestaat niet meer
+le PID {} désigne maintenant « {} » et non « {} » : actualisez la liste	PID {} verwijst nu naar “{}” en niet naar “{}”: vernieuw de lijst
+refus d'agir sur un thread du noyau	handeling op een kernelthread geweigerd
+priorité hors limites (-20 à 19) : {}	prioriteit buiten bereik (-20 tot 19): {}
+aucun paquet sélectionné	geen pakket geselecteerd
+{} : à jour	{}: bijgewerkt
+{} : échec — {}	{}: mislukt — {}
+Snap : à jour	Snap: bijgewerkt
+Flatpak : à jour	Flatpak: bijgewerkt
+aucune mise à jour à appliquer	geen update om toe te passen
+chemin introuvable : {}	pad niet gevonden: {}
+chemin refusé (hors de /opt)	pad geweigerd (buiten /opt)
+entrée de bureau hors des dossiers autorisés	bureaubladitem buiten de toegestane mappen
+entrée supprimée : {}	item verwijderd: {}
+chemin hors du dossier personnel	pad buiten de persoonlijke map
+supprimé : {}	verwijderd: {}
+Connexion SSH de root	Root-aanmelding via SSH
+Authentification par mot de passe SSH	SSH-wachtwoordauthenticatie
+Serveur SSH absent	SSH-server ontbreekt
+Aucun /etc/ssh/sshd_config : rien à vérifier.	Geen /etc/ssh/sshd_config: niets te controleren.
+Le pare-feu système est démarré.	De systeemfirewall is gestart.
+Aucune règle de filtrage n'est appliquée au démarrage.	Bij het opstarten wordt geen filterregel toegepast.
+Pare-feu non détecté	Firewall niet gedetecteerd
+Ni ufw ni firewalld ne sont installés.	Noch ufw noch firewalld is geïnstalleerd.
+Mises à jour automatiques	Automatische updates
+unattended-upgrades est installé.	unattended-upgrades is geïnstalleerd.
+unattended-upgrades absent : les correctifs de sécurité attendent une action manuelle.	unattended-upgrades ontbreekt: beveiligingsfixes wachten op handmatige actie.
+{} binaires avec le bit setuid dans /usr/bin et /usr/sbin.	{} programma's met setuid-bit in /usr/bin en /usr/sbin.
+{} sockets TCP/UDP en écoute.	{} TCP/UDP-sockets luisteren.
+Activé.	Ingeschakeld.
+Désactivé.	Uitgeschakeld.
+Non applicable (démarrage BIOS ou variables EFI illisibles).	Niet van toepassing (BIOS-opstart of onleesbare EFI-variabelen).
+Module non monté.	Module niet gekoppeld.
+Normal	Normaal
+Utilisée	Gebruikt
+Disponible	Beschikbaar
+Total	Totaal
+Maintenant	Nu
+il y a {} s	{} s geleden
+il y a {} min	{} min geleden
+Utilisation du processeur	Processorgebruik
+Utilisation de la mémoire	Geheugengebruik
+Processus principaux	Topprocessen
+Système sain	Systeem gezond
+Tous les services sont actifs	Alle services actief
+Attention requise	Aandacht vereist
+Seuils dépassés	Drempels overschreden
+{} services en échec	{} mislukte services
+{} cœurs	{} kernen
+consomme {} % du processeur	gebruikt {} % van de processor
+outil légitime souvent détourné : vérifiez que vous l'avez bien installé vous-même	legitiem hulpmiddel dat vaak wordt misbruikt: controleer of u het zelf hebt geïnstalleerd
+Processus examinés : {} (exécutable lisible pour {} ; les processus d'autres utilisateurs ne sont jugés que sur leur nom et leur ligne de commande)	Onderzochte processen: {} (uitvoerbaar bestand leesbaar voor {}; processen van andere gebruikers worden alleen beoordeeld op naam en opdrachtregel)
+Connexions réseau : {}	Netwerkverbindingen: {}
+Scripts de démarrage et planifications : {}	Opstartscripts en planningen: {}
+Entrées de fichiers parcourues : {} (dossiers temporaires et dossier personnel, profondeur limitée){}	Doorzochte bestandsitems: {} (tijdelijke mappen en privémap, beperkte diepte){}
+Vérifié : processus, réseau, persistance, fichiers exécutables/setuid, comptes, outils à double usage.	Gecontroleerd: processen, netwerk, persistentie, uitvoerbare/setuid-bestanden, accounts, tools met dubbel gebruik.
+Non vérifié : contenu des fichiers (hors scripts de démarrage), mémoire, noyau, firmware.	Niet gecontroleerd: bestandsinhoud (behalve opstartscripts), geheugen, kernel, firmware.
+Activer zram	zram inschakelen
+Activer zram…	zram inschakelen…
+Désactiver zram	zram uitschakelen
+Désactiver zram…	zram uitschakelen…
+Échange compressé (zram)	Gecomprimeerde wisselruimte (zram)
+Le module zram est chargé et systemd-zram-setup@zram0.service démarré : une zone d'échange compressée en RAM sera créée.	De zram-module wordt geladen en systemd-zram-setup@zram0.service gestart: er wordt een gecomprimeerd wisselgebied in het RAM aangemaakt.
+Le périphérique /dev/zram0 sera retiré et le module déchargé. La mémoire compressée qu'il contient est perdue.	Het apparaat /dev/zram0 wordt verwijderd en de module uitgeladen. De opgeslagen gecomprimeerde gegevens gaan verloren.
+Résolveurs proposés	Voorgestelde resolvers
+Serveur DNS	DNS-server
+Appliquer le DNS…	DNS toepassen…
+Hôtes (/etc/hosts)	Hosts (/etc/hosts)
+Nom d'hôte	Hostnaam
+Retirer un hôte	Een host verwijderen
+l'entrée sera retirée de /etc/hosts	de regel wordt uit /etc/hosts verwijderd
+RÈGLES DE SEUIL	DREMPELREGELS
+Aucune règle de seuil.	Geen drempelregel.
+Ajouter la règle	Regel toevoegen
+Notification de bureau	Bureaubladmelding
+Les règles sont vérifiées toutes les 30 secondes tant que l'application est ouverte. Une même règle ne notifie qu'une fois par dix minutes.	De regels worden elke 30 seconden gecontroleerd zolang de toepassing open is. Een regel meldt hoogstens één keer per tien minuten.
+MONTER UN PARTAGE À LA DEMANDE	EEN DELING OP VERZOEK KOPPELEN
+Monter un partage réseau	Een netwerkdeling koppelen
+Partage	Deling
+Point de montage	Koppelpunt
+via Polkit	via Polkit
+Le point de montage est créé si nécessaire. Le montage n'est pas ajouté à /etc/fstab.	Het koppelpunt wordt zo nodig aangemaakt. De koppeling wordt niet aan /etc/fstab toegevoegd.
+Alternative	Alternatief
+Chemin du binaire	Pad van het programma
+Définir l'alternative	Alternatief instellen
+{}–{} sur {}	{}–{} van {}
+Précédent	Vorige
+Suivant	Volgende

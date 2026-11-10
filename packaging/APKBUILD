@@ -1,0 +1,24 @@
+# Contributor: OrbiSys <noreply@example.com>
+pkgname=orbisys
+pkgver=1.0.0
+pkgrel=0
+pkgdesc="Gestionnaire de système pour Ubuntu"
+url="https://github.com/aelharrak/orbisys"
+arch="x86_64 aarch64"
+license="MIT"
+makedepends="cargo rust"
+depends="polkit"
+source="$pkgname-$pkgver.tar.gz::$url/archive/v$pkgver.tar.gz"
+builddir="$srcdir/$pkgname-$pkgver"
+
+build() {
+	cd "$builddir/rust/orbisys"
+	cargo build --release --offline
+}
+
+package() {
+	cd "$builddir/rust/orbisys"
+	install -Dm0755 target/release/orbisys "$pkgdir/usr/bin/orbisys"
+	install -Dm0644 packaging/orbisys.desktop "$pkgdir/usr/share/applications/orbisys.desktop"
+	install -Dm0644 packaging/orbisys.svg "$pkgdir/usr/share/icons/hicolor/scalable/apps/orbisys.svg"
+}

@@ -1,0 +1,208 @@
+# Traductions de l'interface (clé<TAB>texte). Les clés absentes se replient sur l'anglais.
+nav.monitoring	监控
+nav.software	软件
+nav.storage	存储
+nav.kernel	系统与内核
+nav.volumes	卷与加密
+nav.peripherals	外围设备
+nav.desktop	桌面
+nav.automation	自动化
+nav.system	系统
+nav.network	网络
+nav.security	安全
+nav.locale	字体与区域
+nav.optimize	优化
+nav.snapshots	快照与归档
+nav.app	应用程序
+app.search	搜索…
+app.refresh	刷新
+app.theme	主题
+app.search_hint	全局搜索：Ctrl+K
+app.busy	读取中
+app.version	版本
+about.distribution	发行版
+about.kernel	内核
+about.manager	包管理器
+about.native	原生软件包
+about.accent	强调色
+about.language	语言
+about.missing	缺少的可选工具
+about.all_present	所有可选工具均已具备。
+about.policy	特权操作通过 Polkit 执行；任何命令都不会经由 shell 运行。
+about.active	已启用
+about.available	可用
+about.missing_short	缺失
+ui.loading	读取中…
+ui.filter	筛选
+ui.reload	重新加载
+ui.empty	没有可显示的内容。
+ui.nomatch	此筛选条件没有结果。
+ui.close	关闭
+ui.charts	图表
+ui.select_process_hint	在列表中选择一个进程以跟踪其处理器和内存。
+page.dashboard	仪表盘
+page.software	清单与卸载
+page.updates	更新
+page.disk	磁盘用量
+page.storage	存储与分区
+page.duplicates	重复文件
+page.cleanup	清理
+page.backup	备份与恢复
+page.kernel	系统与内核
+page.volumes	卷与加密
+page.peripherals	打印机与音频
+page.printers	高级打印机
+page.fonts	字体详情
+page.quotas	磁盘配额
+page.btrfs	Btrfs 快照
+page.cis	CIS 审计
+page.orphans	孤立软件包
+page.perf	性能配置
+page.klogs	内核日志
+page.sessions	会话与用户
+page.netmounts	网络挂载
+page.timers	systemd 备份
+page.desktop	GNOME 桌面
+page.automation	自动化
+page.processes	进程
+page.services	服务
+page.logs	日志
+page.logadvanced	高级日志
+page.customunits	自定义服务
+page.hardware	硬件
+page.network	网络与共享
+page.netadvanced	高级网络
+page.firewall	防火墙与 VPN
+page.security	安全审计
+page.reports	报告
+page.locale	字体与区域
+page.optimize	优化
+page.snapshots	快照与归档
+page.about	关于
+page.monitor	实时监控
+page.alerts	警报
+page.health	系统健康
+page.history	历史与趋势
+page.delivery	报告发送
+page.benchmark	基准测试
+page.aptrepos	APT 软件源
+page.advpackages	高级软件包
+page.runtimes	运行时与语言
+page.containers	容器
+page.containersadv	高级容器
+page.startup	启动
+page.actionlog	操作日志
+page.maintenance	维护
+page.troubleshoot	故障排除
+page.profiles	配置文件
+page.users	用户
+page.advcleanup	高级清理
+page.mounts	挂载
+page.usbboot	启动 U 盘
+page.archives	归档
+page.traffic	网络流量
+page.lan	局域网
+page.sshgpg	SSH 与 GPG 密钥
+page.certs	证书与 CA
+page.secureboot	安全启动
+page.apparmor	AppArmor / SELinux
+page.integrity	完整性
+page.acl	ACL 与权限
+page.bluetooth	蓝牙与 USB
+page.power	电源与电池
+page.fans	风扇与传感器
+page.cloudbackup	云备份
+page.schedule	计划报告
+page.wifivpn	Wi-Fi 与 VPN
+page.firmware	固件
+page.btrfsmaint	Btrfs 维护
+page.dotfiles	点文件
+page.scan	异常行为扫描
+about.font_missing	未找到适用于此语言的字体：请安装“fonts-noto-cjk”（日语、韩语、中文）或“fonts-dejavu”（阿拉伯语）。
+hint.printers	队列、卡住的任务、驱动程序和 CUPS 共享。
+hint.fonts	已安装的字体族、fontconfig 替换、缓存与安装。
+hint.quotas	用户和组配额、阈值与启用。
+hint.btrfs	子卷、快照的创建与删除。
+hint.cis	加固检查、分类评分与修复建议。
+hint.orphans	不再需要的依赖和待清除的残留配置。
+hint.perf	CPU 调速器、交换分区、THP 与延迟设置。
+hint.klogs	已分类的 dmesg：硬件错误、OOM、存储和启动。
+hint.sessions	活动会话、最近登录与账户锁定。
+hint.netmounts	NFS 与 CIFS：fstab、状态、挂载与服务器探测。
+hint.timers	定时器、备份单元、最近运行与失败。
+hint.dashboard	电脑概览，自动刷新。
+hint.software	所有已安装的内容，涵盖全部来源。
+hint.updates	通过原生包管理器提供的更新。
+hint.disk	已挂载文件系统的占用情况。
+hint.storage	设备、挂载、Btrfs 与 Timeshift 快照。
+hint.duplicates	通过校验和比对的相同文件。
+hint.cleanup	清理前先测量大小的清理目标。
+hint.backup	软件清单、rsync 复制、点文件与 GRUB。
+hint.kernel	内核设置、交换分区、已安装的内核与驱动。
+hint.volumes	LVM 组与卷、LUKS 设备、挂载。
+hint.peripherals	CUPS 打印队列、音频输出与输入。
+hint.desktop	主题、图标、字体、扩展与快捷键。
+hint.automation	cron 任务与 systemd 定时器。
+hint.processes	按 CPU 使用率排序的进程。
+hint.services	systemd 单元与需确认的操作。
+hint.logs	按单元和级别筛选的 systemd 日志。
+hint.logadvanced	多单元搜索、日期范围与重复出现的错误。
+hint.customunits	编写、安装并控制您自己的 systemd 单元。
+hint.hardware	CPU、内存、板卡、电池与传感器。
+hint.network	网络接口、Wi-Fi、DNS、SSH 与共享。
+hint.netadvanced	路由、DNS、VPN、Samba 与连通性诊断。
+hint.firewall	UFW 规则与 VPN 隧道。
+hint.security	只读检查，不做任何更改。
+hint.reports	导出为 TXT、CSV、JSON 和 PDF。
+hint.locale	系统语言、时区与字体。
+hint.optimize	TRIM、CPU 调速器、内存与启动。
+hint.snapshots	Timeshift、远程备份与归档校验。
+hint.about	版本、检测到的工具、许可证。
+hint.monitor	CPU、内存、网络与磁盘，持续刷新。
+hint.alerts	CPU、内存、磁盘和温度的阈值及通知。
+hint.health	由各项检查得出的总评分，并可导出报告。
+hint.history	随时间变化的测量值、曲线与 CSV 导出。
+hint.delivery	通过 Webhook 或电子邮件发送状态报告。
+hint.benchmark	简单测量：CPU、内存和磁盘。
+hint.aptrepos	软件源：启用、停用、删除、刷新索引。
+hint.advpackages	版本锁定、降级与 dpkg 历史。
+hint.runtimes	已安装的语言版本与系统备选项。
+hint.containers	Docker、Podman 与 LXD 实例：启动、停止、删除。
+hint.containersadv	镜像、卷与网络，支持定向清理。
+hint.startup	会话应用、电源配置与启动分析。
+hint.actionlog	带时间戳的操作历史、CSV 导出与清除。
+hint.maintenance	可用工具与需特权的维护任务。
+hint.troubleshoot	自动诊断与建议。
+hint.profiles	预设的工作站配置，可批量安装。
+hint.users	本地账户、sudo 组与锁定。
+hint.advcleanup	应用缓存、Flatpak、容器与旧的 Snap 版本。
+hint.mounts	活动挂载点、/etc/fstab 与 SSD TRIM。
+hint.usbboot	将 ISO 镜像写入可移动设备。
+hint.archives	列出、创建和解压归档。
+hint.traffic	按进程的连接和按接口的计数。
+hint.lan	网络主机发现（nmap 或 ARP 表）。
+hint.sshgpg	用户密钥、SSH 密钥生成与公钥复制。
+hint.certs	本地证书颁发机构：添加、删除与到期日期。
+hint.secureboot	安全启动状态与已登记的 MOK 密钥。
+hint.apparmor	已加载的配置文件、complain/enforce 切换与 SELinux 模式。
+hint.integrity	检查被修改的软件包文件（dpkg -V、debsums）。
+hint.acl	查看权限并管理访问控制列表。
+hint.bluetooth	已配对的设备、连接与 USB 设备。
+hint.power	电池、充电循环与电源配置。
+hint.fans	风扇转速与温度（只读）。
+hint.cloudbackup	将文件夹同步到 rclone 远端，支持模拟运行。
+hint.schedule	用户级 systemd 定时器：每日、每周或每月报告。
+hint.wifivpn	Wi-Fi 无线、检测到的网络、VPN 连接与配置导入。
+hint.firmware	通过 fwupd 更新固件。
+hint.btrfsmaint	Btrfs 文件系统的校验、用量与平衡。
+hint.dotfiles	备份并恢复个人配置文件。
+hint.scan	对进程、网络、启动项和文件进行启发式分析，找出异常之处。
+group.processes	进程与监控
+group.reports	报告与历史
+group.disks	磁盘
+group.backups	备份
+group.audit	审计与完整性
+group.keys	密钥与证书
+group.protections	系统防护
+group.packages	软件包与更新
+group.peripherals	外围设备

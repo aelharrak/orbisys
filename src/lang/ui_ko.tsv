@@ -1,0 +1,1317 @@
+# Libellés des rubriques génériques (texte français<TAB>traduction). Les absents se replient sur l'anglais.
+ACL modifiée	ACL 변경됨
+ACL retirées	ACL 제거됨
+Action	작업
+Activer	활성화
+Activer le Wi-Fi	Wi-Fi 켜기
+Actives	활성
+Administrateurs	관리자
+Adresse	주소
+Adresse IP	IP 주소
+Adresse MAC	MAC 주소
+Afficher les ACL	ACL 표시
+Ajouter	추가
+Ajouter à sudo	sudo에 추가
+Alertes actives	활성 경고
+Algo	알고리즘
+Allumé depuis	가동 시간
+Alternatives système (update-alternatives)	시스템 대체 항목(update-alternatives)
+Anciennes révisions Snap	오래된 Snap 리비전
+Anomalie	이상 항목
+Appareil	장치
+Appareils	장치
+Appareils Bluetooth	Bluetooth 장치
+Appareils reconnus	인식된 장치
+Applications au démarrage	시작 프로그램
+Appliquer	적용
+Archive	아카이브
+Archives trouvées	발견된 아카이브
+Arrêter	중지
+Autorités de certification locales	로컬 인증 기관
+Autre dossier	다른 폴더
+Autres nettoyages	기타 정리
+Batterie	배터리
+Batteries	배터리
+Bluetooth (appairés)	Bluetooth(페어링됨)
+CA locales	로컬 CA
+Cache	캐시
+Caches applicatifs	애플리케이션 캐시
+Caches récupérables	회수 가능한 캐시
+Certificat	인증서
+Certificat ajouté	인증서 추가됨
+Charge	부하
+Chaîne critique	크리티컬 체인
+Chemin	경로
+Chemin distant	원격 경로
+Choix actuel	현재 선택
+Cible	대상
+Clé générée	키 생성됨
+Clés GPG	GPG 키
+Clés SSH	SSH 키
+Clés SSH (~/.ssh)	SSH 키(~/.ssh)
+Commande	명령
+Commentaire	설명
+Compte	계정
+Comptes	계정
+Comptes locaux	로컬 계정
+Configuration actuelle	현재 설정
+Confirmation	확인
+Connecter	연결
+Connexions	연결
+Connexions VPN	VPN 연결
+Connexions établies	수립된 연결
+Connexions établies par processus	프로세스별 수립된 연결
+Conseil	조언
+Conteneurs	컨테이너
+Contenu	내용
+Contrôle	점검
+Contrôles	점검 항목
+Copier la clé publique	공개 키 복사
+Création	생성일
+Création de l'archive	아카이브 만드는 중
+Créer	만들기
+Créer une archive	아카이브 만들기
+Cycles	주기
+Date	날짜
+Dernières mesures	최근 측정값
+Destination	대상
+Diagnostic automatique	자동 진단
+Disque	디스크
+Disque (écriture)	디스크(쓰기)
+Disque moyen	디스크 평균
+Disques	디스크
+Disques amovibles détectés	감지된 이동식 디스크
+Distant	원격
+Dossier	폴더
+Dossier local	로컬 폴더
+Droits	권한
+Durée	소요 시간
+Déconnecter	연결 끊기
+Définir une ACL utilisateur	사용자 ACL 설정
+Démarrage	시작
+Démarrer	시작
+Démonter	마운트 해제
+Dépôt	저장소
+Désactiver	비활성화
+Désactiver le Wi-Fi	Wi-Fi 끄기
+Détail	상세
+Détail des connexions	연결 상세
+Déverrouiller	잠금 해제
+Effacer l'historique	기록 지우기
+Empreinte	지문
+En cours	실행 중
+En enforce	enforce 모드
+Enregistrer	저장
+Enregistrer le graphe (SVG)	그래프 저장(SVG)
+Enregistrer les seuils	임계값 저장
+Enregistrer une mesure	측정 기록
+Entrées	항목
+Envoyer un test	테스트 전송
+Expiration	만료
+Exporter en CSV	CSV로 내보내기
+Exporter le rapport	보고서 내보내기
+Extraction	압축 풀기
+Extraire	풀기
+Fabricant	제조사
+Fichier	파일
+Fichiers détectés	감지된 파일
+Fichiers modifiés	변경된 파일
+Fréquence	빈도
+Générer	생성
+Historique des actions	작업 기록
+Hors configuration	설정 외
+Hôtes	호스트
+Hôtes du réseau local	로컬 네트워크 호스트
+Identifiant	식별자
+Identité	신원
+Illisibles (droits)	읽을 수 없음(권한)
+Image	이미지
+Image ISO	ISO 이미지
+Images	이미지
+Import VPN	VPN 가져오기
+Importer	가져오기
+Indicateur	지표
+Installés	설치됨
+Instances LXD	LXD 인스턴스
+Interface	인터페이스
+Lancer	실행
+Lancer maintenant	지금 실행
+Lancer un scrub	스크럽 시작
+Langage	언어
+Langages	언어
+Lecture	읽기
+Lecture seule.	읽기 전용.
+Livraison	전송
+Local	로컬
+Mesures	측정값
+Mise à jour possible	업데이트 가능
+Mises à jour	업데이트
+Mises à jour disponibles	사용 가능한 업데이트
+Mode	모드
+Mode de démarrage	부팅 모드
+Modèle	모델
+Montage	마운트
+Montages actifs	활성 마운트
+Montages btrfs	btrfs 마운트
+Moteur	엔진
+Mémoire	메모리
+Mémoire (écriture)	메모리(쓰기)
+Mémoire moyenne	메모리 평균
+Méthode	방법
+Nature	종류
+Nettoyage complet	전체 정리
+Nettoyer	정리
+Nettoyer les données conteneurs	컨테이너 데이터 정리
+Nom	이름
+Nom du fichier	파일 이름
+Notifier maintenant	지금 알림
+Occupation	사용률
+Options	옵션
+Origine	출처
+Outil	도구
+Outils	도구
+Paquet	패키지
+Paquets verrouillés	고정된 패키지
+Passer en enforcing	enforcing으로 전환
+Passer en permissive	permissive로 전환
+Pilote	드라이버
+Planification	예약
+Planifier	예약하기
+Points de montage actifs	활성 마운트 지점
+Ports en écoute	수신 대기 포트
+Problèmes	문제
+Processeur	프로세서
+Processus	프로세스
+Prochaine exécution	다음 실행
+Profil	프로필
+Profil d'alimentation	전원 프로필
+Profil d'énergie	전원 프로필
+Profils AppArmor	AppArmor 프로필
+Profils chargés	로드된 프로필
+Profils de poste	작업 환경 프로필
+Protocole	프로토콜
+Puce	칩
+Purger le journal	로그 비우기
+Purger les images orphelines	사용하지 않는 이미지 정리
+Purger les volumes inutilisés	사용하지 않는 볼륨 정리
+Périphérique	장치
+Périphériques USB	USB 장치
+Périphériques amovibles	이동식 장치
+Radio Wi-Fi	Wi-Fi 무선
+Rafraîchir les métadonnées	메타데이터 새로 고침
+Rapport périodique	정기 보고서
+Redémarrer	재시작
+Remotes	리모트
+Remotes rclone	rclone 리모트
+Restauration	복원
+Restaurer	복원
+Restaurer ce dossier	이 폴더 복원
+Retirer de sudo	sudo에서 제거
+Retirer les ACL	ACL 제거
+Reçu	수신
+Runtimes détectés	감지된 런타임
+Réception	수신
+Réseau	네트워크
+Réseaux	네트워크
+Réseaux détectés	감지된 네트워크
+Résultat	결과
+Rétrogradation	다운그레이드
+Rétrograder	다운그레이드
+Rétrograder un paquet	패키지 다운그레이드
+Révision	리비전
+Rôle	역할
+Santé batterie	배터리 상태
+Sauvegarder maintenant	지금 백업
+Sauvegardes trouvées (Documents/dotfiles*)	발견된 백업(Documents/dotfiles*)
+Score global	종합 점수
+Secteur	전원 어댑터
+Seuil	임계값
+Seuils	임계값
+Signal	신호
+Sonde	센서
+Sondes de température	온도 센서
+Source	소스
+Sources	소스
+Sources APT	APT 소스
+Sources de paquets	패키지 소스
+Suite / composants	스위트 / 구성 요소
+Sujet	주체
+Supprimer	삭제
+Supprimer la planification	예약 제거
+Supprimer les ACL	ACL 삭제
+Supprimer les paquets orphelins	고아 패키지 제거
+Synchroniser un dossier	폴더 동기화
+Systèmes btrfs	btrfs 파일 시스템
+Sécurité	보안
+TRIM des SSD (fstrim)	SSD TRIM(fstrim)
+Taille	크기
+Technologie	기술
+Température	온도
+Températures	온도
+Tendances (40 dernières mesures)	추세(최근 40회 측정)
+Tester la notification	알림 테스트
+Total reçu	총 수신량
+Total émis	총 송신량
+Trousseau GPG	GPG 키링
+Type	유형
+Tâches privilégiées	권한이 필요한 작업
+Unité	유닛
+Unités les plus lentes	가장 느린 유닛
+Utilisateur	사용자
+VPN configurés	설정된 VPN
+Valeur	값
+Ventilateur	팬
+Ventilateurs	팬
+Verrouillage	잠금
+Verrouiller	잠금
+Version actuelle	현재 버전
+Version proposée	제안된 버전
+Vider le cache APT	APT 캐시 비우기
+Vitesse	속도
+Écarts	차이
+Échange	스왑
+Échecs	실패
+Écrire sur la clé	드라이브에 쓰기
+Écrire une image	이미지 쓰기
+Écriture	쓰기
+Écriture de l'image	이미지 쓰는 중
+Émis	송신됨
+Émission	송신
+Énergie	전원
+Équilibrer (50 %)	밸런스(50 %)
+État	상태
+État du scrub	스크럽 상태
+URL ou adresse	URL 또는 주소
+adresse ou machine	주소 또는 컴퓨터
+nom exact	정확한 이름
+nom	이름
+nom du remote	리모트 이름
+retapez le périphérique	장치를 다시 입력
+simulation ou reel	simulation 또는 reel
+Aucun élément.	표시할 항목이 없습니다.
+Courbes en direct	실시간 차트
+Courbes	차트
+Débit réseau	네트워크 처리량
+Processeur et mémoire	프로세서와 메모리
+Processeur, mémoire et disque	프로세서, 메모리, 디스크
+Débits mesurés (Mio/s)	측정 처리량(MiB/s)
+Résultats	결과
+Constats	결과
+Constats par gravité	심각도별 결과
+Gravité	심각도
+Catégorie	범주
+Élément	항목
+Pourquoi	이유
+Couverture du scan	검사 범위
+Analyse antivirus (signatures)	바이러스 검사(시그니처)
+Quarantaine	격리
+Verdict	판정
+Élevées	높음
+Moyennes	중간
+Faibles	낮음
+Infos	정보
+Élevée	높음
+Moyenne	중간
+Faible	낮음
+Info	정보
+Persistance	지속성
+Fichiers	파일
+Logiciels	소프트웨어
+Aucun comportement anormal détecté	비정상 동작이 감지되지 않았습니다
+Quelques points suspects	의심스러운 항목이 몇 개 있습니다
+À examiner en priorité	우선 확인 필요
+Suspendre	일시 중지
+Terminer	종료
+Mettre l'exécutable en quarantaine	실행 파일 격리
+Mettre en quarantaine	격리
+Désactiver au démarrage	시작 시 비활성화
+Processus sélectionné	선택한 프로세스
+Analyser un fichier ou dossier	파일 또는 폴더 살펴보기
+Clés MOK enregistrées (lecture seule)	등록된 MOK 키(읽기 전용)
+Historique dpkg (60 derniers événements)	dpkg 기록(최근 60개 이벤트)
+Installer les mises à jour	업데이트 설치
+Mettre à jour le magasin	저장소 업데이트
+Mettre à jour les index	인덱스 새로 고침
+Ni Docker ni Podman n'est installé.	Docker도 Podman도 설치되어 있지 않습니다.
+Réduire les journaux (500 Mo)	로그 줄이기(500 MB)
+Réduire les journaux (7 jours)	로그 줄이기(7일)
+Supprimer les runtimes Flatpak inutilisés	사용하지 않는 Flatpak 런타임 제거
+Verrouillage de version (apt-mark hold)	버전 고정(apt-mark hold)
+Lecture seule : aucune donnée du système n'est modifiée.	읽기 전용: 시스템은 전혀 변경되지 않습니다.
+Applications lancées à l'ouverture de session	로그인 시 시작되는 애플리케이션
+Archives (dossier personnel et Téléchargements)	아카이브(홈 폴더와 다운로드)
+Aucun capteur renvoyé par lm-sensors : lancez « sensors-detect » pour les détecter.	lm-sensors가 센서를 반환하지 않았습니다. 'sensors-detect'를 실행해 감지하세요.
+Aucun réseau privé IPv4 détecté : seule la table ARP est affichée.	사설 IPv4 네트워크를 찾지 못했습니다. ARP 테이블만 표시합니다.
+Chaque action est confirmée ; celles qui touchent au système passent par Polkit.	모든 작업은 확인을 거치며, 시스템을 건드리는 작업은 Polkit을 거칩니다.
+Chaque tâche demande une confirmation puis l'authentification administrateur (Polkit).	각 작업은 확인을 요청한 뒤 관리자 인증(Polkit)을 요구합니다.
+Compteurs par interface (depuis le démarrage)	인터페이스별 카운터(부팅 이후)
+Couper la radio Wi-Fi ? La connexion sans fil sera perdue.	Wi-Fi 무선을 끄시겠습니까? 무선 연결이 끊어집니다.
+Crée une minuterie systemd utilisateur qui lance « orbisys report <dossier> » (TXT, CSV, JSON et PDF).	'orbisys report <폴더>'(TXT, CSV, JSON, PDF)를 실행하는 사용자 systemd 타이머를 만듭니다.
+Désactiver et supprimer la minuterie de rapport ?	보고서 타이머를 비활성화하고 제거하시겠습니까?
+Envoyer le rapport d'état à la destination configurée ?	상태 보고서를 설정된 대상으로 보내시겠습니까?
+Formats : .tar, .tar.gz, .tar.xz, .tar.bz2. L'archive ne doit pas exister.	형식: .tar, .tar.gz, .tar.xz, .tar.bz2. 아카이브가 이미 있으면 안 됩니다.
+Installer les mises à jour de firmware ? Un redémarrage peut être nécessaire et l'alimentation ne doit pas être coupée.	펌웨어 업데이트를 설치하시겠습니까? 재부팅이 필요할 수 있으며 전원을 끄면 안 됩니다.
+L'installation passe par apt-get et Polkit, après confirmation.	설치는 확인 후 apt-get과 Polkit을 거쳐 진행됩니다.
+La clé est créée sans phrase secrète ; ajoutez-en une avec « ssh-keygen -p -f <fichier> ».	키는 암호 없이 생성됩니다. 'ssh-keygen -p -f <파일>'로 추가하세요.
+Lancer fstrim -av sur les systèmes de fichiers compatibles ?	호환되는 파일 시스템에서 fstrim -av를 실행하시겠습니까?
+Le compte root n'est pas modifiable depuis cette page.	이 페이지에서는 root 계정을 변경할 수 없습니다.
+Le résultat s'affiche dans la zone de sortie en bas de l'écran.	결과는 화면 아래쪽 출력 영역에 표시됩니다.
+Le scan est limité au réseau privé local (préfixe /24 ou plus étroit) ; actualisez l'écran pour le relancer.	검사는 로컬 사설 네트워크(/24 이하)로 제한됩니다. 다시 실행하려면 화면을 다시 불러오세요.
+Les disques contenant le système (/, /boot, /home) ne sont jamais proposés.	시스템(/, /boot, /home)이 있는 디스크는 표시되지 않습니다.
+Les fichiers de configuration modifiés sont normaux ; un programme modifié mérite une vérification.	수정된 설정 파일은 정상이지만, 수정된 프로그램은 확인해 볼 필요가 있습니다.
+Les instantanés et sous-volumes se gèrent dans l'écran « Btrfs ». Les résultats s'affichent dans la zone de sortie.	스냅샷과 서브볼륨은 'Btrfs' 화면에서 관리합니다. 결과는 출력 영역에 표시됩니다.
+Les processus d'autres utilisateurs n'apparaissent qu'avec les droits administrateur.	다른 사용자의 프로세스는 관리자 권한이 있을 때만 표시됩니다.
+Les seuils sont conservés dans ~/.local/share/orbisys/alerts.json.	임계값은 ~/.local/share/orbisys/alerts.json에 저장됩니다.
+Mode « simulation » par défaut (rclone --dry-run) : rien n'est modifié. Le mode « reel » demande confirmation.	기본값은 'simulation' 모드(rclone --dry-run)로 아무것도 변경되지 않습니다. 'reel' 모드는 확인을 요청합니다.
+Opération destructrice : le périphérique cible est entièrement écrasé. Retapez son nom pour confirmer.	파괴적인 작업: 대상 장치가 완전히 덮어쓰기됩니다. 확인하려면 이름을 다시 입력하세요.
+Passer SELinux en mode enforcing (immédiat) ?	SELinux를 enforcing 모드로 전환하시겠습니까(즉시)?
+Passer SELinux en mode permissive (immédiat) ?	SELinux를 permissive 모드로 전환하시겠습니까(즉시)?
+Profils AppArmor illisibles : les droits administrateur sont requis (ou AppArmor est inactif).	AppArmor 프로필을 읽을 수 없습니다. 관리자 권한이 필요합니다(또는 AppArmor가 비활성 상태입니다).
+Supprimer conteneurs arrêtés, réseaux et images orphelines ?	중지된 컨테이너, 네트워크, 사용하지 않는 이미지를 제거하시겠습니까?
+Supprimer les journaux systemd de plus de 7 jours ?	7일보다 오래된 systemd 로그를 삭제하시겠습니까?
+Supprimer les runtimes Flatpak inutilisés ?	사용하지 않는 Flatpak 런타임을 제거하시겠습니까?
+Supprimer les volumes non utilisés (données perdues) ?	사용하지 않는 볼륨을 제거하시겠습니까(데이터가 사라집니다)?
+Supprimer toutes les mesures enregistrées ?	기록된 측정값을 모두 삭제하시겠습니까?
+Type « webhook » (HTTP POST, JSON) ou « email » (commande mail). Le rapport contient santé, mémoire, disque et charge.	'webhook'(HTTP POST, JSON) 또는 'email'(mail 명령)을 입력하세요. 보고서에는 상태, 메모리, 디스크, 부하가 포함됩니다.
+Utilisez `apt-cache policy <paquet>` pour connaître les versions disponibles.	`apt-cache policy <패키지>`로 사용 가능한 버전을 확인하세요.
+aa-complain / aa-enforce proviennent du paquet apparmor-utils.	aa-complain / aa-enforce는 apparmor-utils 패키지에 들어 있습니다.
+apt-get absent : cette rubrique concerne les systèmes Debian/Ubuntu.	apt-get을 찾을 수 없습니다. 이 섹션은 Debian/Ubuntu 시스템용입니다.
+bluetoothctl absent : installez le paquet « bluez » pour gérer le Bluetooth.	bluetoothctl을 찾을 수 없습니다. 블루투스를 관리하려면 'bluez' 패키지를 설치하세요.
+btrfs-progs absent : installez le paquet « btrfs-progs ».	btrfs-progs를 찾을 수 없습니다. 'btrfs-progs' 패키지를 설치하세요.
+dpkg absent : cette vérification concerne Debian/Ubuntu.	dpkg를 찾을 수 없습니다. 이 점검은 Debian/Ubuntu용입니다.
+fwupdmgr absent : installez le paquet « fwupd » pour gérer les mises à jour de firmware.	fwupdmgr를 찾을 수 없습니다. 펌웨어 업데이트를 관리하려면 'fwupd' 패키지를 설치하세요.
+lm-sensors absent : lecture directe de /sys/class/hwmon.	lm-sensors를 찾을 수 없습니다. /sys/class/hwmon을 직접 읽습니다.
+mokutil absent : installez le paquet « mokutil » pour lire l'état de Secure Boot.	mokutil을 찾을 수 없습니다. 보안 부팅 상태를 읽으려면 'mokutil' 패키지를 설치하세요.
+nmap absent : seule la table ARP du noyau est affichée.	nmap을 찾을 수 없습니다. 커널의 ARP 테이블만 표시합니다.
+nmcli absent : NetworkManager est requis pour gérer le Wi-Fi et les VPN.	nmcli를 찾을 수 없습니다. Wi-Fi와 VPN을 관리하려면 NetworkManager가 필요합니다.
+rclone absent : installez le paquet « rclone » puis configurez un remote avec « rclone config ».	rclone을 찾을 수 없습니다. 'rclone' 패키지를 설치한 뒤 'rclone config'로 리모트를 설정하세요.
+Valeur actuelle et seuil (trait)	현재 값과 임계값(선)
+Points perdus par contrôle (sur 100)	검사별 감점(100점 만점)
+Occupation des systèmes de fichiers (trait : 90 %)	파일 시스템 사용률(선: 90 %)
+Volume échangé par interface (reçu + émis)	인터페이스별 트래픽(수신 + 송신)
+Les 6 dernières minutes environ, actualisées toutes les 3 secondes.	최근 약 6분, 3초마다 새로 고침.
+Lancer ClamAV (Téléchargements et /tmp)	ClamAV 실행(다운로드 및 /tmp)
+Analyse heuristique en lecture seule, sans base de signatures : ce n'est pas un antivirus. Un constat est un indice à vérifier, pas une preuve.	읽기 전용 휴리스틱 분석이며 시그니처 데이터베이스가 없습니다. 백신이 아닙니다. 검사 결과는 확인해야 할 단서일 뿐 증거가 아닙니다.
+ClamAV est installé : l'analyse parcourt Téléchargements et /tmp et peut durer plusieurs minutes. Seuls les fichiers infectés sont listés.	ClamAV가 설치되어 있습니다. 다운로드와 /tmp를 검사하며 몇 분이 걸릴 수 있습니다. 감염된 파일만 표시됩니다.
+Pour une détection par signatures, installez ClamAV (paquet « clamav ») : ce scan pourra alors le lancer.	시그니처 기반 탐지를 하려면 ClamAV('clamav' 패키지)를 설치하세요. 그러면 이 검사에서 실행할 수 있습니다.
+Lancer une analyse ClamAV de Téléchargements et /tmp ? Cela peut prendre plusieurs minutes.	다운로드와 /tmp에 대해 ClamAV 검사를 실행하시겠습니까? 몇 분이 걸릴 수 있습니다.
+Processus les plus gourmands (processeur)	부하가 큰 프로세스(CPU)
+Processus les plus gourmands (mémoire)	부하가 큰 프로세스(메모리)
+Mémoire (% de la RAM)	메모리(RAM의 %)
+ (limite atteinte)	（한도 도달）
+ · santé {} %	 · 상태 {} %
+APPAREILS	장치
+APPARENCE	모양
+APPLIQUER UN QUOTA	쿼터 적용
+Actif	활성
+Activer au démarrage	시작 시 활성화
+Activer les quotas sur {}	{}의 쿼터 활성화
+Actualiser	새로 고침
+Analyse des paquets…	패키지 분석 중…
+Analyser	분석
+Analyser les erreurs (24 h)	오류 분석(24시간)
+Annuler	취소
+Aperçu de la suppression	제거 미리 보기
+Appareils, montages, Btrfs et instantanés	장치, 마운트, Btrfs, 스냅샷
+Apparence et extensions GNOME	GNOME 모양 및 확장 기능
+Appliquer THP	THP 적용
+Appliquer des paramètres noyau	커널 매개변수 적용
+Appliquer et persister…	적용 후 유지…
+Appliquer la priorité	우선순위 적용
+Appliquer le profil {}	프로필 {} 적용
+Appliquer les mises à jour	업데이트 적용
+Appliquer…	적용…
+Arrêter {}	{} 중지
+Arrêter…	중지…
+Aucun espace d'échange actif.	활성 스왑 영역이 없습니다.
+Aucun fichier de configuration détecté.	구성 파일이 없습니다.
+Aucun gestionnaire natif détecté	기본 패키지 관리자를 찾을 수 없습니다
+Aucun groupe de volumes LVM.	LVM 볼륨 그룹이 없습니다.
+Aucun instantané lisible (support non monté ou Timeshift non configuré).	읽을 수 있는 스냅샷이 없습니다(미디어가 마운트되지 않았거나 Timeshift가 구성되지 않음).
+Aucun minuteur systemd détecté.	systemd 타이머가 없습니다.
+Aucun montage NFS/CIFS déclaré ni actif.	선언되었거나 활성인 NFS/CIFS 마운트가 없습니다.
+Aucun montage ne déclare usrquota/grpquota/prjquota dans /etc/fstab.	/etc/fstab에서 usrquota/grpquota/prjquota를 선언한 마운트가 없습니다.
+Aucun paquet en état `rc`.	`rc` 상태의 패키지가 없습니다.
+Aucun partage Samba ou NFS configuré.	구성된 Samba 또는 NFS 공유가 없습니다.
+Aucun partage déclaré dans /etc/samba/smb.conf.	/etc/samba/smb.conf에 선언된 공유가 없습니다.
+Aucun raccourci personnalisé.	사용자 지정 단축키가 없습니다.
+Aucun système de fichiers Btrfs monté sur cette machine.	이 컴퓨터에 마운트된 Btrfs 파일 시스템이 없습니다.
+Aucun timer systemd.	systemd 타이머가 없습니다.
+Aucun travail en attente.	대기 중인 작업이 없습니다.
+Aucun volume chiffré ouvert. Les partitions LUKS fermées n'apparaissent pas ici.	열려 있는 암호화 볼륨이 없습니다. 닫힌 LUKS 파티션은 여기에 표시되지 않습니다.
+Aucun volume logique.	논리 볼륨이 없습니다.
+Aucune action enregistrée pour l'instant.	아직 기록된 작업이 없습니다.
+Aucune action enregistrée. Le fichier est créé au premier nettoyage ou à la première suppression.	기록된 작업이 없습니다. 첫 번째 정리 또는 삭제 시 파일이 만들어집니다.
+Aucune analyse lancée.	시작된 분석이 없습니다.
+Aucune analyse à exporter	내보낼 분석이 없습니다
+Aucune connexion VPN déclarée (NetworkManager/WireGuard).	선언된 VPN 연결이 없습니다(NetworkManager/WireGuard).
+Aucune dépendance à supprimer.	제거할 종속성이 없습니다.
+Aucune entrée : filtre “Erreurs” sur un système calme ?	항목이 없습니다. 조용한 시스템에서 "오류" 필터를 쓰고 있나요?
+Aucune entrée de quota (quotas non activés ou outil absent).	쿼터 항목이 없습니다(쿼터가 활성화되지 않았거나 도구가 없음).
+Aucune extension détectée.	확장 기능이 없습니다.
+Aucune famille ne correspond (fontconfig absent ?).	일치하는 글꼴 모음이 없습니다(fontconfig 없음?).
+Aucune imprimante CUPS détectée (lpstat indisponible ou liste vide).	CUPS 프린터를 찾을 수 없습니다(lpstat 사용 불가 또는 목록이 비어 있음).
+Aucune imprimante configurée.	구성된 프린터가 없습니다.
+Aucune mise à jour en attente.	대기 중인 업데이트가 없습니다.
+Aucune police détectée (fontconfig absent ?).	글꼴을 찾을 수 없습니다(fontconfig 없음?).
+Aucune recommandation (ubuntu-drivers absent ou matériel entièrement libre).	권장 항목이 없습니다(ubuntu-drivers 없음 또는 모든 하드웨어가 자유 드라이버).
+Aucune règle détaillée disponible (pare-feu inactif ou privilèges insuffisants).	사용할 수 있는 상세 규칙이 없습니다(방화벽 비활성 또는 권한 부족).
+Aucune session active lisible.	읽을 수 있는 활성 세션이 없습니다.
+Aucune tâche planifiée.	예약된 작업이 없습니다.
+Aucune unité contenant {}.	{}을(를) 포함하는 유닛이 없습니다.
+Aucune zone d'échange active.	활성 스왑 영역이 없습니다.
+Audit de durcissement	보안 강화 감사
+Audit en cours…	감사 진행 중…
+Autoriser	허용
+Avertissements	경고
+Bleu	파랑
+Boutons de fenêtre : {} · {} thème(s) · {} jeu(x) d'icônes · {} police(s)	창 버튼: {} · 테마 {}개 · 아이콘 세트 {}개 · 글꼴 {}개
+COMPTES	계정
+CONFIGURATIONS RÉSIDUELLES	잔여 구성
+CONNEXIONS ({})	연결 ({})
+CONSOMMATION	사용량
+COPIE RSYNC	RSYNC 복사
+CRONTAB UTILISATEUR	사용자 CRONTAB
+CRÉER UN INSTANTANÉ	스냅샷 만들기
+CUPS n'est pas installé : aucun pilote d'impression actif.	CUPS가 설치되어 있지 않습니다. 활성 인쇄 드라이버가 없습니다.
+Cache : {} fichier(s), {} — {}	캐시: 파일 {}개, {} — {}
+Capteurs	센서
+Cartes graphiques	그래픽 카드
+Ces valeurs seront écrites dans /etc/sysctl.d/99-orbisys.conf et appliquées immédiatement (Polkit) :\n{}	이 값은 /etc/sysctl.d/99-orbisys.conf에 기록되고 즉시 적용됩니다(Polkit):\n{}
+Changer la locale du système	시스템 로캘 변경
+Changer le fuseau horaire	시간대 변경
+Changer le gouverneur CPU	CPU 거버너 변경
+Chaque cible est mesurée avant action ; les cibles système demandent Polkit.	각 대상은 작업 전에 측정되며, 시스템 대상은 Polkit이 필요합니다.
+Charger	불러오기
+Chemins absolus, sans `..` ; la destination ne doit pas exister.	절대 경로, `..` 없이. 대상은 존재하지 않아야 합니다.
+Châssis	섀시
+Clavier (console)	키보드(콘솔)
+Cliquez sur le nom d'un processus pour le sélectionner.	프로세스 이름을 클릭하여 선택하세요.
+Comparaison par taille puis empreinte des 64 premiers Kio. Dossiers techniques ignorés (.git, node_modules, target, .cache, snap).	크기로 비교한 다음 처음 64 KiB의 지문을 비교합니다. 기술 폴더(.git, node_modules, target, .cache, snap)는 무시됩니다.
+Composants et capteurs, en lecture seule	구성 요소 및 센서(읽기 전용)
+Confirmer	확인
+Confirmer la suppression	제거 확인
+Connexion sans mot de passe interactif (BatchMode) : une clé SSH doit être en place.	대화형 비밀번호 없는 연결(BatchMode): SSH 키가 있어야 합니다.
+Conservation	보존
+Contrôles en lecture seule : rien n'est modifié par cet écran.	읽기 전용 검사입니다. 이 화면은 아무것도 변경하지 않습니다.
+Copie en mode miroir	미러 모드 복사
+Copier…	복사…
+Créer un instantané	스냅샷 만들기
+Créer un volume logique	논리 볼륨 만들기
+Créer…	만들기…
+Cœurs	코어
+DERNIÈRES CONNEXIONS	최근 로그인
+DIAGNOSTIC	진단
+DISQUES ET TRIM	디스크 및 TRIM
+Depuis	시작
+Dernières actions	최근 작업
+Diagnostic complet	전체 진단
+Disque /	디스크 /
+Document PDF	PDF 문서
+Données JSON	JSON 데이터
+Dossier cible	대상 폴더
+Dure	하드
+DÉMARRAGES	부팅
+DÉPENDANCES INUTILES (AUTOREMOVE)	불필요한 종속성 (AUTOREMOVE)
+Délai d'attente	대기 시간
+Démonter un périphérique	장치 마운트 해제
+Démonter {}	{} 마운트 해제
+Démonter…	마운트 해제…
+Désactiver un minuteur	타이머 비활성화
+Désactiver une imprimante	프린터 비활성화
+Désactiver {}	{} 비활성화
+Désactiver…	비활성화…
+Désinstaller…	제거…
+Déverrouiller…	잠금 해제…
+ENTRÉES AUDIO	오디오 입력
+ERREURS RÉCURRENTES	반복되는 오류
+EXTENSIONS	확장 기능
+Emplacement	위치
+Entrée par défaut	기본 항목
+Erreurs	오류
+Export au format JSON (nom, version, source) puis réinstallation via APT, Snap et Flatpak.	JSON 형식(이름, 버전, 출처)으로 내보낸 뒤 APT, Snap, Flatpak으로 다시 설치합니다.
+Exporter	내보내기
+Exporter un instantané complet de la machine	컴퓨터의 전체 스냅샷 내보내기
+Exporter…	내보내기…
+Exporté : {}	내보냄: {}
+Fermer	닫기
+Fermer la session {}	세션 {} 종료
+Fermer un volume chiffré	암호화 볼륨 닫기
+Fermer…	닫기…
+Fichiers usuels uniquement : ~/.ssh est volontairement exclu.	일반적인 파일만 포함하며 ~/.ssh는 의도적으로 제외됩니다.
+Filtrer les services…	서비스 필터…
+Filtrer par nom, description ou section…	이름, 설명 또는 섹션으로 필터…
+Fond d'écran : {}	배경 화면: {}
+Forcer l'arrêt de	강제 중지:
+Forcer…	강제…
+Format : minute heure jour mois jour-semaine, ou @daily / @weekly / @reboot. La commande est exécutée par le shell de cron.	형식: 분 시 일 월 요일 또는 @daily / @weekly / @reboot. 명령은 cron 셸에서 실행됩니다.
+Formats acceptés : {} · destination : {}	허용 형식: {} · 대상: {}
+Fuseau	구역
+Fuseau horaire	시간대
+GROUPES DE VOLUMES	볼륨 그룹
+GRUB régénéré	GRUB 재생성됨
+Garder {} et supprimer {} copie(s) identique(s) ({} libérés) ?	{}을(를) 유지하고 동일한 사본 {}개를 삭제할까요? ({} 확보)
+Gouvernance : {} · pilote : {}	거버넌스: {} · 드라이버: {}
+Gouverneur	거버너
+Gouverneur {}, vm.swappiness={}, THP={} (polkit).	거버너 {}, vm.swappiness={}, THP={}(polkit).
+Horloge synchronisée	시계 동기화됨
+IMPRIMANTES	프린터
+IMPRIMANTES (CUPS)	프린터 (CUPS)
+INSTALLER UNE POLICE	글꼴 설치
+INSTANTANÉS TIMESHIFT	TIMESHIFT 스냅샷
+INTERFACES	인터페이스
+Imprimantes et audio	프린터 및 오디오
+Imprimantes et files CUPS	프린터 및 CUPS 대기열
+Inactif	비활성
+Installer un pilote	드라이버 설치
+Installer une police	글꼴 설치
+Installer {}	{} 설치
+Installer…	설치…
+Installés hors dépôts	저장소 밖에서 설치됨
+Instantanés et archives	스냅샷 및 아카이브
+Interfaces, DNS, SSH, partages et connexions	인터페이스, DNS, SSH, 공유 및 연결
+Journal des actions	작업 기록
+Journal exporté : {}	기록 내보냄: {}
+Journaux du noyau	커널 로그
+Jusqu'à	종료
+L'imprimante restera configurée mais n'acceptera plus de travaux.	프린터는 구성된 상태로 남지만 더 이상 작업을 받지 않습니다.
+L'imprimante sera retirée de CUPS (lpadmin -x). Cette action est irréversible.	프린터가 CUPS에서 제거됩니다(lpadmin -x). 이 작업은 되돌릴 수 없습니다.
+L'unité sera arrêtée, désactivée puis effacée du disque. Cette action est irréversible.	유닛이 중지되고 비활성화된 뒤 디스크에서 삭제됩니다. 이 작업은 되돌릴 수 없습니다.
+LANGUE ET FUSEAU DU SYSTÈME	시스템 언어 및 시간대
+LISTE DES LOGICIELS	소프트웨어 목록
+LVM et chiffrement LUKS	LVM 및 LUKS 암호화
+LVM n'est pas installé : la page reste informative.	LVM이 설치되어 있지 않습니다. 이 페이지는 정보 표시만 합니다.
+La règle sera retirée immédiatement.	규칙이 즉시 제거됩니다.
+La session de {} sur {} sera terminée immédiatement (loginctl, polkit).	{}의 {} 세션이 즉시 종료됩니다(loginctl, polkit).
+La simulation n'a rien renvoyé : la suppression peut être sans dépendance ou indisponible.	시뮬레이션 결과가 없습니다. 제거에 종속성이 없거나 사용할 수 없을 수 있습니다.
+La simulation utilise --dry-run : rien n'est écrit, rsync affiche ce qu'il ferait.	시뮬레이션은 --dry-run을 사용합니다. 아무것도 기록되지 않으며 rsync가 수행할 작업을 보여줍니다.
+Lancer un TRIM	TRIM 실행
+Lancer un TRIM maintenant…	지금 TRIM 실행…
+Langue de la session	세션 언어
+Langue du système	시스템 언어
+Langue, heure et polices	언어, 시간 및 글꼴
+Le fichier sera copié dans {} puis le cache fontconfig sera reconstruit (polkit).	파일을 {}에 복사한 다음 fontconfig 캐시를 다시 빌드합니다(polkit).
+Le fichier sera écrit dans {}/{} puis systemd sera rechargé (polkit).	파일을 {}/{}에 기록한 다음 systemd를 다시 불러옵니다(polkit).
+Le pilote {} sera installé pour {}. Un redémarrage peut être nécessaire.	{}용 드라이버 {}을(를) 설치합니다. 다시 시작해야 할 수 있습니다.
+Le rapport contient la distribution, les compteurs de logiciels, le stockage, la mémoire, le score de sécurité et les dernières actions.	보고서에는 배포판, 소프트웨어 수, 저장소, 메모리, 보안 점수 및 최근 작업이 포함됩니다.
+Le service ne démarrera plus automatiquement au prochain démarrage.	서비스가 다음 부팅 시 자동으로 시작되지 않습니다.
+Le service sera arrêté immédiatement.	서비스가 즉시 중지됩니다.
+Le service sera arrêté immédiatement. Les services qui en dépendent peuvent s'arrêter aussi.	서비스가 즉시 중지됩니다. 이에 의존하는 서비스도 중지될 수 있습니다.
+Le sous-volume sera définitivement supprimé (btrfs subvolume delete). Les données qu'il contient seront perdues.	서브볼륨이 영구 삭제됩니다(btrfs subvolume delete). 포함된 데이터는 사라집니다.
+Le timer ne déclenchera plus son unité jusqu'au prochain démarrage ou réactivation.	타이머는 다음 부팅 또는 재활성화 전까지 해당 유닛을 실행하지 않습니다.
+Le trafic correspondant sera bloqué.	해당 트래픽이 차단됩니다.
+Lecture de l'état…	상태 읽는 중…
+Lecture des instantanés…	스냅샷 읽는 중…
+Lecture des locales…	로캘 읽는 중…
+Lecture des montages…	마운트 읽는 중…
+Lecture des périphériques…	장치 읽는 중…
+Lecture des quotas…	쿼터 읽는 중…
+Lecture des réglages…	설정 읽는 중…
+Lecture des sessions…	세션 읽는 중…
+Lecture des sous-volumes…	서브볼륨 읽는 중…
+Lecture des timers…	타이머 읽는 중…
+Lecture des tâches…	작업 읽는 중…
+Lecture du journal noyau…	커널 로그 읽는 중…
+Lecture du réseau…	네트워크 읽는 중…
+Lecture en cours…	읽는 중…
+Les fichiers absents de la source seront supprimés de la destination.	원본에 없는 파일은 대상에서 삭제됩니다.
+Les logiciels listés dans {} seront installés (Polkit).\nVérifiez le fichier avant de continuer.	{}에 나열된 소프트웨어를 설치합니다(Polkit).\n계속하기 전에 파일을 확인하세요.
+Les programmes utilisant ce montage risquent de bloquer. Le système peut attendre la fin des accès avant de rendre la main.	이 마운트를 사용하는 프로그램이 멈출 수 있습니다. 시스템이 접근이 끝날 때까지 기다린 뒤 제어를 돌려줄 수 있습니다.
+Ligne de commande	명령줄
+Lignes	줄 수
+Lire	읽기
+Liste des logiciels, copie, dotfiles et GRUB	소프트웨어 목록, 복사, dotfiles 및 GRUB
+Locale	로캘
+MINUTEURS SYSTEMD	SYSTEMD 타이머
+MONTAGES	마운트
+Mesure indisponible (systemd-analyze absent).	측정할 수 없습니다(systemd-analyze 없음).
+Minuteur fstrim.timer : {}	fstrim.timer 타이머: {}
+Montages	마운트
+Montages réseau	네트워크 마운트
+Monter	마운트
+Monter {}	{} 마운트
+Monter…	마운트…
+Motif	패턴
+Muet	음소거
+MÉMOIRE	메모리
+NOM	이름
+NOYAUX INSTALLÉS	설치된 커널
+Nettoyer…	정리…
+Notice	알림
+Nouveau modèle	새 템플릿
+Nouveau volume	새 볼륨
+Nouvelle tâche	새 작업
+Noyau en cours : {}	실행 중인 커널: {}
+Noyau, swap et paramètres système	커널, 스왑 및 시스템 매개변수
+Noyaux	커널
+ORIGINE	출처
+Orange	주황
+PARAMÈTRES NOYAU (PERSISTANTS)	커널 매개변수(영구)
+PARTAGE	공유
+PARTAGES	공유
+PARTAGES SAMBA	SAMBA 공유
+PILOTES RECOMMANDÉS	권장 드라이버
+POLICES	글꼴
+PROCESSEUR	프로세서
+PROFILS	프로필
+Page, logiciel, service, processus…	페이지, 소프트웨어, 서비스, 프로세스…
+Pages sales	더티 페이지
+Paquets orphelins	고아 패키지
+Paquets à purger :\n{}\nLe noyau en cours et le plus récent sont toujours conservés.	제거할 패키지:\n{}\n실행 중인 커널과 최신 커널은 항상 유지됩니다.
+Par défaut	기본값
+Pare-feu UFW et tunnels VPN	UFW 방화벽 및 VPN 터널
+Passerelle	게이트웨이
+Police	글꼴
+Polices installées	설치된 글꼴
+Port 631 : {} · Browsing : {} · écoute globale : {}	포트 631: {} · Browsing: {} · 전역 수신: {}
+Port à autoriser ou refuser	허용 또는 거부할 포트
+Priorité	우선순위
+Processus les plus actifs	가장 활발한 프로세스
+Processus {} (PID {}) : {}.\nLes données non enregistrées de ce programme peuvent être perdues.	프로세스 {}(PID {}): {}.\n이 프로그램의 저장되지 않은 데이터가 손실될 수 있습니다.
+Profils de performance	성능 프로필
+Purger les configurations résiduelles	잔여 구성 제거
+Purger {} configuration(s)…	구성 {}개 제거…
+PÉRIPHÉRIQUES CHIFFRÉS (LUKS)	암호화된 장치 (LUKS)
+Quota pour {}	{}의 쿼터
+Quotas de disque	디스크 쿼터
+RACCOURCIS CLAVIER	키보드 단축키
+RAM disponible	사용 가능한 RAM
+RAM totale	전체 RAM
+Rapport texte	텍스트 보고서
+Rapport écrit : {}	보고서 저장됨: {}
+Recherche : {}	검색: {}
+Recherche : {} · {} entrée(s) /etc/hosts	검색: {} · /etc/hosts 항목 {}개
+Recherche dans le journal systemd	systemd 저널 검색
+Recherche globale	전역 검색
+Rechercher	검색
+Reconstruire le cache	캐시 다시 빌드
+Refuser…	거부…
+Relancer l'audit	감사 다시 실행
+Relire	다시 읽기
+Remesurer	다시 측정
+Reprendre	재개
+Rien à supprimer : seuls le noyau en cours et le plus récent sont conservés.	제거할 항목이 없습니다. 실행 중인 커널과 최신 커널만 유지됩니다.
+Rose	분홍
+RÈGLES	규칙
+RÉGLAGES INDIVIDUELS	개별 설정
+RÉSEAUX WI-FI	Wi-Fi 네트워크
+Régénérer GRUB	GRUB 재생성
+Régénérer la configuration…	구성 재생성…
+Réinstaller des logiciels	소프트웨어 다시 설치
+Réinstaller…	다시 설치…
+Réseau étendu	고급 네트워크
+Résoudre	확인
+Rétablir le son	소리 복원
+SAUVEGARDE DISTANTE (RSYNC/SSH)	원격 백업 (RSYNC/SSH)
+SERVEUR SSH	SSH 서버
+SERVICES LES PLUS LENTS AU DÉMARRAGE	시작 시 가장 느린 서비스
+SESSIONS ACTIVES	활성 세션
+SORTIES AUDIO	오디오 출력
+SOUS-VOLUMES	서브볼륨
+SUBSTITUTION FONTCONFIG	FONTCONFIG 대체
+Sans-serif : {} · monospace : {}	산세리프: {} · 고정폭: {}
+Sauvegarde distante	원격 백업
+Sauvegarder	백업
+Sauvegarder…	백업…
+Sauvegardes	백업
+Schéma clair/sombre	밝은/어두운 구성표
+Score {}/100	점수 {}/100
+Serveurs : {}	서버: {}
+Service NTP	NTP 서비스
+Sessions et comptes	세션 및 계정
+Seules les polices de {} peuvent être supprimées ; les polices des paquets sont protégées.	{}에 있는 글꼴만 삭제할 수 있으며, 패키지 글꼴은 보호됩니다.
+Simuler	시뮬레이션
+Snap / Flatpak	Snap / Flatpak
+Souple	소프트
+Sous-volumes et instantanés Btrfs	Btrfs 서브볼륨 및 스냅샷
+Statut	상태
+Supprimer des noyaux	커널 삭제
+Supprimer les copies	사본 삭제
+Supprimer les copies…	사본 삭제…
+Supprimer les dépendances inutiles	불필요한 종속성 제거
+Supprimer un volume logique	논리 볼륨 삭제
+Supprimer une imprimante	프린터 삭제
+Supprimer une police	글꼴 삭제
+Supprimer une tâche cron	cron 작업 삭제
+Supprimer {}	{} 삭제
+Supprimer {} ancien(s) noyau(x)…	오래된 커널 {}개 삭제…
+Supprimer {} dépendance(s)…	종속성 {}개 제거…
+Supprimer…	삭제…
+Swap utilisé	사용 중인 스왑
+Sélection : {} ({})	선택: {}({})
+TRAVAUX	작업
+TRIM non exposé	TRIM 미지원 표시
+TRIM pris en charge	TRIM 지원
+TRIM, processeur et mémoire	TRIM, 프로세서 및 메모리
+Tableau CSV	CSV 표
+Tester	테스트
+Tester la connexion	연결 테스트
+Thème GTK	GTK 테마
+Thème d'icônes	아이콘 테마
+Timers et unités de sauvegarde	타이머 및 백업 유닛
+Total mesuré : {}	측정 합계: {}
+Tous les travaux de cette imprimante seront annulés.	이 프린터의 모든 작업이 취소됩니다.
+Tous les travaux en attente pour cette imprimante seront annulés.	이 프린터의 대기 중인 모든 작업이 취소됩니다.
+Tout	전체
+Tout décocher	모두 선택 해제
+Tout mettre à jour…	모두 업데이트…
+Toutes les règles seront ignorées et les ports seront exposés.	모든 규칙이 무시되고 포트가 노출됩니다.
+Toutes sources	모든 출처
+Tâches planifiées	예약된 작업
+UNITÉS DE SAUVEGARDE	백업 유닛
+UTILISATEUR	사용자
+Unités	유닛
+Unités systemd personnalisées	사용자 지정 systemd 유닛
+VOLUMES LOGIQUES	논리 볼륨
+Valeurs écrites dans /etc/sysctl.d/99-orbisys.conf puis appliquées par sysctl -p.	값은 /etc/sysctl.d/99-orbisys.conf에 기록된 뒤 sysctl -p로 적용됩니다.
+Verrouiller…	잠금…
+Vert	초록
+Vider la file	대기열 비우기
+Vider la file de {}	{}의 대기열 비우기
+Violet	보라
+VÉRIFICATION D'ARCHIVE	아카이브 검증
+Vérifier	검증
+absent	없음
+actif	활성
+actif au démarrage	시작 시 활성
+activée	활성화됨
+analyse : {}	분석: {}
+annulation : {}	취소: {}
+apt-get autoremove --purge supprimera {} paquet(s) : {}	apt-get autoremove --purge가 패키지 {}개를 제거합니다: {}
+apt-get purge supprimera les fichiers de configuration de {} paquet(s) déjà désinstallés.	apt-get purge가 이미 제거된 패키지 {}개의 구성 파일을 삭제합니다.
+arrêté	중지됨
+aucun montage /	/ 마운트 없음
+aucune adresse IPv4	IPv4 주소 없음
+aucune batterie	배터리 없음
+audio : {}	오디오: {}
+bloqué	차단됨
+btrfs subvolume snapshot -r {} {} (lecture seule, polkit).	btrfs subvolume snapshot -r {} {} (읽기 전용, polkit).
+cache : {}	캐시: {}
+charge instantanée	순간 부하
+compte : {}	계정: {}
+connecté	연결됨
+cpupower absent : application du gouverneur impossible	cpupower가 없어 거버너를 적용할 수 없습니다
+cpupower absent : la gouvernance peut être lue mais pas modifiée.	cpupower가 없어 거버너를 읽을 수는 있지만 변경할 수 없습니다.
+cpupower frequency-set -g {} (polkit).	cpupower frequency-set -g {}(polkit).
+crontab n'est pas installé.	crontab이 설치되어 있지 않습니다.
+cryptsetup close {} : le volume sera verrouillé et devra être réouvert avec sa phrase secrète.	cryptsetup close {}: 볼륨이 잠기며 암호 문구로 다시 열어야 합니다.
+cupsdisable {} : les impressions en attente resteront bloquées.	cupsdisable {}: 대기 중인 인쇄 작업은 계속 차단됩니다.
+disponible	사용 가능
+disque rotatif	회전식 디스크
+dotfiles : {}	dotfiles: {}
+doublons : {}	중복 파일: {}
+dépassé	초과
+désactivée	비활성화됨
+en attente	대기 중
+en cours	사용 중
+export : {}	내보내기: {}
+export impossible : {}	내보낼 수 없음: {}
+extension : {}	확장 기능: {}
+facultatif	선택 사항
+fait	완료
+file : {}	대기열: {}
+filtrer	필터
+filtrer un contrôle	검사 필터
+filtrer un message	메시지 필터
+filtrer un point de montage	마운트 지점 필터
+filtrer un utilisateur	사용자 필터
+filtrer une famille	글꼴 모음 필터
+format : 22, 22/tcp ou 8080/udp	형식: 22, 22/tcp 또는 8080/udp
+fstrim -av parcourt tous les systèmes de fichiers montés et signale aux SSD les blocs libres. L'opération peut durer plusieurs minutes et n'efface aucune donnée.	fstrim -av는 마운트된 모든 파일 시스템을 순회하며 SSD에 빈 블록을 알립니다. 몇 분이 걸릴 수 있으며 데이터는 지워지지 않습니다.
+fuseau : {}	시간대: {}
+gouverneur : {}	거버너: {}
+groupe	그룹
+gsettings est absent : GNOME n'est pas le bureau actif.	gsettings가 없습니다. GNOME이 활성 데스크톱이 아닙니다.
+hôte ou adresse	호스트 또는 주소
+illimité	무제한
+imprimante : {}	프린터: {}
+inactif	비활성
+inconnu	알 수 없음
+installation : {}	설치: {}
+instantané	스냅샷
+instantané : {}	스냅샷: {}
+interfaces : {} · wireguard : {} · connexions actives : {}	인터페이스: {} · wireguard: {} · 활성 연결: {}
+inventaire non chargé	인벤토리가 로드되지 않았습니다
+journaux : {}	로그: {}
+lecture seule	읽기 전용
+lecture/écriture	읽기/쓰기
+liste exportée : {} ({} logiciels)	목록 내보냄: {} (소프트웨어 {}개)
+locale : {}	로캘: {}
+localectl set-locale LANG={} (Polkit).\nLa session en cours n'est pas modifiée ; la locale s'applique aux nouvelles sessions.	localectl set-locale LANG={}(Polkit).\n현재 세션은 변경되지 않으며 로캘은 새 세션에 적용됩니다.
+logiciel introuvable dans l'inventaire	인벤토리에서 소프트웨어를 찾을 수 없습니다
+lpadmin -x {} : la file et ses réglages seront supprimés.	lpadmin -x {}: 대기열과 해당 설정이 삭제됩니다.
+lvremove -f {}/{} : toutes les données de ce volume seront perdues.	lvremove -f {}/{}: 이 볼륨의 모든 데이터가 사라집니다.
+manuel	수동
+minuteur : {}	타이머: {}
+mode miroir (--delete)	미러 모드 (--delete)
+montage : {}	마운트: {}
+monté	마운트됨
+mount {} ({}:{}, polkit). Le serveur doit être joignable.	mount {}({}:{}, polkit). 서버에 접속할 수 있어야 합니다.
+nom de famille demandé	요청할 글꼴 모음 이름
+non	아니요
+non activé au démarrage	시작 시 활성화되지 않음
+non détectées	감지되지 않음
+non installé	설치되지 않음
+non listé	목록에 없음
+notables seulement	주요 항목만
+noyaux : {}	커널: {}
+ou en terminal : sudo {}	또는 터미널에서: sudo {}
+oui	예
+pactl est absent : serveur audio non détecté.	pactl이 없습니다. 오디오 서버를 감지하지 못했습니다.
+par défaut	기본값
+partage exposé sur le réseau	네트워크에 공유 노출됨
+partage non exposé	공유가 노출되지 않음
+pilote : {}	드라이버: {}
+ping : {}	ping: {}
+polices : {}	글꼴: {}
+processus : {}	프로세스: {}
+profil : {}	프로필: {}
+présent	있음
+purge : {}	제거: {}
+quota : {}	쿼터: {}
+quotaon activera les quotas déjà configurés sur ce montage.	quotaon은 이 마운트에 이미 구성된 쿼터를 활성화합니다.
+rsync -a {} → {}\nLes fichiers absents de la source ne sont pas supprimés sur la cible.	rsync -a {} → {}\n원본에 없는 파일은 대상에서 삭제되지 않습니다.
+rsync : {}	rsync: {}
+rsync distant : {}	원격 rsync: {}
+résolution : {}	확인: {}
+score {} %	점수 {} %
+session : {}	세션: {}
+substitution : {}	대체: {}
+suppression : {}	제거: {}
+suppression via le gestionnaire natif, confirmée par Polkit	기본 관리자를 통해 제거하며 Polkit으로 확인합니다
+swappiness : valeur entre 0 et 100 attendue	swappiness: 0에서 100 사이의 값이 필요합니다
+systemctl disable --now {} : les tâches planifiées de ce minuteur ne seront plus exécutées.	systemctl disable --now {}: 이 타이머의 예약 작업이 더 이상 실행되지 않습니다.
+taille minimale (Kio)	최소 크기(KiB)
+test serveur : {}	서버 테스트: {}
+timedatectl set-timezone {} (Polkit). Les horodatages des journaux existants restent inchangés.	timedatectl set-timezone {}(Polkit). 기존 로그의 타임스탬프는 변경되지 않습니다.
+timeout, refusé…	timeout, 거부됨…
+timer : {}	타이머: {}
+timer {}	타이머 {}
+udisksctl unmount -b {} : arrêter les applications qui l'utilisent.	udisksctl unmount -b {}: 이를 사용하는 애플리케이션을 중지하세요.
+unité (ex. nginx.service)	유닛(예: nginx.service)
+unités : {}	유닛: {}
+update-grub réécrit /boot/grub/grub.cfg. Une entrée manquante peut empêcher le démarrage : vérifiez les noyaux listés ci-dessus.	update-grub는 /boot/grub/grub.cfg를 다시 씁니다. 항목이 없으면 부팅되지 않을 수 있으니 위에 나열된 커널을 확인하세요.
+usermod -L empêche toute connexion par mot de passe de ce compte.	usermod -L은 이 계정의 모든 비밀번호 로그인을 막습니다.
+usermod -U rétablit la connexion par mot de passe.	usermod -U는 비밀번호 로그인을 복원합니다.
+via {}	{} 사용
+{} ({}) — {} utilisés sur {}	{}({}) — {} 사용 / 전체 {}
+{} / {} · priorité {}	{} / {} · 우선순위 {}
+{} appareil(s) · {} montage(s) · {} instantané(s)	장치 {}개 · 마운트 {}개 · 스냅샷 {}개
+{} conformes · {} partiels · {} non conformes · {} inconnus	준수 {} · 부분 {} · 미준수 {} · 알 수 없음 {}
+{} copie(s) supprimée(s), {} libérés	사본 {}개 삭제됨, {} 확보
+{} cœur(s) · gouverneur {} · swap {}	코어 {}개 · 거버너 {} · 스왑 {}
+{} entrée(s) · {} montage(s) avec quotas · outil {}	항목 {}개 · 쿼터가 있는 마운트 {}개 · 도구 {}
+{} entrée(s) · {} montée(s) · showmount {}	항목 {}개 · 마운트됨 {}개 · showmount {}
+{} famille(s) de polices · {} locale(s) disponible(s)	글꼴 모음 {}개 · 사용 가능한 로캘 {}개
+{} famille(s) installée(s)	설치된 글꼴 모음 {}개
+{} fichiers analysés · {} groupe(s) · {} récupérables{}	파일 {}개 분석 · 그룹 {}개 · {} 회수 가능{}
+{} groupe(s) · {} volume(s) · {} périphérique(s) chiffré(s)	그룹 {}개 · 볼륨 {}개 · 암호화된 장치 {}개
+{} hors dépôts	저장소 밖 {}개
+{} imprimante(s) · {} sortie(s) · {} entrée(s)	프린터 {}대 · 출력 {}개 · 입력 {}개
+{} imprimante(s) · {} travail(x) en file	프린터 {}대 · 대기열 작업 {}개
+{} instantané(s)	스냅샷 {}개
+{} instantané(s) · Timeshift {}	스냅샷 {}개 · Timeshift {}
+{} libres sur /	/의 여유 {}
+{} ligne(s) affichée(s)	{}줄 표시 중
+{} ligne(s) · {} message(s) récurrent(s)	{}줄 · 반복 메시지 {}개
+{} mise(s) à jour disponible(s)	사용 가능한 업데이트 {}개
+{} mise(s) à jour seront installées ({}). Une authentification administrateur est demandée.	업데이트 {}개를 설치합니다({}). 관리자 인증이 요청됩니다.
+{} montage(s) · {} sous-volume(s) · {} instantané(s) · outil {}	마운트 {}개 · 서브볼륨 {}개 · 스냅샷 {}개 · 도구 {}
+{} paquet(s) seraient installés	패키지 {}개가 설치됩니다
+{} paquet(s) seraient retirés	패키지 {}개가 제거됩니다
+{} paquets · {} snap · {} flatpak · {} hors dépôts	패키지 {} · snap {} · flatpak {} · 저장소 밖 {}
+{} personnalisée(s) · {} service(s)	사용자 지정 {}개 · 서비스 {}개
+{} point(s) à surveiller	주의할 항목 {}개
+{} processus	프로세스 {}개
+{} périphériques USB · {} PCI	USB 장치 {}개 · PCI {}개
+{} résultat(s)	결과 {}개
+{} session(s) · {} connexion(s) · {} compte(s) vérifié(s)	세션 {}개 · 로그인 {}개 · 확인된 계정 {}개
+{} souple / {} dure sur {} (setquota, polkit).	{} 소프트 / {} 하드, {} 대상(setquota, polkit).
+{} style(s)	스타일 {}개
+{} supprimable(s) · {} configuration(s) résiduelle(s) · {}	제거 가능 {}개 · 잔여 구성 {}개 · {}
+{} système(s) de fichiers	파일 시스템 {}개
+{} sélectionné(s)	{}개 선택됨
+{} timer(s) · {} unité(s) de sauvegarde · {} en échec	타이머 {}개 · 백업 유닛 {}개 · 실패 {}개
+{} tâche(s) cron · {} minuteur(s)	cron 작업 {}개 · 타이머 {}개
+{} unités	유닛 {}개
+{} utilisés · {} libres sur {}	{} 사용 · {} 여유(전체 {})
+{} {}\nLa tâche sera retirée du crontab utilisateur.	{} {}\n작업이 사용자 crontab에서 제거됩니다.
+{} · libre {} · {} PV / {} LV · {} % utilisé	{} · 여유 {} · {} PV / {} LV · {} % 사용
+{} élément(s) de configuration · {} noyau(x)	구성 항목 {}개 · 커널 {}개
+{}rsync distant\n{}	{}원격 rsync\n{}
+{}rsync terminé\n{}	{}rsync 완료\n{}
+« {} » absente → remplacée par « {} »	"{}" 없음 → "{}"(으)로 대체됨
+« {} » installée	"{}" 설치됨
+ÉCHANGE (SWAP)	스왑 (SWAP)
+ÉDITEUR D'UNITÉ	유닛 편집기
+ÉTAT	상태
+État des comptes indisponible (passwd restreint).	계정 상태를 사용할 수 없습니다(passwd 제한됨).
+à traiter	처리 필요
+… et {} autre(s) famille(s)	… 외 글꼴 모음 {}개
+… {} entrée(s) masquée(s), affinez le filtre.	… 항목 {}개 숨김, 필터를 더 좁히세요.
+… {} familles supplémentaires masquées, affinez le filtre.	… 글꼴 모음 {}개 추가 숨김, 필터를 더 좁히세요.
+Description	설명
+Version {} · licence MIT · Rust + egui	버전 {} · MIT 라이선스 · Rust + egui
+Alerte : {}	경고: {}
+simulation : 	시뮬레이션: 
+score d'audit	감사 점수
+ · muet	 · 음소거
+ (libre)	 (자유)
+{} disque(s) · gouvernance {} · TRIM {}	디스크 {}개 · 거버넌스 {} · TRIM {}
+{} style(s) : {}	스타일 {}개: {}
+{} extension(s) · {} raccourci(s)	확장 기능 {}개 · 단축키 {}개
+route {} via {} · {} interface(s)	경로 {}({} 경유) · 인터페이스 {}개
+{} interface(s) · {} connexion(s)	인터페이스 {}개 · 연결 {}개
+{} · port {} · PermitRootLogin {} · PasswordAuthentication {}	{} · 포트 {} · PermitRootLogin {} · PasswordAuthentication {}
+entrant {} · sortant {}	수신 {} · 송신 {}
+{} physiques · {} logiques · {}	물리 {} · 논리 {} · {}
+{} processus · CPU {} % · charge {} / {} / {}	프로세스 {}개 · CPU {} % · 부하 {} / {} / {}
+{} ligne(s)	{}줄
+{} · {} erreur(s) · {} avertissement(s)	{} · 오류 {}개 · 경고 {}개
+disponibles : {}	사용 가능: {}
+non défini	설정되지 않음
+Manuel	수동
+Entrée .desktop	.desktop 항목
+erreur	오류
+avertissement	경고
+information	정보
+mémoire	메모리
+matériel	하드웨어
+stockage	저장소
+thermique	열
+réseau	네트워크
+graphique	그래픽
+divers	기타
+Informations	정보
+conforme	준수
+partiel	부분
+non conforme	미준수
+Attention	주의
+Critique	심각
+terminer (SIGTERM)	종료 (SIGTERM)
+forcer l'arrêt (SIGKILL)	강제 중지 (SIGKILL)
+suspendre (SIGSTOP)	일시 중지 (SIGSTOP)
+reprendre (SIGCONT)	재개 (SIGCONT)
+priorité {}	우선순위 {}
+Activer le pare-feu	방화벽 활성화
+Désactiver le pare-feu	방화벽 비활성화
+Autoriser {}	{} 허용
+Refuser {}	{} 거부
+Supprimer la règle n°{}	규칙 {}번 삭제
+Cache des paquets téléchargés	다운로드한 패키지 캐시
+Journal systemd	systemd 저널
+Corbeille	휴지통
+Cache utilisateur	사용자 캐시
+Vignettes	미리보기 이미지
+Noyaux obsolètes	오래된 커널
+Archives .deb déjà installées, dans /var/cache/apt/archives.	이미 설치된 .deb 아카이브(/var/cache/apt/archives).
+Anciennes entrées du journal, réduites à 200 Mio.	오래된 저널 항목을 200 MiB로 줄입니다.
+Fichiers placés dans la corbeille.	휴지통에 있는 파일.
+Caches applicatifs de ~/.cache (vignettes incluses).	~/.cache의 애플리케이션 캐시(미리보기 이미지 포함).
+Aperçus d'images et de vidéos régénérés automatiquement.	자동으로 다시 만들어지는 이미지 및 동영상 미리보기.
+{} noyau(x) plus ancien(s) que celui en cours : {}.	실행 중인 커널보다 오래된 커널 {}개: {}.
+{} révision(s) désactivée(s) conservées par snap.	snap이 보관 중인 비활성 리비전 {}개.
+impression en cours	인쇄 중
+prête	준비됨
+inconnue	알 수 없음
+user@hôte:/srv/sauvegarde	user@host:/srv/backup
+/usr/local/bin/sauvegarde.sh	/usr/local/bin/backup.sh
+/usr/bin/mon-script	/usr/bin/my-script
+/home/amine/sauvegarde.tar.gz	/home/user/backup.tar.gz
+/home/amine/Téléchargements/ma-police.ttf	/home/user/Downloads/my-font.ttf
+mon-service.service	my-service.service
+PermitRootLogin non défini (défaut dépendant de la version)	PermitRootLogin이 설정되지 않았습니다(기본값은 버전에 따라 다름)
+Connexion root en SSH interdite	SSH root 로그인 금지
+SSH	SSH
+Définir « PermitRootLogin no » dans /etc/ssh/sshd_config.	/etc/ssh/sshd_config에서 "PermitRootLogin no"를 설정하세요.
+authentification par mot de passe non définie	비밀번호 인증이 설정되지 않았습니다
+Authentification SSH par clé uniquement	SSH 키 인증만 허용
+Désactiver PasswordAuthentication après avoir déployé des clés.	키를 배포한 뒤 PasswordAuthentication을 비활성화하세요.
+pare-feu actif, refus par défaut en entrée	방화벽 활성, 수신 기본 거부
+pare-feu actif mais politique d'entrée non restrictive	방화벽은 활성이지만 수신 정책이 제한적이지 않습니다
+pare-feu inactif	방화벽 비활성
+Pare-feu actif avec refus par défaut	기본 거부 방화벽 활성화
+Activer ufw puis « ufw default deny incoming ».	ufw를 활성화한 뒤 "ufw default deny incoming"을 실행하세요.
+AppArmor actif	AppArmor 활성
+Noyau	커널
+service apparmor actif	apparmor 서비스 활성
+service apparmor inactif ou absent	apparmor 서비스가 비활성이거나 없음
+Installer apparmor et activer le service.	apparmor를 설치하고 서비스를 활성화하세요.
+Mises à jour de sécurité automatiques	자동 보안 업데이트
+unattended-upgrades activé	unattended-upgrades 활성화됨
+unattended-upgrades non activé	unattended-upgrades 활성화되지 않음
+Activer unattended-upgrades (apt-daily-upgrade.timer).	unattended-upgrades(apt-daily-upgrade.timer)를 활성화하세요.
+ASLR complet	전체 ASLR
+Régler kernel.randomize_va_space=2.	kernel.randomize_va_space=2로 설정하세요.
+Core dumps des binaires SUID désactivés	SUID 바이너리의 코어 덤프 비활성화
+Régler fs.suid_dumpable=0.	fs.suid_dumpable=0으로 설정하세요.
+Routage IPv4 désactivé	IPv4 라우팅 비활성화
+Régler net.ipv4.ip_forward=0 sauf si la machine est un routeur.	이 컴퓨터가 라우터가 아니라면 net.ipv4.ip_forward=0으로 설정하세요.
+PASS_MAX_DAYS {} (supérieur à 365)	PASS_MAX_DAYS {}(365 초과)
+PASS_MAX_DAYS illisible	PASS_MAX_DAYS를 읽을 수 없음
+Expiration des mots de passe	비밀번호 만료
+Accès	접근
+Régler PASS_MAX_DAYS à 365 ou moins dans /etc/login.defs.	/etc/login.defs에서 PASS_MAX_DAYS를 365 이하로 설정하세요.
+/tmp monté avec nodev et nosuid	/tmp가 nodev 및 nosuid로 마운트됨
+Système de fichiers	파일 시스템
+Monter /tmp avec nodev,nosuid (ou via tmpfs).	/tmp를 nodev,nosuid로 마운트하세요(또는 tmpfs 사용).
+Journalisation d'audit active	감사 로깅 활성
+Audit	감사
+service auditd actif	auditd 서비스 활성
+auditd inactif ou non installé	auditd가 비활성이거나 설치되지 않음
+Installer auditd et activer le service.	auditd를 설치하고 서비스를 활성화하세요.
+ufw absent : contrôle pare-feu partiel	ufw가 없어 방화벽 검사가 부분적입니다
+systemctl absent : services non vérifiés	systemctl이 없어 서비스를 확인하지 않았습니다
+Équilibre bureau : fréquence à la demande, swap modéré.	데스크톱 균형: 주파수 온디맨드, 스왑 보통.
+Fréquence maximale, swap minimal, pages géantes systématiques.	최대 주파수, 최소 스왑, 항상 거대 페이지.
+Batterie et silence : fréquence basse, swap agressif.	배터리와 정숙: 낮은 주파수, 적극적인 스왑.
+cpufreq indisponible : gouvernance non exposée	cpufreq를 사용할 수 없음: 거버너가 노출되지 않음
+gouverneur refusé : {} (disponibles : {})	거버너 거부됨: {}(사용 가능: {})
+gouverneur appliqué : {}	거버너 적용됨: {}
+mode THP refusé : {}	THP 모드 거부됨: {}
+transparent_hugepage non exposé par ce noyau	이 커널은 transparent_hugepage를 노출하지 않습니다
+gouverneur : échec ({})	거버너: 실패({})
+swappiness : échec ({})	swappiness: 실패({})
+compte verrouillé	계정 잠김
+mot de passe actif	비밀번호 있음
+aucun mot de passe	비밀번호 없음
+état {}	상태 {}
+utilisateur refusé : {}	사용자 거부됨: {}
+compte déverrouillé	계정 잠금 해제됨
+session refusée : {}	세션 거부됨: {}
+session {} fermée	세션 {} 종료됨
+Réactif	반응형
+Performance	성능
+Économie	절전
+planification invalide : cinq champs (min heure jour mois jour-semaine) ou @daily	잘못된 일정: 필드 5개(분 시 일 월 요일) 또는 @daily
+commande invalide	잘못된 명령
+crontab n'est pas installé	crontab이 설치되어 있지 않음
+tâche ajoutée : {} {}	작업 추가됨: {} {}
+tâche invalide	잘못된 작업
+tâche supprimée : {} {}	작업 제거됨: {} {}
+minuteur invalide : nom attendu au format nom.timer	잘못된 타이머: name.timer 형식의 이름이 필요합니다
+APT : {} paquet(s) installé(s)	APT: 패키지 {}개 설치됨
+APT : échec — {}	APT: 실패 — {}
+Snap : {} logiciel(s) installé(s)	Snap: 소프트웨어 {}개 설치됨
+Snap : échec — {}	Snap: 실패 — {}
+Flatpak : {} application(s) installée(s)	Flatpak: 애플리케이션 {}개 설치됨
+Flatpak : échec — {}	Flatpak: 실패 — {}
+aucun logiciel à réinstaller dans ce fichier	이 파일에는 다시 설치할 소프트웨어가 없습니다
+source introuvable : {}	원본을 찾을 수 없음: {}
+refus de copier la racine du système	시스템 루트는 복사하지 않습니다
+destination refusée : racine du système	대상 거부됨: 시스템 루트
+source et destination identiques	원본과 대상이 같습니다
+la destination ne peut pas être à l'intérieur de la source	대상은 원본 안에 있을 수 없습니다
+rsync n'est pas installé	rsync가 설치되어 있지 않음
+aucun fichier de configuration détecté	구성 파일을 찾을 수 없음
+{} élément(s) sauvegardé(s) dans {}	항목 {}개를 {}에 저장함
+ni update-grub ni grub-mkconfig ne sont disponibles	update-grub와 grub-mkconfig 모두 사용할 수 없음
+la sauvegarde doit être un dossier	백업은 폴더여야 합니다
+aucun fichier de configuration reconnu dans ce dossier	이 폴더에서 인식된 구성 파일이 없음
+{} élément(s) restauré(s) (les originaux sont conservés en .um-bak-{})	항목 {}개 복원됨(원본은 .um-bak-{}으로 보존)
+dossier personnel introuvable	홈 폴더를 찾을 수 없음
+chemins refusés : attendu des chemins absolus sans `..`	경로 거부됨: `..` 없는 절대 경로가 필요합니다
+la source et la destination sont identiques	원본과 대상이 같습니다
+la destination existe déjà : {}	대상이 이미 존재함: {}
+dossier parent absent : {}	상위 폴더 없음: {}
+instantané créé : {}	스냅샷 생성됨: {}
+chemin refusé : {}	경로 거부됨: {}
+sous-volume supprimé : {}	서브볼륨 삭제됨: {}
+btrfs-progs absent : sous-volumes illisibles	btrfs-progs가 없어 서브볼륨을 읽을 수 없음
+{} élément(s) retiré(s) de la corbeille	휴지통에서 항목 {}개 제거됨
+dossier de cache introuvable	캐시 폴더를 찾을 수 없음
+{} entrée(s) de cache supprimée(s)	캐시 항목 {}개 삭제됨
+{} vignette(s) supprimée(s)	미리보기 이미지 {}개 삭제됨
+aucune révision désactivée	비활성 리비전 없음
+{} r{} supprimée	{} r{} 제거됨
+travail refusé : {}	작업 거부됨: {}
+travail annulé : {}	작업 취소됨: {}
+imprimante refusée : {}	프린터 거부됨: {}
+file vidée : {}	대기열 비움: {}
+imprimante supprimée : {}	프린터 삭제됨: {}
+schéma ou clé invalide	잘못된 스키마 또는 키
+valeur refusée	값 거부됨
+identifiant d'extension invalide	잘못된 확장 기능 식별자
+gnome-extensions n'est pas disponible	gnome-extensions를 사용할 수 없음
+ufw n'est pas installé : pare-feu non gérable depuis l'application.	ufw가 설치되어 있지 않아 앱에서 방화벽을 관리할 수 없습니다.
+pare-feu inactif : aucune règle n'est appliquée.	방화벽이 비활성 상태이며 적용된 규칙이 없습니다.
+ufw n'est pas installé	ufw가 설치되어 있지 않음
+port refusé : {}	포트 거부됨: {}
+numéro de règle invalide	잘못된 규칙 번호
+les règles ont changé depuis l'affichage : actualisez et recommencez	표시된 이후 규칙이 변경되었습니다. 새로 고침 후 다시 시도하세요
+extension absente : attendu ttf, otf, ttc, woff ou woff2	확장자 없음: ttf, otf, ttc, woff 또는 woff2가 필요합니다
+extension refusée : .{}	확장자 거부됨: .{}
+fichier introuvable : {}	파일을 찾을 수 없음: {}
+nom de famille invalide	잘못된 글꼴 모음 이름
+famille refusée : {}	글꼴 모음 거부됨: {}
+nom de fichier invalide	잘못된 파일 이름
+nom de fichier caché refusé	숨김 파일 이름 거부됨
+police installée : {}	글꼴 설치됨: {}
+suppression limitée à {} : {}	삭제는 {}로 제한됨: {}
+police supprimée : {}	글꼴 삭제됨: {}
+aucune valeur à appliquer	적용할 값이 없음
+clé refusée : {}	키 거부됨: {}
+valeur refusée pour {}	{}의 값 거부됨
+{} réglage(s) appliqué(s) et persistés dans {}	설정 {}개를 적용하고 {}에 유지함
+aucun noyau à supprimer	삭제할 커널 없음
+paquet refusé : {}	패키지 거부됨: {}
+refus de supprimer le noyau en cours : {}	실행 중인 커널은 삭제하지 않음: {}
+{} noyau(x) supprimé(s)	커널 {}개 삭제됨
+pilote refusé : {}	드라이버 거부됨: {}
+ubuntu-drivers n'est pas disponible	ubuntu-drivers를 사용할 수 없음
+pilote {} installé	드라이버 {} 설치됨
+locale invalide : format attendu fr_FR.UTF-8	잘못된 로캘: fr_FR.UTF-8 형식이 필요합니다
+localectl n'est pas disponible	localectl을 사용할 수 없음
+locale système : {}	시스템 로캘: {}
+fuseau invalide : format attendu Europe/Paris	잘못된 시간대: Europe/Paris 형식이 필요합니다
+timedatectl n'est pas disponible	timedatectl을 사용할 수 없음
+nom de groupe ou de volume invalide	잘못된 그룹 또는 볼륨 이름
+taille invalide : attendu un nombre suivi de K, M, G ou T	잘못된 크기: 숫자 뒤에 K, M, G 또는 T가 필요합니다
+volume {}/{} créé ({})	볼륨 {}/{} 생성됨({})
+référence attendue : groupe/volume	참조 형식은 그룹/볼륨이어야 합니다
+référence de volume invalide	잘못된 볼륨 참조
+volume {}/{} supprimé	볼륨 {}/{} 삭제됨
+nom de périphérique invalide	잘못된 장치 이름
+{} fermé	{} 닫힘
+périphérique invalide	잘못된 장치
+hôte refusé : {}	호스트 거부됨: {}
+résolution impossible : {}	확인할 수 없음: {}
+aucune route par défaut	기본 경로 없음
+point de montage refusé : {}	마운트 지점 거부됨: {}
+serveur refusé : {}	서버 거부됨: {}
+fstrim n'est pas disponible (paquet util-linux)	fstrim을 사용할 수 없음(util-linux 패키지)
+TRIM terminé	TRIM 완료
+gouvernance refusée : {}	거버너 거부됨: {}
+cpupower est requis pour changer la gouvernance (paquet linux-tools)	거버너를 변경하려면 cpupower가 필요합니다(linux-tools 패키지)
+dépendances inutiles supprimées	불필요한 종속성 제거됨
+aucun paquet à purger	제거할 패키지 없음
+trop de paquets en une fois (200 maximum)	한 번에 패키지가 너무 많음(최대 200)
+nom de paquet refusé : {}	패키지 이름 거부됨: {}
+{} configuration(s) purgée(s)	구성 {}개 제거됨
+nom d'imprimante invalide	잘못된 프린터 이름
+imprimante par défaut : {}	기본 프린터: {}
+imprimante {} supprimée	프린터 {} 삭제됨
+nom de sortie audio invalide	잘못된 오디오 출력 이름
+sortie par défaut : {}	기본 출력: {}
+sourdine basculée pour {}	{}의 음소거 전환됨
+ajustement attendu entre -100 et +100	조정 값은 -100에서 +100 사이여야 합니다
+volume de {} ajusté de {}	{}의 볼륨을 {}만큼 조정함
+la limite souple dépasse la limite dure	소프트 한도가 하드 한도를 초과합니다
+quota appliqué : {} sur {} ({} / {})	쿼터 적용됨: {}, {} 대상({} / {})
+quotas activés : {}	쿼터 활성화됨: {}
+repquota absent : paquet quota non installé	repquota 없음: quota 패키지가 설치되어 있지 않음
+systemd non disponible sur ce système	이 시스템에서는 systemd를 사용할 수 없음
+unité refusée : {}	유닛 거부됨: {}
+cible invalide : format attendu user@hôte:/chemin	잘못된 대상: user@host:/경로 형식이 필요합니다
+hôte introuvable dans la cible	대상에서 호스트를 찾을 수 없음
+connexion à {} établie	{}에 연결됨
+connexion à {} impossible : {}	{}에 연결할 수 없음: {}
+chemin refusé	경로 거부됨
+format non pris en charge : attendu .tar[.gz|.xz|.bz2], .tgz, .txz, .zip	지원되지 않는 형식: .tar[.gz, .xz, .bz2], .tgz, .txz, .zip
+archive invalide : {}	잘못된 아카이브: {}
+archive valide : {} entrée(s) · {}	올바른 아카이브: 항목 {}개 · {}
+action refusée : {}	작업 거부됨: {}
+le nom doit se terminer par .service	이름은 .service로 끝나야 합니다
+nom d'unité refusé : {}	유닛 이름 거부됨: {}
+fichier d'unité trop volumineux (64 Kio maximum)	유닛 파일이 너무 큼(최대 64 KiB)
+ExecStart= manquant ou vide	ExecStart=가 없거나 비어 있음
+unité introuvable : {}	유닛을 찾을 수 없음: {}
+unité installée : {}	유닛 설치됨: {}
+pas une unité personnalisée : {}	사용자 지정 유닛이 아님: {}
+unité supprimée : {}	유닛 삭제됨: {}
+date de début invalide : AAAA-MM-JJ ou AAAA-MM-JJ HH:MM	잘못된 시작 날짜: YYYY-MM-DD 또는 YYYY-MM-DD HH:MM
+date de fin invalide : AAAA-MM-JJ ou AAAA-MM-JJ HH:MM	잘못된 종료 날짜: YYYY-MM-DD 또는 YYYY-MM-DD HH:MM
+rien à exporter : lancez d'abord une recherche	내보낼 항목이 없습니다. 먼저 검색을 실행하세요
+{} × {} ({} récupérables)	{} × {}({} 회수 가능)
+original introuvable : {}	원본을 찾을 수 없음: {}
+l'original a changé depuis l'analyse : relancez l'analyse	분석 이후 원본이 변경되었습니다. 분석을 다시 실행하세요
+refus d'agir sur le processus système (PID ≤ 1)	시스템 프로세스(PID ≤ 1)에는 작업하지 않음
+refus d'agir sur l'application elle-même	앱 자체에는 작업하지 않음
+le processus {} n'existe plus	프로세스 {}이(가) 더 이상 없음
+le PID {} désigne maintenant « {} » et non « {} » : actualisez la liste	PID {}이(가) 이제 "{}"을(를) 가리키며 "{}"이(가) 아닙니다. 목록을 새로 고치세요
+refus d'agir sur un thread du noyau	커널 스레드에는 작업하지 않음
+priorité hors limites (-20 à 19) : {}	우선순위가 범위를 벗어남(-20~19): {}
+aucun paquet sélectionné	선택한 패키지 없음
+{} : à jour	{}: 최신 상태
+{} : échec — {}	{}: 실패 — {}
+Snap : à jour	Snap: 최신 상태
+Flatpak : à jour	Flatpak: 최신 상태
+aucune mise à jour à appliquer	적용할 업데이트 없음
+chemin introuvable : {}	경로를 찾을 수 없음: {}
+chemin refusé (hors de /opt)	경로 거부됨(/opt 밖)
+entrée de bureau hors des dossiers autorisés	허용된 폴더 밖의 데스크톱 항목
+entrée supprimée : {}	항목 삭제됨: {}
+chemin hors du dossier personnel	홈 폴더 밖의 경로
+supprimé : {}	삭제됨: {}
+Connexion SSH de root	SSH root 로그인
+Authentification par mot de passe SSH	SSH 비밀번호 인증
+Serveur SSH absent	SSH 서버 없음
+Aucun /etc/ssh/sshd_config : rien à vérifier.	/etc/ssh/sshd_config가 없어 확인할 것이 없습니다.
+Le pare-feu système est démarré.	시스템 방화벽이 시작되었습니다.
+Aucune règle de filtrage n'est appliquée au démarrage.	시작 시 적용되는 필터링 규칙이 없습니다.
+Pare-feu non détecté	방화벽이 감지되지 않음
+Ni ufw ni firewalld ne sont installés.	ufw와 firewalld 모두 설치되어 있지 않습니다.
+Mises à jour automatiques	자동 업데이트
+unattended-upgrades est installé.	unattended-upgrades가 설치되어 있습니다.
+unattended-upgrades absent : les correctifs de sécurité attendent une action manuelle.	unattended-upgrades가 없어 보안 수정은 수동 조치를 기다립니다.
+{} binaires avec le bit setuid dans /usr/bin et /usr/sbin.	/usr/bin 및 /usr/sbin에 setuid 비트가 있는 바이너리 {}개.
+{} sockets TCP/UDP en écoute.	수신 대기 중인 TCP/UDP 소켓 {}개.
+Activé.	활성화됨.
+Désactivé.	비활성화됨.
+Non applicable (démarrage BIOS ou variables EFI illisibles).	해당 없음(BIOS 부팅 또는 읽을 수 없는 EFI 변수).
+Module non monté.	모듈이 마운트되지 않음.
+Normal	정상
+Utilisée	사용 중
+Disponible	사용 가능
+Total	전체
+Maintenant	지금
+il y a {} s	{}초 전
+il y a {} min	{}분 전
+Utilisation du processeur	프로세서 사용률
+Utilisation de la mémoire	메모리 사용률
+Processus principaux	상위 프로세스
+Système sain	시스템 정상
+Tous les services sont actifs	모든 서비스 실행 중
+Attention requise	확인 필요
+Seuils dépassés	임계값 초과
+{} services en échec	서비스 {}개 실패
+{} cœurs	{}코어
+consomme {} % du processeur	프로세서의 {} % 사용
+outil légitime souvent détourné : vérifiez que vous l'avez bien installé vous-même	정상 도구이지만 악용되는 경우가 많습니다. 직접 설치한 것인지 확인하세요
+Processus examinés : {} (exécutable lisible pour {} ; les processus d'autres utilisateurs ne sont jugés que sur leur nom et leur ligne de commande)	검사한 프로세스: {} (실행 파일을 읽을 수 있는 것 {}; 다른 사용자의 프로세스는 이름과 명령줄로만 판단)
+Connexions réseau : {}	네트워크 연결: {}
+Scripts de démarrage et planifications : {}	시작 스크립트 및 예약: {}
+Entrées de fichiers parcourues : {} (dossiers temporaires et dossier personnel, profondeur limitée){}	검사한 파일 항목: {} (임시 폴더와 홈 폴더, 깊이 제한){}
+Vérifié : processus, réseau, persistance, fichiers exécutables/setuid, comptes, outils à double usage.	확인함: 프로세스, 네트워크, 지속성, 실행 파일/setuid 파일, 계정, 이중 용도 도구.
+Non vérifié : contenu des fichiers (hors scripts de démarrage), mémoire, noyau, firmware.	확인하지 않음: 파일 내용(시작 스크립트 제외), 메모리, 커널, 펌웨어.
+Activer zram	zram 활성화
+Activer zram…	zram 활성화…
+Désactiver zram	zram 비활성화
+Désactiver zram…	zram 비활성화…
+Échange compressé (zram)	압축 스왑 (zram)
+Le module zram est chargé et systemd-zram-setup@zram0.service démarré : une zone d'échange compressée en RAM sera créée.	zram 모듈을 로드하고 systemd-zram-setup@zram0.service를 시작합니다. RAM에 압축 스왑 영역이 생성됩니다.
+Le périphérique /dev/zram0 sera retiré et le module déchargé. La mémoire compressée qu'il contient est perdue.	/dev/zram0 장치를 제거하고 모듈을 내립니다. 저장된 압축 데이터는 사라집니다.
+Résolveurs proposés	권장 리졸버
+Serveur DNS	DNS 서버
+Appliquer le DNS…	DNS 적용…
+Hôtes (/etc/hosts)	호스트 (/etc/hosts)
+Nom d'hôte	호스트 이름
+Retirer un hôte	호스트 제거
+l'entrée sera retirée de /etc/hosts	이 항목은 /etc/hosts에서 제거됩니다
+RÈGLES DE SEUIL	임계값 규칙
+Aucune règle de seuil.	임계값 규칙이 없습니다.
+Ajouter la règle	규칙 추가
+Notification de bureau	데스크톱 알림
+Les règles sont vérifiées toutes les 30 secondes tant que l'application est ouverte. Une même règle ne notifie qu'une fois par dix minutes.	앱이 열려 있는 동안 규칙은 30초마다 확인됩니다. 같은 규칙은 10분에 한 번만 알립니다.
+MONTER UN PARTAGE À LA DEMANDE	요청 시 공유 마운트
+Monter un partage réseau	네트워크 공유 마운트
+Partage	공유
+Point de montage	마운트 지점
+via Polkit	Polkit 사용
+Le point de montage est créé si nécessaire. Le montage n'est pas ajouté à /etc/fstab.	마운트 지점은 필요하면 생성됩니다. /etc/fstab에는 추가되지 않습니다.
+Alternative	대안
+Chemin du binaire	바이너리 경로
+Définir l'alternative	대안 설정
+{}–{} sur {}	{}–{} / {}
+Précédent	이전
+Suivant	다음

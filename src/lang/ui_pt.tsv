@@ -1,0 +1,1317 @@
+# Libellés des rubriques génériques (texte français<TAB>traduction). Les absents se replient sur l'anglais.
+ACL modifiée	ACL modificada
+ACL retirées	ACL removidas
+Action	Ação
+Activer	Ativar
+Activer le Wi-Fi	Ligar o Wi-Fi
+Actives	Ativas
+Administrateurs	Administradores
+Adresse	Endereço
+Adresse IP	Endereço IP
+Adresse MAC	Endereço MAC
+Afficher les ACL	Mostrar ACL
+Ajouter	Adicionar
+Ajouter à sudo	Adicionar ao sudo
+Alertes actives	Alertas ativos
+Algo	Algoritmo
+Allumé depuis	Ligado há
+Alternatives système (update-alternatives)	Alternativas do sistema (update-alternatives)
+Anciennes révisions Snap	Revisões antigas do Snap
+Anomalie	Anomalia
+Appareil	Dispositivo
+Appareils	Dispositivos
+Appareils Bluetooth	Dispositivos Bluetooth
+Appareils reconnus	Dispositivos reconhecidos
+Applications au démarrage	Aplicações de arranque
+Appliquer	Aplicar
+Archive	Arquivo
+Archives trouvées	Arquivos encontrados
+Arrêter	Parar
+Autorités de certification locales	Autoridades de certificação locais
+Autre dossier	Outra pasta
+Autres nettoyages	Outras limpezas
+Batterie	Bateria
+Batteries	Baterias
+Bluetooth (appairés)	Bluetooth (emparelhados)
+CA locales	CAs locais
+Cache	Cache
+Caches applicatifs	Caches de aplicações
+Caches récupérables	Caches recuperáveis
+Certificat	Certificado
+Certificat ajouté	Certificado adicionado
+Charge	Carga
+Chaîne critique	Cadeia crítica
+Chemin	Caminho
+Chemin distant	Caminho remoto
+Choix actuel	Escolha atual
+Cible	Destino
+Clé générée	Chave gerada
+Clés GPG	Chaves GPG
+Clés SSH	Chaves SSH
+Clés SSH (~/.ssh)	Chaves SSH (~/.ssh)
+Commande	Comando
+Commentaire	Comentário
+Compte	Conta
+Comptes	Contas
+Comptes locaux	Contas locais
+Configuration actuelle	Configuração atual
+Confirmation	Confirmação
+Connecter	Ligar
+Connexions	Ligações
+Connexions VPN	Ligações VPN
+Connexions établies	Ligações estabelecidas
+Connexions établies par processus	Ligações estabelecidas por processo
+Conseil	Conselho
+Conteneurs	Contentores
+Contenu	Conteúdo
+Contrôle	Verificação
+Contrôles	Verificações
+Copier la clé publique	Copiar a chave pública
+Création	Criado
+Création de l'archive	A criar o arquivo
+Créer	Criar
+Créer une archive	Criar um arquivo
+Cycles	Ciclos
+Date	Data
+Dernières mesures	Últimas medições
+Destination	Destino
+Diagnostic automatique	Diagnóstico automático
+Disque	Disco
+Disque (écriture)	Disco (escrita)
+Disque moyen	Disco médio
+Disques	Discos
+Disques amovibles détectés	Discos amovíveis detetados
+Distant	Remoto
+Dossier	Pasta
+Dossier local	Pasta local
+Droits	Permissões
+Durée	Duração
+Déconnecter	Desligar
+Définir une ACL utilisateur	Definir uma ACL de utilizador
+Démarrage	Arranque
+Démarrer	Iniciar
+Démonter	Desmontar
+Dépôt	Repositório
+Désactiver	Desativar
+Désactiver le Wi-Fi	Desligar o Wi-Fi
+Détail	Detalhe
+Détail des connexions	Detalhes das ligações
+Déverrouiller	Desbloquear
+Effacer l'historique	Limpar o histórico
+Empreinte	Impressão digital
+En cours	Em execução
+En enforce	Em enforce
+Enregistrer	Guardar
+Enregistrer le graphe (SVG)	Guardar o gráfico (SVG)
+Enregistrer les seuils	Guardar limites
+Enregistrer une mesure	Registar uma medição
+Entrées	Entradas
+Envoyer un test	Enviar um teste
+Expiration	Expiração
+Exporter en CSV	Exportar como CSV
+Exporter le rapport	Exportar o relatório
+Extraction	Extração
+Extraire	Extrair
+Fabricant	Fabricante
+Fichier	Ficheiro
+Fichiers détectés	Ficheiros detetados
+Fichiers modifiés	Ficheiros alterados
+Fréquence	Frequência
+Générer	Gerar
+Historique des actions	Histórico de ações
+Hors configuration	Fora da configuração
+Hôtes	Equipamentos
+Hôtes du réseau local	Equipamentos da rede local
+Identifiant	Identificador
+Identité	Identidade
+Illisibles (droits)	Ilegíveis (permissões)
+Image	Imagem
+Image ISO	Imagem ISO
+Images	Imagens
+Import VPN	Importação VPN
+Importer	Importar
+Indicateur	Indicador
+Installés	Instalados
+Instances LXD	Instâncias LXD
+Interface	Interface
+Lancer	Executar
+Lancer maintenant	Executar agora
+Lancer un scrub	Iniciar um scrub
+Langage	Idioma
+Langages	Linguagens
+Lecture	Leitura
+Lecture seule.	Só de leitura.
+Livraison	Entrega
+Local	Local
+Mesures	Medições
+Mise à jour possible	Atualização possível
+Mises à jour	Atualizações
+Mises à jour disponibles	Atualizações disponíveis
+Mode	Modo
+Mode de démarrage	Modo de arranque
+Modèle	Modelo
+Montage	Montagem
+Montages actifs	Montagens ativas
+Montages btrfs	Montagens btrfs
+Moteur	Motor
+Mémoire	Memória
+Mémoire (écriture)	Memória (escrita)
+Mémoire moyenne	Memória média
+Méthode	Método
+Nature	Natureza
+Nettoyage complet	Limpeza completa
+Nettoyer	Limpar
+Nettoyer les données conteneurs	Limpar dados de contentores
+Nom	Nome
+Nom du fichier	Nome do ficheiro
+Notifier maintenant	Notificar agora
+Occupation	Utilização
+Options	Opções
+Origine	Origem
+Outil	Ferramenta
+Outils	Ferramentas
+Paquet	Pacote
+Paquets verrouillés	Pacotes bloqueados
+Passer en enforcing	Mudar para enforcing
+Passer en permissive	Mudar para permissive
+Pilote	Controlador
+Planification	Agendamento
+Planifier	Agendar
+Points de montage actifs	Pontos de montagem ativos
+Ports en écoute	Portas à escuta
+Problèmes	Problemas
+Processeur	Processador
+Processus	Processo
+Prochaine exécution	Próxima execução
+Profil	Perfil
+Profil d'alimentation	Perfil de energia
+Profil d'énergie	Perfil de energia
+Profils AppArmor	Perfis AppArmor
+Profils chargés	Perfis carregados
+Profils de poste	Perfis de posto de trabalho
+Protocole	Protocolo
+Puce	Chip
+Purger le journal	Limpar o registo
+Purger les images orphelines	Remover imagens órfãs
+Purger les volumes inutilisés	Remover volumes não utilizados
+Périphérique	Dispositivo
+Périphériques USB	Dispositivos USB
+Périphériques amovibles	Dispositivos amovíveis
+Radio Wi-Fi	Rádio Wi-Fi
+Rafraîchir les métadonnées	Atualizar metadados
+Rapport périodique	Relatório periódico
+Redémarrer	Reiniciar
+Remotes	Remotes
+Remotes rclone	Remotes rclone
+Restauration	Restauro
+Restaurer	Restaurar
+Restaurer ce dossier	Restaurar esta pasta
+Retirer de sudo	Remover do sudo
+Retirer les ACL	Remover ACL
+Reçu	Recebido
+Runtimes détectés	Runtimes detetados
+Réception	Receção
+Réseau	Rede
+Réseaux	Redes
+Réseaux détectés	Redes detetadas
+Résultat	Resultado
+Rétrogradation	Redução de versão
+Rétrograder	Reduzir versão
+Rétrograder un paquet	Reduzir a versão de um pacote
+Révision	Revisão
+Rôle	Função
+Santé batterie	Saúde da bateria
+Sauvegarder maintenant	Fazer cópia agora
+Sauvegardes trouvées (Documents/dotfiles*)	Cópias encontradas (Documents/dotfiles*)
+Score global	Pontuação global
+Secteur	Corrente elétrica
+Seuil	Limite
+Seuils	Limites
+Signal	Sinal
+Sonde	Sonda
+Sondes de température	Sondas de temperatura
+Source	Origem
+Sources	Origens
+Sources APT	Origens APT
+Sources de paquets	Origens de pacotes
+Suite / composants	Suite / componentes
+Sujet	Assunto
+Supprimer	Eliminar
+Supprimer la planification	Remover o agendamento
+Supprimer les ACL	Eliminar ACL
+Supprimer les paquets orphelins	Remover pacotes órfãos
+Synchroniser un dossier	Sincronizar uma pasta
+Systèmes btrfs	Sistemas de ficheiros btrfs
+Sécurité	Segurança
+TRIM des SSD (fstrim)	TRIM de SSD (fstrim)
+Taille	Tamanho
+Technologie	Tecnologia
+Température	Temperatura
+Températures	Temperaturas
+Tendances (40 dernières mesures)	Tendências (últimas 40 medições)
+Tester la notification	Testar a notificação
+Total reçu	Total recebido
+Total émis	Total enviado
+Trousseau GPG	Porta-chaves GPG
+Type	Tipo
+Tâches privilégiées	Tarefas privilegiadas
+Unité	Unidade
+Unités les plus lentes	Unidades mais lentas
+Utilisateur	Utilizador
+VPN configurés	VPN configuradas
+Valeur	Valor
+Ventilateur	Ventoinha
+Ventilateurs	Ventoinhas
+Verrouillage	Bloqueio
+Verrouiller	Bloquear
+Version actuelle	Versão atual
+Version proposée	Versão proposta
+Vider le cache APT	Limpar a cache do APT
+Vitesse	Velocidade
+Écarts	Diferenças
+Échange	Troca
+Échecs	Falhas
+Écrire sur la clé	Escrever na unidade
+Écrire une image	Escrever uma imagem
+Écriture	Escrita
+Écriture de l'image	A escrever a imagem
+Émis	Enviado
+Émission	Envio
+Énergie	Energia
+Équilibrer (50 %)	Balancear (50 %)
+État	Estado
+État du scrub	Estado do scrub
+URL ou adresse	URL ou endereço
+adresse ou machine	endereço ou máquina
+nom exact	nome exato
+nom	nome
+nom du remote	nome do remote
+retapez le périphérique	reintroduza o dispositivo
+simulation ou reel	simulation ou reel
+Aucun élément.	Nada para mostrar.
+Courbes en direct	Gráficos em direto
+Courbes	Gráficos
+Débit réseau	Débito de rede
+Processeur et mémoire	Processador e memória
+Processeur, mémoire et disque	Processador, memória e disco
+Débits mesurés (Mio/s)	Débito medido (MiB/s)
+Résultats	Resultados
+Constats	Deteções
+Constats par gravité	Deteções por gravidade
+Gravité	Gravidade
+Catégorie	Categoria
+Élément	Elemento
+Pourquoi	Porquê
+Couverture du scan	Cobertura da análise
+Analyse antivirus (signatures)	Análise antivírus (assinaturas)
+Quarantaine	Quarentena
+Verdict	Veredicto
+Élevées	Altas
+Moyennes	Médias
+Faibles	Baixas
+Infos	Info
+Élevée	Alta
+Moyenne	Média
+Faible	Baixa
+Info	Info
+Persistance	Persistência
+Fichiers	Ficheiros
+Logiciels	Software
+Aucun comportement anormal détecté	Nenhum comportamento anómalo detetado
+Quelques points suspects	Alguns pontos suspeitos
+À examiner en priorité	Requer atenção prioritária
+Suspendre	Suspender
+Terminer	Terminar
+Mettre l'exécutable en quarantaine	Pôr o executável em quarentena
+Mettre en quarantaine	Quarentena
+Désactiver au démarrage	Desativar no arranque
+Processus sélectionné	Processo selecionado
+Analyser un fichier ou dossier	Inspecionar um ficheiro ou pasta
+Clés MOK enregistrées (lecture seule)	Chaves MOK registadas (só de leitura)
+Historique dpkg (60 derniers événements)	Histórico do dpkg (últimos 60 eventos)
+Installer les mises à jour	Instalar atualizações
+Mettre à jour le magasin	Atualizar o repositório
+Mettre à jour les index	Atualizar índices
+Ni Docker ni Podman n'est installé.	Nem o Docker nem o Podman estão instalados.
+Réduire les journaux (500 Mo)	Reduzir os registos (500 MB)
+Réduire les journaux (7 jours)	Reduzir os registos (7 dias)
+Supprimer les runtimes Flatpak inutilisés	Remover runtimes Flatpak não utilizados
+Verrouillage de version (apt-mark hold)	Bloqueio de versão (apt-mark hold)
+Lecture seule : aucune donnée du système n'est modifiée.	Só de leitura: nada no sistema é alterado.
+Applications lancées à l'ouverture de session	Aplicações iniciadas no início de sessão
+Archives (dossier personnel et Téléchargements)	Arquivos (pasta pessoal e Transferências)
+Aucun capteur renvoyé par lm-sensors : lancez « sensors-detect » pour les détecter.	O lm-sensors não devolveu nenhum sensor: execute «sensors-detect» para os detetar.
+Aucun réseau privé IPv4 détecté : seule la table ARP est affichée.	Nenhuma rede IPv4 privada detetada: só é mostrada a tabela ARP.
+Chaque action est confirmée ; celles qui touchent au système passent par Polkit.	Cada ação é confirmada; as que afetam o sistema passam pelo Polkit.
+Chaque tâche demande une confirmation puis l'authentification administrateur (Polkit).	Cada tarefa pede confirmação e depois autenticação de administrador (Polkit).
+Compteurs par interface (depuis le démarrage)	Contadores por interface (desde o arranque)
+Couper la radio Wi-Fi ? La connexion sans fil sera perdue.	Desligar o rádio Wi-Fi? A ligação sem fios será perdida.
+Crée une minuterie systemd utilisateur qui lance « orbisys report <dossier> » (TXT, CSV, JSON et PDF).	Cria um temporizador systemd de utilizador que executa «orbisys report <pasta>» (TXT, CSV, JSON e PDF).
+Désactiver et supprimer la minuterie de rapport ?	Desativar e remover o temporizador de relatórios?
+Envoyer le rapport d'état à la destination configurée ?	Enviar o relatório de estado para o destino configurado?
+Formats : .tar, .tar.gz, .tar.xz, .tar.bz2. L'archive ne doit pas exister.	Formatos: .tar, .tar.gz, .tar.xz, .tar.bz2. O arquivo não pode já existir.
+Installer les mises à jour de firmware ? Un redémarrage peut être nécessaire et l'alimentation ne doit pas être coupée.	Instalar as atualizações de firmware? Pode ser necessário reiniciar e a alimentação não deve ser cortada.
+L'installation passe par apt-get et Polkit, après confirmation.	A instalação passa pelo apt-get e pelo Polkit, após confirmação.
+La clé est créée sans phrase secrète ; ajoutez-en une avec « ssh-keygen -p -f <fichier> ».	A chave é criada sem frase de acesso; adicione uma com «ssh-keygen -p -f <ficheiro>».
+Lancer fstrim -av sur les systèmes de fichiers compatibles ?	Executar fstrim -av nos sistemas de ficheiros compatíveis?
+Le compte root n'est pas modifiable depuis cette page.	A conta root não pode ser alterada nesta página.
+Le résultat s'affiche dans la zone de sortie en bas de l'écran.	O resultado aparece na zona de saída, na parte inferior do ecrã.
+Le scan est limité au réseau privé local (préfixe /24 ou plus étroit) ; actualisez l'écran pour le relancer.	A análise limita-se à rede privada local (/24 ou mais estreita); recarregue o ecrã para a repetir.
+Les disques contenant le système (/, /boot, /home) ne sont jamais proposés.	Os discos que contêm o sistema (/, /boot, /home) nunca são oferecidos.
+Les fichiers de configuration modifiés sont normaux ; un programme modifié mérite une vérification.	Os ficheiros de configuração alterados são normais; um programa alterado merece verificação.
+Les instantanés et sous-volumes se gèrent dans l'écran « Btrfs ». Les résultats s'affichent dans la zone de sortie.	Os instantâneos e subvolumes gerem-se no ecrã «Btrfs». Os resultados aparecem na zona de saída.
+Les processus d'autres utilisateurs n'apparaissent qu'avec les droits administrateur.	Os processos de outros utilizadores só aparecem com direitos de administrador.
+Les seuils sont conservés dans ~/.local/share/orbisys/alerts.json.	Os limites são guardados em ~/.local/share/orbisys/alerts.json.
+Mode « simulation » par défaut (rclone --dry-run) : rien n'est modifié. Le mode « reel » demande confirmation.	Modo «simulation» por predefinição (rclone --dry-run): nada é alterado. O modo «reel» pede confirmação.
+Opération destructrice : le périphérique cible est entièrement écrasé. Retapez son nom pour confirmer.	Operação destrutiva: o dispositivo de destino é completamente sobrescrito. Reintroduza o seu nome para confirmar.
+Passer SELinux en mode enforcing (immédiat) ?	Mudar o SELinux para o modo enforcing (imediato)?
+Passer SELinux en mode permissive (immédiat) ?	Mudar o SELinux para o modo permissive (imediato)?
+Profils AppArmor illisibles : les droits administrateur sont requis (ou AppArmor est inactif).	Perfis AppArmor ilegíveis: são necessários direitos de administrador (ou o AppArmor está inativo).
+Supprimer conteneurs arrêtés, réseaux et images orphelines ?	Remover contentores parados, redes e imagens órfãs?
+Supprimer les journaux systemd de plus de 7 jours ?	Eliminar os registos do systemd com mais de 7 dias?
+Supprimer les runtimes Flatpak inutilisés ?	Remover os runtimes Flatpak não utilizados?
+Supprimer les volumes non utilisés (données perdues) ?	Remover volumes não utilizados (os dados serão perdidos)?
+Supprimer toutes les mesures enregistrées ?	Eliminar todas as medições registadas?
+Type « webhook » (HTTP POST, JSON) ou « email » (commande mail). Le rapport contient santé, mémoire, disque et charge.	Indique «webhook» (HTTP POST, JSON) ou «email» (comando mail). O relatório contém estado, memória, disco e carga.
+Utilisez `apt-cache policy <paquet>` pour connaître les versions disponibles.	Use `apt-cache policy <pacote>` para ver as versões disponíveis.
+aa-complain / aa-enforce proviennent du paquet apparmor-utils.	aa-complain / aa-enforce vêm do pacote apparmor-utils.
+apt-get absent : cette rubrique concerne les systèmes Debian/Ubuntu.	apt-get não encontrado: esta secção aplica-se a sistemas Debian/Ubuntu.
+bluetoothctl absent : installez le paquet « bluez » pour gérer le Bluetooth.	bluetoothctl não encontrado: instale o pacote «bluez» para gerir o Bluetooth.
+btrfs-progs absent : installez le paquet « btrfs-progs ».	btrfs-progs não encontrado: instale o pacote «btrfs-progs».
+dpkg absent : cette vérification concerne Debian/Ubuntu.	dpkg não encontrado: esta verificação aplica-se ao Debian/Ubuntu.
+fwupdmgr absent : installez le paquet « fwupd » pour gérer les mises à jour de firmware.	fwupdmgr não encontrado: instale o pacote «fwupd» para gerir as atualizações de firmware.
+lm-sensors absent : lecture directe de /sys/class/hwmon.	lm-sensors não encontrado: leitura direta de /sys/class/hwmon.
+mokutil absent : installez le paquet « mokutil » pour lire l'état de Secure Boot.	mokutil não encontrado: instale o pacote «mokutil» para ler o estado do Secure Boot.
+nmap absent : seule la table ARP du noyau est affichée.	nmap não encontrado: só é mostrada a tabela ARP do kernel.
+nmcli absent : NetworkManager est requis pour gérer le Wi-Fi et les VPN.	nmcli não encontrado: o NetworkManager é necessário para gerir o Wi-Fi e as VPN.
+rclone absent : installez le paquet « rclone » puis configurez un remote avec « rclone config ».	rclone não encontrado: instale o pacote «rclone» e configure um remote com «rclone config».
+Valeur actuelle et seuil (trait)	Valor atual e limite (linha)
+Points perdus par contrôle (sur 100)	Pontos perdidos por verificação (em 100)
+Occupation des systèmes de fichiers (trait : 90 %)	Utilização dos sistemas de ficheiros (linha: 90 %)
+Volume échangé par interface (reçu + émis)	Tráfego por interface (recebido + enviado)
+Les 6 dernières minutes environ, actualisées toutes les 3 secondes.	Cerca dos últimos 6 minutos, atualizados a cada 3 segundos.
+Lancer ClamAV (Téléchargements et /tmp)	Executar o ClamAV (Transferências e /tmp)
+Analyse heuristique en lecture seule, sans base de signatures : ce n'est pas un antivirus. Un constat est un indice à vérifier, pas une preuve.	Análise heurística só de leitura, sem base de assinaturas: não é um antivírus. Uma deteção é uma pista a verificar, não uma prova.
+ClamAV est installé : l'analyse parcourt Téléchargements et /tmp et peut durer plusieurs minutes. Seuls les fichiers infectés sont listés.	O ClamAV está instalado: a análise abrange Transferências e /tmp e pode demorar vários minutos. Só são listados os ficheiros infetados.
+Pour une détection par signatures, installez ClamAV (paquet « clamav ») : ce scan pourra alors le lancer.	Para uma deteção por assinaturas, instale o ClamAV (pacote «clamav»): esta análise poderá então executá-lo.
+Lancer une analyse ClamAV de Téléchargements et /tmp ? Cela peut prendre plusieurs minutes.	Executar uma análise ClamAV das Transferências e de /tmp? Pode demorar vários minutos.
+Processus les plus gourmands (processeur)	Processos mais exigentes (CPU)
+Processus les plus gourmands (mémoire)	Processos mais exigentes (memória)
+Mémoire (% de la RAM)	Memória (% da RAM)
+ (limite atteinte)	 (limite atingido)
+ · santé {} %	 · saúde {} %
+APPAREILS	DISPOSITIVOS
+APPARENCE	APARÊNCIA
+APPLIQUER UN QUOTA	APLICAR UMA COTA
+Actif	Ativo
+Activer au démarrage	Ativar na inicialização
+Activer les quotas sur {}	Ativar cotas em {}
+Actualiser	Atualizar
+Analyse des paquets…	Analisando pacotes…
+Analyser	Analisar
+Analyser les erreurs (24 h)	Analisar erros (24 h)
+Annuler	Cancelar
+Aperçu de la suppression	Pré-visualização da remoção
+Appareils, montages, Btrfs et instantanés	Dispositivos, montagens, Btrfs e instantâneos
+Apparence et extensions GNOME	Aparência e extensões do GNOME
+Appliquer THP	Aplicar THP
+Appliquer des paramètres noyau	Aplicar parâmetros do kernel
+Appliquer et persister…	Aplicar e tornar persistente…
+Appliquer la priorité	Aplicar a prioridade
+Appliquer le profil {}	Aplicar o perfil {}
+Appliquer les mises à jour	Aplicar as atualizações
+Appliquer…	Aplicar…
+Arrêter {}	Parar {}
+Arrêter…	Parar…
+Aucun espace d'échange actif.	Nenhuma área de troca ativa.
+Aucun fichier de configuration détecté.	Nenhum arquivo de configuração detectado.
+Aucun gestionnaire natif détecté	Nenhum gerenciador de pacotes nativo detectado
+Aucun groupe de volumes LVM.	Nenhum grupo de volumes LVM.
+Aucun instantané lisible (support non monté ou Timeshift non configuré).	Nenhum instantâneo legível (suporte não montado ou Timeshift não configurado).
+Aucun minuteur systemd détecté.	Nenhum temporizador do systemd detectado.
+Aucun montage NFS/CIFS déclaré ni actif.	Nenhuma montagem NFS/CIFS declarada ou ativa.
+Aucun montage ne déclare usrquota/grpquota/prjquota dans /etc/fstab.	Nenhuma montagem declara usrquota/grpquota/prjquota em /etc/fstab.
+Aucun paquet en état `rc`.	Nenhum pacote no estado `rc`.
+Aucun partage Samba ou NFS configuré.	Nenhum compartilhamento Samba ou NFS configurado.
+Aucun partage déclaré dans /etc/samba/smb.conf.	Nenhum compartilhamento declarado em /etc/samba/smb.conf.
+Aucun raccourci personnalisé.	Nenhum atalho personalizado.
+Aucun système de fichiers Btrfs monté sur cette machine.	Nenhum sistema de arquivos Btrfs montado nesta máquina.
+Aucun timer systemd.	Nenhum temporizador do systemd.
+Aucun travail en attente.	Nenhum trabalho pendente.
+Aucun volume chiffré ouvert. Les partitions LUKS fermées n'apparaissent pas ici.	Nenhum volume criptografado aberto. As partições LUKS fechadas não aparecem aqui.
+Aucun volume logique.	Nenhum volume lógico.
+Aucune action enregistrée pour l'instant.	Nenhuma ação registrada por enquanto.
+Aucune action enregistrée. Le fichier est créé au premier nettoyage ou à la première suppression.	Nenhuma ação registrada. O arquivo é criado na primeira limpeza ou remoção.
+Aucune analyse lancée.	Nenhuma análise iniciada.
+Aucune analyse à exporter	Nenhuma análise para exportar
+Aucune connexion VPN déclarée (NetworkManager/WireGuard).	Nenhuma conexão VPN declarada (NetworkManager/WireGuard).
+Aucune dépendance à supprimer.	Nenhuma dependência a remover.
+Aucune entrée : filtre “Erreurs” sur un système calme ?	Nenhuma entrada: filtro “Erros” em um sistema tranquilo?
+Aucune entrée de quota (quotas non activés ou outil absent).	Nenhuma entrada de cota (cotas não ativadas ou ferramenta ausente).
+Aucune extension détectée.	Nenhuma extensão detectada.
+Aucune famille ne correspond (fontconfig absent ?).	Nenhuma família corresponde (fontconfig ausente?).
+Aucune imprimante CUPS détectée (lpstat indisponible ou liste vide).	Nenhuma impressora CUPS detectada (lpstat indisponível ou lista vazia).
+Aucune imprimante configurée.	Nenhuma impressora configurada.
+Aucune mise à jour en attente.	Nenhuma atualização pendente.
+Aucune police détectée (fontconfig absent ?).	Nenhuma fonte detectada (fontconfig ausente?).
+Aucune recommandation (ubuntu-drivers absent ou matériel entièrement libre).	Nenhuma recomendação (ubuntu-drivers ausente ou hardware totalmente livre).
+Aucune règle détaillée disponible (pare-feu inactif ou privilèges insuffisants).	Nenhuma regra detalhada disponível (firewall inativo ou privilégios insuficientes).
+Aucune session active lisible.	Nenhuma sessão ativa legível.
+Aucune tâche planifiée.	Nenhuma tarefa agendada.
+Aucune unité contenant {}.	Nenhuma unidade contendo {}.
+Aucune zone d'échange active.	Nenhuma área de troca ativa.
+Audit de durcissement	Auditoria de endurecimento
+Audit en cours…	Auditoria em andamento…
+Autoriser	Permitir
+Avertissements	Avisos
+Bleu	Azul
+Boutons de fenêtre : {} · {} thème(s) · {} jeu(x) d'icônes · {} police(s)	Botões de janela: {} · {} tema(s) · {} conjunto(s) de ícones · {} fonte(s)
+COMPTES	CONTAS
+CONFIGURATIONS RÉSIDUELLES	CONFIGURAÇÕES RESIDUAIS
+CONNEXIONS ({})	CONEXÕES ({})
+CONSOMMATION	CONSUMO
+COPIE RSYNC	CÓPIA RSYNC
+CRONTAB UTILISATEUR	CRONTAB DO USUÁRIO
+CRÉER UN INSTANTANÉ	CRIAR UM INSTANTÂNEO
+CUPS n'est pas installé : aucun pilote d'impression actif.	O CUPS não está instalado: nenhum driver de impressão ativo.
+Cache : {} fichier(s), {} — {}	Cache: {} arquivo(s), {} — {}
+Capteurs	Sensores
+Cartes graphiques	Placas gráficas
+Ces valeurs seront écrites dans /etc/sysctl.d/99-orbisys.conf et appliquées immédiatement (Polkit) :\n{}	Esses valores serão gravados em /etc/sysctl.d/99-orbisys.conf e aplicados imediatamente (Polkit):\n{}
+Changer la locale du système	Alterar a localidade do sistema
+Changer le fuseau horaire	Alterar o fuso horário
+Changer le gouverneur CPU	Alterar o governador da CPU
+Chaque cible est mesurée avant action ; les cibles système demandent Polkit.	Cada alvo é medido antes da ação; os alvos do sistema pedem Polkit.
+Charger	Carregar
+Chemins absolus, sans `..` ; la destination ne doit pas exister.	Caminhos absolutos, sem `..`; o destino não deve existir.
+Châssis	Chassi
+Clavier (console)	Teclado (console)
+Cliquez sur le nom d'un processus pour le sélectionner.	Clique no nome de um processo para selecioná-lo.
+Comparaison par taille puis empreinte des 64 premiers Kio. Dossiers techniques ignorés (.git, node_modules, target, .cache, snap).	Comparação por tamanho e depois impressão digital dos primeiros 64 KiB. Pastas técnicas ignoradas (.git, node_modules, target, .cache, snap).
+Composants et capteurs, en lecture seule	Componentes e sensores, somente leitura
+Confirmer	Confirmar
+Confirmer la suppression	Confirmar a remoção
+Connexion sans mot de passe interactif (BatchMode) : une clé SSH doit être en place.	Conexão sem senha interativa (BatchMode): é preciso haver uma chave SSH.
+Conservation	Retenção
+Contrôles en lecture seule : rien n'est modifié par cet écran.	Verificações somente leitura: esta tela não modifica nada.
+Copie en mode miroir	Cópia em modo espelho
+Copier…	Copiar…
+Créer un instantané	Criar um instantâneo
+Créer un volume logique	Criar um volume lógico
+Créer…	Criar…
+Cœurs	Núcleos
+DERNIÈRES CONNEXIONS	ÚLTIMOS LOGINS
+DIAGNOSTIC	DIAGNÓSTICO
+DISQUES ET TRIM	DISCOS E TRIM
+Depuis	De
+Dernières actions	Últimas ações
+Diagnostic complet	Diagnóstico completo
+Disque /	Disco /
+Document PDF	Documento PDF
+Données JSON	Dados JSON
+Dossier cible	Pasta de destino
+Dure	Rígido
+DÉMARRAGES	INICIALIZAÇÕES
+DÉPENDANCES INUTILES (AUTOREMOVE)	DEPENDÊNCIAS DESNECESSÁRIAS (AUTOREMOVE)
+Délai d'attente	Tempo de espera
+Démonter un périphérique	Desmontar um dispositivo
+Démonter {}	Desmontar {}
+Démonter…	Desmontar…
+Désactiver un minuteur	Desativar um temporizador
+Désactiver une imprimante	Desativar uma impressora
+Désactiver {}	Desativar {}
+Désactiver…	Desativar…
+Désinstaller…	Desinstalar…
+Déverrouiller…	Desbloquear…
+ENTRÉES AUDIO	ENTRADAS DE ÁUDIO
+ERREURS RÉCURRENTES	ERROS RECORRENTES
+EXTENSIONS	EXTENSÕES
+Emplacement	Local
+Entrée par défaut	Entrada padrão
+Erreurs	Erros
+Export au format JSON (nom, version, source) puis réinstallation via APT, Snap et Flatpak.	Exportação em formato JSON (nome, versão, origem) e reinstalação via APT, Snap e Flatpak.
+Exporter	Exportar
+Exporter un instantané complet de la machine	Exportar um instantâneo completo da máquina
+Exporter…	Exportar…
+Exporté : {}	Exportado: {}
+Fermer	Fechar
+Fermer la session {}	Encerrar a sessão {}
+Fermer un volume chiffré	Fechar um volume criptografado
+Fermer…	Fechar…
+Fichiers usuels uniquement : ~/.ssh est volontairement exclu.	Somente arquivos usuais: ~/.ssh é excluído de propósito.
+Filtrer les services…	Filtrar serviços…
+Filtrer par nom, description ou section…	Filtrar por nome, descrição ou seção…
+Fond d'écran : {}	Plano de fundo: {}
+Forcer l'arrêt de	Forçar a parada de
+Forcer…	Forçar…
+Format : minute heure jour mois jour-semaine, ou @daily / @weekly / @reboot. La commande est exécutée par le shell de cron.	Formato: minuto hora dia mês dia-da-semana, ou @daily / @weekly / @reboot. O comando é executado pelo shell do cron.
+Formats acceptés : {} · destination : {}	Formatos aceitos: {} · destino: {}
+Fuseau	Fuso
+Fuseau horaire	Fuso horário
+GROUPES DE VOLUMES	GRUPOS DE VOLUMES
+GRUB régénéré	GRUB regenerado
+Garder {} et supprimer {} copie(s) identique(s) ({} libérés) ?	Manter {} e remover {} cópia(s) idêntica(s) ({} liberados)?
+Gouvernance : {} · pilote : {}	Governança: {} · driver: {}
+Gouverneur	Governador
+Gouverneur {}, vm.swappiness={}, THP={} (polkit).	Governador {}, vm.swappiness={}, THP={} (polkit).
+Horloge synchronisée	Relógio sincronizado
+IMPRIMANTES	IMPRESSORAS
+IMPRIMANTES (CUPS)	IMPRESSORAS (CUPS)
+INSTALLER UNE POLICE	INSTALAR UMA FONTE
+INSTANTANÉS TIMESHIFT	INSTANTÂNEOS DO TIMESHIFT
+INTERFACES	INTERFACES
+Imprimantes et audio	Impressoras e áudio
+Imprimantes et files CUPS	Impressoras e filas do CUPS
+Inactif	Inativo
+Installer un pilote	Instalar um driver
+Installer une police	Instalar uma fonte
+Installer {}	Instalar {}
+Installer…	Instalar…
+Installés hors dépôts	Instalados fora dos repositórios
+Instantanés et archives	Instantâneos e arquivos
+Interfaces, DNS, SSH, partages et connexions	Interfaces, DNS, SSH, compartilhamentos e conexões
+Journal des actions	Registro de ações
+Journal exporté : {}	Registro exportado: {}
+Journaux du noyau	Logs do kernel
+Jusqu'à	Até
+L'imprimante restera configurée mais n'acceptera plus de travaux.	A impressora continuará configurada, mas não aceitará mais trabalhos.
+L'imprimante sera retirée de CUPS (lpadmin -x). Cette action est irréversible.	A impressora será removida do CUPS (lpadmin -x). Esta ação é irreversível.
+L'unité sera arrêtée, désactivée puis effacée du disque. Cette action est irréversible.	A unidade será parada, desativada e depois apagada do disco. Esta ação é irreversível.
+LANGUE ET FUSEAU DU SYSTÈME	IDIOMA E FUSO HORÁRIO DO SISTEMA
+LISTE DES LOGICIELS	LISTA DE SOFTWARE
+LVM et chiffrement LUKS	LVM e criptografia LUKS
+LVM n'est pas installé : la page reste informative.	O LVM não está instalado: a página é apenas informativa.
+La règle sera retirée immédiatement.	A regra será removida imediatamente.
+La session de {} sur {} sera terminée immédiatement (loginctl, polkit).	A sessão de {} em {} será encerrada imediatamente (loginctl, polkit).
+La simulation n'a rien renvoyé : la suppression peut être sans dépendance ou indisponible.	A simulação não retornou nada: a remoção pode não ter dependências ou estar indisponível.
+La simulation utilise --dry-run : rien n'est écrit, rsync affiche ce qu'il ferait.	A simulação usa --dry-run: nada é gravado, o rsync mostra o que faria.
+Lancer un TRIM	Executar um TRIM
+Lancer un TRIM maintenant…	Executar um TRIM agora…
+Langue de la session	Idioma da sessão
+Langue du système	Idioma do sistema
+Langue, heure et polices	Idioma, hora e fontes
+Le fichier sera copié dans {} puis le cache fontconfig sera reconstruit (polkit).	O arquivo será copiado para {} e depois o cache do fontconfig será reconstruído (polkit).
+Le fichier sera écrit dans {}/{} puis systemd sera rechargé (polkit).	O arquivo será gravado em {}/{} e depois o systemd será recarregado (polkit).
+Le pilote {} sera installé pour {}. Un redémarrage peut être nécessaire.	O driver {} será instalado para {}. Pode ser necessário reiniciar.
+Le rapport contient la distribution, les compteurs de logiciels, le stockage, la mémoire, le score de sécurité et les dernières actions.	O relatório contém a distribuição, os contadores de software, o armazenamento, a memória, a pontuação de segurança e as últimas ações.
+Le service ne démarrera plus automatiquement au prochain démarrage.	O serviço não será mais iniciado automaticamente na próxima inicialização.
+Le service sera arrêté immédiatement.	O serviço será parado imediatamente.
+Le service sera arrêté immédiatement. Les services qui en dépendent peuvent s'arrêter aussi.	O serviço será parado imediatamente. Os serviços que dependem dele também podem parar.
+Le sous-volume sera définitivement supprimé (btrfs subvolume delete). Les données qu'il contient seront perdues.	O subvolume será excluído definitivamente (btrfs subvolume delete). Os dados que ele contém serão perdidos.
+Le timer ne déclenchera plus son unité jusqu'au prochain démarrage ou réactivation.	O temporizador não acionará mais sua unidade até a próxima inicialização ou reativação.
+Le trafic correspondant sera bloqué.	O tráfego correspondente será bloqueado.
+Lecture de l'état…	Lendo o estado…
+Lecture des instantanés…	Lendo instantâneos…
+Lecture des locales…	Lendo localidades…
+Lecture des montages…	Lendo montagens…
+Lecture des périphériques…	Lendo dispositivos…
+Lecture des quotas…	Lendo cotas…
+Lecture des réglages…	Lendo configurações…
+Lecture des sessions…	Lendo sessões…
+Lecture des sous-volumes…	Lendo subvolumes…
+Lecture des timers…	Lendo temporizadores…
+Lecture des tâches…	Lendo tarefas…
+Lecture du journal noyau…	Lendo o log do kernel…
+Lecture du réseau…	Lendo a rede…
+Lecture en cours…	Leitura em andamento…
+Les fichiers absents de la source seront supprimés de la destination.	Os arquivos ausentes na origem serão removidos do destino.
+Les logiciels listés dans {} seront installés (Polkit).\nVérifiez le fichier avant de continuer.	O software listado em {} será instalado (Polkit).\nVerifique o arquivo antes de continuar.
+Les programmes utilisant ce montage risquent de bloquer. Le système peut attendre la fin des accès avant de rendre la main.	Os programas que usam esta montagem podem travar. O sistema pode aguardar o fim dos acessos antes de devolver o controle.
+Ligne de commande	Linha de comando
+Lignes	Linhas
+Lire	Ler
+Liste des logiciels, copie, dotfiles et GRUB	Lista de software, cópia, dotfiles e GRUB
+Locale	Localidade
+MINUTEURS SYSTEMD	TEMPORIZADORES DO SYSTEMD
+MONTAGES	MONTAGENS
+Mesure indisponible (systemd-analyze absent).	Medição indisponível (systemd-analyze ausente).
+Minuteur fstrim.timer : {}	Temporizador fstrim.timer: {}
+Montages	Montagens
+Montages réseau	Montagens de rede
+Monter	Montar
+Monter {}	Montar {}
+Monter…	Montar…
+Motif	Padrão
+Muet	Mudo
+MÉMOIRE	MEMÓRIA
+NOM	NOME
+NOYAUX INSTALLÉS	KERNELS INSTALADOS
+Nettoyer…	Limpar…
+Notice	Aviso
+Nouveau modèle	Novo modelo
+Nouveau volume	Novo volume
+Nouvelle tâche	Nova tarefa
+Noyau en cours : {}	Kernel em execução: {}
+Noyau, swap et paramètres système	Kernel, swap e parâmetros do sistema
+Noyaux	Kernels
+ORIGINE	ORIGEM
+Orange	Laranja
+PARAMÈTRES NOYAU (PERSISTANTS)	PARÂMETROS DO KERNEL (PERSISTENTES)
+PARTAGE	COMPARTILHAMENTO
+PARTAGES	COMPARTILHAMENTOS
+PARTAGES SAMBA	COMPARTILHAMENTOS SAMBA
+PILOTES RECOMMANDÉS	DRIVERS RECOMENDADOS
+POLICES	FONTES
+PROCESSEUR	PROCESSADOR
+PROFILS	PERFIS
+Page, logiciel, service, processus…	Página, software, serviço, processo…
+Pages sales	Páginas sujas
+Paquets orphelins	Pacotes órfãos
+Paquets à purger :\n{}\nLe noyau en cours et le plus récent sont toujours conservés.	Pacotes a remover:\n{}\nO kernel em execução e o mais recente são sempre mantidos.
+Par défaut	Padrão
+Pare-feu UFW et tunnels VPN	Firewall UFW e túneis VPN
+Passerelle	Gateway
+Police	Fonte
+Polices installées	Fontes instaladas
+Port 631 : {} · Browsing : {} · écoute globale : {}	Porta 631: {} · Browsing: {} · escuta global: {}
+Port à autoriser ou refuser	Porta a permitir ou negar
+Priorité	Prioridade
+Processus les plus actifs	Processos mais ativos
+Processus {} (PID {}) : {}.\nLes données non enregistrées de ce programme peuvent être perdues.	Processo {} (PID {}): {}.\nOs dados não salvos deste programa podem ser perdidos.
+Profils de performance	Perfis de desempenho
+Purger les configurations résiduelles	Remover as configurações residuais
+Purger {} configuration(s)…	Remover {} configuração(ões)…
+PÉRIPHÉRIQUES CHIFFRÉS (LUKS)	DISPOSITIVOS CRIPTOGRAFADOS (LUKS)
+Quota pour {}	Cota para {}
+Quotas de disque	Cotas de disco
+RACCOURCIS CLAVIER	ATALHOS DE TECLADO
+RAM disponible	RAM disponível
+RAM totale	RAM total
+Rapport texte	Relatório de texto
+Rapport écrit : {}	Relatório gravado: {}
+Recherche : {}	Pesquisa: {}
+Recherche : {} · {} entrée(s) /etc/hosts	Pesquisa: {} · {} entrada(s) em /etc/hosts
+Recherche dans le journal systemd	Pesquisa no diário do systemd
+Recherche globale	Pesquisa global
+Rechercher	Pesquisar
+Reconstruire le cache	Reconstruir o cache
+Refuser…	Negar…
+Relancer l'audit	Executar a auditoria novamente
+Relire	Reler
+Remesurer	Medir novamente
+Reprendre	Retomar
+Rien à supprimer : seuls le noyau en cours et le plus récent sont conservés.	Nada a remover: apenas o kernel em execução e o mais recente são mantidos.
+Rose	Rosa
+RÈGLES	REGRAS
+RÉGLAGES INDIVIDUELS	CONFIGURAÇÕES INDIVIDUAIS
+RÉSEAUX WI-FI	REDES WI-FI
+Régénérer GRUB	Regenerar o GRUB
+Régénérer la configuration…	Regenerar a configuração…
+Réinstaller des logiciels	Reinstalar software
+Réinstaller…	Reinstalar…
+Réseau étendu	Rede avançada
+Résoudre	Resolver
+Rétablir le son	Restaurar o som
+SAUVEGARDE DISTANTE (RSYNC/SSH)	BACKUP REMOTO (RSYNC/SSH)
+SERVEUR SSH	SERVIDOR SSH
+SERVICES LES PLUS LENTS AU DÉMARRAGE	SERVIÇOS MAIS LENTOS NA INICIALIZAÇÃO
+SESSIONS ACTIVES	SESSÕES ATIVAS
+SORTIES AUDIO	SAÍDAS DE ÁUDIO
+SOUS-VOLUMES	SUBVOLUMES
+SUBSTITUTION FONTCONFIG	SUBSTITUIÇÃO DO FONTCONFIG
+Sans-serif : {} · monospace : {}	Sem serifa: {} · monoespaçada: {}
+Sauvegarde distante	Backup remoto
+Sauvegarder	Fazer backup
+Sauvegarder…	Fazer backup…
+Sauvegardes	Backups
+Schéma clair/sombre	Esquema claro/escuro
+Score {}/100	Pontuação {}/100
+Serveurs : {}	Servidores: {}
+Service NTP	Serviço NTP
+Sessions et comptes	Sessões e contas
+Seules les polices de {} peuvent être supprimées ; les polices des paquets sont protégées.	Apenas as fontes de {} podem ser removidas; as fontes dos pacotes são protegidas.
+Simuler	Simular
+Snap / Flatpak	Snap / Flatpak
+Souple	Flexível
+Sous-volumes et instantanés Btrfs	Subvolumes e instantâneos Btrfs
+Statut	Estado
+Supprimer des noyaux	Remover kernels
+Supprimer les copies	Remover as cópias
+Supprimer les copies…	Remover as cópias…
+Supprimer les dépendances inutiles	Remover as dependências desnecessárias
+Supprimer un volume logique	Remover um volume lógico
+Supprimer une imprimante	Remover uma impressora
+Supprimer une police	Remover uma fonte
+Supprimer une tâche cron	Remover uma tarefa cron
+Supprimer {}	Remover {}
+Supprimer {} ancien(s) noyau(x)…	Remover {} kernel(s) antigo(s)…
+Supprimer {} dépendance(s)…	Remover {} dependência(s)…
+Supprimer…	Remover…
+Swap utilisé	Swap usado
+Sélection : {} ({})	Seleção: {} ({})
+TRAVAUX	TRABALHOS
+TRIM non exposé	TRIM não exposto
+TRIM pris en charge	TRIM suportado
+TRIM, processeur et mémoire	TRIM, processador e memória
+Tableau CSV	Tabela CSV
+Tester	Testar
+Tester la connexion	Testar a conexão
+Thème GTK	Tema GTK
+Thème d'icônes	Tema de ícones
+Timers et unités de sauvegarde	Temporizadores e unidades de backup
+Total mesuré : {}	Total medido: {}
+Tous les travaux de cette imprimante seront annulés.	Todos os trabalhos desta impressora serão cancelados.
+Tous les travaux en attente pour cette imprimante seront annulés.	Todos os trabalhos pendentes desta impressora serão cancelados.
+Tout	Tudo
+Tout décocher	Desmarcar tudo
+Tout mettre à jour…	Atualizar tudo…
+Toutes les règles seront ignorées et les ports seront exposés.	Todas as regras serão ignoradas e as portas ficarão expostas.
+Toutes sources	Todas as origens
+Tâches planifiées	Tarefas agendadas
+UNITÉS DE SAUVEGARDE	UNIDADES DE BACKUP
+UTILISATEUR	USUÁRIO
+Unités	Unidades
+Unités systemd personnalisées	Unidades systemd personalizadas
+VOLUMES LOGIQUES	VOLUMES LÓGICOS
+Valeurs écrites dans /etc/sysctl.d/99-orbisys.conf puis appliquées par sysctl -p.	Valores gravados em /etc/sysctl.d/99-orbisys.conf e aplicados com sysctl -p.
+Verrouiller…	Bloquear…
+Vert	Verde
+Vider la file	Esvaziar a fila
+Vider la file de {}	Esvaziar a fila de {}
+Violet	Violeta
+VÉRIFICATION D'ARCHIVE	VERIFICAÇÃO DE ARQUIVO
+Vérifier	Verificar
+absent	ausente
+actif	ativo
+actif au démarrage	ativo na inicialização
+activée	ativada
+analyse : {}	análise: {}
+annulation : {}	cancelamento: {}
+apt-get autoremove --purge supprimera {} paquet(s) : {}	apt-get autoremove --purge removerá {} pacote(s): {}
+apt-get purge supprimera les fichiers de configuration de {} paquet(s) déjà désinstallés.	apt-get purge removerá os arquivos de configuração de {} pacote(s) já desinstalado(s).
+arrêté	parado
+aucun montage /	nenhuma montagem /
+aucune adresse IPv4	nenhum endereço IPv4
+aucune batterie	nenhuma bateria
+audio : {}	áudio: {}
+bloqué	bloqueado
+btrfs subvolume snapshot -r {} {} (lecture seule, polkit).	btrfs subvolume snapshot -r {} {} (somente leitura, polkit).
+cache : {}	cache: {}
+charge instantanée	carga instantânea
+compte : {}	conta: {}
+connecté	conectado
+cpupower absent : application du gouverneur impossible	cpupower ausente: não é possível aplicar o governador
+cpupower absent : la gouvernance peut être lue mais pas modifiée.	cpupower ausente: o governador pode ser lido, mas não alterado.
+cpupower frequency-set -g {} (polkit).	cpupower frequency-set -g {} (polkit).
+crontab n'est pas installé.	o crontab não está instalado.
+cryptsetup close {} : le volume sera verrouillé et devra être réouvert avec sa phrase secrète.	cryptsetup close {}: o volume será bloqueado e precisará ser reaberto com sua frase secreta.
+cupsdisable {} : les impressions en attente resteront bloquées.	cupsdisable {}: os trabalhos de impressão pendentes continuarão bloqueados.
+disponible	disponível
+disque rotatif	disco rotativo
+dotfiles : {}	dotfiles: {}
+doublons : {}	duplicatas: {}
+dépassé	excedido
+désactivée	desativada
+en attente	pendente
+en cours	em uso
+export : {}	exportação: {}
+export impossible : {}	exportação impossível: {}
+extension : {}	extensão: {}
+facultatif	opcional
+fait	concluído
+file : {}	fila: {}
+filtrer	filtrar
+filtrer un contrôle	filtrar uma verificação
+filtrer un message	filtrar uma mensagem
+filtrer un point de montage	filtrar um ponto de montagem
+filtrer un utilisateur	filtrar um usuário
+filtrer une famille	filtrar uma família
+format : 22, 22/tcp ou 8080/udp	formato: 22, 22/tcp ou 8080/udp
+fstrim -av parcourt tous les systèmes de fichiers montés et signale aux SSD les blocs libres. L'opération peut durer plusieurs minutes et n'efface aucune donnée.	fstrim -av percorre todos os sistemas de arquivos montados e informa aos SSDs os blocos livres. A operação pode levar vários minutos e não apaga nenhum dado.
+fuseau : {}	fuso horário: {}
+gouverneur : {}	governador: {}
+groupe	grupo
+gsettings est absent : GNOME n'est pas le bureau actif.	gsettings ausente: o GNOME não é o ambiente de desktop ativo.
+hôte ou adresse	host ou endereço
+illimité	ilimitado
+imprimante : {}	impressora: {}
+inactif	inativo
+inconnu	desconhecido
+installation : {}	instalação: {}
+instantané	instantâneo
+instantané : {}	instantâneo: {}
+interfaces : {} · wireguard : {} · connexions actives : {}	interfaces: {} · wireguard: {} · conexões ativas: {}
+inventaire non chargé	inventário não carregado
+journaux : {}	logs: {}
+lecture seule	somente leitura
+lecture/écriture	leitura/escrita
+liste exportée : {} ({} logiciels)	lista exportada: {} ({} programas)
+locale : {}	localidade: {}
+localectl set-locale LANG={} (Polkit).\nLa session en cours n'est pas modifiée ; la locale s'applique aux nouvelles sessions.	localectl set-locale LANG={} (Polkit).\nA sessão atual não é modificada; a localidade se aplica às novas sessões.
+logiciel introuvable dans l'inventaire	software não encontrado no inventário
+lpadmin -x {} : la file et ses réglages seront supprimés.	lpadmin -x {}: a fila e suas configurações serão removidas.
+lvremove -f {}/{} : toutes les données de ce volume seront perdues.	lvremove -f {}/{}: todos os dados deste volume serão perdidos.
+manuel	manual
+minuteur : {}	temporizador: {}
+mode miroir (--delete)	modo espelho (--delete)
+montage : {}	montagem: {}
+monté	montado
+mount {} ({}:{}, polkit). Le serveur doit être joignable.	mount {} ({}:{}, polkit). O servidor deve estar acessível.
+nom de famille demandé	nome de família solicitado
+non	não
+non activé au démarrage	não ativado na inicialização
+non détectées	não detectadas
+non installé	não instalado
+non listé	não listado
+notables seulement	apenas notáveis
+noyaux : {}	kernels: {}
+ou en terminal : sudo {}	ou em um terminal: sudo {}
+oui	sim
+pactl est absent : serveur audio non détecté.	pactl ausente: servidor de áudio não detectado.
+par défaut	padrão
+partage exposé sur le réseau	compartilhamento exposto na rede
+partage non exposé	compartilhamento não exposto
+pilote : {}	driver: {}
+ping : {}	ping: {}
+polices : {}	fontes: {}
+processus : {}	processo: {}
+profil : {}	perfil: {}
+présent	presente
+purge : {}	remoção: {}
+quota : {}	cota: {}
+quotaon activera les quotas déjà configurés sur ce montage.	quotaon ativará as cotas já configuradas nesta montagem.
+rsync -a {} → {}\nLes fichiers absents de la source ne sont pas supprimés sur la cible.	rsync -a {} → {}\nOs arquivos ausentes na origem não são removidos do destino.
+rsync : {}	rsync: {}
+rsync distant : {}	rsync remoto: {}
+résolution : {}	resolução: {}
+score {} %	pontuação {} %
+session : {}	sessão: {}
+substitution : {}	substituição: {}
+suppression : {}	remoção: {}
+suppression via le gestionnaire natif, confirmée par Polkit	remoção pelo gerenciador nativo, confirmada pelo Polkit
+swappiness : valeur entre 0 et 100 attendue	swappiness: espera-se um valor entre 0 e 100
+systemctl disable --now {} : les tâches planifiées de ce minuteur ne seront plus exécutées.	systemctl disable --now {}: as tarefas agendadas deste temporizador não serão mais executadas.
+taille minimale (Kio)	tamanho mínimo (KiB)
+test serveur : {}	teste do servidor: {}
+timedatectl set-timezone {} (Polkit). Les horodatages des journaux existants restent inchangés.	timedatectl set-timezone {} (Polkit). Os carimbos de data/hora dos logs existentes permanecem inalterados.
+timeout, refusé…	timeout, recusado…
+timer : {}	temporizador: {}
+timer {}	temporizador {}
+udisksctl unmount -b {} : arrêter les applications qui l'utilisent.	udisksctl unmount -b {}: pare os aplicativos que o utilizam.
+unité (ex. nginx.service)	unidade (ex.: nginx.service)
+unités : {}	unidades: {}
+update-grub réécrit /boot/grub/grub.cfg. Une entrée manquante peut empêcher le démarrage : vérifiez les noyaux listés ci-dessus.	update-grub reescreve /boot/grub/grub.cfg. Uma entrada ausente pode impedir a inicialização: verifique os kernels listados acima.
+usermod -L empêche toute connexion par mot de passe de ce compte.	usermod -L impede qualquer login por senha nesta conta.
+usermod -U rétablit la connexion par mot de passe.	usermod -U restabelece o login por senha.
+via {}	via {}
+{} ({}) — {} utilisés sur {}	{} ({}) — {} usados de {}
+{} / {} · priorité {}	{} / {} · prioridade {}
+{} appareil(s) · {} montage(s) · {} instantané(s)	{} dispositivo(s) · {} montagem(ns) · {} instantâneo(s)
+{} conformes · {} partiels · {} non conformes · {} inconnus	{} conformes · {} parciais · {} não conformes · {} desconhecidos
+{} copie(s) supprimée(s), {} libérés	{} cópia(s) removida(s), {} liberados
+{} cœur(s) · gouverneur {} · swap {}	{} núcleo(s) · governador {} · swap {}
+{} entrée(s) · {} montage(s) avec quotas · outil {}	{} entrada(s) · {} montagem(ns) com cotas · ferramenta {}
+{} entrée(s) · {} montée(s) · showmount {}	{} entrada(s) · {} montada(s) · showmount {}
+{} famille(s) de polices · {} locale(s) disponible(s)	{} família(s) de fontes · {} localidade(s) disponível(is)
+{} famille(s) installée(s)	{} família(s) instalada(s)
+{} fichiers analysés · {} groupe(s) · {} récupérables{}	{} arquivos analisados · {} grupo(s) · {} recuperáveis{}
+{} groupe(s) · {} volume(s) · {} périphérique(s) chiffré(s)	{} grupo(s) · {} volume(s) · {} dispositivo(s) criptografado(s)
+{} hors dépôts	{} fora dos repositórios
+{} imprimante(s) · {} sortie(s) · {} entrée(s)	{} impressora(s) · {} saída(s) · {} entrada(s)
+{} imprimante(s) · {} travail(x) en file	{} impressora(s) · {} trabalho(s) na fila
+{} instantané(s)	{} instantâneo(s)
+{} instantané(s) · Timeshift {}	{} instantâneo(s) · Timeshift {}
+{} libres sur /	{} livres em /
+{} ligne(s) affichée(s)	{} linha(s) exibida(s)
+{} ligne(s) · {} message(s) récurrent(s)	{} linha(s) · {} mensagem(ns) recorrente(s)
+{} mise(s) à jour disponible(s)	{} atualização(ões) disponível(is)
+{} mise(s) à jour seront installées ({}). Une authentification administrateur est demandée.	{} atualização(ões) será(ão) instalada(s) ({}). A autenticação de administrador é solicitada.
+{} montage(s) · {} sous-volume(s) · {} instantané(s) · outil {}	{} montagem(ns) · {} subvolume(s) · {} instantâneo(s) · ferramenta {}
+{} paquet(s) seraient installés	{} pacote(s) seriam instalados
+{} paquet(s) seraient retirés	{} pacote(s) seriam removidos
+{} paquets · {} snap · {} flatpak · {} hors dépôts	{} pacotes · {} snap · {} flatpak · {} fora dos repositórios
+{} personnalisée(s) · {} service(s)	{} personalizada(s) · {} serviço(s)
+{} point(s) à surveiller	{} ponto(s) a observar
+{} processus	{} processos
+{} périphériques USB · {} PCI	{} dispositivos USB · {} PCI
+{} résultat(s)	{} resultado(s)
+{} session(s) · {} connexion(s) · {} compte(s) vérifié(s)	{} sessão(ões) · {} login(s) · {} conta(s) verificada(s)
+{} souple / {} dure sur {} (setquota, polkit).	{} flexível / {} rígida em {} (setquota, polkit).
+{} style(s)	{} estilo(s)
+{} supprimable(s) · {} configuration(s) résiduelle(s) · {}	{} removível(is) · {} configuração(ões) residual(is) · {}
+{} système(s) de fichiers	{} sistema(s) de arquivos
+{} sélectionné(s)	{} selecionado(s)
+{} timer(s) · {} unité(s) de sauvegarde · {} en échec	{} temporizador(es) · {} unidade(s) de backup · {} com falha
+{} tâche(s) cron · {} minuteur(s)	{} tarefa(s) cron · {} temporizador(es)
+{} unités	{} unidades
+{} utilisés · {} libres sur {}	{} usados · {} livres de {}
+{} {}\nLa tâche sera retirée du crontab utilisateur.	{} {}\nA tarefa será removida do crontab do usuário.
+{} · libre {} · {} PV / {} LV · {} % utilisé	{} · livre {} · {} PV / {} LV · {} % usado
+{} élément(s) de configuration · {} noyau(x)	{} item(ns) de configuração · {} kernel(s)
+{}rsync distant\n{}	{}rsync remoto\n{}
+{}rsync terminé\n{}	{}rsync concluído\n{}
+« {} » absente → remplacée par « {} »	“{}” ausente → substituída por “{}”
+« {} » installée	“{}” instalada
+ÉCHANGE (SWAP)	TROCA (SWAP)
+ÉDITEUR D'UNITÉ	EDITOR DE UNIDADES
+ÉTAT	ESTADO
+État des comptes indisponible (passwd restreint).	Estado das contas indisponível (passwd restrito).
+à traiter	a tratar
+… et {} autre(s) famille(s)	… e mais {} família(s)
+… {} entrée(s) masquée(s), affinez le filtre.	… {} entrada(s) oculta(s), refine o filtro.
+… {} familles supplémentaires masquées, affinez le filtre.	… {} famílias adicionais ocultas, refine o filtro.
+Description	Descrição
+Version {} · licence MIT · Rust + egui	Versão {} · licença MIT · Rust + egui
+Alerte : {}	Alerta: {}
+simulation : 	simulação: 
+score d'audit	pontuação da auditoria
+ · muet	 · mudo
+ (libre)	 (livre)
+{} disque(s) · gouvernance {} · TRIM {}	{} disco(s) · governança {} · TRIM {}
+{} style(s) : {}	{} estilo(s): {}
+{} extension(s) · {} raccourci(s)	{} extensão(ões) · {} atalho(s)
+route {} via {} · {} interface(s)	rota {} via {} · {} interface(s)
+{} interface(s) · {} connexion(s)	{} interface(s) · {} conexão(ões)
+{} · port {} · PermitRootLogin {} · PasswordAuthentication {}	{} · porta {} · PermitRootLogin {} · PasswordAuthentication {}
+entrant {} · sortant {}	entrada {} · saída {}
+{} physiques · {} logiques · {}	{} físicos · {} lógicos · {}
+{} processus · CPU {} % · charge {} / {} / {}	{} processos · CPU {} % · carga {} / {} / {}
+{} ligne(s)	{} linha(s)
+{} · {} erreur(s) · {} avertissement(s)	{} · {} erro(s) · {} aviso(s)
+disponibles : {}	disponíveis: {}
+non défini	não definido
+Manuel	Manual
+Entrée .desktop	Entrada .desktop
+erreur	erro
+avertissement	aviso
+information	informação
+mémoire	memória
+matériel	hardware
+stockage	armazenamento
+thermique	térmico
+réseau	rede
+graphique	gráficos
+divers	outros
+Informations	Informações
+conforme	conforme
+partiel	parcial
+non conforme	não conforme
+Attention	Atenção
+Critique	Crítico
+terminer (SIGTERM)	encerrar (SIGTERM)
+forcer l'arrêt (SIGKILL)	forçar a parada (SIGKILL)
+suspendre (SIGSTOP)	suspender (SIGSTOP)
+reprendre (SIGCONT)	retomar (SIGCONT)
+priorité {}	prioridade {}
+Activer le pare-feu	Ativar o firewall
+Désactiver le pare-feu	Desativar o firewall
+Autoriser {}	Permitir {}
+Refuser {}	Negar {}
+Supprimer la règle n°{}	Remover a regra n.º {}
+Cache des paquets téléchargés	Cache de pacotes baixados
+Journal systemd	Diário do systemd
+Corbeille	Lixeira
+Cache utilisateur	Cache do usuário
+Vignettes	Miniaturas
+Noyaux obsolètes	Kernels obsoletos
+Archives .deb déjà installées, dans /var/cache/apt/archives.	Arquivos .deb já instalados, em /var/cache/apt/archives.
+Anciennes entrées du journal, réduites à 200 Mio.	Entradas antigas do diário, reduzidas a 200 MiB.
+Fichiers placés dans la corbeille.	Arquivos colocados na lixeira.
+Caches applicatifs de ~/.cache (vignettes incluses).	Caches de aplicativos em ~/.cache (incluindo miniaturas).
+Aperçus d'images et de vidéos régénérés automatiquement.	Pré-visualizações de imagens e vídeos regeneradas automaticamente.
+{} noyau(x) plus ancien(s) que celui en cours : {}.	{} kernel(s) mais antigo(s) que o atual: {}.
+{} révision(s) désactivée(s) conservées par snap.	{} revisão(ões) desativada(s) mantidas pelo snap.
+impression en cours	imprimindo
+prête	pronta
+inconnue	desconhecida
+user@hôte:/srv/sauvegarde	user@host:/srv/backup
+/usr/local/bin/sauvegarde.sh	/usr/local/bin/backup.sh
+/usr/bin/mon-script	/usr/bin/my-script
+/home/amine/sauvegarde.tar.gz	/home/user/backup.tar.gz
+/home/amine/Téléchargements/ma-police.ttf	/home/user/Downloads/my-font.ttf
+mon-service.service	my-service.service
+PermitRootLogin non défini (défaut dépendant de la version)	PermitRootLogin não definido (o padrão depende da versão)
+Connexion root en SSH interdite	Login de root por SSH proibido
+SSH	SSH
+Définir « PermitRootLogin no » dans /etc/ssh/sshd_config.	Defina “PermitRootLogin no” em /etc/ssh/sshd_config.
+authentification par mot de passe non définie	autenticação por senha não definida
+Authentification SSH par clé uniquement	Autenticação SSH somente por chave
+Désactiver PasswordAuthentication après avoir déployé des clés.	Desative PasswordAuthentication depois de implantar as chaves.
+pare-feu actif, refus par défaut en entrée	firewall ativo, negação padrão na entrada
+pare-feu actif mais politique d'entrée non restrictive	firewall ativo, mas a política de entrada não é restritiva
+pare-feu inactif	firewall inativo
+Pare-feu actif avec refus par défaut	Firewall ativo com negação padrão
+Activer ufw puis « ufw default deny incoming ».	Ative o ufw e depois “ufw default deny incoming”.
+AppArmor actif	AppArmor ativo
+Noyau	Kernel
+service apparmor actif	serviço apparmor ativo
+service apparmor inactif ou absent	serviço apparmor inativo ou ausente
+Installer apparmor et activer le service.	Instale o apparmor e ative o serviço.
+Mises à jour de sécurité automatiques	Atualizações de segurança automáticas
+unattended-upgrades activé	unattended-upgrades ativado
+unattended-upgrades non activé	unattended-upgrades não ativado
+Activer unattended-upgrades (apt-daily-upgrade.timer).	Ative o unattended-upgrades (apt-daily-upgrade.timer).
+ASLR complet	ASLR completo
+Régler kernel.randomize_va_space=2.	Defina kernel.randomize_va_space=2.
+Core dumps des binaires SUID désactivés	Core dumps de binários SUID desativados
+Régler fs.suid_dumpable=0.	Defina fs.suid_dumpable=0.
+Routage IPv4 désactivé	Roteamento IPv4 desativado
+Régler net.ipv4.ip_forward=0 sauf si la machine est un routeur.	Defina net.ipv4.ip_forward=0, a menos que a máquina seja um roteador.
+PASS_MAX_DAYS {} (supérieur à 365)	PASS_MAX_DAYS {} (superior a 365)
+PASS_MAX_DAYS illisible	PASS_MAX_DAYS ilegível
+Expiration des mots de passe	Expiração de senhas
+Accès	Acesso
+Régler PASS_MAX_DAYS à 365 ou moins dans /etc/login.defs.	Defina PASS_MAX_DAYS como 365 ou menos em /etc/login.defs.
+/tmp monté avec nodev et nosuid	/tmp montado com nodev e nosuid
+Système de fichiers	Sistema de arquivos
+Monter /tmp avec nodev,nosuid (ou via tmpfs).	Monte /tmp com nodev,nosuid (ou via tmpfs).
+Journalisation d'audit active	Registro de auditoria ativo
+Audit	Auditoria
+service auditd actif	serviço auditd ativo
+auditd inactif ou non installé	auditd inativo ou não instalado
+Installer auditd et activer le service.	Instale o auditd e ative o serviço.
+ufw absent : contrôle pare-feu partiel	ufw ausente: verificação do firewall parcial
+systemctl absent : services non vérifiés	systemctl ausente: serviços não verificados
+Équilibre bureau : fréquence à la demande, swap modéré.	Equilíbrio de desktop: frequência sob demanda, swap moderado.
+Fréquence maximale, swap minimal, pages géantes systématiques.	Frequência máxima, swap mínimo, páginas enormes sistemáticas.
+Batterie et silence : fréquence basse, swap agressif.	Bateria e silêncio: frequência baixa, swap agressivo.
+cpufreq indisponible : gouvernance non exposée	cpufreq indisponível: governador não exposto
+gouverneur refusé : {} (disponibles : {})	governador recusado: {} (disponíveis: {})
+gouverneur appliqué : {}	governador aplicado: {}
+mode THP refusé : {}	modo THP recusado: {}
+transparent_hugepage non exposé par ce noyau	transparent_hugepage não exposto por este kernel
+gouverneur : échec ({})	governador: falha ({})
+swappiness : échec ({})	swappiness: falha ({})
+compte verrouillé	conta bloqueada
+mot de passe actif	com senha
+aucun mot de passe	sem senha
+état {}	estado {}
+utilisateur refusé : {}	usuário recusado: {}
+compte déverrouillé	conta desbloqueada
+session refusée : {}	sessão recusada: {}
+session {} fermée	sessão {} encerrada
+Réactif	Reativo
+Performance	Desempenho
+Économie	Economia
+planification invalide : cinq champs (min heure jour mois jour-semaine) ou @daily	agendamento inválido: cinco campos (min hora dia mês dia-semana) ou @daily
+commande invalide	comando inválido
+crontab n'est pas installé	o crontab não está instalado
+tâche ajoutée : {} {}	tarefa adicionada: {} {}
+tâche invalide	tarefa inválida
+tâche supprimée : {} {}	tarefa removida: {} {}
+minuteur invalide : nom attendu au format nom.timer	temporizador inválido: nome esperado no formato nome.timer
+APT : {} paquet(s) installé(s)	APT: {} pacote(s) instalado(s)
+APT : échec — {}	APT: falha — {}
+Snap : {} logiciel(s) installé(s)	Snap: {} software(s) instalado(s)
+Snap : échec — {}	Snap: falha — {}
+Flatpak : {} application(s) installée(s)	Flatpak: {} aplicativo(s) instalado(s)
+Flatpak : échec — {}	Flatpak: falha — {}
+aucun logiciel à réinstaller dans ce fichier	nenhum software a reinstalar neste arquivo
+source introuvable : {}	origem não encontrada: {}
+refus de copier la racine du système	recusa-se copiar a raiz do sistema
+destination refusée : racine du système	destino recusado: raiz do sistema
+source et destination identiques	origem e destino são idênticos
+la destination ne peut pas être à l'intérieur de la source	o destino não pode estar dentro da origem
+rsync n'est pas installé	o rsync não está instalado
+aucun fichier de configuration détecté	nenhum arquivo de configuração detectado
+{} élément(s) sauvegardé(s) dans {}	{} item(ns) salvo(s) em {}
+ni update-grub ni grub-mkconfig ne sont disponibles	nem update-grub nem grub-mkconfig estão disponíveis
+la sauvegarde doit être un dossier	o backup deve ser uma pasta
+aucun fichier de configuration reconnu dans ce dossier	nenhum arquivo de configuração reconhecido nesta pasta
+{} élément(s) restauré(s) (les originaux sont conservés en .um-bak-{})	{} item(ns) restaurado(s) (os originais são mantidos como .um-bak-{})
+dossier personnel introuvable	pasta pessoal não encontrada
+chemins refusés : attendu des chemins absolus sans `..`	caminhos recusados: esperados caminhos absolutos sem `..`
+la source et la destination sont identiques	a origem e o destino são idênticos
+la destination existe déjà : {}	o destino já existe: {}
+dossier parent absent : {}	pasta pai ausente: {}
+instantané créé : {}	instantâneo criado: {}
+chemin refusé : {}	caminho recusado: {}
+sous-volume supprimé : {}	subvolume removido: {}
+btrfs-progs absent : sous-volumes illisibles	btrfs-progs ausente: subvolumes ilegíveis
+{} élément(s) retiré(s) de la corbeille	{} item(ns) removido(s) da lixeira
+dossier de cache introuvable	pasta de cache não encontrada
+{} entrée(s) de cache supprimée(s)	{} entrada(s) de cache removida(s)
+{} vignette(s) supprimée(s)	{} miniatura(s) removida(s)
+aucune révision désactivée	nenhuma revisão desativada
+{} r{} supprimée	{} r{} removida
+travail refusé : {}	trabalho recusado: {}
+travail annulé : {}	trabalho cancelado: {}
+imprimante refusée : {}	impressora recusada: {}
+file vidée : {}	fila esvaziada: {}
+imprimante supprimée : {}	impressora removida: {}
+schéma ou clé invalide	esquema ou chave inválidos
+valeur refusée	valor recusado
+identifiant d'extension invalide	identificador de extensão inválido
+gnome-extensions n'est pas disponible	gnome-extensions não está disponível
+ufw n'est pas installé : pare-feu non gérable depuis l'application.	O ufw não está instalado: o firewall não pode ser gerenciado pelo aplicativo.
+pare-feu inactif : aucune règle n'est appliquée.	firewall inativo: nenhuma regra é aplicada.
+ufw n'est pas installé	o ufw não está instalado
+port refusé : {}	porta recusada: {}
+numéro de règle invalide	número de regra inválido
+les règles ont changé depuis l'affichage : actualisez et recommencez	as regras mudaram desde a exibição: atualize e tente novamente
+extension absente : attendu ttf, otf, ttc, woff ou woff2	extensão ausente: esperado ttf, otf, ttc, woff ou woff2
+extension refusée : .{}	extensão recusada: .{}
+fichier introuvable : {}	arquivo não encontrado: {}
+nom de famille invalide	nome de família inválido
+famille refusée : {}	família recusada: {}
+nom de fichier invalide	nome de arquivo inválido
+nom de fichier caché refusé	nome de arquivo oculto recusado
+police installée : {}	fonte instalada: {}
+suppression limitée à {} : {}	remoção limitada a {}: {}
+police supprimée : {}	fonte removida: {}
+aucune valeur à appliquer	nenhum valor a aplicar
+clé refusée : {}	chave recusada: {}
+valeur refusée pour {}	valor recusado para {}
+{} réglage(s) appliqué(s) et persistés dans {}	{} configuração(ões) aplicada(s) e persistida(s) em {}
+aucun noyau à supprimer	nenhum kernel a remover
+paquet refusé : {}	pacote recusado: {}
+refus de supprimer le noyau en cours : {}	recusa-se remover o kernel em execução: {}
+{} noyau(x) supprimé(s)	{} kernel(s) removido(s)
+pilote refusé : {}	driver recusado: {}
+ubuntu-drivers n'est pas disponible	ubuntu-drivers não está disponível
+pilote {} installé	driver {} instalado
+locale invalide : format attendu fr_FR.UTF-8	localidade inválida: formato esperado fr_FR.UTF-8
+localectl n'est pas disponible	localectl não está disponível
+locale système : {}	localidade do sistema: {}
+fuseau invalide : format attendu Europe/Paris	fuso horário inválido: formato esperado Europe/Paris
+timedatectl n'est pas disponible	timedatectl não está disponível
+nom de groupe ou de volume invalide	nome de grupo ou volume inválido
+taille invalide : attendu un nombre suivi de K, M, G ou T	tamanho inválido: esperado um número seguido de K, M, G ou T
+volume {}/{} créé ({})	volume {}/{} criado ({})
+référence attendue : groupe/volume	referência esperada: grupo/volume
+référence de volume invalide	referência de volume inválida
+volume {}/{} supprimé	volume {}/{} removido
+nom de périphérique invalide	nome de dispositivo inválido
+{} fermé	{} fechado
+périphérique invalide	dispositivo inválido
+hôte refusé : {}	host recusado: {}
+résolution impossible : {}	resolução impossível: {}
+aucune route par défaut	nenhuma rota padrão
+point de montage refusé : {}	ponto de montagem recusado: {}
+serveur refusé : {}	servidor recusado: {}
+fstrim n'est pas disponible (paquet util-linux)	fstrim não está disponível (pacote util-linux)
+TRIM terminé	TRIM concluído
+gouvernance refusée : {}	governador recusado: {}
+cpupower est requis pour changer la gouvernance (paquet linux-tools)	o cpupower é necessário para alterar o governador (pacote linux-tools)
+dépendances inutiles supprimées	dependências desnecessárias removidas
+aucun paquet à purger	nenhum pacote a remover
+trop de paquets en une fois (200 maximum)	pacotes demais de uma vez (máximo 200)
+nom de paquet refusé : {}	nome de pacote recusado: {}
+{} configuration(s) purgée(s)	{} configuração(ões) removida(s)
+nom d'imprimante invalide	nome de impressora inválido
+imprimante par défaut : {}	impressora padrão: {}
+imprimante {} supprimée	impressora {} removida
+nom de sortie audio invalide	nome de saída de áudio inválido
+sortie par défaut : {}	saída padrão: {}
+sourdine basculée pour {}	mudo alternado para {}
+ajustement attendu entre -100 et +100	esperado ajuste entre -100 e +100
+volume de {} ajusté de {}	volume de {} ajustado em {}
+la limite souple dépasse la limite dure	o limite flexível excede o limite rígido
+quota appliqué : {} sur {} ({} / {})	cota aplicada: {} em {} ({} / {})
+quotas activés : {}	cotas ativadas: {}
+repquota absent : paquet quota non installé	repquota ausente: pacote quota não instalado
+systemd non disponible sur ce système	systemd não disponível neste sistema
+unité refusée : {}	unidade recusada: {}
+cible invalide : format attendu user@hôte:/chemin	destino inválido: formato esperado user@host:/caminho
+hôte introuvable dans la cible	host não encontrado no destino
+connexion à {} établie	conexão com {} estabelecida
+connexion à {} impossible : {}	conexão com {} impossível: {}
+chemin refusé	caminho recusado
+format non pris en charge : attendu .tar[.gz|.xz|.bz2], .tgz, .txz, .zip	formato não suportado: esperado .tar[.gz, .xz, .bz2], .tgz, .txz, .zip
+archive invalide : {}	arquivo inválido: {}
+archive valide : {} entrée(s) · {}	arquivo válido: {} entrada(s) · {}
+action refusée : {}	ação recusada: {}
+le nom doit se terminer par .service	o nome deve terminar em .service
+nom d'unité refusé : {}	nome de unidade recusado: {}
+fichier d'unité trop volumineux (64 Kio maximum)	arquivo de unidade grande demais (máximo 64 KiB)
+ExecStart= manquant ou vide	ExecStart= ausente ou vazio
+unité introuvable : {}	unidade não encontrada: {}
+unité installée : {}	unidade instalada: {}
+pas une unité personnalisée : {}	não é uma unidade personalizada: {}
+unité supprimée : {}	unidade removida: {}
+date de début invalide : AAAA-MM-JJ ou AAAA-MM-JJ HH:MM	data de início inválida: AAAA-MM-DD ou AAAA-MM-DD HH:MM
+date de fin invalide : AAAA-MM-JJ ou AAAA-MM-JJ HH:MM	data de fim inválida: AAAA-MM-DD ou AAAA-MM-DD HH:MM
+rien à exporter : lancez d'abord une recherche	nada a exportar: execute uma pesquisa primeiro
+{} × {} ({} récupérables)	{} × {} ({} recuperáveis)
+original introuvable : {}	original não encontrado: {}
+l'original a changé depuis l'analyse : relancez l'analyse	o original mudou desde a análise: execute a análise novamente
+refus d'agir sur le processus système (PID ≤ 1)	recusa-se agir sobre o processo do sistema (PID ≤ 1)
+refus d'agir sur l'application elle-même	recusa-se agir sobre o próprio aplicativo
+le processus {} n'existe plus	o processo {} não existe mais
+le PID {} désigne maintenant « {} » et non « {} » : actualisez la liste	o PID {} agora designa “{}” e não “{}”: atualize a lista
+refus d'agir sur un thread du noyau	recusa-se agir sobre uma thread do kernel
+priorité hors limites (-20 à 19) : {}	prioridade fora do intervalo (-20 a 19): {}
+aucun paquet sélectionné	nenhum pacote selecionado
+{} : à jour	{}: atualizado
+{} : échec — {}	{}: falha — {}
+Snap : à jour	Snap: atualizado
+Flatpak : à jour	Flatpak: atualizado
+aucune mise à jour à appliquer	nenhuma atualização a aplicar
+chemin introuvable : {}	caminho não encontrado: {}
+chemin refusé (hors de /opt)	caminho recusado (fora de /opt)
+entrée de bureau hors des dossiers autorisés	entrada de desktop fora das pastas permitidas
+entrée supprimée : {}	entrada removida: {}
+chemin hors du dossier personnel	caminho fora da pasta pessoal
+supprimé : {}	removido: {}
+Connexion SSH de root	Login de root por SSH
+Authentification par mot de passe SSH	Autenticação SSH por senha
+Serveur SSH absent	Servidor SSH ausente
+Aucun /etc/ssh/sshd_config : rien à vérifier.	Nenhum /etc/ssh/sshd_config: nada a verificar.
+Le pare-feu système est démarré.	O firewall do sistema está iniciado.
+Aucune règle de filtrage n'est appliquée au démarrage.	Nenhuma regra de filtragem é aplicada na inicialização.
+Pare-feu non détecté	Firewall não detectado
+Ni ufw ni firewalld ne sont installés.	Nem ufw nem firewalld estão instalados.
+Mises à jour automatiques	Atualizações automáticas
+unattended-upgrades est installé.	unattended-upgrades está instalado.
+unattended-upgrades absent : les correctifs de sécurité attendent une action manuelle.	unattended-upgrades ausente: as correções de segurança aguardam uma ação manual.
+{} binaires avec le bit setuid dans /usr/bin et /usr/sbin.	{} binários com o bit setuid em /usr/bin e /usr/sbin.
+{} sockets TCP/UDP en écoute.	{} sockets TCP/UDP em escuta.
+Activé.	Ativado.
+Désactivé.	Desativado.
+Non applicable (démarrage BIOS ou variables EFI illisibles).	Não aplicável (inicialização BIOS ou variáveis EFI ilegíveis).
+Module non monté.	Módulo não montado.
+Normal	Normal
+Utilisée	Usada
+Disponible	Disponível
+Total	Total
+Maintenant	Agora
+il y a {} s	há {} s
+il y a {} min	há {} min
+Utilisation du processeur	Uso do processador
+Utilisation de la mémoire	Uso da memória
+Processus principaux	Principais processos
+Système sain	Sistema saudável
+Tous les services sont actifs	Todos os serviços ativos
+Attention requise	Atenção necessária
+Seuils dépassés	Limites excedidos
+{} services en échec	{} serviços com falha
+{} cœurs	{} núcleos
+consomme {} % du processeur	consome {} % do processador
+outil légitime souvent détourné : vérifiez que vous l'avez bien installé vous-même	ferramenta legítima frequentemente desviada: verifique se foi você que a instalou
+Processus examinés : {} (exécutable lisible pour {} ; les processus d'autres utilisateurs ne sont jugés que sur leur nom et leur ligne de commande)	Processos examinados: {} (executável legível em {}; processos de outros usuários são avaliados apenas pelo nome e pela linha de comando)
+Connexions réseau : {}	Conexões de rede: {}
+Scripts de démarrage et planifications : {}	Scripts de inicialização e agendamentos: {}
+Entrées de fichiers parcourues : {} (dossiers temporaires et dossier personnel, profondeur limitée){}	Entradas de arquivos percorridas: {} (pastas temporárias e pasta pessoal, profundidade limitada){}
+Vérifié : processus, réseau, persistance, fichiers exécutables/setuid, comptes, outils à double usage.	Verificado: processos, rede, persistência, arquivos executáveis/setuid, contas, ferramentas de uso duplo.
+Non vérifié : contenu des fichiers (hors scripts de démarrage), mémoire, noyau, firmware.	Não verificado: conteúdo dos arquivos (exceto scripts de inicialização), memória, kernel, firmware.
+Activer zram	Ativar zram
+Activer zram…	Ativar zram…
+Désactiver zram	Desativar zram
+Désactiver zram…	Desativar zram…
+Échange compressé (zram)	Troca comprimida (zram)
+Le module zram est chargé et systemd-zram-setup@zram0.service démarré : une zone d'échange compressée en RAM sera créée.	O módulo zram é carregado e systemd-zram-setup@zram0.service iniciado: será criada uma área de troca comprimida na RAM.
+Le périphérique /dev/zram0 sera retiré et le module déchargé. La mémoire compressée qu'il contient est perdue.	O dispositivo /dev/zram0 será removido e o módulo descarregado. A memória comprimida que ele contém é perdida.
+Résolveurs proposés	Resolvedores sugeridos
+Serveur DNS	Servidor DNS
+Appliquer le DNS…	Aplicar o DNS…
+Hôtes (/etc/hosts)	Hosts (/etc/hosts)
+Nom d'hôte	Nome do host
+Retirer un hôte	Remover um host
+l'entrée sera retirée de /etc/hosts	a entrada será removida de /etc/hosts
+RÈGLES DE SEUIL	REGRAS DE LIMITE
+Aucune règle de seuil.	Nenhuma regra de limite.
+Ajouter la règle	Adicionar a regra
+Notification de bureau	Notificação da área de trabalho
+Les règles sont vérifiées toutes les 30 secondes tant que l'application est ouverte. Une même règle ne notifie qu'une fois par dix minutes.	As regras são verificadas a cada 30 segundos enquanto a aplicação está aberta. Uma regra notifica no máximo uma vez a cada dez minutos.
+MONTER UN PARTAGE À LA DEMANDE	MONTAR UM RECURSO SOB DEMANDA
+Monter un partage réseau	Montar um recurso de rede
+Partage	Recurso
+Point de montage	Ponto de montagem
+via Polkit	via Polkit
+Le point de montage est créé si nécessaire. Le montage n'est pas ajouté à /etc/fstab.	O ponto de montagem é criado se necessário. A montagem não é adicionada a /etc/fstab.
+Alternative	Alternativa
+Chemin du binaire	Caminho do binário
+Définir l'alternative	Definir a alternativa
+{}–{} sur {}	{}–{} de {}
+Précédent	Anterior
+Suivant	Seguinte

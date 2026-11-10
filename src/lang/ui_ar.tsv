@@ -1,0 +1,1317 @@
+# Libellés des rubriques génériques (texte français<TAB>traduction). Les absents se replient sur l'anglais.
+ACL modifiée	عُدّلت ACL
+ACL retirées	أُزيلت ACL
+Action	الإجراء
+Activer	تفعيل
+Activer le Wi-Fi	تشغيل Wi-Fi
+Actives	نشطة
+Administrateurs	المسؤولون
+Adresse	العنوان
+Adresse IP	عنوان IP
+Adresse MAC	عنوان MAC
+Afficher les ACL	عرض ACL
+Ajouter	إضافة
+Ajouter à sudo	إضافة إلى sudo
+Alertes actives	التنبيهات النشطة
+Algo	الخوارزمية
+Allumé depuis	مدة التشغيل
+Alternatives système (update-alternatives)	بدائل النظام (update-alternatives)
+Anciennes révisions Snap	إصدارات Snap القديمة
+Anomalie	شذوذ
+Appareil	الجهاز
+Appareils	الأجهزة
+Appareils Bluetooth	أجهزة بلوتوث
+Appareils reconnus	الأجهزة المعروفة
+Applications au démarrage	تطبيقات بدء التشغيل
+Appliquer	تطبيق
+Archive	الأرشيف
+Archives trouvées	الأرشيفات الموجودة
+Arrêter	إيقاف
+Autorités de certification locales	سلطات التصديق المحلية
+Autre dossier	مجلد آخر
+Autres nettoyages	عمليات تنظيف أخرى
+Batterie	البطارية
+Batteries	البطاريات
+Bluetooth (appairés)	بلوتوث (مقترنة)
+CA locales	سلطات محلية
+Cache	الذاكرة المؤقتة
+Caches applicatifs	ذاكرات التطبيقات المؤقتة
+Caches récupérables	ذاكرات مؤقتة قابلة للاستعادة
+Certificat	الشهادة
+Certificat ajouté	أُضيفت الشهادة
+Charge	الحمل
+Chaîne critique	السلسلة الحرجة
+Chemin	المسار
+Chemin distant	المسار البعيد
+Choix actuel	الاختيار الحالي
+Cible	الهدف
+Clé générée	وُلّد المفتاح
+Clés GPG	مفاتيح GPG
+Clés SSH	مفاتيح SSH
+Clés SSH (~/.ssh)	مفاتيح SSH (~/.ssh)
+Commande	الأمر
+Commentaire	التعليق
+Compte	الحساب
+Comptes	الحسابات
+Comptes locaux	الحسابات المحلية
+Configuration actuelle	الإعداد الحالي
+Confirmation	التأكيد
+Connecter	اتصال
+Connexions	الاتصالات
+Connexions VPN	اتصالات VPN
+Connexions établies	الاتصالات القائمة
+Connexions établies par processus	الاتصالات القائمة لكل عملية
+Conseil	نصيحة
+Conteneurs	الحاويات
+Contenu	المحتوى
+Contrôle	الفحص
+Contrôles	الفحوصات
+Copier la clé publique	نسخ المفتاح العام
+Création	أُنشئ
+Création de l'archive	إنشاء الأرشيف
+Créer	إنشاء
+Créer une archive	إنشاء أرشيف
+Cycles	الدورات
+Date	التاريخ
+Dernières mesures	آخر القياسات
+Destination	الوجهة
+Diagnostic automatique	تشخيص تلقائي
+Disque	القرص
+Disque (écriture)	القرص (كتابة)
+Disque moyen	متوسط القرص
+Disques	الأقراص
+Disques amovibles détectés	الأقراص القابلة للإزالة المكتشفة
+Distant	بعيد
+Dossier	المجلد
+Dossier local	المجلد المحلي
+Droits	الأذونات
+Durée	المدة
+Déconnecter	قطع الاتصال
+Définir une ACL utilisateur	تعيين ACL لمستخدم
+Démarrage	بدء التشغيل
+Démarrer	تشغيل
+Démonter	فك الربط
+Dépôt	المستودع
+Désactiver	تعطيل
+Désactiver le Wi-Fi	إيقاف Wi-Fi
+Détail	التفصيل
+Détail des connexions	تفاصيل الاتصالات
+Déverrouiller	فك القفل
+Effacer l'historique	مسح السجل
+Empreinte	البصمة
+En cours	قيد التشغيل
+En enforce	enforce
+Enregistrer	حفظ
+Enregistrer le graphe (SVG)	حفظ الرسم (SVG)
+Enregistrer les seuils	حفظ العتبات
+Enregistrer une mesure	تسجيل قياس
+Entrées	الإدخالات
+Envoyer un test	إرسال اختبار
+Expiration	الانتهاء
+Exporter en CSV	تصدير بصيغة CSV
+Exporter le rapport	تصدير التقرير
+Extraction	الاستخراج
+Extraire	استخراج
+Fabricant	الشركة المصنّعة
+Fichier	الملف
+Fichiers détectés	الملفات المكتشفة
+Fichiers modifiés	الملفات المعدّلة
+Fréquence	التكرار
+Générer	توليد
+Historique des actions	سجل الإجراءات
+Hors configuration	خارج الإعدادات
+Hôtes	المضيفون
+Hôtes du réseau local	مضيفو الشبكة المحلية
+Identifiant	المعرّف
+Identité	الهوية
+Illisibles (droits)	غير مقروءة (الأذونات)
+Image	الصورة
+Image ISO	صورة ISO
+Images	الصور
+Import VPN	استيراد VPN
+Importer	استيراد
+Indicateur	المؤشر
+Installés	المثبّتة
+Instances LXD	نُسخ LXD
+Interface	الواجهة
+Lancer	تشغيل
+Lancer maintenant	تشغيل الآن
+Lancer un scrub	بدء فحص scrub
+Langage	اللغة
+Langages	اللغات
+Lecture	القراءة
+Lecture seule.	للقراءة فقط.
+Livraison	التسليم
+Local	محلي
+Mesures	القياسات
+Mise à jour possible	تحديث متاح
+Mises à jour	التحديثات
+Mises à jour disponibles	التحديثات المتاحة
+Mode	الوضع
+Mode de démarrage	وضع الإقلاع
+Modèle	الطراز
+Montage	نقطة الربط
+Montages actifs	نقاط الربط النشطة
+Montages btrfs	نقاط ربط btrfs
+Moteur	المحرك
+Mémoire	الذاكرة
+Mémoire (écriture)	الذاكرة (كتابة)
+Mémoire moyenne	متوسط الذاكرة
+Méthode	الطريقة
+Nature	النوع
+Nettoyage complet	تنظيف كامل
+Nettoyer	تنظيف
+Nettoyer les données conteneurs	تنظيف بيانات الحاويات
+Nom	الاسم
+Nom du fichier	اسم الملف
+Notifier maintenant	إشعار الآن
+Occupation	الاستخدام
+Options	الخيارات
+Origine	المصدر
+Outil	الأداة
+Outils	الأدوات
+Paquet	الحزمة
+Paquets verrouillés	الحزم المثبّتة
+Passer en enforcing	التحويل إلى enforcing
+Passer en permissive	التحويل إلى permissive
+Pilote	برنامج التشغيل
+Planification	الجدولة
+Planifier	جدولة
+Points de montage actifs	نقاط الربط النشطة
+Ports en écoute	المنافذ المستمعة
+Problèmes	المشكلات
+Processeur	المعالج
+Processus	العملية
+Prochaine exécution	التشغيل التالي
+Profil	الملف
+Profil d'alimentation	ملف الطاقة
+Profil d'énergie	ملف الطاقة
+Profils AppArmor	ملفات AppArmor
+Profils chargés	الملفات المحمّلة
+Profils de poste	ملفات محطة العمل
+Protocole	البروتوكول
+Puce	الشريحة
+Purger le journal	مسح السجل
+Purger les images orphelines	حذف الصور اليتيمة
+Purger les volumes inutilisés	حذف الأحجام غير المستخدمة
+Périphérique	الجهاز
+Périphériques USB	أجهزة USB
+Périphériques amovibles	الأجهزة القابلة للإزالة
+Radio Wi-Fi	راديو Wi-Fi
+Rafraîchir les métadonnées	تحديث البيانات الوصفية
+Rapport périodique	تقرير دوري
+Redémarrer	إعادة التشغيل
+Remotes	الوجهات البعيدة
+Remotes rclone	وجهات rclone البعيدة
+Restauration	الاستعادة
+Restaurer	استعادة
+Restaurer ce dossier	استعادة هذا المجلد
+Retirer de sudo	إزالة من sudo
+Retirer les ACL	إزالة ACL
+Reçu	المستلَم
+Runtimes détectés	بيئات التشغيل المكتشفة
+Réception	الاستقبال
+Réseau	الشبكة
+Réseaux	الشبكات
+Réseaux détectés	الشبكات المكتشفة
+Résultat	النتيجة
+Rétrogradation	خفض الإصدار
+Rétrograder	خفض الإصدار
+Rétrograder un paquet	خفض إصدار حزمة
+Révision	المراجعة
+Rôle	الدور
+Santé batterie	سلامة البطارية
+Sauvegarder maintenant	نسخ احتياطي الآن
+Sauvegardes trouvées (Documents/dotfiles*)	النسخ الاحتياطية الموجودة (Documents/dotfiles*)
+Score global	الدرجة الإجمالية
+Secteur	التيار الكهربائي
+Seuil	العتبة
+Seuils	العتبات
+Signal	الإشارة
+Sonde	المسبار
+Sondes de température	مسابير الحرارة
+Source	المصدر
+Sources	المصادر
+Sources APT	مصادر APT
+Sources de paquets	مصادر الحزم
+Suite / composants	الحزمة / المكونات
+Sujet	الموضوع
+Supprimer	حذف
+Supprimer la planification	إزالة الجدولة
+Supprimer les ACL	حذف ACL
+Supprimer les paquets orphelins	إزالة الحزم اليتيمة
+Synchroniser un dossier	مزامنة مجلد
+Systèmes btrfs	أنظمة ملفات btrfs
+Sécurité	الأمان
+TRIM des SSD (fstrim)	TRIM لأقراص SSD (fstrim)
+Taille	الحجم
+Technologie	التقنية
+Température	الحرارة
+Températures	درجات الحرارة
+Tendances (40 dernières mesures)	الاتجاهات (آخر 40 قياسًا)
+Tester la notification	اختبار الإشعار
+Total reçu	إجمالي المستلَم
+Total émis	إجمالي المُرسَل
+Trousseau GPG	حلقة مفاتيح GPG
+Type	النوع
+Tâches privilégiées	مهام مميّزة
+Unité	الوحدة
+Unités les plus lentes	أبطأ الوحدات
+Utilisateur	المستخدم
+VPN configurés	شبكات VPN المهيّأة
+Valeur	القيمة
+Ventilateur	المروحة
+Ventilateurs	المراوح
+Verrouillage	القفل
+Verrouiller	قفل
+Version actuelle	الإصدار الحالي
+Version proposée	الإصدار المقترح
+Vider le cache APT	مسح ذاكرة APT المؤقتة
+Vitesse	السرعة
+Écarts	الفروقات
+Échange	التبديل
+Échecs	الإخفاقات
+Écrire sur la clé	الكتابة على الوحدة
+Écrire une image	كتابة صورة
+Écriture	الكتابة
+Écriture de l'image	كتابة الصورة
+Émis	المُرسَل
+Émission	الإرسال
+Énergie	الطاقة
+Équilibrer (50 %)	موازنة (50 %)
+État	الحالة
+État du scrub	حالة الفحص
+URL ou adresse	عنوان URL أو العنوان
+adresse ou machine	عنوان أو جهاز
+nom exact	الاسم الدقيق
+nom	الاسم
+nom du remote	اسم الوجهة البعيدة
+retapez le périphérique	أعد إدخال الجهاز
+simulation ou reel	simulation أو reel
+Aucun élément.	لا شيء للعرض.
+Courbes en direct	رسوم مباشرة
+Courbes	الرسوم البيانية
+Débit réseau	إنتاجية الشبكة
+Processeur et mémoire	المعالج والذاكرة
+Processeur, mémoire et disque	المعالج والذاكرة والقرص
+Débits mesurés (Mio/s)	الإنتاجية المقيسة (MiB/s)
+Résultats	النتائج
+Constats	النتائج
+Constats par gravité	النتائج حسب الخطورة
+Gravité	الخطورة
+Catégorie	الفئة
+Élément	العنصر
+Pourquoi	السبب
+Couverture du scan	نطاق الفحص
+Analyse antivirus (signatures)	فحص مكافحة الفيروسات (التواقيع)
+Quarantaine	الحجر
+Verdict	الحكم
+Élevées	مرتفعة
+Moyennes	متوسطة
+Faibles	منخفضة
+Infos	معلومات
+Élevée	مرتفعة
+Moyenne	متوسطة
+Faible	منخفضة
+Info	معلومات
+Persistance	الاستمرارية
+Fichiers	الملفات
+Logiciels	البرامج
+Aucun comportement anormal détecté	لم يُكتشف أي سلوك غير طبيعي
+Quelques points suspects	بعض النقاط المشبوهة
+À examiner en priorité	يتطلب اهتمامًا أولًا
+Suspendre	تعليق
+Terminer	إنهاء
+Mettre l'exécutable en quarantaine	حجر الملف التنفيذي
+Mettre en quarantaine	الحجر
+Désactiver au démarrage	تعطيل عند بدء التشغيل
+Processus sélectionné	العملية المحددة
+Analyser un fichier ou dossier	فحص ملف أو مجلد
+Clés MOK enregistrées (lecture seule)	مفاتيح MOK المسجّلة (للقراءة فقط)
+Historique dpkg (60 derniers événements)	سجل dpkg (آخر 60 حدثًا)
+Installer les mises à jour	تثبيت التحديثات
+Mettre à jour le magasin	تحديث المخزن
+Mettre à jour les index	تحديث الفهارس
+Ni Docker ni Podman n'est installé.	لا Docker ولا Podman مثبّت.
+Réduire les journaux (500 Mo)	تقليص السجلات (500 م.ب)
+Réduire les journaux (7 jours)	تقليص السجلات (7 أيام)
+Supprimer les runtimes Flatpak inutilisés	إزالة بيئات Flatpak غير المستخدمة
+Verrouillage de version (apt-mark hold)	تثبيت الإصدار (apt-mark hold)
+Lecture seule : aucune donnée du système n'est modifiée.	للقراءة فقط: لا يُعدَّل أي شيء في النظام.
+Applications lancées à l'ouverture de session	التطبيقات التي تبدأ عند تسجيل الدخول
+Archives (dossier personnel et Téléchargements)	الأرشيفات (المجلد الشخصي والتنزيلات)
+Aucun capteur renvoyé par lm-sensors : lancez « sensors-detect » pour les détecter.	لم يُرجع lm-sensors أي مستشعر: شغّل «sensors-detect» لاكتشافها.
+Aucun réseau privé IPv4 détecté : seule la table ARP est affichée.	لم تُكتشف شبكة IPv4 خاصة: يُعرض جدول ARP فقط.
+Chaque action est confirmée ; celles qui touchent au système passent par Polkit.	يُؤكَّد كل إجراء؛ وما يمسّ النظام يمرّ عبر Polkit.
+Chaque tâche demande une confirmation puis l'authentification administrateur (Polkit).	تطلب كل مهمة تأكيدًا ثم مصادقة المسؤول (Polkit).
+Compteurs par interface (depuis le démarrage)	عدّادات لكل واجهة (منذ الإقلاع)
+Couper la radio Wi-Fi ? La connexion sans fil sera perdue.	إيقاف راديو Wi-Fi؟ سيُفقد الاتصال اللاسلكي.
+Crée une minuterie systemd utilisateur qui lance « orbisys report <dossier> » (TXT, CSV, JSON et PDF).	ينشئ مؤقت systemd للمستخدم يشغّل «orbisys report <مجلد>» (TXT وCSV وJSON وPDF).
+Désactiver et supprimer la minuterie de rapport ?	تعطيل مؤقت التقارير وإزالته؟
+Envoyer le rapport d'état à la destination configurée ?	إرسال تقرير الحالة إلى الوجهة المهيّأة؟
+Formats : .tar, .tar.gz, .tar.xz, .tar.bz2. L'archive ne doit pas exister.	الصيغ: .tar و.tar.gz و.tar.xz و.tar.bz2. يجب ألا يكون الأرشيف موجودًا.
+Installer les mises à jour de firmware ? Un redémarrage peut être nécessaire et l'alimentation ne doit pas être coupée.	تثبيت تحديثات البرنامج الثابت؟ قد تلزم إعادة التشغيل ويجب ألا ينقطع التيار.
+L'installation passe par apt-get et Polkit, après confirmation.	يجري التثبيت عبر apt-get وPolkit بعد التأكيد.
+La clé est créée sans phrase secrète ; ajoutez-en une avec « ssh-keygen -p -f <fichier> ».	يُنشأ المفتاح دون عبارة مرور؛ أضف واحدة بالأمر «ssh-keygen -p -f <ملف>».
+Lancer fstrim -av sur les systèmes de fichiers compatibles ?	تشغيل fstrim -av على أنظمة الملفات المتوافقة؟
+Le compte root n'est pas modifiable depuis cette page.	لا يمكن تعديل حساب root من هذه الصفحة.
+Le résultat s'affiche dans la zone de sortie en bas de l'écran.	تظهر النتيجة في منطقة المخرجات أسفل الشاشة.
+Le scan est limité au réseau privé local (préfixe /24 ou plus étroit) ; actualisez l'écran pour le relancer.	يقتصر الفحص على الشبكة الخاصة المحلية (/24 أو أضيق)؛ أعد تحميل الشاشة لتشغيله من جديد.
+Les disques contenant le système (/, /boot, /home) ne sont jamais proposés.	لا تُعرض الأقراص التي تحتوي النظام (/ و/boot و/home) أبدًا.
+Les fichiers de configuration modifiés sont normaux ; un programme modifié mérite une vérification.	الملفات المعدّلة للإعداد أمر طبيعي؛ أما البرنامج المعدّل فيستحق الفحص.
+Les instantanés et sous-volumes se gèrent dans l'écran « Btrfs ». Les résultats s'affichent dans la zone de sortie.	تُدار اللقطات والأحجام الفرعية في شاشة «Btrfs». وتظهر النتائج في منطقة المخرجات.
+Les processus d'autres utilisateurs n'apparaissent qu'avec les droits administrateur.	لا تظهر عمليات المستخدمين الآخرين إلا بصلاحيات المسؤول.
+Les seuils sont conservés dans ~/.local/share/orbisys/alerts.json.	تُحفظ العتبات في ~/.local/share/orbisys/alerts.json.
+Mode « simulation » par défaut (rclone --dry-run) : rien n'est modifié. Le mode « reel » demande confirmation.	الوضع الافتراضي «simulation» (rclone --dry-run): لا يتغير شيء. وضع «reel» يطلب تأكيدًا.
+Opération destructrice : le périphérique cible est entièrement écrasé. Retapez son nom pour confirmer.	عملية مدمّرة: سيُكتب فوق الجهاز الهدف بالكامل. أعد إدخال اسمه للتأكيد.
+Passer SELinux en mode enforcing (immédiat) ?	تحويل SELinux إلى وضع enforcing (فوريًا)؟
+Passer SELinux en mode permissive (immédiat) ?	تحويل SELinux إلى وضع permissive (فوريًا)؟
+Profils AppArmor illisibles : les droits administrateur sont requis (ou AppArmor est inactif).	ملفات AppArmor غير مقروءة: يلزم صلاحيات المسؤول (أو أن AppArmor غير نشط).
+Supprimer conteneurs arrêtés, réseaux et images orphelines ?	إزالة الحاويات المتوقفة والشبكات والصور اليتيمة؟
+Supprimer les journaux systemd de plus de 7 jours ?	حذف سجلات systemd الأقدم من 7 أيام؟
+Supprimer les runtimes Flatpak inutilisés ?	إزالة بيئات Flatpak غير المستخدمة؟
+Supprimer les volumes non utilisés (données perdues) ?	إزالة الأحجام غير المستخدمة (ستُفقد البيانات)؟
+Supprimer toutes les mesures enregistrées ?	حذف جميع القياسات المسجّلة؟
+Type « webhook » (HTTP POST, JSON) ou « email » (commande mail). Le rapport contient santé, mémoire, disque et charge.	اكتب «webhook» (HTTP POST وJSON) أو «email» (الأمر mail). يتضمن التقرير الحالة والذاكرة والقرص والحمل.
+Utilisez `apt-cache policy <paquet>` pour connaître les versions disponibles.	استخدم `apt-cache policy <حزمة>` لمعرفة الإصدارات المتاحة.
+aa-complain / aa-enforce proviennent du paquet apparmor-utils.	يأتي aa-complain / aa-enforce من الحزمة apparmor-utils.
+apt-get absent : cette rubrique concerne les systèmes Debian/Ubuntu.	لم يُعثر على apt-get: هذا القسم لأنظمة Debian/Ubuntu.
+bluetoothctl absent : installez le paquet « bluez » pour gérer le Bluetooth.	لم يُعثر على bluetoothctl: ثبّت الحزمة «bluez» لإدارة بلوتوث.
+btrfs-progs absent : installez le paquet « btrfs-progs ».	لم يُعثر على btrfs-progs: ثبّت الحزمة «btrfs-progs».
+dpkg absent : cette vérification concerne Debian/Ubuntu.	لم يُعثر على dpkg: هذا الفحص لـ Debian/Ubuntu.
+fwupdmgr absent : installez le paquet « fwupd » pour gérer les mises à jour de firmware.	لم يُعثر على fwupdmgr: ثبّت الحزمة «fwupd» لإدارة تحديثات البرنامج الثابت.
+lm-sensors absent : lecture directe de /sys/class/hwmon.	لم يُعثر على lm-sensors: قراءة مباشرة من /sys/class/hwmon.
+mokutil absent : installez le paquet « mokutil » pour lire l'état de Secure Boot.	لم يُعثر على mokutil: ثبّت الحزمة «mokutil» لقراءة حالة الإقلاع الآمن.
+nmap absent : seule la table ARP du noyau est affichée.	لم يُعثر على nmap: يُعرض جدول ARP الخاص بالنواة فقط.
+nmcli absent : NetworkManager est requis pour gérer le Wi-Fi et les VPN.	لم يُعثر على nmcli: يلزم NetworkManager لإدارة Wi-Fi وVPN.
+rclone absent : installez le paquet « rclone » puis configurez un remote avec « rclone config ».	لم يُعثر على rclone: ثبّت الحزمة «rclone» ثم اضبط وجهة بعيدة بالأمر «rclone config».
+Valeur actuelle et seuil (trait)	القيمة الحالية والعتبة (خط)
+Points perdus par contrôle (sur 100)	النقاط المفقودة لكل فحص (من 100)
+Occupation des systèmes de fichiers (trait : 90 %)	استخدام أنظمة الملفات (الخط: 90 %)
+Volume échangé par interface (reçu + émis)	حركة المرور لكل واجهة (المستلَم + المُرسَل)
+Les 6 dernières minutes environ, actualisées toutes les 3 secondes.	آخر 6 دقائق تقريبًا، تتحدّث كل 3 ثوانٍ.
+Lancer ClamAV (Téléchargements et /tmp)	تشغيل ClamAV (التنزيلات و/tmp)
+Analyse heuristique en lecture seule, sans base de signatures : ce n'est pas un antivirus. Un constat est un indice à vérifier, pas une preuve.	تحليل استدلالي للقراءة فقط دون قاعدة تواقيع: ليس برنامج مكافحة فيروسات. النتيجة مؤشر يستحق التحقق وليست دليلًا.
+ClamAV est installé : l'analyse parcourt Téléchargements et /tmp et peut durer plusieurs minutes. Seuls les fichiers infectés sont listés.	ClamAV مثبّت: يشمل الفحص التنزيلات و/tmp وقد يستغرق عدة دقائق. تُعرض الملفات المصابة فقط.
+Pour une détection par signatures, installez ClamAV (paquet « clamav ») : ce scan pourra alors le lancer.	للكشف بالتواقيع، ثبّت ClamAV (الحزمة «clamav») وعندها يمكن لهذا الفحص تشغيله.
+Lancer une analyse ClamAV de Téléchargements et /tmp ? Cela peut prendre plusieurs minutes.	تشغيل فحص ClamAV للتنزيلات و/tmp؟ قد يستغرق عدة دقائق.
+Processus les plus gourmands (processeur)	أكثر العمليات استهلاكًا (المعالج)
+Processus les plus gourmands (mémoire)	أكثر العمليات استهلاكًا (الذاكرة)
+Mémoire (% de la RAM)	الذاكرة (% من RAM)
+ (limite atteinte)	 (تم بلوغ الحد)
+ · santé {} %	 · الصحة {1} %
+APPAREILS	الأجهزة
+APPARENCE	المظهر
+APPLIQUER UN QUOTA	تطبيق حصة
+Actif	نشط
+Activer au démarrage	تفعيل عند الإقلاع
+Activer les quotas sur {}	تفعيل الحصص على {1}
+Actualiser	تحديث
+Analyse des paquets…	جارٍ تحليل الحزم…
+Analyser	تحليل
+Analyser les erreurs (24 h)	تحليل الأخطاء (24 ساعة)
+Annuler	إلغاء
+Aperçu de la suppression	معاينة الإزالة
+Appareils, montages, Btrfs et instantanés	الأجهزة ونقاط التثبيت وBtrfs واللقطات
+Apparence et extensions GNOME	مظهر GNOME وإضافاته
+Appliquer THP	تطبيق THP
+Appliquer des paramètres noyau	تطبيق معلمات النواة
+Appliquer et persister…	تطبيق وحفظ دائم…
+Appliquer la priorité	تطبيق الأولوية
+Appliquer le profil {}	تطبيق الملف {1}
+Appliquer les mises à jour	تطبيق التحديثات
+Appliquer…	تطبيق…
+Arrêter {}	إيقاف {1}
+Arrêter…	إيقاف…
+Aucun espace d'échange actif.	لا توجد منطقة تبديل نشطة.
+Aucun fichier de configuration détecté.	لم يتم العثور على أي ملف إعدادات.
+Aucun gestionnaire natif détecté	لم يتم العثور على مدير حزم أصلي
+Aucun groupe de volumes LVM.	لا توجد مجموعة وحدات تخزين LVM.
+Aucun instantané lisible (support non monté ou Timeshift non configuré).	لا توجد لقطة قابلة للقراءة (الوسيط غير مثبّت أو Timeshift غير مُعدّ).
+Aucun minuteur systemd détecté.	لم يتم العثور على أي مؤقّت systemd.
+Aucun montage NFS/CIFS déclaré ni actif.	لا توجد نقطة تثبيت NFS/CIFS معرّفة أو نشطة.
+Aucun montage ne déclare usrquota/grpquota/prjquota dans /etc/fstab.	لا توجد نقطة تثبيت تعلن usrquota/grpquota/prjquota في /etc/fstab.
+Aucun paquet en état `rc`.	لا توجد حزمة في حالة `rc`.
+Aucun partage Samba ou NFS configuré.	لا توجد مشاركة Samba أو NFS مُعدّة.
+Aucun partage déclaré dans /etc/samba/smb.conf.	لا توجد مشاركة معرّفة في /etc/samba/smb.conf.
+Aucun raccourci personnalisé.	لا توجد اختصارات مخصصة.
+Aucun système de fichiers Btrfs monté sur cette machine.	لا يوجد نظام ملفات Btrfs مثبّت على هذا الجهاز.
+Aucun timer systemd.	لا توجد مؤقّتات systemd.
+Aucun travail en attente.	لا توجد مهام معلّقة.
+Aucun volume chiffré ouvert. Les partitions LUKS fermées n'apparaissent pas ici.	لا توجد وحدة تخزين مشفّرة مفتوحة. لا تظهر أقسام LUKS المغلقة هنا.
+Aucun volume logique.	لا توجد وحدات تخزين منطقية.
+Aucune action enregistrée pour l'instant.	لم تُسجَّل أي إجراءات بعد.
+Aucune action enregistrée. Le fichier est créé au premier nettoyage ou à la première suppression.	لا توجد إجراءات مسجّلة. يُنشأ الملف عند أول تنظيف أو حذف.
+Aucune analyse lancée.	لم يبدأ أي تحليل.
+Aucune analyse à exporter	لا يوجد تحليل لتصديره
+Aucune connexion VPN déclarée (NetworkManager/WireGuard).	لا توجد اتصالات VPN معرّفة (NetworkManager/WireGuard).
+Aucune dépendance à supprimer.	لا توجد تبعيات لإزالتها.
+Aucune entrée : filtre “Erreurs” sur un système calme ?	لا توجد مدخلات: هل مرشّح «الأخطاء» مفعّل على نظام هادئ؟
+Aucune entrée de quota (quotas non activés ou outil absent).	لا توجد مدخلات حصص (الحصص غير مفعّلة أو الأداة غير موجودة).
+Aucune extension détectée.	لم يتم العثور على أي إضافة.
+Aucune famille ne correspond (fontconfig absent ?).	لا توجد عائلة مطابقة (هل fontconfig غير موجود؟).
+Aucune imprimante CUPS détectée (lpstat indisponible ou liste vide).	لم يتم العثور على أي طابعة CUPS (lpstat غير متاح أو القائمة فارغة).
+Aucune imprimante configurée.	لا توجد طابعة مُعدّة.
+Aucune mise à jour en attente.	لا توجد تحديثات معلّقة.
+Aucune police détectée (fontconfig absent ?).	لم يتم العثور على أي خط (هل fontconfig غير موجود؟).
+Aucune recommandation (ubuntu-drivers absent ou matériel entièrement libre).	لا توجد توصيات (ubuntu-drivers غير موجود أو العتاد حر بالكامل).
+Aucune règle détaillée disponible (pare-feu inactif ou privilèges insuffisants).	لا توجد قواعد مفصّلة (الجدار الناري غير نشط أو الصلاحيات غير كافية).
+Aucune session active lisible.	لا توجد جلسة نشطة قابلة للقراءة.
+Aucune tâche planifiée.	لا توجد مهام مجدولة.
+Aucune unité contenant {}.	لا توجد وحدة تحتوي على {1}.
+Aucune zone d'échange active.	لا توجد منطقة تبديل نشطة.
+Audit de durcissement	تدقيق التحصين
+Audit en cours…	التدقيق جارٍ…
+Autoriser	سماح
+Avertissements	تحذيرات
+Bleu	أزرق
+Boutons de fenêtre : {} · {} thème(s) · {} jeu(x) d'icônes · {} police(s)	أزرار النافذة: {1} · {2} سمة · {3} مجموعة أيقونات · {4} خط
+COMPTES	الحسابات
+CONFIGURATIONS RÉSIDUELLES	إعدادات متبقية
+CONNEXIONS ({})	الاتصالات ({1})
+CONSOMMATION	الاستهلاك
+COPIE RSYNC	نسخ RSYNC
+CRONTAB UTILISATEUR	CRONTAB للمستخدم
+CRÉER UN INSTANTANÉ	إنشاء لقطة
+CUPS n'est pas installé : aucun pilote d'impression actif.	CUPS غير مثبّت: لا يوجد مشغّل طباعة نشط.
+Cache : {} fichier(s), {} — {}	الذاكرة المؤقتة: {1} ملف، {2} — {3}
+Capteurs	المستشعرات
+Cartes graphiques	بطاقات الرسوميات
+Ces valeurs seront écrites dans /etc/sysctl.d/99-orbisys.conf et appliquées immédiatement (Polkit) :\n{}	ستُكتب هذه القيم في /etc/sysctl.d/99-orbisys.conf وتُطبَّق فورًا (Polkit):\n{1}
+Changer la locale du système	تغيير لغة النظام
+Changer le fuseau horaire	تغيير المنطقة الزمنية
+Changer le gouverneur CPU	تغيير منظّم المعالج
+Chaque cible est mesurée avant action ; les cibles système demandent Polkit.	يُقاس كل هدف قبل الإجراء؛ وتتطلب أهداف النظام Polkit.
+Charger	تحميل
+Chemins absolus, sans `..` ; la destination ne doit pas exister.	مسارات مطلقة بدون `..`؛ يجب ألا تكون الوجهة موجودة.
+Châssis	الهيكل
+Clavier (console)	لوحة المفاتيح (الطرفية)
+Cliquez sur le nom d'un processus pour le sélectionner.	انقر على اسم عملية لتحديدها.
+Comparaison par taille puis empreinte des 64 premiers Kio. Dossiers techniques ignorés (.git, node_modules, target, .cache, snap).	مقارنة بالحجم ثم ببصمة أول 64 كيبي بايت. تُتجاهل المجلدات التقنية (.git وnode_modules وtarget و.cache وsnap).
+Composants et capteurs, en lecture seule	المكوّنات والمستشعرات، للقراءة فقط
+Confirmer	تأكيد
+Confirmer la suppression	تأكيد الإزالة
+Connexion sans mot de passe interactif (BatchMode) : une clé SSH doit être en place.	اتصال بدون كلمة مرور تفاعلية (BatchMode): يجب وجود مفتاح SSH.
+Conservation	الاحتفاظ
+Contrôles en lecture seule : rien n'est modifié par cet écran.	فحوصات للقراءة فقط: هذه الشاشة لا تعدّل أي شيء.
+Copie en mode miroir	نسخ في وضع المرآة
+Copier…	نسخ…
+Créer un instantané	إنشاء لقطة
+Créer un volume logique	إنشاء وحدة تخزين منطقية
+Créer…	إنشاء…
+Cœurs	الأنوية
+DERNIÈRES CONNEXIONS	آخر عمليات تسجيل الدخول
+DIAGNOSTIC	التشخيص
+DISQUES ET TRIM	الأقراص وTRIM
+Depuis	من
+Dernières actions	آخر الإجراءات
+Diagnostic complet	تشخيص كامل
+Disque /	القرص /
+Document PDF	مستند PDF
+Données JSON	بيانات JSON
+Dossier cible	المجلد الهدف
+Dure	صارم
+DÉMARRAGES	الإقلاعات
+DÉPENDANCES INUTILES (AUTOREMOVE)	تبعيات غير ضرورية (AUTOREMOVE)
+Délai d'attente	المهلة
+Démonter un périphérique	فصل جهاز
+Démonter {}	فصل {1}
+Démonter…	فصل…
+Désactiver un minuteur	تعطيل مؤقّت
+Désactiver une imprimante	تعطيل طابعة
+Désactiver {}	تعطيل {1}
+Désactiver…	تعطيل…
+Désinstaller…	إلغاء التثبيت…
+Déverrouiller…	إلغاء القفل…
+ENTRÉES AUDIO	مداخل الصوت
+ERREURS RÉCURRENTES	أخطاء متكررة
+EXTENSIONS	الإضافات
+Emplacement	الموقع
+Entrée par défaut	الإدخال الافتراضي
+Erreurs	أخطاء
+Export au format JSON (nom, version, source) puis réinstallation via APT, Snap et Flatpak.	تصدير بصيغة JSON (الاسم والإصدار والمصدر) ثم إعادة التثبيت عبر APT وSnap وFlatpak.
+Exporter	تصدير
+Exporter un instantané complet de la machine	تصدير لقطة كاملة للجهاز
+Exporter…	تصدير…
+Exporté : {}	تم التصدير: {1}
+Fermer	إغلاق
+Fermer la session {}	إغلاق الجلسة {1}
+Fermer un volume chiffré	إغلاق وحدة تخزين مشفّرة
+Fermer…	إغلاق…
+Fichiers usuels uniquement : ~/.ssh est volontairement exclu.	الملفات المعتادة فقط: يُستثنى ~/.ssh عمدًا.
+Filtrer les services…	تصفية الخدمات…
+Filtrer par nom, description ou section…	تصفية حسب الاسم أو الوصف أو القسم…
+Fond d'écran : {}	خلفية الشاشة: {1}
+Forcer l'arrêt de	فرض إيقاف
+Forcer…	فرض…
+Format : minute heure jour mois jour-semaine, ou @daily / @weekly / @reboot. La commande est exécutée par le shell de cron.	الصيغة: دقيقة ساعة يوم شهر يوم-الأسبوع، أو @daily / @weekly / @reboot. يُنفَّذ الأمر بواسطة صدفة cron.
+Formats acceptés : {} · destination : {}	الصيغ المقبولة: {1} · الوجهة: {2}
+Fuseau	المنطقة
+Fuseau horaire	المنطقة الزمنية
+GROUPES DE VOLUMES	مجموعات وحدات التخزين
+GRUB régénéré	أُعيد توليد GRUB
+Garder {} et supprimer {} copie(s) identique(s) ({} libérés) ?	الاحتفاظ بـ {1} وحذف {2} نسخة مطابقة (تحرير {3})؟
+Gouvernance : {} · pilote : {}	الحوكمة: {1} · المشغّل: {2}
+Gouverneur	المنظّم
+Gouverneur {}, vm.swappiness={}, THP={} (polkit).	المنظّم {1}، vm.swappiness={2}، THP={3} (polkit).
+Horloge synchronisée	الساعة متزامنة
+IMPRIMANTES	الطابعات
+IMPRIMANTES (CUPS)	الطابعات (CUPS)
+INSTALLER UNE POLICE	تثبيت خط
+INSTANTANÉS TIMESHIFT	لقطات TIMESHIFT
+INTERFACES	الواجهات
+Imprimantes et audio	الطابعات والصوت
+Imprimantes et files CUPS	الطابعات وقوائم CUPS
+Inactif	غير نشط
+Installer un pilote	تثبيت مشغّل
+Installer une police	تثبيت خط
+Installer {}	تثبيت {1}
+Installer…	تثبيت…
+Installés hors dépôts	مثبّتة من خارج المستودعات
+Instantanés et archives	اللقطات والأرشيفات
+Interfaces, DNS, SSH, partages et connexions	الواجهات وDNS وSSH والمشاركات والاتصالات
+Journal des actions	سجل الإجراءات
+Journal exporté : {}	تم تصدير السجل: {1}
+Journaux du noyau	سجلات النواة
+Jusqu'à	إلى
+L'imprimante restera configurée mais n'acceptera plus de travaux.	ستبقى الطابعة مُعدّة لكنها لن تقبل مهام جديدة.
+L'imprimante sera retirée de CUPS (lpadmin -x). Cette action est irréversible.	ستُزال الطابعة من CUPS (lpadmin -x). لا يمكن التراجع عن هذا الإجراء.
+L'unité sera arrêtée, désactivée puis effacée du disque. Cette action est irréversible.	ستُوقَف الوحدة وتُعطَّل ثم تُمحى من القرص. لا يمكن التراجع عن هذا الإجراء.
+LANGUE ET FUSEAU DU SYSTÈME	لغة النظام ومنطقته الزمنية
+LISTE DES LOGICIELS	قائمة البرامج
+LVM et chiffrement LUKS	LVM وتشفير LUKS
+LVM n'est pas installé : la page reste informative.	LVM غير مثبّت: تبقى الصفحة للاطلاع فقط.
+La règle sera retirée immédiatement.	ستُزال القاعدة فورًا.
+La session de {} sur {} sera terminée immédiatement (loginctl, polkit).	ستُنهى جلسة {1} على {2} فورًا (loginctl وpolkit).
+La simulation n'a rien renvoyé : la suppression peut être sans dépendance ou indisponible.	لم تُرجع المحاكاة شيئًا: قد لا تكون للإزالة تبعيات أو قد تكون غير متاحة.
+La simulation utilise --dry-run : rien n'est écrit, rsync affiche ce qu'il ferait.	تستخدم المحاكاة --dry-run: لا يُكتب شيء، ويعرض rsync ما كان سيفعله.
+Lancer un TRIM	تشغيل TRIM
+Lancer un TRIM maintenant…	تشغيل TRIM الآن…
+Langue de la session	لغة الجلسة
+Langue du système	لغة النظام
+Langue, heure et polices	اللغة والوقت والخطوط
+Le fichier sera copié dans {} puis le cache fontconfig sera reconstruit (polkit).	سيُنسخ الملف إلى {1} ثم يُعاد بناء ذاكرة fontconfig المؤقتة (polkit).
+Le fichier sera écrit dans {}/{} puis systemd sera rechargé (polkit).	سيُكتب الملف في {1}/{2} ثم يُعاد تحميل systemd (polkit).
+Le pilote {} sera installé pour {}. Un redémarrage peut être nécessaire.	سيُثبَّت المشغّل {1} لـ {2}. قد تكون إعادة التشغيل ضرورية.
+Le rapport contient la distribution, les compteurs de logiciels, le stockage, la mémoire, le score de sécurité et les dernières actions.	يتضمن التقرير التوزيعة وأعداد البرامج والتخزين والذاكرة ودرجة الأمان وآخر الإجراءات.
+Le service ne démarrera plus automatiquement au prochain démarrage.	لن تبدأ الخدمة تلقائيًا عند الإقلاع التالي.
+Le service sera arrêté immédiatement.	ستُوقَف الخدمة فورًا.
+Le service sera arrêté immédiatement. Les services qui en dépendent peuvent s'arrêter aussi.	ستُوقَف الخدمة فورًا. وقد تتوقف الخدمات التي تعتمد عليها أيضًا.
+Le sous-volume sera définitivement supprimé (btrfs subvolume delete). Les données qu'il contient seront perdues.	سيُحذف المجلّد الفرعي نهائيًا (btrfs subvolume delete). ستضيع البيانات التي يحتويها.
+Le timer ne déclenchera plus son unité jusqu'au prochain démarrage ou réactivation.	لن يشغّل المؤقّت وحدته حتى الإقلاع التالي أو إعادة التفعيل.
+Le trafic correspondant sera bloqué.	ستُحظر حركة المرور المطابقة.
+Lecture de l'état…	جارٍ قراءة الحالة…
+Lecture des instantanés…	جارٍ قراءة اللقطات…
+Lecture des locales…	جارٍ قراءة اللغات المحلية…
+Lecture des montages…	جارٍ قراءة نقاط التثبيت…
+Lecture des périphériques…	جارٍ قراءة الأجهزة…
+Lecture des quotas…	جارٍ قراءة الحصص…
+Lecture des réglages…	جارٍ قراءة الإعدادات…
+Lecture des sessions…	جارٍ قراءة الجلسات…
+Lecture des sous-volumes…	جارٍ قراءة المجلدات الفرعية…
+Lecture des timers…	جارٍ قراءة المؤقّتات…
+Lecture des tâches…	جارٍ قراءة المهام…
+Lecture du journal noyau…	جارٍ قراءة سجل النواة…
+Lecture du réseau…	جارٍ قراءة الشبكة…
+Lecture en cours…	جارٍ القراءة…
+Les fichiers absents de la source seront supprimés de la destination.	ستُحذف من الوجهة الملفات غير الموجودة في المصدر.
+Les logiciels listés dans {} seront installés (Polkit).\nVérifiez le fichier avant de continuer.	سيُثبَّت البرنامج المدرج في {1} (Polkit).\nتحقق من الملف قبل المتابعة.
+Les programmes utilisant ce montage risquent de bloquer. Le système peut attendre la fin des accès avant de rendre la main.	قد تتجمّد البرامج التي تستخدم نقطة التثبيت هذه. وقد ينتظر النظام انتهاء عمليات الوصول قبل إعادة التحكم.
+Ligne de commande	سطر الأوامر
+Lignes	الأسطر
+Lire	قراءة
+Liste des logiciels, copie, dotfiles et GRUB	قائمة البرامج والنسخ وdotfiles وGRUB
+Locale	اللغة المحلية
+MINUTEURS SYSTEMD	مؤقّتات SYSTEMD
+MONTAGES	نقاط التثبيت
+Mesure indisponible (systemd-analyze absent).	القياس غير متاح (systemd-analyze غير موجود).
+Minuteur fstrim.timer : {}	مؤقّت fstrim.timer: {1}
+Montages	نقاط التثبيت
+Montages réseau	نقاط تثبيت الشبكة
+Monter	تثبيت
+Monter {}	تثبيت {1}
+Monter…	تثبيت…
+Motif	النمط
+Muet	صامت
+MÉMOIRE	الذاكرة
+NOM	الاسم
+NOYAUX INSTALLÉS	النوى المثبّتة
+Nettoyer…	تنظيف…
+Notice	إشعار
+Nouveau modèle	قالب جديد
+Nouveau volume	وحدة تخزين جديدة
+Nouvelle tâche	مهمة جديدة
+Noyau en cours : {}	النواة قيد التشغيل: {1}
+Noyau, swap et paramètres système	النواة والتبديل ومعلمات النظام
+Noyaux	النوى
+ORIGINE	المصدر
+Orange	برتقالي
+PARAMÈTRES NOYAU (PERSISTANTS)	معلمات النواة (دائمة)
+PARTAGE	المشاركة
+PARTAGES	المشاركات
+PARTAGES SAMBA	مشاركات SAMBA
+PILOTES RECOMMANDÉS	المشغّلات الموصى بها
+POLICES	الخطوط
+PROCESSEUR	المعالج
+PROFILS	الملفات الشخصية
+Page, logiciel, service, processus…	صفحة أو برنامج أو خدمة أو عملية…
+Pages sales	الصفحات المعدّلة
+Paquets orphelins	الحزم اليتيمة
+Paquets à purger :\n{}\nLe noyau en cours et le plus récent sont toujours conservés.	الحزم المراد حذفها:\n{1}\nتبقى النواة قيد التشغيل والأحدث دائمًا.
+Par défaut	افتراضي
+Pare-feu UFW et tunnels VPN	جدار UFW الناري وأنفاق VPN
+Passerelle	البوابة
+Police	الخط
+Polices installées	الخطوط المثبّتة
+Port 631 : {} · Browsing : {} · écoute globale : {}	المنفذ 631: {1} · Browsing: {2} · الاستماع العام: {3}
+Port à autoriser ou refuser	المنفذ المراد السماح به أو رفضه
+Priorité	الأولوية
+Processus les plus actifs	العمليات الأكثر نشاطًا
+Processus {} (PID {}) : {}.\nLes données non enregistrées de ce programme peuvent être perdues.	العملية {1} (PID {2}): {3}.\nقد تضيع البيانات غير المحفوظة لهذا البرنامج.
+Profils de performance	ملفات الأداء
+Purger les configurations résiduelles	حذف الإعدادات المتبقية
+Purger {} configuration(s)…	حذف {1} إعداد…
+PÉRIPHÉRIQUES CHIFFRÉS (LUKS)	أجهزة مشفّرة (LUKS)
+Quota pour {}	حصة {1}
+Quotas de disque	حصص القرص
+RACCOURCIS CLAVIER	اختصارات لوحة المفاتيح
+RAM disponible	ذاكرة RAM المتاحة
+RAM totale	إجمالي ذاكرة RAM
+Rapport texte	تقرير نصي
+Rapport écrit : {}	تمت كتابة التقرير: {1}
+Recherche : {}	البحث: {1}
+Recherche : {} · {} entrée(s) /etc/hosts	البحث: {1} · {2} إدخال في /etc/hosts
+Recherche dans le journal systemd	البحث في سجل systemd
+Recherche globale	بحث شامل
+Rechercher	بحث
+Reconstruire le cache	إعادة بناء الذاكرة المؤقتة
+Refuser…	رفض…
+Relancer l'audit	إعادة التدقيق
+Relire	إعادة القراءة
+Remesurer	إعادة القياس
+Reprendre	استئناف
+Rien à supprimer : seuls le noyau en cours et le plus récent sont conservés.	لا شيء لحذفه: لا يُحتفظ إلا بالنواة قيد التشغيل والأحدث.
+Rose	وردي
+RÈGLES	القواعد
+RÉGLAGES INDIVIDUELS	إعدادات فردية
+RÉSEAUX WI-FI	شبكات WI-FI
+Régénérer GRUB	إعادة توليد GRUB
+Régénérer la configuration…	إعادة توليد الإعدادات…
+Réinstaller des logiciels	إعادة تثبيت البرامج
+Réinstaller…	إعادة التثبيت…
+Réseau étendu	الشبكة المتقدمة
+Résoudre	حلّ الاسم
+Rétablir le son	استعادة الصوت
+SAUVEGARDE DISTANTE (RSYNC/SSH)	نسخ احتياطي عن بُعد (RSYNC/SSH)
+SERVEUR SSH	خادم SSH
+SERVICES LES PLUS LENTS AU DÉMARRAGE	أبطأ الخدمات عند الإقلاع
+SESSIONS ACTIVES	الجلسات النشطة
+SORTIES AUDIO	مخارج الصوت
+SOUS-VOLUMES	المجلدات الفرعية
+SUBSTITUTION FONTCONFIG	استبدال FONTCONFIG
+Sans-serif : {} · monospace : {}	بلا زوائد: {1} · أحادي المسافة: {2}
+Sauvegarde distante	نسخ احتياطي عن بُعد
+Sauvegarder	نسخ احتياطي
+Sauvegarder…	نسخ احتياطي…
+Sauvegardes	النسخ الاحتياطية
+Schéma clair/sombre	مخطط فاتح/داكن
+Score {}/100	الدرجة {1}/100
+Serveurs : {}	الخوادم: {1}
+Service NTP	خدمة NTP
+Sessions et comptes	الجلسات والحسابات
+Seules les polices de {} peuvent être supprimées ; les polices des paquets sont protégées.	لا يمكن حذف إلا الخطوط الموجودة في {1}؛ وخطوط الحزم محمية.
+Simuler	محاكاة
+Snap / Flatpak	Snap / Flatpak
+Souple	مرن
+Sous-volumes et instantanés Btrfs	مجلدات Btrfs الفرعية واللقطات
+Statut	الحالة
+Supprimer des noyaux	حذف النوى
+Supprimer les copies	حذف النسخ
+Supprimer les copies…	حذف النسخ…
+Supprimer les dépendances inutiles	إزالة التبعيات غير الضرورية
+Supprimer un volume logique	حذف وحدة تخزين منطقية
+Supprimer une imprimante	حذف طابعة
+Supprimer une police	حذف خط
+Supprimer une tâche cron	حذف مهمة cron
+Supprimer {}	حذف {1}
+Supprimer {} ancien(s) noyau(x)…	حذف {1} نواة قديمة…
+Supprimer {} dépendance(s)…	إزالة {1} تبعية…
+Supprimer…	حذف…
+Swap utilisé	التبديل المستخدم
+Sélection : {} ({})	التحديد: {1} ({2})
+TRAVAUX	المهام
+TRIM non exposé	TRIM غير معروض
+TRIM pris en charge	TRIM مدعوم
+TRIM, processeur et mémoire	TRIM والمعالج والذاكرة
+Tableau CSV	جدول CSV
+Tester	اختبار
+Tester la connexion	اختبار الاتصال
+Thème GTK	سمة GTK
+Thème d'icônes	سمة الأيقونات
+Timers et unités de sauvegarde	المؤقّتات ووحدات النسخ الاحتياطي
+Total mesuré : {}	المجموع المقاس: {1}
+Tous les travaux de cette imprimante seront annulés.	ستُلغى جميع مهام هذه الطابعة.
+Tous les travaux en attente pour cette imprimante seront annulés.	ستُلغى جميع المهام المعلّقة لهذه الطابعة.
+Tout	الكل
+Tout décocher	إلغاء تحديد الكل
+Tout mettre à jour…	تحديث الكل…
+Toutes les règles seront ignorées et les ports seront exposés.	ستُتجاهل جميع القواعد وستُكشَف المنافذ.
+Toutes sources	كل المصادر
+Tâches planifiées	المهام المجدولة
+UNITÉS DE SAUVEGARDE	وحدات النسخ الاحتياطي
+UTILISATEUR	المستخدم
+Unités	الوحدات
+Unités systemd personnalisées	وحدات systemd المخصصة
+VOLUMES LOGIQUES	وحدات التخزين المنطقية
+Valeurs écrites dans /etc/sysctl.d/99-orbisys.conf puis appliquées par sysctl -p.	تُكتب القيم في /etc/sysctl.d/99-orbisys.conf ثم تُطبَّق بالأمر sysctl -p.
+Verrouiller…	قفل…
+Vert	أخضر
+Vider la file	إفراغ القائمة
+Vider la file de {}	إفراغ قائمة {1}
+Violet	بنفسجي
+VÉRIFICATION D'ARCHIVE	التحقق من الأرشيف
+Vérifier	تحقق
+absent	غير موجود
+actif	نشط
+actif au démarrage	نشط عند الإقلاع
+activée	مفعّلة
+analyse : {}	التحليل: {1}
+annulation : {}	الإلغاء: {1}
+apt-get autoremove --purge supprimera {} paquet(s) : {}	سيزيل apt-get autoremove --purge {1} حزمة: {2}
+apt-get purge supprimera les fichiers de configuration de {} paquet(s) déjà désinstallés.	سيحذف apt-get purge ملفات إعدادات {1} حزمة تمت إزالتها بالفعل.
+arrêté	متوقف
+aucun montage /	لا توجد نقطة تثبيت /
+aucune adresse IPv4	لا يوجد عنوان IPv4
+aucune batterie	لا توجد بطارية
+audio : {}	الصوت: {1}
+bloqué	محظور
+btrfs subvolume snapshot -r {} {} (lecture seule, polkit).	btrfs subvolume snapshot -r {1} {2} (للقراءة فقط، polkit).
+cache : {}	الذاكرة المؤقتة: {1}
+charge instantanée	الحمل اللحظي
+compte : {}	الحساب: {1}
+connecté	متصل
+cpupower absent : application du gouverneur impossible	cpupower غير موجود: تعذّر تطبيق المنظّم
+cpupower absent : la gouvernance peut être lue mais pas modifiée.	cpupower غير موجود: يمكن قراءة المنظّم لكن لا يمكن تغييره.
+cpupower frequency-set -g {} (polkit).	cpupower frequency-set -g {1} (polkit).
+crontab n'est pas installé.	crontab غير مثبّت.
+cryptsetup close {} : le volume sera verrouillé et devra être réouvert avec sa phrase secrète.	cryptsetup close {1}: ستُقفل وحدة التخزين ويجب إعادة فتحها بعبارة المرور الخاصة بها.
+cupsdisable {} : les impressions en attente resteront bloquées.	cupsdisable {1}: ستبقى مهام الطباعة المعلّقة محظورة.
+disponible	متاح
+disque rotatif	قرص دوّار
+dotfiles : {}	dotfiles: {1}
+doublons : {}	المكررات: {1}
+dépassé	تم تجاوزه
+désactivée	معطّلة
+en attente	معلّقة
+en cours	الحالي
+export : {}	التصدير: {1}
+export impossible : {}	تعذّر التصدير: {1}
+extension : {}	الإضافة: {1}
+facultatif	اختياري
+fait	تم
+file : {}	القائمة: {1}
+filtrer	تصفية
+filtrer un contrôle	تصفية فحص
+filtrer un message	تصفية رسالة
+filtrer un point de montage	تصفية نقطة تثبيت
+filtrer un utilisateur	تصفية مستخدم
+filtrer une famille	تصفية عائلة
+format : 22, 22/tcp ou 8080/udp	الصيغة: 22 أو 22/tcp أو 8080/udp
+fstrim -av parcourt tous les systèmes de fichiers montés et signale aux SSD les blocs libres. L'opération peut durer plusieurs minutes et n'efface aucune donnée.	يمرّ fstrim -av على جميع أنظمة الملفات المثبّتة ويُبلغ أقراص SSD بالكتل الحرة. قد تستغرق العملية عدة دقائق ولا تمحو أي بيانات.
+fuseau : {}	المنطقة الزمنية: {1}
+gouverneur : {}	المنظّم: {1}
+groupe	مجموعة
+gsettings est absent : GNOME n'est pas le bureau actif.	gsettings غير موجود: GNOME ليست سطح المكتب النشط.
+hôte ou adresse	مضيف أو عنوان
+illimité	غير محدود
+imprimante : {}	الطابعة: {1}
+inactif	غير نشط
+inconnu	غير معروف
+installation : {}	التثبيت: {1}
+instantané	لقطة
+instantané : {}	اللقطة: {1}
+interfaces : {} · wireguard : {} · connexions actives : {}	الواجهات: {1} · wireguard: {2} · الاتصالات النشطة: {3}
+inventaire non chargé	لم يتم تحميل الجرد
+journaux : {}	السجلات: {1}
+lecture seule	للقراءة فقط
+lecture/écriture	قراءة/كتابة
+liste exportée : {} ({} logiciels)	تم تصدير القائمة: {1} ({2} برنامج)
+locale : {}	اللغة المحلية: {1}
+localectl set-locale LANG={} (Polkit).\nLa session en cours n'est pas modifiée ; la locale s'applique aux nouvelles sessions.	localectl set-locale LANG={1} (Polkit).\nلا تتغير الجلسة الحالية؛ تُطبَّق اللغة المحلية على الجلسات الجديدة.
+logiciel introuvable dans l'inventaire	لم يتم العثور على البرنامج في الجرد
+lpadmin -x {} : la file et ses réglages seront supprimés.	lpadmin -x {1}: ستُحذف القائمة وإعداداتها.
+lvremove -f {}/{} : toutes les données de ce volume seront perdues.	lvremove -f {1}/{2}: ستضيع جميع البيانات في وحدة التخزين هذه.
+manuel	يدوي
+minuteur : {}	المؤقّت: {1}
+mode miroir (--delete)	وضع المرآة (--delete)
+montage : {}	التثبيت: {1}
+monté	مثبّت
+mount {} ({}:{}, polkit). Le serveur doit être joignable.	mount {1} ({2}:{3}, polkit). يجب أن يكون الخادم قابلاً للوصول.
+nom de famille demandé	اسم العائلة المطلوبة
+non	لا
+non activé au démarrage	غير مفعّل عند الإقلاع
+non détectées	لم يتم الكشف عنها
+non installé	غير مثبّت
+non listé	غير مدرج
+notables seulement	البارزة فقط
+noyaux : {}	النوى: {1}
+ou en terminal : sudo {}	أو في الطرفية: sudo {1}
+oui	نعم
+pactl est absent : serveur audio non détecté.	pactl غير موجود: لم يتم اكتشاف خادم الصوت.
+par défaut	افتراضي
+partage exposé sur le réseau	المشاركة مكشوفة على الشبكة
+partage non exposé	المشاركة غير مكشوفة
+pilote : {}	المشغّل: {1}
+ping : {}	ping: {1}
+polices : {}	الخطوط: {1}
+processus : {}	العملية: {1}
+profil : {}	الملف: {1}
+présent	موجود
+purge : {}	الحذف: {1}
+quota : {}	الحصة: {1}
+quotaon activera les quotas déjà configurés sur ce montage.	سيفعّل quotaon الحصص المُعدّة مسبقًا على نقطة التثبيت هذه.
+rsync -a {} → {}\nLes fichiers absents de la source ne sont pas supprimés sur la cible.	rsync -a {1} → {2}\nلا تُحذف من الوجهة الملفات غير الموجودة في المصدر.
+rsync : {}	rsync: {1}
+rsync distant : {}	rsync عن بُعد: {1}
+résolution : {}	حلّ الاسم: {1}
+score {} %	الدرجة {1} %
+session : {}	الجلسة: {1}
+substitution : {}	الاستبدال: {1}
+suppression : {}	الإزالة: {1}
+suppression via le gestionnaire natif, confirmée par Polkit	الإزالة عبر المدير الأصلي وبتأكيد من Polkit
+swappiness : valeur entre 0 et 100 attendue	swappiness: يُتوقَّع قيمة بين 0 و100
+systemctl disable --now {} : les tâches planifiées de ce minuteur ne seront plus exécutées.	systemctl disable --now {1}: لن تُنفَّذ المهام المجدولة لهذا المؤقّت بعد الآن.
+taille minimale (Kio)	الحجم الأدنى (كيبي بايت)
+test serveur : {}	اختبار الخادم: {1}
+timedatectl set-timezone {} (Polkit). Les horodatages des journaux existants restent inchangés.	timedatectl set-timezone {1} (Polkit). تبقى الطوابع الزمنية للسجلات الحالية دون تغيير.
+timeout, refusé…	انتهت المهلة، مرفوض…
+timer : {}	المؤقّت: {1}
+timer {}	المؤقّت {1}
+udisksctl unmount -b {} : arrêter les applications qui l'utilisent.	udisksctl unmount -b {1}: أوقف التطبيقات التي تستخدمه.
+unité (ex. nginx.service)	الوحدة (مثل nginx.service)
+unités : {}	الوحدات: {1}
+update-grub réécrit /boot/grub/grub.cfg. Une entrée manquante peut empêcher le démarrage : vérifiez les noyaux listés ci-dessus.	يعيد update-grub كتابة /boot/grub/grub.cfg. قد يمنع فقدان أحد الإدخالات الإقلاع: تحقق من النوى المدرجة أعلاه.
+usermod -L empêche toute connexion par mot de passe de ce compte.	يمنع usermod -L أي تسجيل دخول بكلمة مرور لهذا الحساب.
+usermod -U rétablit la connexion par mot de passe.	يعيد usermod -U تسجيل الدخول بكلمة المرور.
+via {}	عبر {1}
+{} ({}) — {} utilisés sur {}	{1} ({2}) — المستخدم {3} من {4}
+{} / {} · priorité {}	{1} / {2} · الأولوية {3}
+{} appareil(s) · {} montage(s) · {} instantané(s)	{1} جهاز · {2} نقطة تثبيت · {3} لقطة
+{} conformes · {} partiels · {} non conformes · {} inconnus	متوافق {1} · جزئي {2} · غير متوافق {3} · مجهول {4}
+{} copie(s) supprimée(s), {} libérés	حُذفت {1} نسخة، وتم تحرير {2}
+{} cœur(s) · gouverneur {} · swap {}	{1} نواة · المنظّم {2} · التبديل {3}
+{} entrée(s) · {} montage(s) avec quotas · outil {}	{1} إدخال · {2} نقطة تثبيت بحصص · الأداة {3}
+{} entrée(s) · {} montée(s) · showmount {}	{1} إدخال · {2} مثبّتة · showmount {3}
+{} famille(s) de polices · {} locale(s) disponible(s)	{1} عائلة خطوط · {2} لغة محلية متاحة
+{} famille(s) installée(s)	{1} عائلة مثبّتة
+{} fichiers analysés · {} groupe(s) · {} récupérables{}	تم تحليل {1} ملف · {2} مجموعة · {3} قابلة للاسترداد{4}
+{} groupe(s) · {} volume(s) · {} périphérique(s) chiffré(s)	{1} مجموعة · {2} وحدة تخزين · {3} جهاز مشفّر
+{} hors dépôts	{1} من خارج المستودعات
+{} imprimante(s) · {} sortie(s) · {} entrée(s)	{1} طابعة · {2} مخرج · {3} مدخل
+{} imprimante(s) · {} travail(x) en file	{1} طابعة · {2} مهمة في القائمة
+{} instantané(s)	{1} لقطة
+{} instantané(s) · Timeshift {}	{1} لقطة · Timeshift {2}
+{} libres sur /	{1} حرة على /
+{} ligne(s) affichée(s)	عرض {1} سطر
+{} ligne(s) · {} message(s) récurrent(s)	{1} سطر · {2} رسالة متكررة
+{} mise(s) à jour disponible(s)	{1} تحديث متاح
+{} mise(s) à jour seront installées ({}). Une authentification administrateur est demandée.	سيتم تثبيت {1} تحديث ({2}). يُطلب توثيق المسؤول.
+{} montage(s) · {} sous-volume(s) · {} instantané(s) · outil {}	{1} نقطة تثبيت · {2} مجلد فرعي · {3} لقطة · الأداة {4}
+{} paquet(s) seraient installés	سيتم تثبيت {1} حزمة
+{} paquet(s) seraient retirés	ستتم إزالة {1} حزمة
+{} paquets · {} snap · {} flatpak · {} hors dépôts	{1} حزمة · {2} snap · {3} flatpak · {4} من خارج المستودعات
+{} personnalisée(s) · {} service(s)	{1} مخصصة · {2} خدمة
+{} point(s) à surveiller	{1} نقطة تستدعي المتابعة
+{} processus	{1} عملية
+{} périphériques USB · {} PCI	{1} جهاز USB · {2} جهاز PCI
+{} résultat(s)	{1} نتيجة
+{} session(s) · {} connexion(s) · {} compte(s) vérifié(s)	{1} جلسة · {2} عملية دخول · {3} حساب تم فحصه
+{} souple / {} dure sur {} (setquota, polkit).	{1} مرن / {2} صارم على {3} (setquota وpolkit).
+{} style(s)	{1} نمط
+{} supprimable(s) · {} configuration(s) résiduelle(s) · {}	{1} قابلة للحذف · {2} إعداد متبقٍ · {3}
+{} système(s) de fichiers	{1} نظام ملفات
+{} sélectionné(s)	تم تحديد {1}
+{} timer(s) · {} unité(s) de sauvegarde · {} en échec	{1} مؤقّت · {2} وحدة نسخ احتياطي · {3} فاشلة
+{} tâche(s) cron · {} minuteur(s)	{1} مهمة cron · {2} مؤقّت
+{} unités	{1} وحدة
+{} utilisés · {} libres sur {}	المستخدم {1} · الحر {2} من {3}
+{} {}\nLa tâche sera retirée du crontab utilisateur.	{1} {2}\nستُزال المهمة من crontab المستخدم.
+{} · libre {} · {} PV / {} LV · {} % utilisé	{1} · الحر {2} · {3} PV / {4} LV · المستخدم {5} %
+{} élément(s) de configuration · {} noyau(x)	{1} عنصر إعداد · {2} نواة
+{}rsync distant\n{}	{1}rsync عن بُعد\n{2}
+{}rsync terminé\n{}	{1}انتهى rsync\n{2}
+« {} » absente → remplacée par « {} »	«{1}» غير موجود ← استُبدل بـ «{2}»
+« {} » installée	«{1}» مثبّت
+ÉCHANGE (SWAP)	التبديل (SWAP)
+ÉDITEUR D'UNITÉ	محرر الوحدات
+ÉTAT	الحالة
+État des comptes indisponible (passwd restreint).	حالة الحسابات غير متاحة (passwd مقيّد).
+à traiter	للمعالجة
+… et {} autre(s) famille(s)	… و{1} عائلة أخرى
+… {} entrée(s) masquée(s), affinez le filtre.	… {1} إدخال مخفي، ضيّق نطاق التصفية.
+… {} familles supplémentaires masquées, affinez le filtre.	… {1} عائلة إضافية مخفية، ضيّق نطاق التصفية.
+Description	الوصف
+Version {} · licence MIT · Rust + egui	الإصدار {1} · رخصة MIT · Rust + egui
+Alerte : {}	تنبيه: {1}
+simulation : 	محاكاة: 
+score d'audit	درجة التدقيق
+ · muet	 · صامت
+ (libre)	 (حر)
+{} disque(s) · gouvernance {} · TRIM {}	{1} قرص · الحوكمة {2} · TRIM {3}
+{} style(s) : {}	{1} نمط: {2}
+{} extension(s) · {} raccourci(s)	{1} إضافة · {2} اختصار
+route {} via {} · {} interface(s)	المسار {1} عبر {2} · {3} واجهة
+{} interface(s) · {} connexion(s)	{1} واجهة · {2} اتصال
+{} · port {} · PermitRootLogin {} · PasswordAuthentication {}	{1} · المنفذ {2} · PermitRootLogin {3} · PasswordAuthentication {4}
+entrant {} · sortant {}	الوارد {1} · الصادر {2}
+{} physiques · {} logiques · {}	{1} فيزيائية · {2} منطقية · {3}
+{} processus · CPU {} % · charge {} / {} / {}	{1} عملية · CPU {2} % · الحمل {3} / {4} / {5}
+{} ligne(s)	{1} سطر
+{} · {} erreur(s) · {} avertissement(s)	{1} · {2} خطأ · {3} تحذير
+disponibles : {}	المتاح: {1}
+non défini	غير محدد
+Manuel	يدوي
+Entrée .desktop	إدخال .desktop
+erreur	خطأ
+avertissement	تحذير
+information	معلومة
+mémoire	الذاكرة
+matériel	العتاد
+stockage	التخزين
+thermique	الحرارة
+réseau	الشبكة
+graphique	الرسوميات
+divers	أخرى
+Informations	معلومات
+conforme	متوافق
+partiel	جزئي
+non conforme	غير متوافق
+Attention	تنبيه
+Critique	حرج
+terminer (SIGTERM)	إنهاء (SIGTERM)
+forcer l'arrêt (SIGKILL)	فرض الإيقاف (SIGKILL)
+suspendre (SIGSTOP)	تعليق (SIGSTOP)
+reprendre (SIGCONT)	استئناف (SIGCONT)
+priorité {}	الأولوية {1}
+Activer le pare-feu	تفعيل الجدار الناري
+Désactiver le pare-feu	تعطيل الجدار الناري
+Autoriser {}	السماح بـ {1}
+Refuser {}	رفض {1}
+Supprimer la règle n°{}	حذف القاعدة رقم {1}
+Cache des paquets téléchargés	ذاكرة الحزم المنزّلة المؤقتة
+Journal systemd	سجل systemd
+Corbeille	سلة المحذوفات
+Cache utilisateur	ذاكرة المستخدم المؤقتة
+Vignettes	الصور المصغّرة
+Noyaux obsolètes	نوى قديمة
+Archives .deb déjà installées, dans /var/cache/apt/archives.	أرشيفات .deb المثبّتة بالفعل في /var/cache/apt/archives.
+Anciennes entrées du journal, réduites à 200 Mio.	إدخالات السجل القديمة، تُقلَّص إلى 200 ميبي بايت.
+Fichiers placés dans la corbeille.	الملفات الموضوعة في سلة المحذوفات.
+Caches applicatifs de ~/.cache (vignettes incluses).	ذاكرة التطبيقات المؤقتة في ~/.cache (بما فيها الصور المصغّرة).
+Aperçus d'images et de vidéos régénérés automatiquement.	معاينات الصور والفيديو التي تُعاد إنشاؤها تلقائيًا.
+{} noyau(x) plus ancien(s) que celui en cours : {}.	{1} نواة أقدم من الحالية: {2}.
+{} révision(s) désactivée(s) conservées par snap.	{1} مراجعة معطّلة يحتفظ بها snap.
+impression en cours	قيد الطباعة
+prête	جاهزة
+inconnue	غير معروفة
+user@hôte:/srv/sauvegarde	user@host:/srv/backup
+/usr/local/bin/sauvegarde.sh	/usr/local/bin/backup.sh
+/usr/bin/mon-script	/usr/bin/my-script
+/home/amine/sauvegarde.tar.gz	/home/user/backup.tar.gz
+/home/amine/Téléchargements/ma-police.ttf	/home/user/Downloads/my-font.ttf
+mon-service.service	my-service.service
+PermitRootLogin non défini (défaut dépendant de la version)	PermitRootLogin غير محدد (القيمة الافتراضية تعتمد على الإصدار)
+Connexion root en SSH interdite	منع تسجيل دخول root عبر SSH
+SSH	SSH
+Définir « PermitRootLogin no » dans /etc/ssh/sshd_config.	اضبط «PermitRootLogin no» في /etc/ssh/sshd_config.
+authentification par mot de passe non définie	مصادقة كلمة المرور غير محددة
+Authentification SSH par clé uniquement	مصادقة SSH بالمفتاح فقط
+Désactiver PasswordAuthentication après avoir déployé des clés.	عطّل PasswordAuthentication بعد نشر المفاتيح.
+pare-feu actif, refus par défaut en entrée	الجدار الناري نشط والرفض افتراضي للوارد
+pare-feu actif mais politique d'entrée non restrictive	الجدار الناري نشط لكن سياسة الوارد غير مقيِّدة
+pare-feu inactif	الجدار الناري غير نشط
+Pare-feu actif avec refus par défaut	الجدار الناري نشط مع الرفض الافتراضي
+Activer ufw puis « ufw default deny incoming ».	فعّل ufw ثم نفّذ «ufw default deny incoming».
+AppArmor actif	AppArmor نشط
+Noyau	النواة
+service apparmor actif	خدمة apparmor نشطة
+service apparmor inactif ou absent	خدمة apparmor غير نشطة أو غير موجودة
+Installer apparmor et activer le service.	ثبّت apparmor وفعّل الخدمة.
+Mises à jour de sécurité automatiques	تحديثات الأمان التلقائية
+unattended-upgrades activé	unattended-upgrades مفعّل
+unattended-upgrades non activé	unattended-upgrades غير مفعّل
+Activer unattended-upgrades (apt-daily-upgrade.timer).	فعّل unattended-upgrades (apt-daily-upgrade.timer).
+ASLR complet	ASLR كامل
+Régler kernel.randomize_va_space=2.	اضبط kernel.randomize_va_space=2.
+Core dumps des binaires SUID désactivés	تعطيل تفريغ الذاكرة للملفات التنفيذية SUID
+Régler fs.suid_dumpable=0.	اضبط fs.suid_dumpable=0.
+Routage IPv4 désactivé	تعطيل توجيه IPv4
+Régler net.ipv4.ip_forward=0 sauf si la machine est un routeur.	اضبط net.ipv4.ip_forward=0 ما لم يكن الجهاز موجّهًا.
+PASS_MAX_DAYS {} (supérieur à 365)	PASS_MAX_DAYS {1} (أكبر من 365)
+PASS_MAX_DAYS illisible	تعذّرت قراءة PASS_MAX_DAYS
+Expiration des mots de passe	انتهاء صلاحية كلمات المرور
+Accès	الوصول
+Régler PASS_MAX_DAYS à 365 ou moins dans /etc/login.defs.	اضبط PASS_MAX_DAYS على 365 أو أقل في /etc/login.defs.
+/tmp monté avec nodev et nosuid	تثبيت /tmp مع nodev وnosuid
+Système de fichiers	نظام الملفات
+Monter /tmp avec nodev,nosuid (ou via tmpfs).	ثبّت /tmp مع nodev,nosuid (أو عبر tmpfs).
+Journalisation d'audit active	تسجيل التدقيق نشط
+Audit	التدقيق
+service auditd actif	خدمة auditd نشطة
+auditd inactif ou non installé	auditd غير نشط أو غير مثبّت
+Installer auditd et activer le service.	ثبّت auditd وفعّل الخدمة.
+ufw absent : contrôle pare-feu partiel	ufw غير موجود: فحص الجدار الناري جزئي
+systemctl absent : services non vérifiés	systemctl غير موجود: لم يتم فحص الخدمات
+Équilibre bureau : fréquence à la demande, swap modéré.	توازن سطح المكتب: التردد حسب الطلب وتبديل معتدل.
+Fréquence maximale, swap minimal, pages géantes systématiques.	أقصى تردد وأدنى تبديل وصفحات ضخمة دائمًا.
+Batterie et silence : fréquence basse, swap agressif.	البطارية والهدوء: تردد منخفض وتبديل مكثّف.
+cpufreq indisponible : gouvernance non exposée	cpufreq غير متاح: المنظّم غير معروض
+gouverneur refusé : {} (disponibles : {})	رُفض المنظّم: {1} (المتاح: {2})
+gouverneur appliqué : {}	تم تطبيق المنظّم: {1}
+mode THP refusé : {}	رُفض وضع THP: {1}
+transparent_hugepage non exposé par ce noyau	لا تعرض هذه النواة transparent_hugepage
+gouverneur : échec ({})	المنظّم: فشل ({1})
+swappiness : échec ({})	swappiness: فشل ({1})
+compte verrouillé	الحساب مقفل
+mot de passe actif	كلمة المرور مفعّلة
+aucun mot de passe	لا توجد كلمة مرور
+état {}	الحالة {1}
+utilisateur refusé : {}	رُفض المستخدم: {1}
+compte déverrouillé	تم إلغاء قفل الحساب
+session refusée : {}	رُفضت الجلسة: {1}
+session {} fermée	أُغلقت الجلسة {1}
+Réactif	سريع الاستجابة
+Performance	الأداء
+Économie	اقتصادي
+planification invalide : cinq champs (min heure jour mois jour-semaine) ou @daily	جدولة غير صالحة: خمسة حقول (دقيقة ساعة يوم شهر يوم-الأسبوع) أو @daily
+commande invalide	أمر غير صالح
+crontab n'est pas installé	crontab غير مثبّت
+tâche ajoutée : {} {}	تمت إضافة المهمة: {1} {2}
+tâche invalide	مهمة غير صالحة
+tâche supprimée : {} {}	تمت إزالة المهمة: {1} {2}
+minuteur invalide : nom attendu au format nom.timer	مؤقّت غير صالح: يُتوقع اسم بصيغة name.timer
+APT : {} paquet(s) installé(s)	APT: تم تثبيت {1} حزمة
+APT : échec — {}	APT: فشل — {1}
+Snap : {} logiciel(s) installé(s)	Snap: تم تثبيت {1} برنامج
+Snap : échec — {}	Snap: فشل — {1}
+Flatpak : {} application(s) installée(s)	Flatpak: تم تثبيت {1} تطبيق
+Flatpak : échec — {}	Flatpak: فشل — {1}
+aucun logiciel à réinstaller dans ce fichier	لا يوجد برنامج لإعادة تثبيته في هذا الملف
+source introuvable : {}	المصدر غير موجود: {1}
+refus de copier la racine du système	رفض نسخ جذر النظام
+destination refusée : racine du système	رُفضت الوجهة: جذر النظام
+source et destination identiques	المصدر والوجهة متطابقان
+la destination ne peut pas être à l'intérieur de la source	لا يمكن أن تكون الوجهة داخل المصدر
+rsync n'est pas installé	rsync غير مثبّت
+aucun fichier de configuration détecté	لم يتم العثور على ملف إعدادات
+{} élément(s) sauvegardé(s) dans {}	تم حفظ {1} عنصر في {2}
+ni update-grub ni grub-mkconfig ne sont disponibles	لا يتوفر update-grub ولا grub-mkconfig
+la sauvegarde doit être un dossier	يجب أن تكون النسخة الاحتياطية مجلدًا
+aucun fichier de configuration reconnu dans ce dossier	لا يوجد ملف إعدادات معروف في هذا المجلد
+{} élément(s) restauré(s) (les originaux sont conservés en .um-bak-{})	تمت استعادة {1} عنصر (تبقى الأصول باسم .um-bak-{2})
+dossier personnel introuvable	مجلد المستخدم غير موجود
+chemins refusés : attendu des chemins absolus sans `..`	رُفضت المسارات: يُتوقع مسارات مطلقة بدون `..`
+la source et la destination sont identiques	المصدر والوجهة متطابقان
+la destination existe déjà : {}	الوجهة موجودة بالفعل: {1}
+dossier parent absent : {}	المجلد الأصل غير موجود: {1}
+instantané créé : {}	تم إنشاء اللقطة: {1}
+chemin refusé : {}	رُفض المسار: {1}
+sous-volume supprimé : {}	تم حذف المجلد الفرعي: {1}
+btrfs-progs absent : sous-volumes illisibles	btrfs-progs غير موجود: تعذّرت قراءة المجلدات الفرعية
+{} élément(s) retiré(s) de la corbeille	تمت إزالة {1} عنصر من سلة المحذوفات
+dossier de cache introuvable	مجلد الذاكرة المؤقتة غير موجود
+{} entrée(s) de cache supprimée(s)	تم حذف {1} إدخال من الذاكرة المؤقتة
+{} vignette(s) supprimée(s)	تم حذف {1} صورة مصغّرة
+aucune révision désactivée	لا توجد مراجعة معطّلة
+{} r{} supprimée	تمت إزالة {1} r{2}
+travail refusé : {}	رُفضت المهمة: {1}
+travail annulé : {}	تم إلغاء المهمة: {1}
+imprimante refusée : {}	رُفضت الطابعة: {1}
+file vidée : {}	تم إفراغ القائمة: {1}
+imprimante supprimée : {}	تم حذف الطابعة: {1}
+schéma ou clé invalide	مخطط أو مفتاح غير صالح
+valeur refusée	رُفضت القيمة
+identifiant d'extension invalide	معرّف إضافة غير صالح
+gnome-extensions n'est pas disponible	gnome-extensions غير متاح
+ufw n'est pas installé : pare-feu non gérable depuis l'application.	ufw غير مثبّت: لا يمكن إدارة الجدار الناري من التطبيق.
+pare-feu inactif : aucune règle n'est appliquée.	الجدار الناري غير نشط: لا تُطبَّق أي قاعدة.
+ufw n'est pas installé	ufw غير مثبّت
+port refusé : {}	رُفض المنفذ: {1}
+numéro de règle invalide	رقم قاعدة غير صالح
+les règles ont changé depuis l'affichage : actualisez et recommencez	تغيّرت القواعد منذ عرضها: حدّث ثم أعد المحاولة
+extension absente : attendu ttf, otf, ttc, woff ou woff2	الامتداد غير موجود: يُتوقع ttf أو otf أو ttc أو woff أو woff2
+extension refusée : .{}	رُفض الامتداد: .{1}
+fichier introuvable : {}	الملف غير موجود: {1}
+nom de famille invalide	اسم عائلة غير صالح
+famille refusée : {}	رُفضت العائلة: {1}
+nom de fichier invalide	اسم ملف غير صالح
+nom de fichier caché refusé	رُفض اسم الملف المخفي
+police installée : {}	تم تثبيت الخط: {1}
+suppression limitée à {} : {}	الحذف مقصور على {1}: {2}
+police supprimée : {}	تم حذف الخط: {1}
+aucune valeur à appliquer	لا توجد قيمة لتطبيقها
+clé refusée : {}	رُفض المفتاح: {1}
+valeur refusée pour {}	رُفضت القيمة لـ {1}
+{} réglage(s) appliqué(s) et persistés dans {}	تم تطبيق {1} إعداد وحفظها في {2}
+aucun noyau à supprimer	لا توجد نواة لحذفها
+paquet refusé : {}	رُفضت الحزمة: {1}
+refus de supprimer le noyau en cours : {}	رفض حذف النواة قيد التشغيل: {1}
+{} noyau(x) supprimé(s)	تم حذف {1} نواة
+pilote refusé : {}	رُفض المشغّل: {1}
+ubuntu-drivers n'est pas disponible	ubuntu-drivers غير متاح
+pilote {} installé	تم تثبيت المشغّل {1}
+locale invalide : format attendu fr_FR.UTF-8	لغة محلية غير صالحة: الصيغة المتوقعة fr_FR.UTF-8
+localectl n'est pas disponible	localectl غير متاح
+locale système : {}	لغة النظام: {1}
+fuseau invalide : format attendu Europe/Paris	منطقة زمنية غير صالحة: الصيغة المتوقعة Europe/Paris
+timedatectl n'est pas disponible	timedatectl غير متاح
+nom de groupe ou de volume invalide	اسم مجموعة أو وحدة تخزين غير صالح
+taille invalide : attendu un nombre suivi de K, M, G ou T	حجم غير صالح: يُتوقع رقم يليه K أو M أو G أو T
+volume {}/{} créé ({})	تم إنشاء وحدة التخزين {1}/{2} ({3})
+référence attendue : groupe/volume	يُتوقع مرجع: مجموعة/وحدة تخزين
+référence de volume invalide	مرجع وحدة تخزين غير صالح
+volume {}/{} supprimé	تم حذف وحدة التخزين {1}/{2}
+nom de périphérique invalide	اسم جهاز غير صالح
+{} fermé	تم إغلاق {1}
+périphérique invalide	جهاز غير صالح
+hôte refusé : {}	رُفض المضيف: {1}
+résolution impossible : {}	تعذّر حلّ الاسم: {1}
+aucune route par défaut	لا يوجد مسار افتراضي
+point de montage refusé : {}	رُفضت نقطة التثبيت: {1}
+serveur refusé : {}	رُفض الخادم: {1}
+fstrim n'est pas disponible (paquet util-linux)	fstrim غير متاح (حزمة util-linux)
+TRIM terminé	اكتمل TRIM
+gouvernance refusée : {}	رُفض المنظّم: {1}
+cpupower est requis pour changer la gouvernance (paquet linux-tools)	يلزم cpupower لتغيير المنظّم (حزمة linux-tools)
+dépendances inutiles supprimées	تمت إزالة التبعيات غير الضرورية
+aucun paquet à purger	لا توجد حزم لحذفها
+trop de paquets en une fois (200 maximum)	عدد الحزم كبير دفعة واحدة (الحد الأقصى 200)
+nom de paquet refusé : {}	رُفض اسم الحزمة: {1}
+{} configuration(s) purgée(s)	تم حذف {1} إعداد
+nom d'imprimante invalide	اسم طابعة غير صالح
+imprimante par défaut : {}	الطابعة الافتراضية: {1}
+imprimante {} supprimée	تم حذف الطابعة {1}
+nom de sortie audio invalide	اسم مخرج صوت غير صالح
+sortie par défaut : {}	المخرج الافتراضي: {1}
+sourdine basculée pour {}	تم تبديل كتم الصوت لـ {1}
+ajustement attendu entre -100 et +100	يُتوقع ضبط بين -100 و+100
+volume de {} ajusté de {}	تم ضبط مستوى صوت {1} بمقدار {2}
+la limite souple dépasse la limite dure	الحد المرن يتجاوز الحد الصارم
+quota appliqué : {} sur {} ({} / {})	تم تطبيق الحصة: {1} على {2} ({3} / {4})
+quotas activés : {}	تم تفعيل الحصص: {1}
+repquota absent : paquet quota non installé	repquota غير موجود: حزمة quota غير مثبّتة
+systemd non disponible sur ce système	systemd غير متاح على هذا النظام
+unité refusée : {}	رُفضت الوحدة: {1}
+cible invalide : format attendu user@hôte:/chemin	وجهة غير صالحة: الصيغة المتوقعة user@host:/path
+hôte introuvable dans la cible	لم يتم العثور على المضيف في الوجهة
+connexion à {} établie	تم إنشاء الاتصال بـ {1}
+connexion à {} impossible : {}	تعذّر الاتصال بـ {1}: {2}
+chemin refusé	رُفض المسار
+format non pris en charge : attendu .tar[.gz|.xz|.bz2], .tgz, .txz, .zip	تنسيق غير مدعوم: المتوقع .tar[.gz, .xz, .bz2] أو .tgz أو .txz أو .zip
+archive invalide : {}	أرشيف غير صالح: {1}
+archive valide : {} entrée(s) · {}	أرشيف صالح: {1} إدخال · {2}
+action refusée : {}	رُفض الإجراء: {1}
+le nom doit se terminer par .service	يجب أن ينتهي الاسم بـ .service
+nom d'unité refusé : {}	رُفض اسم الوحدة: {1}
+fichier d'unité trop volumineux (64 Kio maximum)	ملف الوحدة كبير جدًا (الحد الأقصى 64 كيبي بايت)
+ExecStart= manquant ou vide	ExecStart= مفقود أو فارغ
+unité introuvable : {}	الوحدة غير موجودة: {1}
+unité installée : {}	تم تثبيت الوحدة: {1}
+pas une unité personnalisée : {}	ليست وحدة مخصصة: {1}
+unité supprimée : {}	تم حذف الوحدة: {1}
+date de début invalide : AAAA-MM-JJ ou AAAA-MM-JJ HH:MM	تاريخ بدء غير صالح: YYYY-MM-DD أو YYYY-MM-DD HH:MM
+date de fin invalide : AAAA-MM-JJ ou AAAA-MM-JJ HH:MM	تاريخ انتهاء غير صالح: YYYY-MM-DD أو YYYY-MM-DD HH:MM
+rien à exporter : lancez d'abord une recherche	لا شيء لتصديره: شغّل بحثًا أولًا
+{} × {} ({} récupérables)	{1} × {2} ({3} قابلة للاسترداد)
+original introuvable : {}	الأصل غير موجود: {1}
+l'original a changé depuis l'analyse : relancez l'analyse	تغيّر الأصل منذ التحليل: أعد التحليل
+refus d'agir sur le processus système (PID ≤ 1)	رفض التصرف في عملية النظام (PID ≤ 1)
+refus d'agir sur l'application elle-même	رفض التصرف في التطبيق نفسه
+le processus {} n'existe plus	العملية {1} لم تعد موجودة
+le PID {} désigne maintenant « {} » et non « {} » : actualisez la liste	يشير PID {1} الآن إلى «{2}» وليس «{3}»: حدّث القائمة
+refus d'agir sur un thread du noyau	رفض التصرف في خيط نواة
+priorité hors limites (-20 à 19) : {}	الأولوية خارج النطاق (من -20 إلى 19): {1}
+aucun paquet sélectionné	لم يتم تحديد أي حزمة
+{} : à jour	{1}: محدّث
+{} : échec — {}	{1}: فشل — {2}
+Snap : à jour	Snap: محدّث
+Flatpak : à jour	Flatpak: محدّث
+aucune mise à jour à appliquer	لا توجد تحديثات لتطبيقها
+chemin introuvable : {}	المسار غير موجود: {1}
+chemin refusé (hors de /opt)	رُفض المسار (خارج /opt)
+entrée de bureau hors des dossiers autorisés	إدخال سطح مكتب خارج المجلدات المسموح بها
+entrée supprimée : {}	تم حذف الإدخال: {1}
+chemin hors du dossier personnel	مسار خارج مجلد المستخدم
+supprimé : {}	تم الحذف: {1}
+Connexion SSH de root	تسجيل دخول root عبر SSH
+Authentification par mot de passe SSH	مصادقة SSH بكلمة المرور
+Serveur SSH absent	خادم SSH غير موجود
+Aucun /etc/ssh/sshd_config : rien à vérifier.	لا يوجد /etc/ssh/sshd_config: لا شيء للفحص.
+Le pare-feu système est démarré.	جدار النظام الناري قيد التشغيل.
+Aucune règle de filtrage n'est appliquée au démarrage.	لا تُطبَّق أي قاعدة ترشيح عند الإقلاع.
+Pare-feu non détecté	لم يتم اكتشاف جدار ناري
+Ni ufw ni firewalld ne sont installés.	لا ufw ولا firewalld مثبّتان.
+Mises à jour automatiques	التحديثات التلقائية
+unattended-upgrades est installé.	unattended-upgrades مثبّت.
+unattended-upgrades absent : les correctifs de sécurité attendent une action manuelle.	unattended-upgrades غير موجود: تنتظر إصلاحات الأمان إجراءً يدويًا.
+{} binaires avec le bit setuid dans /usr/bin et /usr/sbin.	{1} ملف تنفيذي بوحدة setuid في /usr/bin و/usr/sbin.
+{} sockets TCP/UDP en écoute.	{1} مقبس TCP/UDP في وضع الاستماع.
+Activé.	مفعّل.
+Désactivé.	معطّل.
+Non applicable (démarrage BIOS ou variables EFI illisibles).	غير منطبق (إقلاع BIOS أو متغيرات EFI غير قابلة للقراءة).
+Module non monté.	الوحدة غير مثبّتة.
+Normal	طبيعي
+Utilisée	مستخدمة
+Disponible	متاحة
+Total	الإجمالي
+Maintenant	الآن
+il y a {} s	منذ {1} ث
+il y a {} min	منذ {1} د
+Utilisation du processeur	استخدام المعالج
+Utilisation de la mémoire	استخدام الذاكرة
+Processus principaux	أهم العمليات
+Système sain	النظام سليم
+Tous les services sont actifs	جميع الخدمات تعمل
+Attention requise	يتطلب انتباهًا
+Seuils dépassés	تم تجاوز العتبات
+{} services en échec	{1} خدمة فاشلة
+{} cœurs	{1} نواة
+consomme {} % du processeur	يستهلك {1} % من المعالج
+outil légitime souvent détourné : vérifiez que vous l'avez bien installé vous-même	أداة مشروعة كثيرًا ما يُساء استخدامها: تأكد من أنك ثبّتها بنفسك
+Processus examinés : {} (exécutable lisible pour {} ; les processus d'autres utilisateurs ne sont jugés que sur leur nom et leur ligne de commande)	العمليات المفحوصة: {1} (الملف التنفيذي مقروء في {2}؛ تُقيَّم عمليات المستخدمين الآخرين من اسمها وسطر أوامرها فقط)
+Connexions réseau : {}	اتصالات الشبكة: {1}
+Scripts de démarrage et planifications : {}	نصوص بدء التشغيل والجداول: {1}
+Entrées de fichiers parcourues : {} (dossiers temporaires et dossier personnel, profondeur limitée){}	عناصر الملفات التي جرى فحصها: {1} (المجلدات المؤقتة والمجلد الشخصي، بعمق محدود){2}
+Vérifié : processus, réseau, persistance, fichiers exécutables/setuid, comptes, outils à double usage.	جرى فحص: العمليات، والشبكة، وآليات الاستمرار، والملفات التنفيذية/setuid، والحسابات، والأدوات مزدوجة الاستخدام.
+Non vérifié : contenu des fichiers (hors scripts de démarrage), mémoire, noyau, firmware.	لم يُفحص: محتوى الملفات (باستثناء نصوص بدء التشغيل)، والذاكرة، والنواة، والبرامج الثابتة.
+Activer zram	تفعيل zram
+Activer zram…	تفعيل zram…
+Désactiver zram	تعطيل zram
+Désactiver zram…	تعطيل zram…
+Échange compressé (zram)	تبديل مضغوط (zram)
+Le module zram est chargé et systemd-zram-setup@zram0.service démarré : une zone d'échange compressée en RAM sera créée.	يتم تحميل وحدة zram وتشغيل systemd-zram-setup@zram0.service: سيتم إنشاء مساحة تبديل مضغوطة في الذاكرة.
+Le périphérique /dev/zram0 sera retiré et le module déchargé. La mémoire compressée qu'il contient est perdue.	ستتم إزالة الجهاز /dev/zram0 وتفريغ الوحدة. البيانات المضغوطة المخزنة فيه ستُفقد.
+Résolveurs proposés	خوادم حل مقترحة
+Serveur DNS	خادم DNS
+Appliquer le DNS…	تطبيق DNS…
+Hôtes (/etc/hosts)	المضيفون (/etc/hosts)
+Nom d'hôte	اسم المضيف
+Retirer un hôte	إزالة مضيف
+l'entrée sera retirée de /etc/hosts	سيتم حذف الإدخال من /etc/hosts
+RÈGLES DE SEUIL	قواعد العتبة
+Aucune règle de seuil.	لا توجد قاعدة عتبة.
+Ajouter la règle	إضافة القاعدة
+Notification de bureau	إشعار سطح المكتب
+Les règles sont vérifiées toutes les 30 secondes tant que l'application est ouverte. Une même règle ne notifie qu'une fois par dix minutes.	يتم فحص القواعد كل 30 ثانية أثناء فتح التطبيق. لا تُنبّه القاعدة الواحدة أكثر من مرة كل عشر دقائق.
+MONTER UN PARTAGE À LA DEMANDE	تحميل مشاركة عند الطلب
+Monter un partage réseau	تحميل مشاركة شبكة
+Partage	مشاركة
+Point de montage	نقطة التحميل
+via Polkit	عبر Polkit
+Le point de montage est créé si nécessaire. Le montage n'est pas ajouté à /etc/fstab.	يتم إنشاء نقطة التحميل عند الحاجة. لا تتم إضافة التحميل إلى /etc/fstab.
+Alternative	بديل
+Chemin du binaire	مسار الملف التنفيذي
+Définir l'alternative	تعيين البديل
+{}–{} sur {}	{}–{} من {}
+Précédent	السابق
+Suivant	التالي

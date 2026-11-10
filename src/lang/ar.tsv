@@ -1,0 +1,208 @@
+# Traductions de l'interface (clé<TAB>texte). Les clés absentes se replient sur l'anglais.
+nav.monitoring	المراقبة
+nav.software	البرامج
+nav.storage	التخزين
+nav.kernel	النظام والنواة
+nav.volumes	الأقراص والتشفير
+nav.peripherals	الأجهزة الطرفية
+nav.desktop	سطح المكتب
+nav.automation	الأتمتة
+nav.system	النظام
+nav.network	الشبكة
+nav.security	الأمان
+nav.locale	الخطوط واللغة
+nav.optimize	التحسين
+nav.snapshots	اللقطات والأرشيفات
+nav.app	التطبيق
+app.search	بحث…
+app.refresh	تحديث
+app.theme	السمة
+app.search_hint	بحث عام: Ctrl+K
+app.busy	جارٍ القراءة
+app.version	الإصدار
+about.distribution	التوزيعة
+about.kernel	النواة
+about.manager	مدير الحزم
+about.native	الحزم الأصلية
+about.accent	لون التمييز
+about.language	اللغة
+about.missing	أدوات اختيارية مفقودة
+about.all_present	جميع الأدوات الاختيارية موجودة.
+about.policy	تمرّ الإجراءات المميزة عبر Polkit، ولا يُنفَّذ أي أمر عبر صدفة.
+about.active	نشط
+about.available	متاح
+about.missing_short	مفقود
+ui.loading	جارٍ القراءة…
+ui.filter	تصفية
+ui.reload	إعادة التحميل
+ui.empty	لا شيء للعرض.
+ui.nomatch	لا توجد نتائج لهذا المرشح.
+ui.close	إغلاق
+ui.charts	الرسوم البيانية
+ui.select_process_hint	اختر عملية من القائمة لمتابعة المعالج والذاكرة.
+page.dashboard	لوحة المعلومات
+page.software	الجرد والإزالة
+page.updates	التحديثات
+page.disk	استخدام القرص
+page.storage	التخزين والأقسام
+page.duplicates	الملفات المكررة
+page.cleanup	التنظيف
+page.backup	النسخ الاحتياطي والاستعادة
+page.kernel	النظام والنواة
+page.volumes	الأقراص والتشفير
+page.peripherals	الطابعات والصوت
+page.printers	الطابعات المتقدمة
+page.fonts	تفاصيل الخطوط
+page.quotas	حصص القرص
+page.btrfs	لقطات Btrfs
+page.cis	تدقيق CIS
+page.orphans	الحزم اليتيمة
+page.perf	ملفات الأداء
+page.klogs	سجلات النواة
+page.sessions	الجلسات والمستخدمون
+page.netmounts	نقاط الربط الشبكية
+page.timers	نسخ systemd الاحتياطية
+page.desktop	سطح مكتب GNOME
+page.automation	الأتمتة
+page.processes	العمليات
+page.services	الخدمات
+page.logs	السجلات
+page.logadvanced	سجلات متقدمة
+page.customunits	خدمات مخصصة
+page.hardware	العتاد
+page.network	الشبكة والمشاركة
+page.netadvanced	الشبكة المتقدمة
+page.firewall	جدار الحماية وVPN
+page.security	تدقيق الأمان
+page.reports	التقارير
+page.locale	الخطوط واللغة
+page.optimize	التحسين
+page.snapshots	اللقطات والأرشيفات
+page.about	حول
+page.monitor	المراقبة المباشرة
+page.alerts	التنبيهات
+page.health	سلامة النظام
+page.history	السجل والاتجاهات
+page.delivery	إرسال التقارير
+page.benchmark	اختبار الأداء
+page.aptrepos	مستودعات APT
+page.advpackages	حزم متقدمة
+page.runtimes	بيئات التشغيل واللغات
+page.containers	الحاويات
+page.containersadv	حاويات متقدمة
+page.startup	بدء التشغيل
+page.actionlog	سجل الإجراءات
+page.maintenance	الصيانة
+page.troubleshoot	استكشاف الأخطاء
+page.profiles	الملفات الشخصية
+page.users	المستخدمون
+page.advcleanup	تنظيف متقدم
+page.mounts	نقاط الربط
+page.usbboot	USB قابل للإقلاع
+page.archives	الأرشيفات
+page.traffic	حركة الشبكة
+page.lan	الشبكة المحلية
+page.sshgpg	مفاتيح SSH وGPG
+page.certs	الشهادات وسلطات التصديق
+page.secureboot	الإقلاع الآمن
+page.apparmor	AppArmor / SELinux
+page.integrity	السلامة
+page.acl	قوائم التحكم والأذونات
+page.bluetooth	بلوتوث وUSB
+page.power	الطاقة والبطارية
+page.fans	المراوح والمستشعرات
+page.cloudbackup	النسخ الاحتياطي السحابي
+page.schedule	التقارير المجدولة
+page.wifivpn	الواي فاي وVPN
+page.firmware	البرنامج الثابت
+page.btrfsmaint	صيانة Btrfs
+page.dotfiles	ملفات الإعداد
+page.scan	فحص السلوك غير الطبيعي
+about.font_missing	لم يُعثر على خط مناسب لهذه اللغة: ثبّت «fonts-noto-cjk» (اليابانية والكورية والصينية) أو «fonts-dejavu» (العربية).
+hint.printers	قوائم الانتظار والمهام العالقة وبرامج التشغيل ومشاركة CUPS.
+hint.fonts	العائلات المثبّتة واستبدال fontconfig والذاكرة المؤقتة والتثبيت.
+hint.quotas	حصص المستخدمين والمجموعات والعتبات والتفعيل.
+hint.btrfs	الأحجام الفرعية وإنشاء اللقطات وحذفها.
+hint.cis	فحوصات التحصين والدرجة لكل فئة وسبل المعالجة.
+hint.orphans	اعتماديات غير لازمة وإعدادات متبقية للتطهير.
+hint.perf	منظّم المعالج والتبديل وTHP وإعدادات التأخير.
+hint.klogs	dmesg مصنّف: أخطاء العتاد ونفاد الذاكرة والتخزين وعمليات الإقلاع.
+hint.sessions	الجلسات النشطة وعمليات الدخول الأخيرة وقفل الحسابات.
+hint.netmounts	NFS وCIFS: fstab والحالة والربط واختبار الخادم.
+hint.timers	المؤقتات ووحدات النسخ الاحتياطي وآخر عمليات التشغيل والإخفاقات.
+hint.dashboard	نظرة عامة على الجهاز، تتحدّث تلقائيًا.
+hint.software	كل ما هو مثبّت من جميع المصادر.
+hint.updates	التحديثات المتاحة عبر مدير الحزم الأصلي.
+hint.disk	إشغال أنظمة الملفات المربوطة.
+hint.storage	الأجهزة ونقاط الربط ولقطات Btrfs وTimeshift.
+hint.duplicates	ملفات متطابقة تُقارَن بمجموع اختباري.
+hint.cleanup	أهداف التنظيف مقيسة قبل أي حذف.
+hint.backup	قائمة البرامج ونسخ rsync وملفات الإعداد وGRUB.
+hint.kernel	إعدادات النواة والتبديل والنوى المثبّتة وبرامج التشغيل.
+hint.volumes	مجموعات وأحجام LVM وأجهزة LUKS والربط.
+hint.peripherals	قوائم طباعة CUPS ومخارج الصوت ومداخله.
+hint.desktop	السمة والأيقونات والخط والإضافات والاختصارات.
+hint.automation	مهام cron ومؤقتات systemd.
+hint.processes	العمليات مرتبة حسب استخدام المعالج.
+hint.services	وحدات systemd وإجراءات مؤكَّدة.
+hint.logs	سجل systemd مصفّى حسب الوحدة والمستوى.
+hint.logadvanced	بحث في عدة وحدات ونطاق تواريخ وأخطاء متكررة.
+hint.customunits	اكتب وحدات systemd الخاصة بك وثبّتها وتحكّم بها.
+hint.hardware	المعالج والذاكرة والبطاقات والبطارية والمستشعرات.
+hint.network	الواجهات وWi-Fi وDNS وSSH والمشاركات.
+hint.netadvanced	المسارات وDNS وVPN وSamba وتشخيص الاتصال.
+hint.firewall	قواعد UFW وأنفاق VPN.
+hint.security	فحوصات للقراءة فقط، لا يتغير شيء.
+hint.reports	تصدير بصيغ TXT وCSV وJSON وPDF.
+hint.locale	لغة النظام والمنطقة الزمنية والخطوط.
+hint.optimize	TRIM ومنظّم المعالج والذاكرة وبدء التشغيل.
+hint.snapshots	Timeshift والنسخ الاحتياطي البعيد والتحقق من الأرشيفات.
+hint.about	الإصدار والأدوات المكتشفة والرخصة.
+hint.monitor	المعالج والذاكرة والشبكة والأقراص، تتحدّث باستمرار.
+hint.alerts	عتبات المعالج والذاكرة والقرص والحرارة مع إشعار.
+hint.health	درجة إجمالية محسوبة من الفحوصات مع تصدير التقرير.
+hint.history	قياسات عبر الزمن ومنحنيات وتصدير CSV.
+hint.delivery	إرسال تقرير الحالة عبر webhook أو البريد الإلكتروني.
+hint.benchmark	قياسات بسيطة: المعالج والذاكرة والقرص.
+hint.aptrepos	مصادر الحزم: تفعيل وتعطيل وحذف وتحديث الفهارس.
+hint.advpackages	تثبيت الإصدارات وخفضها وسجل dpkg.
+hint.runtimes	إصدارات اللغات المثبّتة وبدائل النظام.
+hint.containers	حاويات Docker وPodman وLXD: تشغيل وإيقاف وحذف.
+hint.containersadv	الصور والأحجام والشبكات مع تنظيف موجَّه.
+hint.startup	تطبيقات الجلسة وملف الطاقة وتحليل الإقلاع.
+hint.actionlog	سجل الإجراءات المؤرَّخ وتصدير CSV والمسح.
+hint.maintenance	الأدوات المتاحة ومهام الصيانة المميّزة.
+hint.troubleshoot	تشخيص تلقائي ونصائح.
+hint.profiles	ملفات جاهزة لمحطة العمل مع تثبيت جماعي.
+hint.users	الحسابات المحلية ومجموعة sudo والقفل.
+hint.advcleanup	ذاكرات التطبيقات المؤقتة وFlatpak والحاويات وإصدارات Snap القديمة.
+hint.mounts	نقاط الربط النشطة و/etc/fstab وTRIM لأقراص SSD.
+hint.usbboot	كتابة صورة ISO على جهاز قابل للإزالة.
+hint.archives	عرض الأرشيفات وإنشاؤها وفك ضغطها.
+hint.traffic	اتصالات لكل عملية وعدّادات لكل واجهة.
+hint.lan	اكتشاف المضيفين في الشبكة (nmap أو جدول ARP).
+hint.sshgpg	مفاتيح المستخدم وتوليد SSH ونسخ المفتاح العام.
+hint.certs	السلطات المحلية: إضافة وحذف وتواريخ الانتهاء.
+hint.secureboot	حالة الإقلاع الآمن ومفاتيح MOK المسجّلة.
+hint.apparmor	الملفات المحمّلة والتبديل بين complain وenforce ووضع SELinux.
+hint.integrity	فحص ملفات الحزم المعدّلة (dpkg -V وdebsums).
+hint.acl	فحص الأذونات وإدارة قوائم التحكم في الوصول.
+hint.bluetooth	الأجهزة المقترنة والاتصال وأجهزة USB.
+hint.power	البطارية ودورات الشحن وملف الطاقة.
+hint.fans	سرعات المراوح ودرجات الحرارة (للقراءة فقط).
+hint.cloudbackup	مزامنة المجلدات مع وجهة rclone البعيدة مع محاكاة.
+hint.schedule	مؤقت systemd للمستخدم: تقرير يومي أو أسبوعي أو شهري.
+hint.wifivpn	راديو Wi-Fi والشبكات المكتشفة واتصالات VPN واستيراد الإعدادات.
+hint.firmware	تحديثات البرنامج الثابت عبر fwupd.
+hint.btrfsmaint	فحص وتوازن واستخدام أنظمة ملفات Btrfs.
+hint.dotfiles	نسخ ملفات الإعداد الشخصية احتياطيًا واستعادتها.
+hint.scan	تحليل استدلالي للعمليات والشبكة وعناصر بدء التشغيل والملفات لرصد ما يبدو غير معتاد.
+group.processes	العمليات والمراقبة
+group.reports	التقارير والسجل
+group.disks	الأقراص
+group.backups	النسخ الاحتياطي
+group.audit	التدقيق والسلامة
+group.keys	المفاتيح والشهادات
+group.protections	حماية النظام
+group.packages	الحزم والتحديثات
+group.peripherals	الأجهزة الطرفية

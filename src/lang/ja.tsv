@@ -1,0 +1,208 @@
+# Traductions de l'interface (clé<TAB>texte). Les clés absentes se replient sur l'anglais.
+nav.monitoring	監視
+nav.software	ソフトウェア
+nav.storage	ストレージ
+nav.kernel	システムとカーネル
+nav.volumes	ボリュームと暗号化
+nav.peripherals	周辺機器
+nav.desktop	デスクトップ
+nav.automation	自動化
+nav.system	システム
+nav.network	ネットワーク
+nav.security	セキュリティ
+nav.locale	フォントとロケール
+nav.optimize	最適化
+nav.snapshots	スナップショットとアーカイブ
+nav.app	アプリケーション
+app.search	検索…
+app.refresh	更新
+app.theme	テーマ
+app.search_hint	グローバル検索: Ctrl+K
+app.busy	読み込み中
+app.version	バージョン
+about.distribution	ディストリビューション
+about.kernel	カーネル
+about.manager	パッケージ管理
+about.native	ネイティブパッケージ
+about.accent	アクセントカラー
+about.language	言語
+about.missing	不足しているオプションツール
+about.all_present	すべてのオプションツールが揃っています。
+about.policy	特権操作は Polkit を経由します。シェル経由で実行されるコマンドはありません。
+about.active	有効
+about.available	利用可能
+about.missing_short	なし
+ui.loading	読み込み中…
+ui.filter	絞り込み
+ui.reload	再読み込み
+ui.empty	表示する項目がありません。
+ui.nomatch	このフィルターに一致するものはありません。
+ui.close	閉じる
+ui.charts	グラフ
+ui.select_process_hint	リストからプロセスを選ぶと、CPU とメモリを追跡できます。
+page.dashboard	ダッシュボード
+page.software	一覧とアンインストール
+page.updates	アップデート
+page.disk	ディスク使用量
+page.storage	ストレージとパーティション
+page.duplicates	重複ファイル
+page.cleanup	クリーンアップ
+page.backup	バックアップと復元
+page.kernel	システムとカーネル
+page.volumes	ボリュームと暗号化
+page.peripherals	プリンターとオーディオ
+page.printers	プリンター（詳細）
+page.fonts	フォント詳細
+page.quotas	ディスククォータ
+page.btrfs	Btrfs スナップショット
+page.cis	CIS 監査
+page.orphans	孤立パッケージ
+page.perf	パフォーマンスプロファイル
+page.klogs	カーネルログ
+page.sessions	セッションとユーザー
+page.netmounts	ネットワークマウント
+page.timers	systemd バックアップ
+page.desktop	GNOME デスクトップ
+page.automation	自動化
+page.processes	プロセス
+page.services	サービス
+page.logs	ログ
+page.logadvanced	ログ（詳細）
+page.customunits	カスタムサービス
+page.hardware	ハードウェア
+page.network	ネットワークと共有
+page.netadvanced	ネットワーク（詳細）
+page.firewall	ファイアウォールと VPN
+page.security	セキュリティ監査
+page.reports	レポート
+page.locale	フォントとロケール
+page.optimize	最適化
+page.snapshots	スナップショットとアーカイブ
+page.about	このアプリについて
+page.monitor	ライブ監視
+page.alerts	アラート
+page.health	システムの健全性
+page.history	履歴とトレンド
+page.delivery	レポート配信
+page.benchmark	ベンチマーク
+page.aptrepos	APT リポジトリ
+page.advpackages	パッケージ（詳細）
+page.runtimes	ランタイムと言語
+page.containers	コンテナ
+page.containersadv	コンテナ（詳細）
+page.startup	起動
+page.actionlog	操作ログ
+page.maintenance	メンテナンス
+page.troubleshoot	トラブルシューティング
+page.profiles	プロファイル
+page.users	ユーザー
+page.advcleanup	高度なクリーンアップ
+page.mounts	マウント
+page.usbboot	ブータブル USB
+page.archives	アーカイブ
+page.traffic	ネットワークトラフィック
+page.lan	ローカルネットワーク
+page.sshgpg	SSH・GPG キー
+page.certs	証明書と CA
+page.secureboot	セキュアブート
+page.apparmor	AppArmor / SELinux
+page.integrity	整合性
+page.acl	ACL とアクセス権
+page.bluetooth	Bluetooth と USB
+page.power	電源とバッテリー
+page.fans	ファンとセンサー
+page.cloudbackup	クラウドバックアップ
+page.schedule	定期レポート
+page.wifivpn	Wi-Fi と VPN
+page.firmware	ファームウェア
+page.btrfsmaint	Btrfs メンテナンス
+page.dotfiles	ドットファイル
+page.scan	異常な動作のスキャン
+about.font_missing	この言語に対応するフォントが見つかりません。「fonts-noto-cjk」（日本語・韓国語・中国語）または「fonts-dejavu」（アラビア語）をインストールしてください。
+hint.printers	キュー、停止したジョブ、ドライバー、CUPS 共有。
+hint.fonts	インストール済みファミリー、fontconfig の代替、キャッシュ、インストール。
+hint.quotas	ユーザーとグループのクォータ、しきい値、有効化。
+hint.btrfs	サブボリューム、スナップショットの作成と削除。
+hint.cis	ハードニングのチェック、カテゴリ別スコア、対処方法。
+hint.orphans	不要な依存関係と、削除すべき残存設定。
+hint.perf	CPU ガバナー、スワップ、THP、レイテンシ設定。
+hint.klogs	分類済みの dmesg：ハードウェアエラー、OOM、ストレージ、起動。
+hint.sessions	アクティブなセッション、最近のログイン、アカウントのロック。
+hint.netmounts	NFS と CIFS：fstab、状態、マウント、サーバーの確認。
+hint.timers	タイマー、バックアップユニット、最近の実行と失敗。
+hint.dashboard	マシンの概要。自動で更新されます。
+hint.software	インストール済みのすべて（全ソース）。
+hint.updates	ネイティブのパッケージ管理で利用できるアップデート。
+hint.disk	マウント済みファイルシステムの使用状況。
+hint.storage	デバイス、マウント、Btrfs・Timeshift のスナップショット。
+hint.duplicates	チェックサムで比較した同一ファイル。
+hint.cleanup	削除前にサイズを測定したクリーンアップ対象。
+hint.backup	ソフトウェア一覧、rsync コピー、ドットファイル、GRUB。
+hint.kernel	カーネル設定、スワップ、インストール済みカーネル、ドライバー。
+hint.volumes	LVM のグループとボリューム、LUKS デバイス、マウント。
+hint.peripherals	CUPS の印刷キュー、オーディオの出力と入力。
+hint.desktop	テーマ、アイコン、フォント、拡張機能、ショートカット。
+hint.automation	cron ジョブと systemd タイマー。
+hint.processes	CPU 使用率順のプロセス。
+hint.services	systemd ユニットと、確認付きの操作。
+hint.logs	ユニットとレベルで絞り込んだ systemd ジャーナル。
+hint.logadvanced	複数ユニットの検索、日付範囲、繰り返し発生するエラー。
+hint.customunits	独自の systemd ユニットを作成・インストール・制御。
+hint.hardware	CPU、メモリ、カード、バッテリー、センサー。
+hint.network	インターフェース、Wi-Fi、DNS、SSH、共有。
+hint.netadvanced	ルート、DNS、VPN、Samba、接続の診断。
+hint.firewall	UFW のルールと VPN トンネル。
+hint.security	読み取り専用のチェックで、何も変更しません。
+hint.reports	TXT、CSV、JSON、PDF でのエクスポート。
+hint.locale	システム言語、タイムゾーン、フォント。
+hint.optimize	TRIM、CPU ガバナー、メモリ、起動。
+hint.snapshots	Timeshift、リモートバックアップ、アーカイブの検証。
+hint.about	バージョン、検出されたツール、ライセンス。
+hint.monitor	CPU、メモリ、ネットワーク、ディスクを継続的に更新。
+hint.alerts	CPU・メモリ・ディスク・温度のしきい値と通知。
+hint.health	チェックから算出した総合スコアとレポートのエクスポート。
+hint.history	時系列の測定値、グラフ、CSV エクスポート。
+hint.delivery	ステータスレポートを Webhook またはメールで配信。
+hint.benchmark	簡単な測定：CPU、メモリ、ディスク。
+hint.aptrepos	パッケージソース：有効化、無効化、削除、インデックスの更新。
+hint.advpackages	バージョン固定、ダウングレード、dpkg の履歴。
+hint.runtimes	インストール済みの言語バージョンとシステムの代替設定。
+hint.containers	Docker・Podman・LXD のインスタンス：起動、停止、削除。
+hint.containersadv	イメージ、ボリューム、ネットワークと、対象を絞ったクリーンアップ。
+hint.startup	セッションのアプリ、電源プロファイル、起動の分析。
+hint.actionlog	日時付きの操作履歴、CSV エクスポート、消去。
+hint.maintenance	利用可能なツールと、特権が必要なメンテナンス作業。
+hint.troubleshoot	自動診断とアドバイス。
+hint.profiles	ワークステーション用の既成プロファイルと一括インストール。
+hint.users	ローカルアカウント、sudo グループ、ロック。
+hint.advcleanup	アプリのキャッシュ、Flatpak、コンテナ、古い Snap リビジョン。
+hint.mounts	有効なマウントポイント、/etc/fstab、SSD の TRIM。
+hint.usbboot	ISO イメージをリムーバブルデバイスに書き込みます。
+hint.archives	アーカイブの一覧表示、作成、展開。
+hint.traffic	プロセスごとの接続とインターフェースごとのカウンター。
+hint.lan	ネットワーク上のホスト検出（nmap または ARP テーブル）。
+hint.sshgpg	ユーザーのキー、SSH キーの生成、公開鍵のコピー。
+hint.certs	ローカル認証局：追加、削除、有効期限。
+hint.secureboot	セキュアブートの状態と登録済み MOK キー。
+hint.apparmor	読み込み済みプロファイル、complain/enforce の切り替え、SELinux のモード。
+hint.integrity	変更されたパッケージファイルを確認（dpkg -V、debsums）。
+hint.acl	アクセス権の確認と ACL（アクセス制御リスト）の管理。
+hint.bluetooth	ペアリング済みデバイス、接続、USB デバイス。
+hint.power	バッテリー、充電サイクル、電源プロファイル。
+hint.fans	ファンの回転数と温度（読み取り専用）。
+hint.cloudbackup	フォルダーを rclone のリモートと同期（シミュレーション付き）。
+hint.schedule	ユーザー systemd タイマー：日次・週次・月次のレポート。
+hint.wifivpn	Wi-Fi 無線、検出されたネットワーク、VPN 接続、設定のインポート。
+hint.firmware	fwupd によるファームウェアのアップデート。
+hint.btrfsmaint	Btrfs ファイルシステムのスクラブ、使用状況、バランス。
+hint.dotfiles	個人用の設定ファイルをバックアップ・復元。
+hint.scan	プロセス、ネットワーク、起動項目、ファイルをヒューリスティックに分析し、普段と違うものを見つけます。
+group.processes	プロセスと監視
+group.reports	レポートと履歴
+group.disks	ディスク
+group.backups	バックアップ
+group.audit	監査と整合性
+group.keys	鍵と証明書
+group.protections	システム保護
+group.packages	パッケージとアップデート
+group.peripherals	周辺機器

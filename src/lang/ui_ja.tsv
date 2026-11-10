@@ -1,0 +1,1317 @@
+# Libellés des rubriques génériques (texte français<TAB>traduction). Les absents se replient sur l'anglais.
+ACL modifiée	ACL を変更しました
+ACL retirées	ACL を削除しました
+Action	操作
+Activer	有効にする
+Activer le Wi-Fi	Wi-Fi をオンにする
+Actives	有効
+Administrateurs	管理者
+Adresse	アドレス
+Adresse IP	IP アドレス
+Adresse MAC	MAC アドレス
+Afficher les ACL	ACL を表示
+Ajouter	追加
+Ajouter à sudo	sudo に追加
+Alertes actives	有効なアラート
+Algo	アルゴリズム
+Allumé depuis	稼働時間
+Alternatives système (update-alternatives)	システムの代替設定（update-alternatives）
+Anciennes révisions Snap	古い Snap リビジョン
+Anomalie	異常
+Appareil	デバイス
+Appareils	デバイス
+Appareils Bluetooth	Bluetooth デバイス
+Appareils reconnus	認識されたデバイス
+Applications au démarrage	起動時のアプリ
+Appliquer	適用
+Archive	アーカイブ
+Archives trouvées	見つかったアーカイブ
+Arrêter	停止
+Autorités de certification locales	ローカル認証局
+Autre dossier	別のフォルダー
+Autres nettoyages	その他のクリーンアップ
+Batterie	バッテリー
+Batteries	バッテリー
+Bluetooth (appairés)	Bluetooth（ペアリング済み）
+CA locales	ローカル CA
+Cache	キャッシュ
+Caches applicatifs	アプリのキャッシュ
+Caches récupérables	回収可能なキャッシュ
+Certificat	証明書
+Certificat ajouté	証明書を追加しました
+Charge	負荷
+Chaîne critique	クリティカルチェーン
+Chemin	パス
+Chemin distant	リモートのパス
+Choix actuel	現在の選択
+Cible	ターゲット
+Clé générée	キーを生成しました
+Clés GPG	GPG キー
+Clés SSH	SSH キー
+Clés SSH (~/.ssh)	SSH キー（~/.ssh）
+Commande	コマンド
+Commentaire	コメント
+Compte	アカウント
+Comptes	アカウント
+Comptes locaux	ローカルアカウント
+Configuration actuelle	現在の設定
+Confirmation	確認
+Connecter	接続
+Connexions	接続
+Connexions VPN	VPN 接続
+Connexions établies	確立済みの接続
+Connexions établies par processus	プロセス別の確立済み接続
+Conseil	アドバイス
+Conteneurs	コンテナ
+Contenu	内容
+Contrôle	チェック
+Contrôles	チェック項目
+Copier la clé publique	公開鍵をコピー
+Création	作成日
+Création de l'archive	アーカイブを作成中
+Créer	作成
+Créer une archive	アーカイブを作成
+Cycles	サイクル
+Date	日付
+Dernières mesures	最新の測定値
+Destination	送信先
+Diagnostic automatique	自動診断
+Disque	ディスク
+Disque (écriture)	ディスク（書き込み）
+Disque moyen	ディスク平均
+Disques	ディスク
+Disques amovibles détectés	検出されたリムーバブルディスク
+Distant	リモート
+Dossier	フォルダー
+Dossier local	ローカルフォルダー
+Droits	アクセス権
+Durée	所要時間
+Déconnecter	切断
+Définir une ACL utilisateur	ユーザー ACL を設定
+Démarrage	起動
+Démarrer	開始
+Démonter	アンマウント
+Dépôt	リポジトリ
+Désactiver	無効にする
+Désactiver le Wi-Fi	Wi-Fi をオフにする
+Détail	詳細
+Détail des connexions	接続の詳細
+Déverrouiller	ロック解除
+Effacer l'historique	履歴を消去
+Empreinte	フィンガープリント
+En cours	実行中
+En enforce	enforce
+Enregistrer	保存
+Enregistrer le graphe (SVG)	グラフを保存（SVG）
+Enregistrer les seuils	しきい値を保存
+Enregistrer une mesure	測定を記録
+Entrées	エントリ数
+Envoyer un test	テストを送信
+Expiration	有効期限
+Exporter en CSV	CSV としてエクスポート
+Exporter le rapport	レポートをエクスポート
+Extraction	展開
+Extraire	展開
+Fabricant	ベンダー
+Fichier	ファイル
+Fichiers détectés	検出されたファイル
+Fichiers modifiés	変更されたファイル
+Fréquence	頻度
+Générer	生成
+Historique des actions	操作履歴
+Hors configuration	設定以外
+Hôtes	ホスト
+Hôtes du réseau local	ローカルネットワークのホスト
+Identifiant	識別子
+Identité	ID
+Illisibles (droits)	読み取り不可（権限）
+Image	イメージ
+Image ISO	ISO イメージ
+Images	イメージ
+Import VPN	VPN インポート
+Importer	インポート
+Indicateur	指標
+Installés	インストール済み
+Instances LXD	LXD インスタンス
+Interface	インターフェース
+Lancer	実行
+Lancer maintenant	今すぐ実行
+Lancer un scrub	スクラブを開始
+Langage	言語
+Langages	言語
+Lecture	読み取り
+Lecture seule.	読み取り専用。
+Livraison	配信
+Local	ローカル
+Mesures	測定値
+Mise à jour possible	アップデートあり
+Mises à jour	アップデート
+Mises à jour disponibles	利用可能なアップデート
+Mode	モード
+Mode de démarrage	起動モード
+Modèle	モデル
+Montage	マウント
+Montages actifs	有効なマウント
+Montages btrfs	btrfs マウント
+Moteur	エンジン
+Mémoire	メモリ
+Mémoire (écriture)	メモリ（書き込み）
+Mémoire moyenne	メモリ平均
+Méthode	方法
+Nature	種類
+Nettoyage complet	完全クリーンアップ
+Nettoyer	クリーンアップ
+Nettoyer les données conteneurs	コンテナデータを掃除
+Nom	名前
+Nom du fichier	ファイル名
+Notifier maintenant	今すぐ通知
+Occupation	使用率
+Options	オプション
+Origine	由来
+Outil	ツール
+Outils	ツール
+Paquet	パッケージ
+Paquets verrouillés	固定されたパッケージ
+Passer en enforcing	enforcing に切り替え
+Passer en permissive	permissive に切り替え
+Pilote	ドライバー
+Planification	スケジュール
+Planifier	スケジュール設定
+Points de montage actifs	有効なマウントポイント
+Ports en écoute	待ち受けポート
+Problèmes	問題
+Processeur	プロセッサ
+Processus	プロセス
+Prochaine exécution	次回の実行
+Profil	プロファイル
+Profil d'alimentation	電源プロファイル
+Profil d'énergie	電源プロファイル
+Profils AppArmor	AppArmor プロファイル
+Profils chargés	読み込み済みプロファイル
+Profils de poste	ワークステーションプロファイル
+Protocole	プロトコル
+Puce	チップ
+Purger le journal	ログを消去
+Purger les images orphelines	不要なイメージを削除
+Purger les volumes inutilisés	未使用のボリュームを削除
+Périphérique	デバイス
+Périphériques USB	USB デバイス
+Périphériques amovibles	リムーバブルデバイス
+Radio Wi-Fi	Wi-Fi 無線
+Rafraîchir les métadonnées	メタデータを更新
+Rapport périodique	定期レポート
+Redémarrer	再起動
+Remotes	リモート
+Remotes rclone	rclone リモート
+Restauration	復元
+Restaurer	復元
+Restaurer ce dossier	このフォルダーを復元
+Retirer de sudo	sudo から削除
+Retirer les ACL	ACL を削除
+Reçu	受信
+Runtimes détectés	検出されたランタイム
+Réception	受信
+Réseau	ネットワーク
+Réseaux	ネットワーク
+Réseaux détectés	検出されたネットワーク
+Résultat	結果
+Rétrogradation	ダウングレード
+Rétrograder	ダウングレード
+Rétrograder un paquet	パッケージをダウングレード
+Révision	リビジョン
+Rôle	役割
+Santé batterie	バッテリーの状態
+Sauvegarder maintenant	今すぐバックアップ
+Sauvegardes trouvées (Documents/dotfiles*)	見つかったバックアップ（Documents/dotfiles*）
+Score global	総合スコア
+Secteur	AC 電源
+Seuil	しきい値
+Seuils	しきい値
+Signal	信号
+Sonde	プローブ
+Sondes de température	温度センサー
+Source	ソース
+Sources	ソース
+Sources APT	APT ソース
+Sources de paquets	パッケージソース
+Suite / composants	スイート / コンポーネント
+Sujet	サブジェクト
+Supprimer	削除
+Supprimer la planification	スケジュールを削除
+Supprimer les ACL	ACL を削除
+Supprimer les paquets orphelins	孤立パッケージを削除
+Synchroniser un dossier	フォルダーを同期
+Systèmes btrfs	btrfs ファイルシステム
+Sécurité	セキュリティ
+TRIM des SSD (fstrim)	SSD の TRIM（fstrim）
+Taille	サイズ
+Technologie	テクノロジー
+Température	温度
+Températures	温度
+Tendances (40 dernières mesures)	トレンド（直近 40 回の測定）
+Tester la notification	通知をテスト
+Total reçu	受信合計
+Total émis	送信合計
+Trousseau GPG	GPG キーリング
+Type	種類
+Tâches privilégiées	特権が必要な作業
+Unité	ユニット
+Unités les plus lentes	最も遅いユニット
+Utilisateur	ユーザー
+VPN configurés	設定済み VPN
+Valeur	値
+Ventilateur	ファン
+Ventilateurs	ファン
+Verrouillage	ロック
+Verrouiller	ロック
+Version actuelle	現在のバージョン
+Version proposée	提案されたバージョン
+Vider le cache APT	APT キャッシュを消去
+Vitesse	速度
+Écarts	差分
+Échange	スワップ
+Échecs	失敗
+Écrire sur la clé	ドライブに書き込む
+Écrire une image	イメージを書き込む
+Écriture	書き込み
+Écriture de l'image	イメージを書き込み中
+Émis	送信済み
+Émission	送信
+Énergie	電源
+Équilibrer (50 %)	バランス（50 %）
+État	状態
+État du scrub	スクラブの状態
+URL ou adresse	URL またはアドレス
+adresse ou machine	アドレスまたはマシン
+nom exact	正確な名前
+nom	名前
+nom du remote	リモート名
+retapez le périphérique	デバイスを再入力
+simulation ou reel	simulation または reel
+Aucun élément.	表示する項目がありません。
+Courbes en direct	ライブグラフ
+Courbes	グラフ
+Débit réseau	ネットワークスループット
+Processeur et mémoire	プロセッサとメモリ
+Processeur, mémoire et disque	プロセッサ、メモリ、ディスク
+Débits mesurés (Mio/s)	測定したスループット（MiB/s）
+Résultats	結果
+Constats	検出結果
+Constats par gravité	重大度別の検出結果
+Gravité	重大度
+Catégorie	カテゴリ
+Élément	項目
+Pourquoi	理由
+Couverture du scan	スキャンの対象範囲
+Analyse antivirus (signatures)	ウイルススキャン（シグネチャ）
+Quarantaine	隔離
+Verdict	判定
+Élevées	高
+Moyennes	中
+Faibles	低
+Infos	情報
+Élevée	高
+Moyenne	中
+Faible	低
+Info	情報
+Persistance	永続化
+Fichiers	ファイル
+Logiciels	ソフトウェア
+Aucun comportement anormal détecté	異常な動作は検出されませんでした
+Quelques points suspects	疑わしい点がいくつかあります
+À examiner en priorité	最優先で確認
+Suspendre	一時停止
+Terminer	終了
+Mettre l'exécutable en quarantaine	実行ファイルを隔離
+Mettre en quarantaine	隔離
+Désactiver au démarrage	起動時に無効化
+Processus sélectionné	選択したプロセス
+Analyser un fichier ou dossier	ファイルまたはフォルダーを調べる
+Clés MOK enregistrées (lecture seule)	登録済み MOK キー（読み取り専用）
+Historique dpkg (60 derniers événements)	dpkg 履歴（直近 60 件）
+Installer les mises à jour	アップデートをインストール
+Mettre à jour le magasin	ストアを更新
+Mettre à jour les index	インデックスを更新
+Ni Docker ni Podman n'est installé.	Docker も Podman もインストールされていません。
+Réduire les journaux (500 Mo)	ログを縮小（500 MB）
+Réduire les journaux (7 jours)	ログを縮小（7 日）
+Supprimer les runtimes Flatpak inutilisés	未使用の Flatpak ランタイムを削除
+Verrouillage de version (apt-mark hold)	バージョン固定（apt-mark hold）
+Lecture seule : aucune donnée du système n'est modifiée.	読み取り専用：システムは一切変更されません。
+Applications lancées à l'ouverture de session	ログイン時に起動するアプリ
+Archives (dossier personnel et Téléchargements)	アーカイブ（ホームフォルダーとダウンロード）
+Aucun capteur renvoyé par lm-sensors : lancez « sensors-detect » pour les détecter.	lm-sensors がセンサーを返しませんでした。「sensors-detect」を実行して検出してください。
+Aucun réseau privé IPv4 détecté : seule la table ARP est affichée.	プライベート IPv4 ネットワークが見つかりません。ARP テーブルのみ表示します。
+Chaque action est confirmée ; celles qui touchent au système passent par Polkit.	すべての操作は確認が必要で、システムに関わる操作は Polkit を経由します。
+Chaque tâche demande une confirmation puis l'authentification administrateur (Polkit).	各作業は確認を求めたのち、管理者認証（Polkit）を要求します。
+Compteurs par interface (depuis le démarrage)	インターフェース別カウンター（起動以降）
+Couper la radio Wi-Fi ? La connexion sans fil sera perdue.	Wi-Fi 無線をオフにしますか？無線接続が切れます。
+Crée une minuterie systemd utilisateur qui lance « orbisys report <dossier> » (TXT, CSV, JSON et PDF).	「orbisys report <フォルダー>」（TXT、CSV、JSON、PDF）を実行するユーザー systemd タイマーを作成します。
+Désactiver et supprimer la minuterie de rapport ?	レポートタイマーを無効にして削除しますか？
+Envoyer le rapport d'état à la destination configurée ?	ステータスレポートを設定済みの送信先に送信しますか？
+Formats : .tar, .tar.gz, .tar.xz, .tar.bz2. L'archive ne doit pas exister.	形式：.tar、.tar.gz、.tar.xz、.tar.bz2。アーカイブは既存のものであってはいけません。
+Installer les mises à jour de firmware ? Un redémarrage peut être nécessaire et l'alimentation ne doit pas être coupée.	ファームウェアのアップデートをインストールしますか？再起動が必要な場合があり、電源を切ってはいけません。
+L'installation passe par apt-get et Polkit, après confirmation.	インストールは確認後、apt-get と Polkit を経由して行われます。
+La clé est créée sans phrase secrète ; ajoutez-en une avec « ssh-keygen -p -f <fichier> ».	キーはパスフレーズなしで作成されます。「ssh-keygen -p -f <ファイル>」で追加してください。
+Lancer fstrim -av sur les systèmes de fichiers compatibles ?	対応するファイルシステムで fstrim -av を実行しますか？
+Le compte root n'est pas modifiable depuis cette page.	root アカウントはこのページから変更できません。
+Le résultat s'affiche dans la zone de sortie en bas de l'écran.	結果は画面下部の出力エリアに表示されます。
+Le scan est limité au réseau privé local (préfixe /24 ou plus étroit) ; actualisez l'écran pour le relancer.	スキャンはローカルのプライベートネットワーク（/24 以下）に限定されます。再実行するには画面を再読み込みしてください。
+Les disques contenant le système (/, /boot, /home) ne sont jamais proposés.	システム（/、/boot、/home）を含むディスクは表示されません。
+Les fichiers de configuration modifiés sont normaux ; un programme modifié mérite une vérification.	変更された設定ファイルは正常ですが、変更されたプログラムは確認する価値があります。
+Les instantanés et sous-volumes se gèrent dans l'écran « Btrfs ». Les résultats s'affichent dans la zone de sortie.	スナップショットとサブボリュームは「Btrfs」画面で管理します。結果は出力エリアに表示されます。
+Les processus d'autres utilisateurs n'apparaissent qu'avec les droits administrateur.	他のユーザーのプロセスは管理者権限がある場合のみ表示されます。
+Les seuils sont conservés dans ~/.local/share/orbisys/alerts.json.	しきい値は ~/.local/share/orbisys/alerts.json に保存されます。
+Mode « simulation » par défaut (rclone --dry-run) : rien n'est modifié. Le mode « reel » demande confirmation.	既定は「simulation」モード（rclone --dry-run）で、何も変更されません。「reel」モードは確認を求めます。
+Opération destructrice : le périphérique cible est entièrement écrasé. Retapez son nom pour confirmer.	破壊的な操作：対象デバイスは完全に上書きされます。確認のため、その名前をもう一度入力してください。
+Passer SELinux en mode enforcing (immédiat) ?	SELinux を enforcing モードに切り替えますか（即時）？
+Passer SELinux en mode permissive (immédiat) ?	SELinux を permissive モードに切り替えますか（即時）？
+Profils AppArmor illisibles : les droits administrateur sont requis (ou AppArmor est inactif).	AppArmor プロファイルを読み取れません。管理者権限が必要です（または AppArmor が無効です）。
+Supprimer conteneurs arrêtés, réseaux et images orphelines ?	停止中のコンテナ、ネットワーク、不要なイメージを削除しますか？
+Supprimer les journaux systemd de plus de 7 jours ?	7 日より古い systemd ログを削除しますか？
+Supprimer les runtimes Flatpak inutilisés ?	未使用の Flatpak ランタイムを削除しますか？
+Supprimer les volumes non utilisés (données perdues) ?	未使用のボリュームを削除しますか（データは失われます）？
+Supprimer toutes les mesures enregistrées ?	記録済みの測定値をすべて削除しますか？
+Type « webhook » (HTTP POST, JSON) ou « email » (commande mail). Le rapport contient santé, mémoire, disque et charge.	「webhook」（HTTP POST、JSON）または「email」（mail コマンド）を指定します。レポートには健全性、メモリ、ディスク、負荷が含まれます。
+Utilisez `apt-cache policy <paquet>` pour connaître les versions disponibles.	利用可能なバージョンは `apt-cache policy <パッケージ>` で確認できます。
+aa-complain / aa-enforce proviennent du paquet apparmor-utils.	aa-complain / aa-enforce は apparmor-utils パッケージに含まれています。
+apt-get absent : cette rubrique concerne les systèmes Debian/Ubuntu.	apt-get が見つかりません。このセクションは Debian/Ubuntu 系のシステム向けです。
+bluetoothctl absent : installez le paquet « bluez » pour gérer le Bluetooth.	bluetoothctl が見つかりません。Bluetooth を管理するにはパッケージ「bluez」をインストールしてください。
+btrfs-progs absent : installez le paquet « btrfs-progs ».	btrfs-progs が見つかりません。パッケージ「btrfs-progs」をインストールしてください。
+dpkg absent : cette vérification concerne Debian/Ubuntu.	dpkg が見つかりません。この確認は Debian/Ubuntu 向けです。
+fwupdmgr absent : installez le paquet « fwupd » pour gérer les mises à jour de firmware.	fwupdmgr が見つかりません。ファームウェアのアップデートを管理するにはパッケージ「fwupd」をインストールしてください。
+lm-sensors absent : lecture directe de /sys/class/hwmon.	lm-sensors が見つかりません。/sys/class/hwmon を直接読み取ります。
+mokutil absent : installez le paquet « mokutil » pour lire l'état de Secure Boot.	mokutil が見つかりません。セキュアブートの状態を読み取るにはパッケージ「mokutil」をインストールしてください。
+nmap absent : seule la table ARP du noyau est affichée.	nmap が見つかりません。カーネルの ARP テーブルのみ表示します。
+nmcli absent : NetworkManager est requis pour gérer le Wi-Fi et les VPN.	nmcli が見つかりません。Wi-Fi と VPN の管理には NetworkManager が必要です。
+rclone absent : installez le paquet « rclone » puis configurez un remote avec « rclone config ».	rclone が見つかりません。パッケージ「rclone」をインストールし、「rclone config」でリモートを設定してください。
+Valeur actuelle et seuil (trait)	現在値としきい値（線）
+Points perdus par contrôle (sur 100)	チェックごとの失点（100 点中）
+Occupation des systèmes de fichiers (trait : 90 %)	ファイルシステムの使用率（線：90 %）
+Volume échangé par interface (reçu + émis)	インターフェース別トラフィック（受信 + 送信）
+Les 6 dernières minutes environ, actualisées toutes les 3 secondes.	直近約 6 分間を 3 秒ごとに更新。
+Lancer ClamAV (Téléchargements et /tmp)	ClamAV を実行（ダウンロードと /tmp）
+Analyse heuristique en lecture seule, sans base de signatures : ce n'est pas un antivirus. Un constat est un indice à vérifier, pas une preuve.	読み取り専用のヒューリスティック分析で、シグネチャのデータベースはありません。ウイルス対策ソフトではありません。検出結果は確認のための手がかりであり、証拠ではありません。
+ClamAV est installé : l'analyse parcourt Téléchargements et /tmp et peut durer plusieurs minutes. Seuls les fichiers infectés sont listés.	ClamAV がインストールされています。スキャンはダウンロードと /tmp が対象で、数分かかることがあります。感染したファイルのみ表示されます。
+Pour une détection par signatures, installez ClamAV (paquet « clamav ») : ce scan pourra alors le lancer.	シグネチャによる検出には ClamAV（パッケージ「clamav」）をインストールしてください。このスキャンから実行できるようになります。
+Lancer une analyse ClamAV de Téléchargements et /tmp ? Cela peut prendre plusieurs minutes.	ダウンロードと /tmp の ClamAV スキャンを実行しますか？数分かかることがあります。
+Processus les plus gourmands (processeur)	負荷の高いプロセス（CPU）
+Processus les plus gourmands (mémoire)	負荷の高いプロセス（メモリ）
+Mémoire (% de la RAM)	メモリ（RAM の %）
+ (limite atteinte)	（上限に達しました）
+ · santé {} %	 ・健全性 {} %
+APPAREILS	デバイス
+APPARENCE	外観
+APPLIQUER UN QUOTA	クォータを適用
+Actif	有効
+Activer au démarrage	起動時に有効化
+Activer les quotas sur {}	{} のクォータを有効化
+Actualiser	更新
+Analyse des paquets…	パッケージを解析中…
+Analyser	解析
+Analyser les erreurs (24 h)	エラーを解析（24 時間）
+Annuler	キャンセル
+Aperçu de la suppression	削除のプレビュー
+Appareils, montages, Btrfs et instantanés	デバイス、マウント、Btrfs、スナップショット
+Apparence et extensions GNOME	GNOME の外観と拡張機能
+Appliquer THP	THP を適用
+Appliquer des paramètres noyau	カーネルパラメータを適用
+Appliquer et persister…	適用して永続化…
+Appliquer la priorité	優先度を適用
+Appliquer le profil {}	プロファイル {} を適用
+Appliquer les mises à jour	アップデートを適用
+Appliquer…	適用…
+Arrêter {}	{} を停止
+Arrêter…	停止…
+Aucun espace d'échange actif.	有効なスワップ領域はありません。
+Aucun fichier de configuration détecté.	設定ファイルが見つかりません。
+Aucun gestionnaire natif détecté	ネイティブのパッケージマネージャーが見つかりません
+Aucun groupe de volumes LVM.	LVM ボリュームグループはありません。
+Aucun instantané lisible (support non monté ou Timeshift non configuré).	読み取れるスナップショットがありません（メディアが未マウント、または Timeshift が未設定）。
+Aucun minuteur systemd détecté.	systemd タイマーが見つかりません。
+Aucun montage NFS/CIFS déclaré ni actif.	宣言済みまたは有効な NFS/CIFS マウントはありません。
+Aucun montage ne déclare usrquota/grpquota/prjquota dans /etc/fstab.	/etc/fstab で usrquota/grpquota/prjquota を宣言しているマウントはありません。
+Aucun paquet en état `rc`.	`rc` 状態のパッケージはありません。
+Aucun partage Samba ou NFS configuré.	Samba / NFS の共有は設定されていません。
+Aucun partage déclaré dans /etc/samba/smb.conf.	/etc/samba/smb.conf に共有は宣言されていません。
+Aucun raccourci personnalisé.	カスタムショートカットはありません。
+Aucun système de fichiers Btrfs monté sur cette machine.	このマシンにマウントされた Btrfs ファイルシステムはありません。
+Aucun timer systemd.	systemd タイマーはありません。
+Aucun travail en attente.	待機中のジョブはありません。
+Aucun volume chiffré ouvert. Les partitions LUKS fermées n'apparaissent pas ici.	開いている暗号化ボリュームはありません。閉じた LUKS パーティションはここに表示されません。
+Aucun volume logique.	論理ボリュームはありません。
+Aucune action enregistrée pour l'instant.	記録された操作はまだありません。
+Aucune action enregistrée. Le fichier est créé au premier nettoyage ou à la première suppression.	記録された操作はありません。ファイルは最初のクリーンアップまたは削除時に作成されます。
+Aucune analyse lancée.	解析は開始されていません。
+Aucune analyse à exporter	エクスポートする解析結果がありません
+Aucune connexion VPN déclarée (NetworkManager/WireGuard).	宣言済みの VPN 接続はありません（NetworkManager/WireGuard）。
+Aucune dépendance à supprimer.	削除する依存関係はありません。
+Aucune entrée : filtre “Erreurs” sur un système calme ?	エントリなし：静かなシステムで「エラー」フィルターを使っていませんか？
+Aucune entrée de quota (quotas non activés ou outil absent).	クォータのエントリがありません（クォータが無効、またはツールがありません）。
+Aucune extension détectée.	拡張機能が見つかりません。
+Aucune famille ne correspond (fontconfig absent ?).	一致するファミリーがありません（fontconfig がない？）。
+Aucune imprimante CUPS détectée (lpstat indisponible ou liste vide).	CUPS プリンターが見つかりません（lpstat が利用できないか、一覧が空です）。
+Aucune imprimante configurée.	設定済みのプリンターはありません。
+Aucune mise à jour en attente.	保留中のアップデートはありません。
+Aucune police détectée (fontconfig absent ?).	フォントが見つかりません（fontconfig がない？）。
+Aucune recommandation (ubuntu-drivers absent ou matériel entièrement libre).	推奨はありません（ubuntu-drivers がない、またはハードウェアがすべてフリー）。
+Aucune règle détaillée disponible (pare-feu inactif ou privilèges insuffisants).	詳細なルールはありません（ファイアウォールが無効、または権限不足）。
+Aucune session active lisible.	読み取れるアクティブなセッションはありません。
+Aucune tâche planifiée.	予定されたタスクはありません。
+Aucune unité contenant {}.	{} を含むユニットはありません。
+Aucune zone d'échange active.	有効なスワップ領域はありません。
+Audit de durcissement	堅牢化監査
+Audit en cours…	監査を実行中…
+Autoriser	許可
+Avertissements	警告
+Bleu	青
+Boutons de fenêtre : {} · {} thème(s) · {} jeu(x) d'icônes · {} police(s)	ウィンドウボタン：{} ・ テーマ {} ・ アイコンセット {} ・ フォント {}
+COMPTES	アカウント
+CONFIGURATIONS RÉSIDUELLES	残存設定
+CONNEXIONS ({})	接続 ({})
+CONSOMMATION	使用状況
+COPIE RSYNC	RSYNC コピー
+CRONTAB UTILISATEUR	ユーザーの CRONTAB
+CRÉER UN INSTANTANÉ	スナップショットを作成
+CUPS n'est pas installé : aucun pilote d'impression actif.	CUPS がインストールされていません。有効な印刷ドライバーはありません。
+Cache : {} fichier(s), {} — {}	キャッシュ：{} ファイル、{} — {}
+Capteurs	センサー
+Cartes graphiques	グラフィックスカード
+Ces valeurs seront écrites dans /etc/sysctl.d/99-orbisys.conf et appliquées immédiatement (Polkit) :\n{}	これらの値は /etc/sysctl.d/99-orbisys.conf に書き込まれ、すぐに適用されます（Polkit）：\n{}
+Changer la locale du système	システムのロケールを変更
+Changer le fuseau horaire	タイムゾーンを変更
+Changer le gouverneur CPU	CPU ガバナーを変更
+Chaque cible est mesurée avant action ; les cibles système demandent Polkit.	各対象は操作前に測定されます。システム対象には Polkit が必要です。
+Charger	読み込み
+Chemins absolus, sans `..` ; la destination ne doit pas exister.	絶対パスで `..` なし。宛先は存在してはいけません。
+Châssis	筐体
+Clavier (console)	キーボード（コンソール）
+Cliquez sur le nom d'un processus pour le sélectionner.	プロセス名をクリックして選択します。
+Comparaison par taille puis empreinte des 64 premiers Kio. Dossiers techniques ignorés (.git, node_modules, target, .cache, snap).	サイズで比較し、続いて先頭 64 KiB のフィンガープリントで比較します。技術的なフォルダー（.git、node_modules、target、.cache、snap）は無視されます。
+Composants et capteurs, en lecture seule	コンポーネントとセンサー（読み取り専用）
+Confirmer	確認
+Confirmer la suppression	削除を確認
+Connexion sans mot de passe interactif (BatchMode) : une clé SSH doit être en place.	対話的なパスワードなしの接続（BatchMode）：SSH 鍵が必要です。
+Conservation	保持
+Contrôles en lecture seule : rien n'est modifié par cet écran.	読み取り専用のチェックです。この画面は何も変更しません。
+Copie en mode miroir	ミラーモードでコピー
+Copier…	コピー…
+Créer un instantané	スナップショットを作成
+Créer un volume logique	論理ボリュームを作成
+Créer…	作成…
+Cœurs	コア
+DERNIÈRES CONNEXIONS	最近のログイン
+DIAGNOSTIC	診断
+DISQUES ET TRIM	ディスクと TRIM
+Depuis	開始
+Dernières actions	最近の操作
+Diagnostic complet	完全診断
+Disque /	ディスク /
+Document PDF	PDF ドキュメント
+Données JSON	JSON データ
+Dossier cible	対象フォルダー
+Dure	ハード
+DÉMARRAGES	起動
+DÉPENDANCES INUTILES (AUTOREMOVE)	不要な依存関係 (AUTOREMOVE)
+Délai d'attente	タイムアウト
+Démonter un périphérique	デバイスをアンマウント
+Démonter {}	{} をアンマウント
+Démonter…	アンマウント…
+Désactiver un minuteur	タイマーを無効化
+Désactiver une imprimante	プリンターを無効化
+Désactiver {}	{} を無効化
+Désactiver…	無効化…
+Désinstaller…	アンインストール…
+Déverrouiller…	ロック解除…
+ENTRÉES AUDIO	オーディオ入力
+ERREURS RÉCURRENTES	繰り返し発生するエラー
+EXTENSIONS	拡張機能
+Emplacement	場所
+Entrée par défaut	既定のエントリ
+Erreurs	エラー
+Export au format JSON (nom, version, source) puis réinstallation via APT, Snap et Flatpak.	JSON 形式（名前、バージョン、ソース）でエクスポートし、APT、Snap、Flatpak で再インストールします。
+Exporter	エクスポート
+Exporter un instantané complet de la machine	マシンの完全なスナップショットをエクスポート
+Exporter…	エクスポート…
+Exporté : {}	エクスポートしました：{}
+Fermer	閉じる
+Fermer la session {}	セッション {} を終了
+Fermer un volume chiffré	暗号化ボリュームを閉じる
+Fermer…	閉じる…
+Fichiers usuels uniquement : ~/.ssh est volontairement exclu.	一般的なファイルのみ。~/.ssh は意図的に除外されています。
+Filtrer les services…	サービスを絞り込み…
+Filtrer par nom, description ou section…	名前・説明・セクションで絞り込み…
+Fond d'écran : {}	壁紙：{}
+Forcer l'arrêt de	強制停止：
+Forcer…	強制…
+Format : minute heure jour mois jour-semaine, ou @daily / @weekly / @reboot. La commande est exécutée par le shell de cron.	形式：分 時 日 月 曜日、または @daily / @weekly / @reboot。コマンドは cron のシェルで実行されます。
+Formats acceptés : {} · destination : {}	対応形式：{} ・ 保存先：{}
+Fuseau	ゾーン
+Fuseau horaire	タイムゾーン
+GROUPES DE VOLUMES	ボリュームグループ
+GRUB régénéré	GRUB を再生成しました
+Garder {} et supprimer {} copie(s) identique(s) ({} libérés) ?	{} を残して同一のコピー {} 件を削除しますか？（{} 解放）
+Gouvernance : {} · pilote : {}	ガバナンス：{} ・ ドライバー：{}
+Gouverneur	ガバナー
+Gouverneur {}, vm.swappiness={}, THP={} (polkit).	ガバナー {}、vm.swappiness={}、THP={}（polkit）。
+Horloge synchronisée	時計の同期
+IMPRIMANTES	プリンター
+IMPRIMANTES (CUPS)	プリンター (CUPS)
+INSTALLER UNE POLICE	フォントをインストール
+INSTANTANÉS TIMESHIFT	TIMESHIFT スナップショット
+INTERFACES	インターフェース
+Imprimantes et audio	プリンターとオーディオ
+Imprimantes et files CUPS	プリンターと CUPS キュー
+Inactif	無効
+Installer un pilote	ドライバーをインストール
+Installer une police	フォントをインストール
+Installer {}	{} をインストール
+Installer…	インストール…
+Installés hors dépôts	リポジトリ外でインストール済み
+Instantanés et archives	スナップショットとアーカイブ
+Interfaces, DNS, SSH, partages et connexions	インターフェース、DNS、SSH、共有、接続
+Journal des actions	操作ログ
+Journal exporté : {}	ログをエクスポートしました：{}
+Journaux du noyau	カーネルログ
+Jusqu'à	終了
+L'imprimante restera configurée mais n'acceptera plus de travaux.	プリンターは設定されたままですが、ジョブは受け付けなくなります。
+L'imprimante sera retirée de CUPS (lpadmin -x). Cette action est irréversible.	プリンターは CUPS から削除されます（lpadmin -x）。この操作は元に戻せません。
+L'unité sera arrêtée, désactivée puis effacée du disque. Cette action est irréversible.	ユニットは停止・無効化された後、ディスクから消去されます。この操作は元に戻せません。
+LANGUE ET FUSEAU DU SYSTÈME	システムの言語とタイムゾーン
+LISTE DES LOGICIELS	ソフトウェア一覧
+LVM et chiffrement LUKS	LVM と LUKS 暗号化
+LVM n'est pas installé : la page reste informative.	LVM がインストールされていません。このページは情報表示のみです。
+La règle sera retirée immédiatement.	ルールはすぐに削除されます。
+La session de {} sur {} sera terminée immédiatement (loginctl, polkit).	{} の {} 上のセッションをただちに終了します（loginctl、polkit）。
+La simulation n'a rien renvoyé : la suppression peut être sans dépendance ou indisponible.	シミュレーションの結果は空でした。削除に依存関係がないか、利用できない可能性があります。
+La simulation utilise --dry-run : rien n'est écrit, rsync affiche ce qu'il ferait.	シミュレーションは --dry-run を使用します。何も書き込まれず、rsync が実行内容を表示します。
+Lancer un TRIM	TRIM を実行
+Lancer un TRIM maintenant…	今すぐ TRIM を実行…
+Langue de la session	セッションの言語
+Langue du système	システムの言語
+Langue, heure et polices	言語、時刻、フォント
+Le fichier sera copié dans {} puis le cache fontconfig sera reconstruit (polkit).	ファイルを {} にコピーし、その後 fontconfig のキャッシュを再構築します（polkit）。
+Le fichier sera écrit dans {}/{} puis systemd sera rechargé (polkit).	ファイルを {}/{} に書き込み、その後 systemd を再読み込みします（polkit）。
+Le pilote {} sera installé pour {}. Un redémarrage peut être nécessaire.	ドライバー {} を {} 用にインストールします。再起動が必要な場合があります。
+Le rapport contient la distribution, les compteurs de logiciels, le stockage, la mémoire, le score de sécurité et les dernières actions.	レポートには、ディストリビューション、ソフトウェア数、ストレージ、メモリ、セキュリティスコア、最近の操作が含まれます。
+Le service ne démarrera plus automatiquement au prochain démarrage.	サービスは次回の起動時に自動では開始されなくなります。
+Le service sera arrêté immédiatement.	サービスはただちに停止されます。
+Le service sera arrêté immédiatement. Les services qui en dépendent peuvent s'arrêter aussi.	サービスはただちに停止されます。それに依存するサービスも停止する場合があります。
+Le sous-volume sera définitivement supprimé (btrfs subvolume delete). Les données qu'il contient seront perdues.	サブボリュームは完全に削除されます（btrfs subvolume delete）。含まれるデータは失われます。
+Le timer ne déclenchera plus son unité jusqu'au prochain démarrage ou réactivation.	タイマーは、次回の起動または再有効化までそのユニットを起動しなくなります。
+Le trafic correspondant sera bloqué.	該当するトラフィックはブロックされます。
+Lecture de l'état…	状態を読み込み中…
+Lecture des instantanés…	スナップショットを読み込み中…
+Lecture des locales…	ロケールを読み込み中…
+Lecture des montages…	マウントを読み込み中…
+Lecture des périphériques…	デバイスを読み込み中…
+Lecture des quotas…	クォータを読み込み中…
+Lecture des réglages…	設定を読み込み中…
+Lecture des sessions…	セッションを読み込み中…
+Lecture des sous-volumes…	サブボリュームを読み込み中…
+Lecture des timers…	タイマーを読み込み中…
+Lecture des tâches…	タスクを読み込み中…
+Lecture du journal noyau…	カーネルログを読み込み中…
+Lecture du réseau…	ネットワークを読み込み中…
+Lecture en cours…	読み込み中…
+Les fichiers absents de la source seront supprimés de la destination.	ソースにないファイルは宛先から削除されます。
+Les logiciels listés dans {} seront installés (Polkit).\nVérifiez le fichier avant de continuer.	{} に記載されたソフトウェアをインストールします（Polkit）。\n続行する前にファイルを確認してください。
+Les programmes utilisant ce montage risquent de bloquer. Le système peut attendre la fin des accès avant de rendre la main.	このマウントを使用しているプログラムが停止する可能性があります。システムはアクセスの完了を待ってから制御を返すことがあります。
+Ligne de commande	コマンドライン
+Lignes	行数
+Lire	読む
+Liste des logiciels, copie, dotfiles et GRUB	ソフトウェア一覧、コピー、dotfiles、GRUB
+Locale	ロケール
+MINUTEURS SYSTEMD	SYSTEMD タイマー
+MONTAGES	マウント
+Mesure indisponible (systemd-analyze absent).	測定できません（systemd-analyze がありません）。
+Minuteur fstrim.timer : {}	fstrim.timer タイマー：{}
+Montages	マウント
+Montages réseau	ネットワークマウント
+Monter	マウント
+Monter {}	{} をマウント
+Monter…	マウント…
+Motif	パターン
+Muet	ミュート
+MÉMOIRE	メモリ
+NOM	名前
+NOYAUX INSTALLÉS	インストール済みカーネル
+Nettoyer…	クリーンアップ…
+Notice	通知
+Nouveau modèle	新しいテンプレート
+Nouveau volume	新しいボリューム
+Nouvelle tâche	新しいタスク
+Noyau en cours : {}	実行中のカーネル：{}
+Noyau, swap et paramètres système	カーネル、スワップ、システムパラメータ
+Noyaux	カーネル
+ORIGINE	提供元
+Orange	オレンジ
+PARAMÈTRES NOYAU (PERSISTANTS)	カーネルパラメータ（永続）
+PARTAGE	共有
+PARTAGES	共有
+PARTAGES SAMBA	SAMBA 共有
+PILOTES RECOMMANDÉS	推奨ドライバー
+POLICES	フォント
+PROCESSEUR	プロセッサ
+PROFILS	プロファイル
+Page, logiciel, service, processus…	ページ、ソフトウェア、サービス、プロセス…
+Pages sales	ダーティページ
+Paquets orphelins	孤立パッケージ
+Paquets à purger :\n{}\nLe noyau en cours et le plus récent sont toujours conservés.	削除するパッケージ：\n{}\n実行中のカーネルと最新のカーネルは常に保持されます。
+Par défaut	既定
+Pare-feu UFW et tunnels VPN	UFW ファイアウォールと VPN トンネル
+Passerelle	ゲートウェイ
+Police	フォント
+Polices installées	インストール済みフォント
+Port 631 : {} · Browsing : {} · écoute globale : {}	ポート 631：{} ・ Browsing：{} ・ グローバル待ち受け：{}
+Port à autoriser ou refuser	許可または拒否するポート
+Priorité	優先度
+Processus les plus actifs	最もアクティブなプロセス
+Processus {} (PID {}) : {}.\nLes données non enregistrées de ce programme peuvent être perdues.	プロセス {}（PID {}）：{}。\nこのプログラムの未保存のデータは失われる可能性があります。
+Profils de performance	パフォーマンスプロファイル
+Purger les configurations résiduelles	残存設定を削除
+Purger {} configuration(s)…	{} 件の設定を削除…
+PÉRIPHÉRIQUES CHIFFRÉS (LUKS)	暗号化デバイス (LUKS)
+Quota pour {}	{} のクォータ
+Quotas de disque	ディスククォータ
+RACCOURCIS CLAVIER	キーボードショートカット
+RAM disponible	利用可能な RAM
+RAM totale	RAM 合計
+Rapport texte	テキストレポート
+Rapport écrit : {}	レポートを書き込みました：{}
+Recherche : {}	検索：{}
+Recherche : {} · {} entrée(s) /etc/hosts	検索：{} ・ /etc/hosts のエントリ {} 件
+Recherche dans le journal systemd	systemd ジャーナルを検索
+Recherche globale	グローバル検索
+Rechercher	検索
+Reconstruire le cache	キャッシュを再構築
+Refuser…	拒否…
+Relancer l'audit	監査をやり直す
+Relire	再読み込み
+Remesurer	再測定
+Reprendre	再開
+Rien à supprimer : seuls le noyau en cours et le plus récent sont conservés.	削除するものはありません。実行中のカーネルと最新のカーネルだけが保持されます。
+Rose	ピンク
+RÈGLES	ルール
+RÉGLAGES INDIVIDUELS	個別設定
+RÉSEAUX WI-FI	WI-FI ネットワーク
+Régénérer GRUB	GRUB を再生成
+Régénérer la configuration…	設定を再生成…
+Réinstaller des logiciels	ソフトウェアを再インストール
+Réinstaller…	再インストール…
+Réseau étendu	ネットワーク詳細
+Résoudre	名前解決
+Rétablir le son	サウンドを復元
+SAUVEGARDE DISTANTE (RSYNC/SSH)	リモートバックアップ (RSYNC/SSH)
+SERVEUR SSH	SSH サーバー
+SERVICES LES PLUS LENTS AU DÉMARRAGE	起動が最も遅いサービス
+SESSIONS ACTIVES	アクティブなセッション
+SORTIES AUDIO	オーディオ出力
+SOUS-VOLUMES	サブボリューム
+SUBSTITUTION FONTCONFIG	FONTCONFIG による代替
+Sans-serif : {} · monospace : {}	サンセリフ：{} ・ 等幅：{}
+Sauvegarde distante	リモートバックアップ
+Sauvegarder	バックアップ
+Sauvegarder…	バックアップ…
+Sauvegardes	バックアップ
+Schéma clair/sombre	ライト/ダークスキーム
+Score {}/100	スコア {}/100
+Serveurs : {}	サーバー：{}
+Service NTP	NTP サービス
+Sessions et comptes	セッションとアカウント
+Seules les polices de {} peuvent être supprimées ; les polices des paquets sont protégées.	削除できるのは {} 内のフォントだけです。パッケージのフォントは保護されています。
+Simuler	シミュレート
+Snap / Flatpak	Snap / Flatpak
+Souple	ソフト
+Sous-volumes et instantanés Btrfs	Btrfs のサブボリュームとスナップショット
+Statut	ステータス
+Supprimer des noyaux	カーネルを削除
+Supprimer les copies	コピーを削除
+Supprimer les copies…	コピーを削除…
+Supprimer les dépendances inutiles	不要な依存関係を削除
+Supprimer un volume logique	論理ボリュームを削除
+Supprimer une imprimante	プリンターを削除
+Supprimer une police	フォントを削除
+Supprimer une tâche cron	cron タスクを削除
+Supprimer {}	{} を削除
+Supprimer {} ancien(s) noyau(x)…	古いカーネル {} 個を削除…
+Supprimer {} dépendance(s)…	依存関係 {} 件を削除…
+Supprimer…	削除…
+Swap utilisé	使用中のスワップ
+Sélection : {} ({})	選択：{}（{}）
+TRAVAUX	ジョブ
+TRIM non exposé	TRIM は公開されていません
+TRIM pris en charge	TRIM 対応
+TRIM, processeur et mémoire	TRIM、プロセッサ、メモリ
+Tableau CSV	CSV 表
+Tester	テスト
+Tester la connexion	接続をテスト
+Thème GTK	GTK テーマ
+Thème d'icônes	アイコンテーマ
+Timers et unités de sauvegarde	タイマーとバックアップユニット
+Total mesuré : {}	測定合計：{}
+Tous les travaux de cette imprimante seront annulés.	このプリンターのすべてのジョブがキャンセルされます。
+Tous les travaux en attente pour cette imprimante seront annulés.	このプリンターの待機中のジョブはすべてキャンセルされます。
+Tout	すべて
+Tout décocher	すべて選択解除
+Tout mettre à jour…	すべて更新…
+Toutes les règles seront ignorées et les ports seront exposés.	すべてのルールが無視され、ポートが公開されます。
+Toutes sources	すべてのソース
+Tâches planifiées	スケジュール済みタスク
+UNITÉS DE SAUVEGARDE	バックアップユニット
+UTILISATEUR	ユーザー
+Unités	ユニット
+Unités systemd personnalisées	カスタム systemd ユニット
+VOLUMES LOGIQUES	論理ボリューム
+Valeurs écrites dans /etc/sysctl.d/99-orbisys.conf puis appliquées par sysctl -p.	値は /etc/sysctl.d/99-orbisys.conf に書き込まれ、sysctl -p で適用されます。
+Verrouiller…	ロック…
+Vert	緑
+Vider la file	キューを空にする
+Vider la file de {}	{} のキューを空にする
+Violet	紫
+VÉRIFICATION D'ARCHIVE	アーカイブの検証
+Vérifier	検証
+absent	なし
+actif	有効
+actif au démarrage	起動時に有効
+activée	有効
+analyse : {}	解析：{}
+annulation : {}	キャンセル：{}
+apt-get autoremove --purge supprimera {} paquet(s) : {}	apt-get autoremove --purge は {} 個のパッケージを削除します：{}
+apt-get purge supprimera les fichiers de configuration de {} paquet(s) déjà désinstallés.	apt-get purge は、アンインストール済みの {} 個のパッケージの設定ファイルを削除します。
+arrêté	停止中
+aucun montage /	/ のマウントなし
+aucune adresse IPv4	IPv4 アドレスなし
+aucune batterie	バッテリーなし
+audio : {}	オーディオ：{}
+bloqué	ブロック中
+btrfs subvolume snapshot -r {} {} (lecture seule, polkit).	btrfs subvolume snapshot -r {} {}（読み取り専用、polkit）。
+cache : {}	キャッシュ：{}
+charge instantanée	瞬間負荷
+compte : {}	アカウント：{}
+connecté	接続済み
+cpupower absent : application du gouverneur impossible	cpupower がないため、ガバナーを適用できません
+cpupower absent : la gouvernance peut être lue mais pas modifiée.	cpupower がないため、ガバナーの読み取りはできますが変更はできません。
+cpupower frequency-set -g {} (polkit).	cpupower frequency-set -g {}（polkit）。
+crontab n'est pas installé.	crontab がインストールされていません。
+cryptsetup close {} : le volume sera verrouillé et devra être réouvert avec sa phrase secrète.	cryptsetup close {}：ボリュームはロックされ、パスフレーズで再度開く必要があります。
+cupsdisable {} : les impressions en attente resteront bloquées.	cupsdisable {}：待機中の印刷ジョブはブロックされたままになります。
+disponible	利用可能
+disque rotatif	回転ディスク
+dotfiles : {}	dotfiles：{}
+doublons : {}	重複ファイル：{}
+dépassé	超過
+désactivée	無効
+en attente	保留中
+en cours	現在
+export : {}	エクスポート：{}
+export impossible : {}	エクスポートできません：{}
+extension : {}	拡張機能：{}
+facultatif	任意
+fait	完了
+file : {}	キュー：{}
+filtrer	絞り込み
+filtrer un contrôle	チェックを絞り込み
+filtrer un message	メッセージを絞り込み
+filtrer un point de montage	マウントポイントを絞り込み
+filtrer un utilisateur	ユーザーを絞り込み
+filtrer une famille	ファミリーを絞り込み
+format : 22, 22/tcp ou 8080/udp	形式：22、22/tcp、または 8080/udp
+fstrim -av parcourt tous les systèmes de fichiers montés et signale aux SSD les blocs libres. L'opération peut durer plusieurs minutes et n'efface aucune donnée.	fstrim -av はマウントされたすべてのファイルシステムを巡回し、空きブロックを SSD に通知します。処理には数分かかることがありますが、データは消去されません。
+fuseau : {}	タイムゾーン：{}
+gouverneur : {}	ガバナー：{}
+groupe	グループ
+gsettings est absent : GNOME n'est pas le bureau actif.	gsettings がありません。GNOME は現在のデスクトップではありません。
+hôte ou adresse	ホストまたはアドレス
+illimité	無制限
+imprimante : {}	プリンター：{}
+inactif	無効
+inconnu	不明
+installation : {}	インストール：{}
+instantané	スナップショット
+instantané : {}	スナップショット：{}
+interfaces : {} · wireguard : {} · connexions actives : {}	インターフェース：{} ・ wireguard：{} ・ アクティブな接続：{}
+inventaire non chargé	インベントリが読み込まれていません
+journaux : {}	ログ：{}
+lecture seule	読み取り専用
+lecture/écriture	読み書き
+liste exportée : {} ({} logiciels)	一覧をエクスポートしました：{}（ソフトウェア {} 個）
+locale : {}	ロケール：{}
+localectl set-locale LANG={} (Polkit).\nLa session en cours n'est pas modifiée ; la locale s'applique aux nouvelles sessions.	localectl set-locale LANG={}（Polkit）。\n現在のセッションは変更されません。ロケールは新しいセッションに適用されます。
+logiciel introuvable dans l'inventaire	インベントリにソフトウェアが見つかりません
+lpadmin -x {} : la file et ses réglages seront supprimés.	lpadmin -x {}：キューとその設定が削除されます。
+lvremove -f {}/{} : toutes les données de ce volume seront perdues.	lvremove -f {}/{}：このボリュームのすべてのデータが失われます。
+manuel	手動
+minuteur : {}	タイマー：{}
+mode miroir (--delete)	ミラーモード (--delete)
+montage : {}	マウント：{}
+monté	マウント済み
+mount {} ({}:{}, polkit). Le serveur doit être joignable.	mount {}（{}:{}、polkit）。サーバーに到達できる必要があります。
+nom de famille demandé	要求するファミリー名
+non	いいえ
+non activé au démarrage	起動時に無効
+non détectées	検出されません
+non installé	未インストール
+non listé	一覧にありません
+notables seulement	重要なもののみ
+noyaux : {}	カーネル：{}
+ou en terminal : sudo {}	またはターミナルで：sudo {}
+oui	はい
+pactl est absent : serveur audio non détecté.	pactl がありません。オーディオサーバーが検出されません。
+par défaut	既定
+partage exposé sur le réseau	ネットワークに共有を公開中
+partage non exposé	共有は公開されていません
+pilote : {}	ドライバー：{}
+ping : {}	ping：{}
+polices : {}	フォント：{}
+processus : {}	プロセス：{}
+profil : {}	プロファイル：{}
+présent	あり
+purge : {}	削除：{}
+quota : {}	クォータ：{}
+quotaon activera les quotas déjà configurés sur ce montage.	quotaon は、このマウントに設定済みのクォータを有効にします。
+rsync -a {} → {}\nLes fichiers absents de la source ne sont pas supprimés sur la cible.	rsync -a {} → {}\nソースにないファイルは宛先で削除されません。
+rsync : {}	rsync：{}
+rsync distant : {}	リモート rsync：{}
+résolution : {}	名前解決：{}
+score {} %	スコア {} %
+session : {}	セッション：{}
+substitution : {}	代替：{}
+suppression : {}	削除：{}
+suppression via le gestionnaire natif, confirmée par Polkit	ネイティブのマネージャーで削除し、Polkit で確認します
+swappiness : valeur entre 0 et 100 attendue	swappiness：0〜100 の値が必要です
+systemctl disable --now {} : les tâches planifiées de ce minuteur ne seront plus exécutées.	systemctl disable --now {}：このタイマーのスケジュール済みタスクは実行されなくなります。
+taille minimale (Kio)	最小サイズ (KiB)
+test serveur : {}	サーバーテスト：{}
+timedatectl set-timezone {} (Polkit). Les horodatages des journaux existants restent inchangés.	timedatectl set-timezone {}（Polkit）。既存ログのタイムスタンプは変更されません。
+timeout, refusé…	timeout、拒否…
+timer : {}	タイマー：{}
+timer {}	タイマー {}
+udisksctl unmount -b {} : arrêter les applications qui l'utilisent.	udisksctl unmount -b {}：これを使用しているアプリケーションを停止してください。
+unité (ex. nginx.service)	ユニット（例：nginx.service）
+unités : {}	ユニット：{}
+update-grub réécrit /boot/grub/grub.cfg. Une entrée manquante peut empêcher le démarrage : vérifiez les noyaux listés ci-dessus.	update-grub は /boot/grub/grub.cfg を書き換えます。エントリが欠けると起動できなくなる可能性があります。上に表示されたカーネルを確認してください。
+usermod -L empêche toute connexion par mot de passe de ce compte.	usermod -L により、このアカウントのパスワードによるログインはできなくなります。
+usermod -U rétablit la connexion par mot de passe.	usermod -U によりパスワードによるログインが復元されます。
+via {}	{} 経由
+{} ({}) — {} utilisés sur {}	{}（{}）— {} 使用中（全体 {}）
+{} / {} · priorité {}	{} / {} ・ 優先度 {}
+{} appareil(s) · {} montage(s) · {} instantané(s)	デバイス {} 台 ・ マウント {} 件 ・ スナップショット {} 件
+{} conformes · {} partiels · {} non conformes · {} inconnus	準拠 {} ・ 一部 {} ・ 非準拠 {} ・ 不明 {}
+{} copie(s) supprimée(s), {} libérés	コピー {} 件を削除し、{} を解放しました
+{} cœur(s) · gouverneur {} · swap {}	{} コア ・ ガバナー {} ・ スワップ {}
+{} entrée(s) · {} montage(s) avec quotas · outil {}	エントリ {} 件 ・ クォータ付きマウント {} 件 ・ ツール {}
+{} entrée(s) · {} montée(s) · showmount {}	エントリ {} 件 ・ マウント済み {} 件 ・ showmount {}
+{} famille(s) de polices · {} locale(s) disponible(s)	フォントファミリー {} 件 ・ 利用可能なロケール {} 件
+{} famille(s) installée(s)	インストール済みファミリー {} 件
+{} fichiers analysés · {} groupe(s) · {} récupérables{}	{} 個のファイルを解析 ・ {} グループ ・ {} 回収可能{}
+{} groupe(s) · {} volume(s) · {} périphérique(s) chiffré(s)	グループ {} 件 ・ ボリューム {} 件 ・ 暗号化デバイス {} 台
+{} hors dépôts	リポジトリ外 {} 件
+{} imprimante(s) · {} sortie(s) · {} entrée(s)	プリンター {} 台 ・ 出力 {} 件 ・ 入力 {} 件
+{} imprimante(s) · {} travail(x) en file	プリンター {} 台 ・ キュー内のジョブ {} 件
+{} instantané(s)	スナップショット {} 件
+{} instantané(s) · Timeshift {}	スナップショット {} 件 ・ Timeshift {}
+{} libres sur /	/ の空き {}
+{} ligne(s) affichée(s)	{} 行を表示中
+{} ligne(s) · {} message(s) récurrent(s)	{} 行 ・ 繰り返しメッセージ {} 件
+{} mise(s) à jour disponible(s)	利用可能なアップデート {} 件
+{} mise(s) à jour seront installées ({}). Une authentification administrateur est demandée.	アップデート {} 件をインストールします（{}）。管理者認証が求められます。
+{} montage(s) · {} sous-volume(s) · {} instantané(s) · outil {}	マウント {} 件 ・ サブボリューム {} 件 ・ スナップショット {} 件 ・ ツール {}
+{} paquet(s) seraient installés	{} 個のパッケージがインストールされます
+{} paquet(s) seraient retirés	{} 個のパッケージが削除されます
+{} paquets · {} snap · {} flatpak · {} hors dépôts	パッケージ {} ・ snap {} ・ flatpak {} ・ リポジトリ外 {}
+{} personnalisée(s) · {} service(s)	カスタム {} 件 ・ サービス {} 件
+{} point(s) à surveiller	要注意の項目 {} 件
+{} processus	{} プロセス
+{} périphériques USB · {} PCI	USB デバイス {} 台 ・ PCI {}
+{} résultat(s)	結果 {} 件
+{} session(s) · {} connexion(s) · {} compte(s) vérifié(s)	セッション {} 件 ・ ログイン {} 件 ・ 確認済みアカウント {} 件
+{} souple / {} dure sur {} (setquota, polkit).	{} のソフト / {} のハード（{} 上、setquota、polkit）。
+{} style(s)	{} スタイル
+{} supprimable(s) · {} configuration(s) résiduelle(s) · {}	削除可能 {} 件 ・ 残存設定 {} 件 ・ {}
+{} système(s) de fichiers	ファイルシステム {} 件
+{} sélectionné(s)	{} 件選択中
+{} timer(s) · {} unité(s) de sauvegarde · {} en échec	タイマー {} 件 ・ バックアップユニット {} 件 ・ 失敗 {} 件
+{} tâche(s) cron · {} minuteur(s)	cron タスク {} 件 ・ タイマー {} 件
+{} unités	ユニット {} 件
+{} utilisés · {} libres sur {}	{} 使用 ・ {} 空き（全体 {}）
+{} {}\nLa tâche sera retirée du crontab utilisateur.	{} {}\nタスクはユーザーの crontab から削除されます。
+{} · libre {} · {} PV / {} LV · {} % utilisé	{} ・ 空き {} ・ {} PV / {} LV ・ {} % 使用
+{} élément(s) de configuration · {} noyau(x)	設定項目 {} 件 ・ カーネル {} 件
+{}rsync distant\n{}	{}リモート rsync\n{}
+{}rsync terminé\n{}	{}rsync が完了しました\n{}
+« {} » absente → remplacée par « {} »	「{}」がありません → 「{}」で代替されます
+« {} » installée	「{}」はインストール済みです
+ÉCHANGE (SWAP)	スワップ (SWAP)
+ÉDITEUR D'UNITÉ	ユニットエディター
+ÉTAT	状態
+État des comptes indisponible (passwd restreint).	アカウントの状態を取得できません（passwd が制限されています）。
+à traiter	要対応
+… et {} autre(s) famille(s)	… ほか {} ファミリー
+… {} entrée(s) masquée(s), affinez le filtre.	… {} 件のエントリを非表示。フィルターを絞り込んでください。
+… {} familles supplémentaires masquées, affinez le filtre.	… 追加の {} ファミリーを非表示。フィルターを絞り込んでください。
+Description	説明
+Version {} · licence MIT · Rust + egui	バージョン {} ・ MIT ライセンス ・ Rust + egui
+Alerte : {}	アラート：{}
+simulation : 	シミュレーション：
+score d'audit	監査スコア
+ · muet	 ・ ミュート
+ (libre)	（フリー）
+{} disque(s) · gouvernance {} · TRIM {}	ディスク {} 台 ・ ガバナンス {} ・ TRIM {}
+{} style(s) : {}	{} スタイル：{}
+{} extension(s) · {} raccourci(s)	拡張機能 {} 件 ・ ショートカット {} 件
+route {} via {} · {} interface(s)	ルート {}（{} 経由）・ インターフェース {} 件
+{} interface(s) · {} connexion(s)	インターフェース {} 件 ・ 接続 {} 件
+{} · port {} · PermitRootLogin {} · PasswordAuthentication {}	{} ・ ポート {} ・ PermitRootLogin {} ・ PasswordAuthentication {}
+entrant {} · sortant {}	受信 {} ・ 送信 {}
+{} physiques · {} logiques · {}	物理 {} ・ 論理 {} ・ {}
+{} processus · CPU {} % · charge {} / {} / {}	{} プロセス ・ CPU {} % ・ 負荷 {} / {} / {}
+{} ligne(s)	{} 行
+{} · {} erreur(s) · {} avertissement(s)	{} ・ エラー {} 件 ・ 警告 {} 件
+disponibles : {}	利用可能：{}
+non défini	未設定
+Manuel	手動
+Entrée .desktop	.desktop エントリ
+erreur	エラー
+avertissement	警告
+information	情報
+mémoire	メモリ
+matériel	ハードウェア
+stockage	ストレージ
+thermique	温度
+réseau	ネットワーク
+graphique	グラフィックス
+divers	その他
+Informations	情報
+conforme	準拠
+partiel	一部
+non conforme	非準拠
+Attention	注意
+Critique	重大
+terminer (SIGTERM)	終了 (SIGTERM)
+forcer l'arrêt (SIGKILL)	強制停止 (SIGKILL)
+suspendre (SIGSTOP)	一時停止 (SIGSTOP)
+reprendre (SIGCONT)	再開 (SIGCONT)
+priorité {}	優先度 {}
+Activer le pare-feu	ファイアウォールを有効化
+Désactiver le pare-feu	ファイアウォールを無効化
+Autoriser {}	{} を許可
+Refuser {}	{} を拒否
+Supprimer la règle n°{}	ルール {} 番を削除
+Cache des paquets téléchargés	ダウンロード済みパッケージのキャッシュ
+Journal systemd	systemd ジャーナル
+Corbeille	ごみ箱
+Cache utilisateur	ユーザーキャッシュ
+Vignettes	サムネイル
+Noyaux obsolètes	古いカーネル
+Archives .deb déjà installées, dans /var/cache/apt/archives.	インストール済みの .deb アーカイブ（/var/cache/apt/archives 内）。
+Anciennes entrées du journal, réduites à 200 Mio.	古いジャーナルエントリを 200 MiB に縮小します。
+Fichiers placés dans la corbeille.	ごみ箱に入れられたファイル。
+Caches applicatifs de ~/.cache (vignettes incluses).	~/.cache 内のアプリケーションキャッシュ（サムネイルを含む）。
+Aperçus d'images et de vidéos régénérés automatiquement.	自動的に再生成される画像と動画のプレビュー。
+{} noyau(x) plus ancien(s) que celui en cours : {}.	実行中より古いカーネル {} 件：{}。
+{} révision(s) désactivée(s) conservées par snap.	snap が保持している無効なリビジョン {} 件。
+impression en cours	印刷中
+prête	待機中
+inconnue	不明
+user@hôte:/srv/sauvegarde	user@host:/srv/backup
+/usr/local/bin/sauvegarde.sh	/usr/local/bin/backup.sh
+/usr/bin/mon-script	/usr/bin/my-script
+/home/amine/sauvegarde.tar.gz	/home/user/backup.tar.gz
+/home/amine/Téléchargements/ma-police.ttf	/home/user/Downloads/my-font.ttf
+mon-service.service	my-service.service
+PermitRootLogin non défini (défaut dépendant de la version)	PermitRootLogin が未設定です（既定値はバージョンによって異なります）
+Connexion root en SSH interdite	SSH での root ログインの禁止
+SSH	SSH
+Définir « PermitRootLogin no » dans /etc/ssh/sshd_config.	/etc/ssh/sshd_config で「PermitRootLogin no」を設定してください。
+authentification par mot de passe non définie	パスワード認証が未設定です
+Authentification SSH par clé uniquement	SSH は鍵認証のみ
+Désactiver PasswordAuthentication après avoir déployé des clés.	鍵を配置した後で PasswordAuthentication を無効にしてください。
+pare-feu actif, refus par défaut en entrée	ファイアウォール有効、受信は既定で拒否
+pare-feu actif mais politique d'entrée non restrictive	ファイアウォールは有効ですが、受信ポリシーが制限的ではありません
+pare-feu inactif	ファイアウォールは無効
+Pare-feu actif avec refus par défaut	既定で拒否するファイアウォールが有効
+Activer ufw puis « ufw default deny incoming ».	ufw を有効にし、「ufw default deny incoming」を実行してください。
+AppArmor actif	AppArmor が有効
+Noyau	カーネル
+service apparmor actif	apparmor サービスは有効
+service apparmor inactif ou absent	apparmor サービスが無効、または存在しません
+Installer apparmor et activer le service.	apparmor をインストールし、サービスを有効にしてください。
+Mises à jour de sécurité automatiques	自動セキュリティアップデート
+unattended-upgrades activé	unattended-upgrades は有効
+unattended-upgrades non activé	unattended-upgrades は無効
+Activer unattended-upgrades (apt-daily-upgrade.timer).	unattended-upgrades（apt-daily-upgrade.timer）を有効にしてください。
+ASLR complet	完全な ASLR
+Régler kernel.randomize_va_space=2.	kernel.randomize_va_space=2 を設定してください。
+Core dumps des binaires SUID désactivés	SUID バイナリのコアダンプは無効
+Régler fs.suid_dumpable=0.	fs.suid_dumpable=0 を設定してください。
+Routage IPv4 désactivé	IPv4 ルーティングは無効
+Régler net.ipv4.ip_forward=0 sauf si la machine est un routeur.	このマシンがルーターでない限り、net.ipv4.ip_forward=0 を設定してください。
+PASS_MAX_DAYS {} (supérieur à 365)	PASS_MAX_DAYS {}（365 を超えています）
+PASS_MAX_DAYS illisible	PASS_MAX_DAYS を読み取れません
+Expiration des mots de passe	パスワードの有効期限
+Accès	アクセス
+Régler PASS_MAX_DAYS à 365 ou moins dans /etc/login.defs.	/etc/login.defs で PASS_MAX_DAYS を 365 以下に設定してください。
+/tmp monté avec nodev et nosuid	/tmp は nodev と nosuid でマウント済み
+Système de fichiers	ファイルシステム
+Monter /tmp avec nodev,nosuid (ou via tmpfs).	/tmp を nodev,nosuid でマウントしてください（または tmpfs を使用）。
+Journalisation d'audit active	監査ログが有効
+Audit	監査
+service auditd actif	auditd サービスは有効
+auditd inactif ou non installé	auditd が無効、またはインストールされていません
+Installer auditd et activer le service.	auditd をインストールし、サービスを有効にしてください。
+ufw absent : contrôle pare-feu partiel	ufw がないため、ファイアウォールのチェックは部分的です
+systemctl absent : services non vérifiés	systemctl がないため、サービスは確認されていません
+Équilibre bureau : fréquence à la demande, swap modéré.	デスクトップ向けバランス：周波数はオンデマンド、スワップは控えめ。
+Fréquence maximale, swap minimal, pages géantes systématiques.	最大周波数、スワップ最小、常にヒュージページ。
+Batterie et silence : fréquence basse, swap agressif.	バッテリーと静音：低周波数、積極的なスワップ。
+cpufreq indisponible : gouvernance non exposée	cpufreq が利用できません：ガバナーが公開されていません
+gouverneur refusé : {} (disponibles : {})	ガバナーが拒否されました：{}（利用可能：{}）
+gouverneur appliqué : {}	ガバナーを適用しました：{}
+mode THP refusé : {}	THP モードが拒否されました：{}
+transparent_hugepage non exposé par ce noyau	このカーネルは transparent_hugepage を公開していません
+gouverneur : échec ({})	ガバナー：失敗（{}）
+swappiness : échec ({})	swappiness：失敗（{}）
+compte verrouillé	アカウントはロックされています
+mot de passe actif	パスワードあり
+aucun mot de passe	パスワードなし
+état {}	状態 {}
+utilisateur refusé : {}	ユーザーが拒否されました：{}
+compte déverrouillé	アカウントのロックを解除しました
+session refusée : {}	セッションが拒否されました：{}
+session {} fermée	セッション {} を終了しました
+Réactif	レスポンシブ
+Performance	パフォーマンス
+Économie	省電力
+planification invalide : cinq champs (min heure jour mois jour-semaine) ou @daily	スケジュールが無効です：5 つのフィールド（分 時 日 月 曜日）または @daily
+commande invalide	コマンドが無効です
+crontab n'est pas installé	crontab がインストールされていません
+tâche ajoutée : {} {}	タスクを追加しました：{} {}
+tâche invalide	タスクが無効です
+tâche supprimée : {} {}	タスクを削除しました：{} {}
+minuteur invalide : nom attendu au format nom.timer	タイマーが無効です：名前は name.timer の形式にしてください
+APT : {} paquet(s) installé(s)	APT：{} 個のパッケージをインストールしました
+APT : échec — {}	APT：失敗 — {}
+Snap : {} logiciel(s) installé(s)	Snap：{} 個のソフトウェアをインストールしました
+Snap : échec — {}	Snap：失敗 — {}
+Flatpak : {} application(s) installée(s)	Flatpak：{} 個のアプリケーションをインストールしました
+Flatpak : échec — {}	Flatpak：失敗 — {}
+aucun logiciel à réinstaller dans ce fichier	このファイルには再インストールするソフトウェアがありません
+source introuvable : {}	ソースが見つかりません：{}
+refus de copier la racine du système	システムのルートはコピーしません
+destination refusée : racine du système	宛先を拒否しました：システムのルート
+source et destination identiques	ソースと宛先が同じです
+la destination ne peut pas être à l'intérieur de la source	宛先をソースの内側にすることはできません
+rsync n'est pas installé	rsync がインストールされていません
+aucun fichier de configuration détecté	設定ファイルが見つかりません
+{} élément(s) sauvegardé(s) dans {}	{} 件を {} に保存しました
+ni update-grub ni grub-mkconfig ne sont disponibles	update-grub も grub-mkconfig も利用できません
+la sauvegarde doit être un dossier	バックアップはフォルダーである必要があります
+aucun fichier de configuration reconnu dans ce dossier	このフォルダーに認識できる設定ファイルはありません
+{} élément(s) restauré(s) (les originaux sont conservés en .um-bak-{})	{} 件を復元しました（元のファイルは .um-bak-{} として保持）
+dossier personnel introuvable	ホームフォルダーが見つかりません
+chemins refusés : attendu des chemins absolus sans `..`	パスが拒否されました：`..` を含まない絶対パスが必要です
+la source et la destination sont identiques	ソースと宛先が同じです
+la destination existe déjà : {}	宛先はすでに存在します：{}
+dossier parent absent : {}	親フォルダーがありません：{}
+instantané créé : {}	スナップショットを作成しました：{}
+chemin refusé : {}	パスが拒否されました：{}
+sous-volume supprimé : {}	サブボリュームを削除しました：{}
+btrfs-progs absent : sous-volumes illisibles	btrfs-progs がないため、サブボリュームを読み取れません
+{} élément(s) retiré(s) de la corbeille	ごみ箱から {} 件を削除しました
+dossier de cache introuvable	キャッシュフォルダーが見つかりません
+{} entrée(s) de cache supprimée(s)	キャッシュのエントリ {} 件を削除しました
+{} vignette(s) supprimée(s)	サムネイル {} 件を削除しました
+aucune révision désactivée	無効なリビジョンはありません
+{} r{} supprimée	{} r{} を削除しました
+travail refusé : {}	ジョブが拒否されました：{}
+travail annulé : {}	ジョブをキャンセルしました：{}
+imprimante refusée : {}	プリンターが拒否されました：{}
+file vidée : {}	キューを空にしました：{}
+imprimante supprimée : {}	プリンターを削除しました：{}
+schéma ou clé invalide	スキーマまたはキーが無効です
+valeur refusée	値が拒否されました
+identifiant d'extension invalide	拡張機能の識別子が無効です
+gnome-extensions n'est pas disponible	gnome-extensions は利用できません
+ufw n'est pas installé : pare-feu non gérable depuis l'application.	ufw がインストールされていないため、アプリからファイアウォールを管理できません。
+pare-feu inactif : aucune règle n'est appliquée.	ファイアウォールは無効です。ルールは適用されていません。
+ufw n'est pas installé	ufw がインストールされていません
+port refusé : {}	ポートが拒否されました：{}
+numéro de règle invalide	ルール番号が無効です
+les règles ont changé depuis l'affichage : actualisez et recommencez	表示後にルールが変更されました。更新してもう一度お試しください
+extension absente : attendu ttf, otf, ttc, woff ou woff2	拡張子がありません：ttf、otf、ttc、woff、woff2 のいずれかが必要です
+extension refusée : .{}	拡張子が拒否されました：.{}
+fichier introuvable : {}	ファイルが見つかりません：{}
+nom de famille invalide	ファミリー名が無効です
+famille refusée : {}	ファミリーが拒否されました：{}
+nom de fichier invalide	ファイル名が無効です
+nom de fichier caché refusé	隠しファイル名は拒否されました
+police installée : {}	フォントをインストールしました：{}
+suppression limitée à {} : {}	削除は {} に限定されています：{}
+police supprimée : {}	フォントを削除しました：{}
+aucune valeur à appliquer	適用する値がありません
+clé refusée : {}	キーが拒否されました：{}
+valeur refusée pour {}	{} の値が拒否されました
+{} réglage(s) appliqué(s) et persistés dans {}	{} 件の設定を適用し、{} に永続化しました
+aucun noyau à supprimer	削除するカーネルはありません
+paquet refusé : {}	パッケージが拒否されました：{}
+refus de supprimer le noyau en cours : {}	実行中のカーネルは削除しません：{}
+{} noyau(x) supprimé(s)	カーネル {} 個を削除しました
+pilote refusé : {}	ドライバーが拒否されました：{}
+ubuntu-drivers n'est pas disponible	ubuntu-drivers は利用できません
+pilote {} installé	ドライバー {} をインストールしました
+locale invalide : format attendu fr_FR.UTF-8	ロケールが無効です：fr_FR.UTF-8 の形式にしてください
+localectl n'est pas disponible	localectl は利用できません
+locale système : {}	システムのロケール：{}
+fuseau invalide : format attendu Europe/Paris	タイムゾーンが無効です：Europe/Paris の形式にしてください
+timedatectl n'est pas disponible	timedatectl は利用できません
+nom de groupe ou de volume invalide	グループまたはボリューム名が無効です
+taille invalide : attendu un nombre suivi de K, M, G ou T	サイズが無効です：数値の後に K、M、G、T のいずれかを付けてください
+volume {}/{} créé ({})	ボリューム {}/{} を作成しました（{}）
+référence attendue : groupe/volume	参照は グループ/ボリューム の形式にしてください
+référence de volume invalide	ボリューム参照が無効です
+volume {}/{} supprimé	ボリューム {}/{} を削除しました
+nom de périphérique invalide	デバイス名が無効です
+{} fermé	{} を閉じました
+périphérique invalide	デバイスが無効です
+hôte refusé : {}	ホストが拒否されました：{}
+résolution impossible : {}	名前解決できません：{}
+aucune route par défaut	既定のルートがありません
+point de montage refusé : {}	マウントポイントが拒否されました：{}
+serveur refusé : {}	サーバーが拒否されました：{}
+fstrim n'est pas disponible (paquet util-linux)	fstrim は利用できません（util-linux パッケージ）
+TRIM terminé	TRIM が完了しました
+gouvernance refusée : {}	ガバナーが拒否されました：{}
+cpupower est requis pour changer la gouvernance (paquet linux-tools)	ガバナーの変更には cpupower が必要です（linux-tools パッケージ）
+dépendances inutiles supprimées	不要な依存関係を削除しました
+aucun paquet à purger	削除するパッケージはありません
+trop de paquets en une fois (200 maximum)	一度のパッケージ数が多すぎます（最大 200）
+nom de paquet refusé : {}	パッケージ名が拒否されました：{}
+{} configuration(s) purgée(s)	{} 件の設定を削除しました
+nom d'imprimante invalide	プリンター名が無効です
+imprimante par défaut : {}	既定のプリンター：{}
+imprimante {} supprimée	プリンター {} を削除しました
+nom de sortie audio invalide	オーディオ出力名が無効です
+sortie par défaut : {}	既定の出力：{}
+sourdine basculée pour {}	{} のミュートを切り替えました
+ajustement attendu entre -100 et +100	調整値は -100〜+100 の範囲にしてください
+volume de {} ajusté de {}	{} の音量を {} 調整しました
+la limite souple dépasse la limite dure	ソフトリミットがハードリミットを超えています
+quota appliqué : {} sur {} ({} / {})	クォータを適用しました：{}（{} 上、{} / {}）
+quotas activés : {}	クォータを有効にしました：{}
+repquota absent : paquet quota non installé	repquota がありません：quota パッケージが未インストールです
+systemd non disponible sur ce système	このシステムでは systemd を利用できません
+unité refusée : {}	ユニットが拒否されました：{}
+cible invalide : format attendu user@hôte:/chemin	宛先が無効です：user@host:/パス の形式にしてください
+hôte introuvable dans la cible	宛先にホストが見つかりません
+connexion à {} établie	{} への接続を確立しました
+connexion à {} impossible : {}	{} に接続できません：{}
+chemin refusé	パスが拒否されました
+format non pris en charge : attendu .tar[.gz|.xz|.bz2], .tgz, .txz, .zip	未対応の形式です：.tar[.gz, .xz, .bz2]、.tgz、.txz、.zip
+archive invalide : {}	アーカイブが無効です：{}
+archive valide : {} entrée(s) · {}	有効なアーカイブ：エントリ {} 件 ・ {}
+action refusée : {}	操作が拒否されました：{}
+le nom doit se terminer par .service	名前は .service で終わる必要があります
+nom d'unité refusé : {}	ユニット名が拒否されました：{}
+fichier d'unité trop volumineux (64 Kio maximum)	ユニットファイルが大きすぎます（最大 64 KiB）
+ExecStart= manquant ou vide	ExecStart= がないか空です
+unité introuvable : {}	ユニットが見つかりません：{}
+unité installée : {}	ユニットをインストールしました：{}
+pas une unité personnalisée : {}	カスタムユニットではありません：{}
+unité supprimée : {}	ユニットを削除しました：{}
+date de début invalide : AAAA-MM-JJ ou AAAA-MM-JJ HH:MM	開始日が無効です：YYYY-MM-DD または YYYY-MM-DD HH:MM
+date de fin invalide : AAAA-MM-JJ ou AAAA-MM-JJ HH:MM	終了日が無効です：YYYY-MM-DD または YYYY-MM-DD HH:MM
+rien à exporter : lancez d'abord une recherche	エクスポートするものがありません。先に検索を実行してください
+{} × {} ({} récupérables)	{} × {}（{} 回収可能）
+original introuvable : {}	元のファイルが見つかりません：{}
+l'original a changé depuis l'analyse : relancez l'analyse	解析後に元のファイルが変更されました。解析をやり直してください
+refus d'agir sur le processus système (PID ≤ 1)	システムプロセス（PID ≤ 1）には操作しません
+refus d'agir sur l'application elle-même	アプリ自身には操作しません
+le processus {} n'existe plus	プロセス {} は存在しません
+le PID {} désigne maintenant « {} » et non « {} » : actualisez la liste	PID {} は現在「{}」を指しており「{}」ではありません。一覧を更新してください
+refus d'agir sur un thread du noyau	カーネルスレッドには操作しません
+priorité hors limites (-20 à 19) : {}	優先度が範囲外です（-20〜19）：{}
+aucun paquet sélectionné	パッケージが選択されていません
+{} : à jour	{}：最新です
+{} : échec — {}	{}：失敗 — {}
+Snap : à jour	Snap：最新です
+Flatpak : à jour	Flatpak：最新です
+aucune mise à jour à appliquer	適用するアップデートはありません
+chemin introuvable : {}	パスが見つかりません：{}
+chemin refusé (hors de /opt)	パスが拒否されました（/opt の外）
+entrée de bureau hors des dossiers autorisés	許可されたフォルダー外のデスクトップエントリ
+entrée supprimée : {}	エントリを削除しました：{}
+chemin hors du dossier personnel	ホームフォルダー外のパス
+supprimé : {}	削除しました：{}
+Connexion SSH de root	SSH での root ログイン
+Authentification par mot de passe SSH	SSH のパスワード認証
+Serveur SSH absent	SSH サーバーがありません
+Aucun /etc/ssh/sshd_config : rien à vérifier.	/etc/ssh/sshd_config がないため、確認するものはありません。
+Le pare-feu système est démarré.	システムのファイアウォールは起動しています。
+Aucune règle de filtrage n'est appliquée au démarrage.	起動時に適用されるフィルタールールはありません。
+Pare-feu non détecté	ファイアウォールが検出されません
+Ni ufw ni firewalld ne sont installés.	ufw も firewalld もインストールされていません。
+Mises à jour automatiques	自動アップデート
+unattended-upgrades est installé.	unattended-upgrades がインストールされています。
+unattended-upgrades absent : les correctifs de sécurité attendent une action manuelle.	unattended-upgrades がないため、セキュリティ修正は手動操作を待ちます。
+{} binaires avec le bit setuid dans /usr/bin et /usr/sbin.	/usr/bin と /usr/sbin に setuid ビット付きのバイナリが {} 個あります。
+{} sockets TCP/UDP en écoute.	待ち受け中の TCP/UDP ソケットが {} 個あります。
+Activé.	有効。
+Désactivé.	無効。
+Non applicable (démarrage BIOS ou variables EFI illisibles).	該当なし（BIOS 起動、または EFI 変数を読み取れません）。
+Module non monté.	モジュールはマウントされていません。
+Normal	正常
+Utilisée	使用中
+Disponible	利用可能
+Total	合計
+Maintenant	現在
+il y a {} s	{} 秒前
+il y a {} min	{} 分前
+Utilisation du processeur	プロセッサー使用率
+Utilisation de la mémoire	メモリ使用率
+Processus principaux	上位プロセス
+Système sain	システム正常
+Tous les services sont actifs	すべてのサービスが稼働中
+Attention requise	要確認
+Seuils dépassés	しきい値を超過
+{} services en échec	{} 件のサービスが失敗
+{} cœurs	{} コア
+consomme {} % du processeur	プロセッサーの {} % を使用
+outil légitime souvent détourné : vérifiez que vous l'avez bien installé vous-même	正規のツールですが悪用されやすいものです。ご自身でインストールしたものか確認してください
+Processus examinés : {} (exécutable lisible pour {} ; les processus d'autres utilisateurs ne sont jugés que sur leur nom et leur ligne de commande)	調査したプロセス：{}（実行ファイルを読めたもの {}。他のユーザーのプロセスは名前とコマンドラインだけで判断）
+Connexions réseau : {}	ネットワーク接続：{}
+Scripts de démarrage et planifications : {}	起動スクリプトとスケジュール：{}
+Entrées de fichiers parcourues : {} (dossiers temporaires et dossier personnel, profondeur limitée){}	走査したファイル項目：{}（一時フォルダーとホームフォルダー、深さ制限あり）{}
+Vérifié : processus, réseau, persistance, fichiers exécutables/setuid, comptes, outils à double usage.	確認済み：プロセス、ネットワーク、永続化、実行可能/setuid ファイル、アカウント、二重用途ツール。
+Non vérifié : contenu des fichiers (hors scripts de démarrage), mémoire, noyau, firmware.	未確認：ファイルの内容（起動スクリプトを除く）、メモリ、カーネル、ファームウェア。
+Activer zram	zram を有効化
+Activer zram…	zram を有効化…
+Désactiver zram	zram を無効化
+Désactiver zram…	zram を無効化…
+Échange compressé (zram)	圧縮スワップ (zram)
+Le module zram est chargé et systemd-zram-setup@zram0.service démarré : une zone d'échange compressée en RAM sera créée.	zram モジュールを読み込み、systemd-zram-setup@zram0.service を起動します。RAM 上に圧縮スワップ領域が作成されます。
+Le périphérique /dev/zram0 sera retiré et le module déchargé. La mémoire compressée qu'il contient est perdue.	/dev/zram0 を削除し、モジュールをアンロードします。保持している圧縮データは失われます。
+Résolveurs proposés	推奨リゾルバー
+Serveur DNS	DNS サーバー
+Appliquer le DNS…	DNS を適用…
+Hôtes (/etc/hosts)	ホスト (/etc/hosts)
+Nom d'hôte	ホスト名
+Retirer un hôte	ホストを削除
+l'entrée sera retirée de /etc/hosts	この項目は /etc/hosts から削除されます
+RÈGLES DE SEUIL	しきい値ルール
+Aucune règle de seuil.	しきい値ルールはありません。
+Ajouter la règle	ルールを追加
+Notification de bureau	デスクトップ通知
+Les règles sont vérifiées toutes les 30 secondes tant que l'application est ouverte. Une même règle ne notifie qu'une fois par dix minutes.	アプリを開いている間、ルールは30秒ごとに確認されます。同じルールの通知は10分に1回までです。
+MONTER UN PARTAGE À LA DEMANDE	必要時に共有をマウント
+Monter un partage réseau	ネットワーク共有をマウント
+Partage	共有
+Point de montage	マウントポイント
+via Polkit	Polkit 経由
+Le point de montage est créé si nécessaire. Le montage n'est pas ajouté à /etc/fstab.	マウントポイントは必要に応じて作成されます。/etc/fstab には追加されません。
+Alternative	代替
+Chemin du binaire	バイナリのパス
+Définir l'alternative	代替を設定
+{}–{} sur {}	{}–{} / {}
+Précédent	前へ
+Suivant	次へ
